@@ -1,0 +1,17 @@
+{
+  "name": "static-content-cannabis",
+  "version": "2.0.0",
+  "description": "Static site generator for https://headless.cannabis.ca.gov",
+  "main": "index.js",
+  "keywords": [
+    "@cagov",
+    "Office of Data and Innovation",
+    "Department of Cannabis Control"
+  ],
+  "repository": "https://github.com/static-content-cannabis",
+  "author": "Office of Data and Innovation",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
