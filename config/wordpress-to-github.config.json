@@ -9,7 +9,7 @@
     "PostPath": "posts",
     "PagePath": "pages",
     "MediaPath": "media",
-    "GeneralFilePath": "odi-publishing/general/general.json",
+    "GeneralFilePath": "config/general/general.json",
     "ExcludeProperties": ["content", "_links"],
     "ApiRequests": [
       {
