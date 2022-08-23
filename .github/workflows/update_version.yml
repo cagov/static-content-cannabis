@@ -1,31 +1,33 @@
-# https://github.com/marketplace/actions/pull-request-node-version-bumper
-# Bump the version of a node module when a pull request is opened 
-# and when a commit is pushed to a branch a pull request is using as the source branch.
+# https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
 
-name: Update package.json version on pull request
+name: "Bump Version"
 
 on:
-  pull_request:
-    types: [opened, synchronize]
+  push:
+    branches:
+      - "main"
 
 jobs:
-  test:
-    name: Bump Version
+  bump-version:
+    name: "Bump Version on master"
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@master
-      - id: version
-        name: Version Bump
-        uses: mitchellsimoens/gpr-pr-version-bump@v1
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
+      - name: "Checkout source code"
+        uses: "actions/checkout@v2"
+        with:
+          ref: ${{ github.ref }}
+      - name: "cat package.json"
+        run: cat ./package.json
+      - name: "Setup Node.js"
+        uses: "actions/setup-node@v1"
+        with:
+          node-version: 12
+      - name: "Automated Version Bump"
+        uses: "phips28/gh-action-bump-version@master"
+        with:
+          tag-prefix: ''
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ steps.version.outputs.new_version }}
-          release_name: Release ${{ steps.version.outputs.new_version }}
-          prerelease: true
-          
+      - name: "cat package.json"
+        run: cat ./package.json
