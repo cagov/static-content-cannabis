@@ -9,7 +9,7 @@
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/cannabis.ca.gov/tree/main"
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -31,15 +31,12 @@
     "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
-      "_modified_date": "",
-      "_et_pb_use_builder": "",
-      "_et_pb_old_content": "",
-      "_et_gb_content_width": ""
+      "_modified_date": ""
     },
     "categories": [
       766
     ],
-    "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box.jpg'><img width=\"527\" height=\"576\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box-527x576.jpg\" class=\"attachment-medium size-medium\" alt=\"Image of the back of Claybourne Co product packaging\" loading=\"lazy\" srcset=\"https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box-527x576.jpg 527w, https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box-480x525.jpg 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 527px, 100vw\" /></a></p>\n<p>Image of the back of Claybourne Co product packaging, which is being recalled due to Aspergillus contamination</p>\n",
+    "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box.jpg'><img width=\"527\" height=\"576\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box-527x576.jpg\" class=\"attachment-medium size-medium\" alt=\"Image of the back of Claybourne Co product packaging\" loading=\"lazy\" srcset=\"https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box-527x576.jpg 527w, https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box-480x525.jpg 480w, https://api.cannabis.ca.gov/wp-content/uploads/2022/01/Recall-220126-Back-of-Box.jpg 687w\" sizes=\"(max-width: 527px) 100vw, 527px\" /></a></p>\n<p>Image of the back of Claybourne Co product packaging, which is being recalled due to Aspergillus contamination</p>\n",
     "caption": "<p>Image of the back of Claybourne Co product packaging, which is being recalled due to Aspergillus contamination</p>\n",
     "alt_text": "Image of the back of Claybourne Co product packaging",
     "media_type": "image",

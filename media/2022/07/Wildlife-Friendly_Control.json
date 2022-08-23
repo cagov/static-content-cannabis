@@ -9,7 +9,7 @@
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/cannabis.ca.gov/tree/main"
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -30,15 +30,12 @@
     "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
-      "_modified_date": "",
-      "_et_pb_use_builder": "",
-      "_et_pb_old_content": "",
-      "_et_gb_content_width": ""
+      "_modified_date": ""
     },
     "categories": [
       14
     ],
-    "description": "<div style=\"width: 1080px;\" class=\"wp-video\"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->\n<video class=\"wp-video-shortcode\" id=\"video-10087-1\" width=\"1080\" height=\"608\" preload=\"metadata\" controls=\"controls\"><source type=\"video/mp4\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Wildlife-Friendly_Control.mp4?_=1\" /><a href=\"https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Wildlife-Friendly_Control.mp4\">https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Wildlife-Friendly_Control.mp4</a></video></div>\n",
+    "description": "<div style=\"width: 1280px;\" class=\"wp-video\"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->\n<video class=\"wp-video-shortcode\" id=\"video-10087-1\" width=\"1280\" height=\"720\" preload=\"metadata\" controls=\"controls\"><source type=\"video/mp4\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Wildlife-Friendly_Control.mp4?_=1\" /><a href=\"https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Wildlife-Friendly_Control.mp4\">https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Wildlife-Friendly_Control.mp4</a></video></div>\n",
     "caption": "<p>https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Wildlife-Friendly_Control.mp4</p>\n",
     "alt_text": "",
     "media_type": "file",

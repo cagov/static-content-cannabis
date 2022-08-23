@@ -9,7 +9,7 @@
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/cannabis.ca.gov/tree/main"
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -31,10 +31,7 @@
     "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
-      "_modified_date": "",
-      "_et_pb_use_builder": "",
-      "_et_pb_old_content": "",
-      "_et_gb_content_width": ""
+      "_modified_date": ""
     },
     "categories": [],
     "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2021/07/Regulations_Section100_2021-0615-04N.pdf'><img width=\"232\" height=\"300\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2021/07/Regulations_Section100_2021-0615-04N-pdf-232x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n",
