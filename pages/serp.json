@@ -35,10 +35,7 @@
     "template": "page-templates/searchpage.php",
     "meta": {
       "_stopmodifiedupdate": false,
-      "_modified_date": "",
-      "_et_pb_use_builder": "on",
-      "_et_pb_old_content": "",
-      "_et_gb_content_width": ""
+      "_modified_date": ""
     },
     "categories": [],
     "tags": [],
