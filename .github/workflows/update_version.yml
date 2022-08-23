@@ -1,0 +1,22 @@
+# https://github.com/marketplace/actions/pull-request-node-version-bumper
+# Bump the version of a node module when a pull request is opened 
+# and when a commit is pushed to a branch a pull request is using as the source branch.
+
+name: Update package.json version on pull request
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  test:
+    name: Bump Version
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - id: version
+        name: Version Bump
+        uses: mitchellsimoens/gpr-pr-version-bump@v1
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
