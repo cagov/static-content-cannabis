@@ -1,0 +1,16 @@
+name: PR Version Cleanup
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  test:
+    name: Cleanup PR Versions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Delete Releases
+        uses: mitchellsimoens/gpr-pr-version-cleanup@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
