@@ -1,1 +1,1 @@
-# cannabis.ca.gov - Static content repo
+# Static content repo for cannabis.ca.gov

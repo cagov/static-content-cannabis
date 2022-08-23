@@ -6,34 +6,34 @@
   },
   "data": {
     "disabled": false,
-    "PostPath": "src/templates/wordpress/posts",
-    "PagePath": "src/templates/wordpress/pages",
-    "MediaPath": "src/wordpress-media",
+    "PostPath": "posts",
+    "PagePath": "pages",
+    "MediaPath": "media",
     "GeneralFilePath": "odi-publishing/general/general.json",
     "ExcludeProperties": ["content", "_links"],
     "ApiRequests": [
       {
-        "Destination": "src/templates/wordpress/redirects/redirects.json",
+        "Destination": "redirects/redirects.json",
         "Source": "/wp-json/redirection/v1/export-public/1/json",
         "ExcludeProperties": ["plugin"]
       },
       {
-        "Destination": "src/templates/wordpress/menu/headerMenu.json",
+        "Destination": "menu/headerMenu.json",
         "Source": "/wp-json/menus/v1/menus/header-menu",
         "ExcludeProperties": []
       },
       {
-        "Destination": "src/templates/_data/contentMenu.json",
+        "Destination": "menu/contentMenu.json",
         "Source": "/wp-json/menus/v1/menus/content-menu",
         "ExcludeProperties": []
       },
       {
-        "Destination": "src/templates/_data/stateWideFooterMenu.json",
+        "Destination": "menu/stateWideFooterMenu.json",
         "Source": "/wp-json/menus/v1/menus/footer",
         "ExcludeProperties": []
       },
       {
-        "Destination": "src/templates/_data/socialMediaLinksMenu.json",
+        "Destination": "menu/socialMediaLinksMenu.json",
         "Source": "/wp-json/menus/v1/menus/social-media-links-menu",
         "ExcludeProperties": []
       }
