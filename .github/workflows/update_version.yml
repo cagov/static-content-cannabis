@@ -1,15 +1,15 @@
 # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
 
-name: "Bump Version"
+name: Bump Version
 
 on:
   push:
     branches:
-      - "main"
+      - main
 
 jobs:
   bump-version:
-    name: "Bump Version on master"
+    name: Bump Version on main branch
     runs-on: ubuntu-latest
 
     steps:
