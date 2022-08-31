@@ -37,4 +37,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.ODI_GITHUB_TOKEN }}
+          repository: cagov/cannabis.ca.gov
           event-type: static_content_update
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}
