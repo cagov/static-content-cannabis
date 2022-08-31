@@ -33,12 +33,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "cat package.json"
         run: cat ./package.json
-      - name: Ping cannabis.ca.gov
-            uses: fjogeleit/http-request-action@v1
-            with:
-              url: 'https://api.github.com/repos/cagov/cannabis.ca.gov/dispatches'
-              method: 'POST'
-              username: ${{ secrets.ODI_GITHUB_USER }}
-              token: ${{ secrets.ODI_GITHUB_TOKEN }}
-              customHeaders: '{"Content-Type": "application/json"}'
-              data: '{"event-type": "static-content-update"}'
+      - name: Repository dispatch to cannabis.ca.gov
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.ODI_GITHUB_TOKEN }}
+          event-type: static_content_update
