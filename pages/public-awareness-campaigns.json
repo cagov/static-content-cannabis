@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-13T20:12:48",
-    "updated_date": "2022-09-14T01:12:16",
+    "updated_date": "2022-09-14T01:12:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2022-09-13T13:12:48",
     "date_gmt": "2022-09-13T20:12:48",
     "guid": "https://cannabis.ca.gov/?page_id=11110",
-    "modified": "2022-09-13T18:12:16",
-    "modified_gmt": "2022-09-14T01:12:16",
+    "modified": "2022-09-13T18:12:38",
+    "modified_gmt": "2022-09-14T01:12:38",
     "slug": "public-awareness-campaigns",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/",
     "title": "REVIEW Public awareness campaigns",
-    "excerpt": "",
+    "excerpt": "<p>The Department of Cannabis Control has two public awareness campaigns to: Educate consumers about buying from licensed retailers Encourage unlicensed businesses to get licensed Promote California’s legal cannabis market</p>\n",
     "author": "Department of Cannabis Control",
     "featured_media": 0,
     "parent": 856,
@@ -86,6 +86,47 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/"
+    "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/",
+    "media": [
+      {
+        "id": 11113,
+        "type": "medium",
+        "path": "2022/08/CANNA-CONNECT-Banner-576x302.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/08/CANNA-CONNECT-Banner-576x302.jpg",
+        "file": "CANNA-CONNECT-Banner-576x302.jpg",
+        "width": 576,
+        "height": 302,
+        "mime_type": "image/jpeg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/08/CANNA-CONNECT-Banner-576x302.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 10763,
+        "type": "medium",
+        "path": "2022/07/D_B5Fmpo-576x302.png",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/D_B5Fmpo-576x302.png",
+        "file": "D_B5Fmpo-576x302.png",
+        "width": 576,
+        "height": 302,
+        "mime_type": "image/png",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/D_B5Fmpo-576x302.png",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 10863,
+        "type": "medium",
+        "path": "2022/07/weedwise_billboard-1-1-576x288.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/weedwise_billboard-1-1-576x288.jpg",
+        "file": "weedwise_billboard-1-1-576x288.jpg",
+        "width": 576,
+        "height": 288,
+        "mime_type": "image/jpeg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/weedwise_billboard-1-1-576x288.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
