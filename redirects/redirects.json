@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 37,
+      "redirects": 39,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -926,6 +926,32 @@
       "group_id": 1,
       "position": 38,
       "last_access": "November 15, 2021",
+      "enabled": true
+    },
+    {
+      "id": 212,
+      "url": "/about-us/public-awareness-campaigns/this-is-california-cannabis-staged/",
+      "match_url": "/about-us/public-awareness-campaigns/this-is-california-cannabis-staged",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns/this-is-california-cannabis/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 38,
+      "last_access": "-",
       "enabled": true
     }
   ]
