@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-13T20:13:02",
-    "updated_date": "2022-09-20T20:45:28",
+    "updated_date": "2022-09-20T21:16:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2022-09-13T13:13:02",
     "date_gmt": "2022-09-13T20:13:02",
     "guid": "https://cannabis.ca.gov/?page_id=11107",
-    "modified": "2022-09-20T13:45:28",
-    "modified_gmt": "2022-09-20T20:45:28",
+    "modified": "2022-09-20T14:16:10",
+    "modified_gmt": "2022-09-20T21:16:10",
     "slug": "this-is-california-cannabis",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/",
     "title": "This is California Cannabis",
-    "excerpt": "<p>This campaign features vibrant and compelling videos, photographs, and other materials that tell the stories of our licensees and explain the benefits of the legal cannabis industry. Learn more about the hard-working licensees driving innovation and creating a safe, sustainable, and equitable cannabis market. Interested in using these digital ads, 30-second public-service radio announcements, billboard [&hellip;]</p>\n",
+    "excerpt": "",
     "author": "Department of Cannabis Control",
     "featured_media": 11137,
     "parent": 700,
@@ -38,9 +38,7 @@
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
     },
@@ -71,62 +69,11 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/",
     "media": [
-      {
-        "id": 11123,
-        "type": "thumbnail",
-        "path": "2022/07/20.01_CalCannabis_Huckleberry_Photo_0776-1-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/20.01_CalCannabis_Huckleberry_Photo_0776-1-376x376.jpg",
-        "file": "20.01_CalCannabis_Huckleberry_Photo_0776-1-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/20.01_CalCannabis_Huckleberry_Photo_0776-1-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11124,
-        "type": "thumbnail",
-        "path": "2022/07/20.01_CalCannabis_Connected_Photo_0340_WB-scaled-2-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/20.01_CalCannabis_Connected_Photo_0340_WB-scaled-2-376x376.jpg",
-        "file": "20.01_CalCannabis_Connected_Photo_0340_WB-scaled-2-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/20.01_CalCannabis_Connected_Photo_0340_WB-scaled-2-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11125,
-        "type": "thumbnail",
-        "path": "2022/07/20.01_CalCannabis_CaliCan_Photo_0653-1-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/20.01_CalCannabis_CaliCan_Photo_0653-1-376x376.jpg",
-        "file": "20.01_CalCannabis_CaliCan_Photo_0653-1-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/20.01_CalCannabis_CaliCan_Photo_0653-1-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
       {
         "id": 11137,
         "type": "full",
@@ -137,7 +84,7 @@
         "height": 962,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -150,7 +97,7 @@
         "height": 770,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-1536x770.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -163,7 +110,7 @@
         "height": 641,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-1280x641.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -189,7 +136,7 @@
         "height": 541,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-1080x541.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -202,7 +149,7 @@
         "height": 513,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-1024x513.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -215,7 +162,7 @@
         "height": 491,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-980x491.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -228,7 +175,7 @@
         "height": 385,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-768x385.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -241,7 +188,7 @@
         "height": 289,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-576x289.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -267,7 +214,7 @@
         "height": 241,
         "mime_type": "image/jpeg",
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-480x241.jpg",
-        "source_url_match": true,
+        "source_url_match": false,
         "featured": true
       },
       {
@@ -321,175 +268,6 @@
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/2021_DCC_Webpage-1-376x376.jpg",
         "source_url_match": false,
         "featured": true
-      },
-      {
-        "id": 11144,
-        "type": "thumbnail",
-        "path": "2022/07/barron_lutz-1-376x376.png",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/barron_lutz-1-376x376.png",
-        "file": "barron_lutz-1-376x376.png",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/png",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/barron_lutz-1-376x376.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11150,
-        "type": "thumbnail",
-        "path": "2022/07/betty_mitchell-1-376x376.png",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/betty_mitchell-1-376x376.png",
-        "file": "betty_mitchell-1-376x376.png",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/png",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/betty_mitchell-1-376x376.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11139,
-        "type": "thumbnail",
-        "path": "2022/07/big_kika-1-376x376.png",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/big_kika-1-376x376.png",
-        "file": "big_kika-1-376x376.png",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/png",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/big_kika-1-376x376.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11143,
-        "type": "thumbnail",
-        "path": "2022/07/kimberly_cargile-1-376x376.png",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/kimberly_cargile-1-376x376.png",
-        "file": "kimberly_cargile-1-376x376.png",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/png",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/kimberly_cargile-1-376x376.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 9764,
-        "type": "thumbnail",
-        "path": "2022/05/matulich-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/05/matulich-376x376.jpg",
-        "file": "matulich-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/05/matulich-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11128,
-        "type": "thumbnail",
-        "path": "2022/07/photo_Ball-1-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/photo_Ball-1-376x376.jpg",
-        "file": "photo_Ball-1-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/photo_Ball-1-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11134,
-        "type": "thumbnail",
-        "path": "2022/07/photo_DiPaci-1-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/photo_DiPaci-1-376x376.jpg",
-        "file": "photo_DiPaci-1-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/photo_DiPaci-1-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11127,
-        "type": "thumbnail",
-        "path": "2022/07/photo_Farrar-1-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/photo_Farrar-1-376x376.jpg",
-        "file": "photo_Farrar-1-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/photo_Farrar-1-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11152,
-        "type": "thumbnail",
-        "path": "2022/07/swami_nikki-1-376x376.png",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/swami_nikki-1-376x376.png",
-        "file": "swami_nikki-1-376x376.png",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/png",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/swami_nikki-1-376x376.png",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11228,
-        "type": "thumbnail",
-        "path": "2022/08/video_thumb_cc_ep-1-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/08/video_thumb_cc_ep-1-376x376.jpg",
-        "file": "video_thumb_cc_ep-1-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/08/video_thumb_cc_ep-1-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11177,
-        "type": "thumbnail",
-        "path": "2022/07/video_thumb_cc_ep-2-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/video_thumb_cc_ep-2-376x376.jpg",
-        "file": "video_thumb_cc_ep-2-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/video_thumb_cc_ep-2-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11175,
-        "type": "thumbnail",
-        "path": "2022/07/video_thumb_cc_ep-4-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/video_thumb_cc_ep-4-376x376.jpg",
-        "file": "video_thumb_cc_ep-4-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/video_thumb_cc_ep-4-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 11136,
-        "type": "thumbnail",
-        "path": "2022/07/Zt03NzVI-scaled-2-376x376.jpeg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Zt03NzVI-scaled-2-376x376.jpeg",
-        "file": "Zt03NzVI-scaled-2-376x376.jpeg",
-        "width": 376,
-        "height": 376,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/07/Zt03NzVI-scaled-2-376x376.jpeg",
-        "source_url_match": true,
-        "featured": false
       }
     ]
   }
