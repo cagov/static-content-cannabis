@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 35,
+      "redirects": 37,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -825,32 +825,6 @@
       "enabled": true
     },
     {
-      "id": 207,
-      "url": "/about-us/public-awareness-campaigns/",
-      "match_url": "/about-us/public-awareness-campaigns",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/about-us/public-awareness-campaigns-2/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 34,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
       "id": 196,
       "url": "/tax-permits",
       "match_url": "/tax-permits",
@@ -900,6 +874,32 @@
       "group_id": 1,
       "position": 36,
       "last_access": "November 15, 2021",
+      "enabled": true
+    },
+    {
+      "id": 210,
+      "url": "/about-us/public-awareness-campaigns-2/",
+      "match_url": "/about-us/public-awareness-campaigns-2",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 36,
+      "last_access": "-",
       "enabled": true
     },
     {
