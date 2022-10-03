@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-26T14:01:48",
-    "updated_date": "2022-10-03T00:22:51",
+    "updated_date": "2022-10-03T03:00:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2022-05-26T07:01:48",
     "date_gmt": "2022-05-26T14:01:48",
     "guid": "https://cannabis.ca.gov/?page_id=9654",
-    "modified": "2022-10-02T17:22:51",
-    "modified_gmt": "2022-10-03T00:22:51",
+    "modified": "2022-10-02T20:00:13",
+    "modified_gmt": "2022-10-03T03:00:13",
     "slug": "where-cannabis-businesses-are-allowed",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/consumers/where-cannabis-businesses-are-allowed/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/where-cannabis-businesses-are-allowed/",
     "title": "Where cannabis businesses are allowed",
     "excerpt": "<p>Find what types of cannabis businesses are allowed in your city or county.</p>\n",
     "author": "Department of Cannabis Control",
     "featured_media": 0,
-    "parent": 757,
+    "parent": 9438,
     "menu_order": 2,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -53,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/consumers/where-cannabis-businesses-are-allowed/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/where-cannabis-businesses-are-allowed/",
       "page_title": "Where cannabis businesses are allowed",
       "page_description": "Find what types of cannabis businesses are allowed in your city or county.",
       "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2022/05/Data_Viz_Graphic-2.jpg",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Where cannabis businesses are allowed",
       "meta_description": "Find what types of cannabis businesses are allowed in your city or county.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/consumers/where-cannabis-businesses-are-allowed/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/where-cannabis-businesses-are-allowed/",
       "open_graph_title": "Where cannabis businesses are allowed",
       "open_graph_description": "Find what types of cannabis businesses are allowed in your city or county.",
       "twitter_title": "Where cannabis businesses are allowed",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/consumers/where-cannabis-businesses-are-allowed/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/where-cannabis-businesses-are-allowed/"
   }
 }
