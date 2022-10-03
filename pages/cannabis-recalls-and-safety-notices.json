@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-26T16:54:19",
-    "updated_date": "2022-08-16T16:56:18",
+    "updated_date": "2022-10-02T23:50:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,21 +18,21 @@
     "date": "2022-01-26T08:54:19",
     "date_gmt": "2022-01-26T16:54:19",
     "guid": "https://cannabis.ca.gov/?page_id=9345",
-    "modified": "2022-08-16T09:56:18",
-    "modified_gmt": "2022-08-16T16:56:18",
+    "modified": "2022-10-02T16:50:54",
+    "modified_gmt": "2022-10-02T23:50:54",
     "slug": "cannabis-recalls-and-safety-notices",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/",
     "title": "Cannabis recalls and safety notices",
     "excerpt": "<p>Recalls are used to remove defective or&nbsp;potentially&nbsp;unsafe&nbsp;products from the market.&nbsp;There are two types of recalls:&nbsp; Voluntary recalls Mandatory recalls Voluntary recalls are conducted by the cannabis business. Mandatory recalls are ordered by the Department of Cannabis Control (DCC). Mandatory recalls DCC can order a mandatory recall when:&nbsp;&nbsp; There is an immediate and serious threat to [&hellip;]</p>\n",
-    "author": "Liz Nobriga",
+    "author": "Department of Cannabis Control",
     "featured_media": 0,
     "parent": 759,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
