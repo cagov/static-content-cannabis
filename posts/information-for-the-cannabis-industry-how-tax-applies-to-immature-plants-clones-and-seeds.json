@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-06-26T15:51:00",
-    "updated_date": "2022-08-16T16:57:08",
+    "updated_date": "2022-10-02T23:49:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-06-26T15:51:00",
     "date_gmt": "2018-06-26T15:51:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/information-for-the-cannabis-industry-how-tax-applies-to-immature-plants-clones-and-seeds/",
-    "modified": "2022-08-16T09:57:08",
-    "modified_gmt": "2022-08-16T16:57:08",
+    "modified": "2022-10-02T16:49:39",
+    "modified_gmt": "2022-10-02T23:49:39",
     "slug": "information-for-the-cannabis-industry-how-tax-applies-to-immature-plants-clones-and-seeds",
     "status": "publish",
     "type": "post",

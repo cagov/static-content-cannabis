@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-01-27T18:54:00",
-    "updated_date": "2022-08-16T16:58:28",
+    "updated_date": "2022-10-02T23:48:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2020-01-27T18:54:00",
     "date_gmt": "2020-01-27T18:54:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/dangerous-vaping-products-seized-from-unlicensed-cannabis-shops-during-major-enforcement-operation/",
-    "modified": "2022-08-16T09:58:28",
-    "modified_gmt": "2022-08-16T16:58:28",
+    "modified": "2022-10-02T16:48:27",
+    "modified_gmt": "2022-10-02T23:48:27",
     "slug": "dangerous-vaping-products-seized-from-unlicensed-cannabis-shops-during-major-enforcement-operation",
     "status": "publish",
     "type": "post",

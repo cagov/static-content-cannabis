@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-11-15T01:26:00",
-    "updated_date": "2022-08-16T16:57:06",
+    "updated_date": "2022-10-02T23:47:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-11-15T01:26:00",
     "date_gmt": "2018-11-15T01:26:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/water-boards-cannabis-cultivation-enrollment-workshop/",
-    "modified": "2022-08-16T09:57:06",
-    "modified_gmt": "2022-08-16T16:57:06",
+    "modified": "2022-10-02T16:47:33",
+    "modified_gmt": "2022-10-02T23:47:33",
     "slug": "water-boards-cannabis-cultivation-enrollment-workshop",
     "status": "publish",
     "type": "post",

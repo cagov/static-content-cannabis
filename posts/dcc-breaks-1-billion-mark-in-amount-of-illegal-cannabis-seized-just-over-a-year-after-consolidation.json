@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "created_date": "2022-08-25T17:02:03",
+    "updated_date": "2022-10-02T23:47:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/11618",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 11618,
+    "date": "2022-08-25T10:02:03",
+    "date_gmt": "2022-08-25T17:02:03",
+    "guid": "https://cannabis.ca.gov/?p=11364",
+    "modified": "2022-10-02T16:47:23",
+    "modified_gmt": "2022-10-02T23:47:23",
+    "slug": "dcc-breaks-1-billion-mark-in-amount-of-illegal-cannabis-seized-just-over-a-year-after-consolidation",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2022/08/dcc-breaks-1-billion-mark-in-amount-of-illegal-cannabis-seized-just-over-a-year-after-consolidation/",
+    "title": "DCC breaks $1 billion mark in amount of illegal cannabis seized just over a year after consolidation",
+    "excerpt": "<p>Good afternoon,&nbsp; Recent enforcement activities in Los Angeles and Riverside Counties have officially pushed the Department of Cannabis Control over the $1 billion mark for illegal cannabis seized from illicit operations.&nbsp;&nbsp; This important milestone was reached through close collaboration with local, state, and federal partners and furthers California’s efforts to go after activities that harm [&hellip;]</p>\n",
+    "author": "Wes Breazell",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Announcements"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2022/08/dcc-breaks-1-billion-mark-in-amount-of-illegal-cannabis-seized-just-over-a-year-after-consolidation/",
+      "page_title": "DCC breaks $1 billion mark in amount of illegal cannabis seized just over a year after consolidation",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "DCC breaks $1 billion mark in amount of illegal cannabis seized just over a year after consolidation",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/08/dcc-breaks-1-billion-mark-in-amount-of-illegal-cannabis-seized-just-over-a-year-after-consolidation/",
+      "open_graph_title": "DCC breaks $1 billion mark in amount of illegal cannabis seized just over a year after consolidation",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "DCC breaks $1 billion mark in amount of illegal cannabis seized just over a year after consolidation",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2022/08/dcc-breaks-1-billion-mark-in-amount-of-illegal-cannabis-seized-just-over-a-year-after-consolidation/"
+  }
+}
