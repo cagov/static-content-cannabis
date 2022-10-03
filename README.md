@@ -45,9 +45,9 @@ When posts, pages or media are added, updated or deleted a WordPress Notificatio
   * [Endpoint configurations](https://github.com/cagov/cannabis-ca-gov-lambda-sync-github/blob/main/src/shared/config/endpoints.json)
 * Once content is written into this git repo, a series of GitHub workflow actions will run. 
 
-### 3. Update static site. 
+### 3. Update static site
 
-Check [@cagov/cannabis.ca.gov](https://github.com/cagov/cannabis.ca.gov/readme.md) for more information on the static build workflows [`main`](./github/workflows/update_package_version_main.yml), [`staging`](./github/workflows/update_package_version_staging.yml)
+Check [@cagov/cannabis.ca.gov](https://github.com/cagov/cannabis.ca.gov/readme.md) for more information on the static build workflows [`main`](./.github/workflows/update_package_version_main.yml), [`staging`](./.github/workflows/update_package_version_staging.yml)
 
 ### 4. Publish
 The GitHub Actions workflows in @cagov/cannabis.ca.gov will update an AWS S3 bucket, clear the AWS CloudFront cache and update the deployment.
