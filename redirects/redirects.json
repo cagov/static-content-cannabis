@@ -3,13 +3,29 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 39,
+      "redirects": 45,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
     },
     {
       "id": 2,
+      "name": "Modified Posts",
+      "redirects": 0,
+      "module_id": 1,
+      "moduleName": "WordPress",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "name": "Redirections",
+      "redirects": 22,
+      "module_id": 1,
+      "moduleName": "WordPress",
+      "enabled": true
+    },
+    {
+      "id": 4,
       "name": "Modified Posts",
       "redirects": 0,
       "module_id": 1,
@@ -227,6 +243,32 @@
       "enabled": true
     },
     {
+      "id": 243,
+      "url": "/cannabis-legislation",
+      "match_url": "/cannabis-legislation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/laws-and-regulations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 62,
+      "regex": false,
+      "group_id": 3,
+      "position": 7,
+      "last_access": "November 11, 2021",
+      "enabled": true
+    },
+    {
       "id": 169,
       "url": "/cannabis-regulations",
       "match_url": "/cannabis-regulations",
@@ -248,6 +290,32 @@
       "hits": 375,
       "regex": false,
       "group_id": 1,
+      "position": 8,
+      "last_access": "November 15, 2021",
+      "enabled": true
+    },
+    {
+      "id": 244,
+      "url": "/cannabis-regulations",
+      "match_url": "/cannabis-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/rulemaking/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 375,
+      "regex": false,
+      "group_id": 3,
       "position": 8,
       "last_access": "November 15, 2021",
       "enabled": true
@@ -279,6 +347,32 @@
       "enabled": true
     },
     {
+      "id": 245,
+      "url": "/career-opportunities",
+      "match_url": "/career-opportunities",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/about-dcc/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 9,
+      "regex": false,
+      "group_id": 3,
+      "position": 9,
+      "last_access": "October 21, 2021",
+      "enabled": true
+    },
+    {
       "id": 172,
       "url": "/conditions",
       "match_url": "/conditions",
@@ -305,7 +399,7 @@
       "enabled": true
     },
     {
-      "id": 173,
+      "id": 247,
       "url": "/consumers",
       "match_url": "/consumers",
       "match_data": {
@@ -325,7 +419,7 @@
       "title": "",
       "hits": 54,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 12,
       "last_access": "November 13, 2021",
       "enabled": true
@@ -461,7 +555,7 @@
       "enabled": true
     },
     {
-      "id": 182,
+      "id": 253,
       "url": "/licensing",
       "match_url": "/licensing",
       "match_data": {
@@ -481,7 +575,7 @@
       "title": "",
       "hits": 246,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 21,
       "last_access": "November 15, 2021",
       "enabled": true
@@ -539,7 +633,7 @@
       "enabled": true
     },
     {
-      "id": 187,
+      "id": 256,
       "url": "/meetings-events",
       "match_url": "/meetings-events",
       "match_data": {
@@ -559,13 +653,13 @@
       "title": "",
       "hits": 172,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 26,
       "last_access": "November 15, 2021",
       "enabled": true
     },
     {
-      "id": 188,
+      "id": 257,
       "url": "/motor-carrier-permits",
       "match_url": "/motor-carrier-permits",
       "match_data": {
@@ -585,13 +679,13 @@
       "title": "",
       "hits": 428,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 27,
       "last_access": "November 15, 2021",
       "enabled": true
     },
     {
-      "id": 189,
+      "id": 258,
       "url": "/news",
       "match_url": "/news",
       "match_data": {
@@ -611,13 +705,13 @@
       "title": "",
       "hits": 4411,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 28,
       "last_access": "November 15, 2021",
       "enabled": true
     },
     {
-      "id": 200,
+      "id": 264,
       "url": "/contact-us",
       "match_url": "/contact-us",
       "match_data": {
@@ -637,13 +731,13 @@
       "title": "",
       "hits": 1269,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 28,
       "last_access": "November 15, 2021",
       "enabled": true
     },
     {
-      "id": 201,
+      "id": 265,
       "url": "/how-regulations-are-made/",
       "match_url": "/how-regulations-are-made",
       "match_data": {
@@ -663,35 +757,9 @@
       "title": "",
       "hits": 0,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 29,
       "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 191,
-      "url": "/privacy",
-      "match_url": "/privacy",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": true,
-          "flag_trailing": true,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "https://www.ca.gov/privacy/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 336,
-      "regex": false,
-      "group_id": 1,
-      "position": 30,
-      "last_access": "November 15, 2021",
       "enabled": true
     },
     {
@@ -721,7 +789,59 @@
       "enabled": true
     },
     {
-      "id": 204,
+      "id": 259,
+      "url": "/privacy",
+      "match_url": "/privacy",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "https://www.ca.gov/privacy/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 336,
+      "regex": false,
+      "group_id": 3,
+      "position": 30,
+      "last_access": "November 15, 2021",
+      "enabled": true
+    },
+    {
+      "id": 266,
+      "url": "/cannaconnect",
+      "match_url": "/cannaconnect",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cannaconnect-compliance-hub/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 3,
+      "position": 30,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 267,
       "url": "/licensees/compliance-with-state-law/",
       "match_url": "/licensees/compliance-with-state-law",
       "match_data": {
@@ -741,13 +861,13 @@
       "title": "",
       "hits": 0,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 31,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 205,
+      "id": 268,
       "url": "/resources/rulemaking/",
       "match_url": "/resources/rulemaking",
       "match_data": {
@@ -767,13 +887,13 @@
       "title": "",
       "hits": 0,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 32,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 194,
+      "id": 260,
       "url": "/resources",
       "match_url": "/resources",
       "match_data": {
@@ -793,13 +913,13 @@
       "title": "",
       "hits": 1498,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 33,
       "last_access": "November 15, 2021",
       "enabled": true
     },
     {
-      "id": 206,
+      "id": 269,
       "url": "/resources/laws-and-regulations/",
       "match_url": "/resources/laws-and-regulations",
       "match_data": {
@@ -819,8 +939,34 @@
       "title": "",
       "hits": 0,
       "regex": false,
-      "group_id": 1,
+      "group_id": 3,
       "position": 33,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 270,
+      "url": "/about-us/public-awareness-campaigns/",
+      "match_url": "/about-us/public-awareness-campaigns",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 3,
+      "position": 34,
       "last_access": "-",
       "enabled": true
     },
@@ -848,6 +994,30 @@
       "group_id": 1,
       "position": 35,
       "last_access": "November 15, 2021",
+      "enabled": true
+    },
+    {
+      "id": 271,
+      "url": "/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/cagov-design-system/blocks/accordion/css/index.css",
+      "match_url": "/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/cagov-design-system/blocks/accordion/css/index.css",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 0,
+      "action_type": "nothing",
+      "action_data": null,
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 3,
+      "position": 35,
+      "last_access": "-",
       "enabled": true
     },
     {
@@ -903,6 +1073,58 @@
       "enabled": true
     },
     {
+      "id": 272,
+      "url": "/licensee-profile/",
+      "match_url": "/licensee-profile",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensee-profile-moussalli/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 3,
+      "position": 36,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 273,
+      "url": "/draft-legislative-reports/",
+      "match_url": "/draft-legislative-reports",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws-legislative-reports/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 3,
+      "position": 37,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 199,
       "url": "/track-and-trace-system",
       "match_url": "/track-and-trace-system",
@@ -929,9 +1151,9 @@
       "enabled": true
     },
     {
-      "id": 212,
-      "url": "/about-us/public-awareness-campaigns/this-is-california-cannabis-staged/",
-      "match_url": "/about-us/public-awareness-campaigns/this-is-california-cannabis-staged",
+      "id": 274,
+      "url": "/cannabis-laws-legislative-reports/",
+      "match_url": "/cannabis-laws-legislative-reports",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -943,14 +1165,612 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/about-us/public-awareness-campaigns/this-is-california-cannabis/"
+        "url": "/about-us-legislative-reports/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 3,
+      "position": 38,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 213,
+      "url": "/applicants/equity-fee-waivers/apply-for-an-equity-fee-waiver/",
+      "match_url": "/applicants/equity-fee-waivers/apply-for-an-equity-fee-waiver",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/apply-for-an-equity-fee-waiver/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 38,
+      "position": 39,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 275,
+      "url": "/about-us-legislative-reports/",
+      "match_url": "/about-us-legislative-reports",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/legislative-reports/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 3,
+      "position": 39,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 214,
+      "url": "/cannabis-laws/laws-and-regulations/",
+      "match_url": "/cannabis-laws/laws-and-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/consumers/laws-and-regulations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 40,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 215,
+      "url": "/cannabis-laws/where-cannabis-businesses-are-allowed/",
+      "match_url": "/cannabis-laws/where-cannabis-businesses-are-allowed",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/consumers/where-cannabis-businesses-are-allowed/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 41,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 216,
+      "url": "/cannabis-laws/dcc-regulations/",
+      "match_url": "/cannabis-laws/dcc-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/consumers/dcc-regulations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 42,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 217,
+      "url": "/cannabis-laws/how-regulations-are-made/",
+      "match_url": "/cannabis-laws/how-regulations-are-made",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/consumers/how-regulations-are-made/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 43,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 218,
+      "url": "/cannabis-laws/rulemaking/",
+      "match_url": "/cannabis-laws/rulemaking",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/consumers/rulemaking/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 44,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 276,
+      "url": "/social-media-materials/",
+      "match_url": "/social-media-materials",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/social-media-materials/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 44,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 219,
+      "url": "/cannabis-laws/compliance-with-state-law/",
+      "match_url": "/cannabis-laws/compliance-with-state-law",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/consumers/compliance-with-state-law/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 45,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 221,
+      "url": "/licensee-profile-glasse/",
+      "match_url": "/licensee-profile-glasse",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-glasse/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 47,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 223,
+      "url": "/licensee-profile-farrar/",
+      "match_url": "/licensee-profile-farrar",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-farrar/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 49,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 224,
+      "url": "/licensee-profile-abarca/",
+      "match_url": "/licensee-profile-abarca",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-abarca/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 50,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 225,
+      "url": "/licensee-profile-ingram/",
+      "match_url": "/licensee-profile-ingram",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-ingram/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 51,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 226,
+      "url": "/licensee-profile-matulich/",
+      "match_url": "/licensee-profile-matulich",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-matulich/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 52,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 227,
+      "url": "/licensee-profile-moussalli/",
+      "match_url": "/licensee-profile-moussalli",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-moussalli/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 53,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 228,
+      "url": "/licensee-profile-hua/",
+      "match_url": "/licensee-profile-hua",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-hua/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 54,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 229,
+      "url": "/licensee-profile-donaldson/",
+      "match_url": "/licensee-profile-donaldson",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-donaldson/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 55,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 230,
+      "url": "/licensee-profile-swami/",
+      "match_url": "/licensee-profile-swami",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-swami/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 56,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 231,
+      "url": "/licensee-profile-cargile/",
+      "match_url": "/licensee-profile-cargile",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-cargile/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 57,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 232,
+      "url": "/licensee-profile-mitchell/",
+      "match_url": "/licensee-profile-mitchell",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-mitchell/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 58,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 233,
+      "url": "/licensee-profile-lutz/",
+      "match_url": "/licensee-profile-lutz",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-lutz/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 59,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 234,
+      "url": "/licensee-profile-keith/",
+      "match_url": "/licensee-profile-keith",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-keith/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 60,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 235,
+      "url": "/serp/",
+      "match_url": "/serp",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/search/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 61,
       "last_access": "-",
       "enabled": true
     }
