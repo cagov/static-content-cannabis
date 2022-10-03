@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2022-10-03T00:23:16",
+    "updated_date": "2022-10-03T02:59:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/resources/rulemaking/",
-    "modified": "2022-10-02T17:23:16",
-    "modified_gmt": "2022-10-03T00:23:16",
+    "modified": "2022-10-02T19:59:44",
+    "modified_gmt": "2022-10-03T02:59:44",
     "slug": "rulemaking",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/consumers/rulemaking/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/",
     "title": "Rulemaking",
     "excerpt": "<p>Learn about how regulations are made in California.</p>\n",
     "author": "Department of Cannabis Control",
     "featured_media": 0,
-    "parent": 757,
+    "parent": 9438,
     "menu_order": 5,
     "comment_status": "open",
     "ping_status": "open",
@@ -53,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/consumers/rulemaking/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/",
       "page_title": "Rulemaking",
       "page_description": "Learn about how regulations are made in California.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Rulemaking",
       "meta_description": "Learn about how regulations are made in California.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/consumers/rulemaking/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/",
       "open_graph_title": "Rulemaking",
       "open_graph_description": "Learn about how regulations are made in California.",
       "twitter_title": "Rulemaking",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/consumers/rulemaking/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/"
   }
 }
