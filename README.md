@@ -2,22 +2,9 @@
 
 This is a content repository for https://headless.cannabis.ca.gov.
 
-We load this content package as a bundle in our 11ty static site generator, located at @cagov/cannabis.ca.gov.
+We load this content package as a bundle in our 11ty static site generator, located at @cagov/cannabis.ca.gov, and loaded in package.json, versioned in package-lock.json.
 
 This separation allows us to keep our content separated from our 11ty renderer, without needing to write content directly into a multi-branched front-end development repo. 
-
-## System diagram
-<img src="./system-diagram.png" width="100%" alt="Diagram of how the content publishing pipeline connects" />
-
-## How it works
-* Content is created and edited in WordPress at api.cannabis.ca.gov
-* When posts, pages or media are added, updated or deleted a WordPress Notifications plugin will sent a webhook request to our AWS Lambda function.
-* The function as a service (FaaS) AWS Lambda function is located at: https://github.com/cagov/cannabis-ca-gov-lambda-sync-github. 
-  * This is an @architect arc.codes configuration. This is a framework for generating AWS CloudFormation configurations. 
-  * This allows us to easily version our build settings. That code is manually updated by a developer with necessary access tokens.
-* A POST request to the AWS Lambda endpoint will run the wordpress-to-github scripts. This codebase is currently using a local version of @cagov/wordpress-to-github while we perform some upgrades.
-* This will run through a series of REST API endpoints and sync them to a target branch in github. * We are currently using these branches `main`, `staging` and `main-reduced-content` (debugging).
-* Once content is written into the git repo, a series of GitHub workflow actions will run. Check @cagov/cannabis.ca.gov for more information.
 
 ## Publishing hints
 ### Preview link 
@@ -30,7 +17,43 @@ This separation allows us to keep our content separated from our 11ty renderer, 
 #### Unpublished content
 * Use the Enable Public Preview to generate a link that will expire in one week. This page will not be available on the production site.
 
-### Time to update
+---
+## Technical notes
+
+### System diagram
+<img src="./system-diagram.png" width="100%" alt="Diagram of how the content publishing pipeline connects" />
+
+## How this middleware package works
+This build process takes 3-5 minutes.
+Note: Tests are currently disabled while we update our QA process. Our test suites usually take 2-3 minutes to run.
+
+
+### 1. Edit
+* Content is created and edited in WordPress at api.cannabis.ca.gov
+
+### 2. Sync WordPress REST API to GitHUB
+
+When posts, pages or media are added, updated or deleted a WordPress Notifications plugin will sent a webhook request to our AWS Lambda function-as-a-service (FaaS, or a microservice.)
+
+* The function as a service (FaaS) AWS Lambda function is located at [@cagov/cannabis-ca-gov-lambda-sync-github](https://github.com/cagov/cannabis-ca-gov-lambda-sync-github)
+  * This is an [arc.codes](https://arc.codes/docs/en/get-started/quickstart) configuration. Arc.codes provides a  framework for generating AWS CloudFormation configurations. 
+  * This allows easy versioning of AWS settings. 
+  * This code is manually updated by a developer with necessary access tokens.
+* A POST request to the AWS Lambda endpoint will run the wordpress-to-github scripts. 
+  * This codebase is currently using a local version of @cagov/wordpress-to-github while we perform some upgrades.
+* This will run through a series of REST API endpoints and sync them to a target branch in github. * We are currently using these branches `main`, `staging` and `main-reduced-content` (debugging).
+  * [Endpoint configurations](https://github.com/cagov/cannabis-ca-gov-lambda-sync-github/blob/main/src/shared/config/endpoints.json)
+* Once content is written into this git repo, a series of GitHub workflow actions will run. 
+
+### 3. Update static site. 
+
+Check [@cagov/cannabis.ca.gov](https://github.com/cagov/cannabis.ca.gov/readme.md) for more information on the static build workflows [`main`](./github/workflows/update_package_version_main.yml), [`staging`](./github/workflows/update_package_version_staging.yml)
+
+### 4. Publish
+The GitHub Actions workflows in @cagov/cannabis.ca.gov will update an AWS S3 bucket, clear the AWS CloudFront cache and update the deployment.
+
+
+4.Time to update
 * This whole process currently takes about 3 minutes. [Tests are currently disabled because we are revising our QA process.]
 
 ### Troubleshooting
@@ -52,7 +75,8 @@ To double check any issues in the pipeline:
 
 ---
 
-### Team maintenance notes
+## Team maintenance notes
+
 Project maintainer & lead: Chach Sikes (she/her) @chachasikes
 Engineering manager: Zakiya Khabir @zakiyarules
 Report an issue: https://github.com/cagov/cannabis.ca.gov
