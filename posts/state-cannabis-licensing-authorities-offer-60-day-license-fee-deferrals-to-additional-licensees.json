@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-06-29T19:04:00",
-    "updated_date": "2022-08-16T16:58:27",
+    "updated_date": "2022-10-02T23:48:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2020-06-29T19:04:00",
     "date_gmt": "2020-06-29T19:04:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/state-cannabis-licensing-authorities-offer-60-day-license-fee-deferrals-to-additional-licensees/",
-    "modified": "2022-08-16T09:58:27",
-    "modified_gmt": "2022-08-16T16:58:27",
+    "modified": "2022-10-02T16:48:26",
+    "modified_gmt": "2022-10-02T23:48:26",
     "slug": "state-cannabis-licensing-authorities-offer-60-day-license-fee-deferrals-to-additional-licensees",
     "status": "publish",
     "type": "post",

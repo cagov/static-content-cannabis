@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-09-24T21:58:00",
-    "updated_date": "2022-08-16T16:58:26",
+    "updated_date": "2022-10-02T23:48:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2020-09-24T21:58:00",
     "date_gmt": "2020-09-24T21:58:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/cannabis-licensing-authorities-file-civil-action-against-vertical-bliss-kushy-punch-for-unlicensed-activity/",
-    "modified": "2022-08-16T09:58:26",
-    "modified_gmt": "2022-08-16T16:58:26",
+    "modified": "2022-10-02T16:48:25",
+    "modified_gmt": "2022-10-02T23:48:25",
     "slug": "cannabis-licensing-authorities-file-civil-action-against-vertical-bliss-kushy-punch-for-unlicensed-activity",
     "status": "publish",
     "type": "post",

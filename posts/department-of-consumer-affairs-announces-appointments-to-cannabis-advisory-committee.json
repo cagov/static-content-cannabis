@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-10-04T22:52:00",
-    "updated_date": "2022-08-16T16:57:42",
+    "updated_date": "2022-10-02T23:49:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-10-04T22:52:00",
     "date_gmt": "2017-10-04T22:52:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/department-of-consumer-affairs-announces-appointments-to-cannabis-advisory-committee/",
-    "modified": "2022-08-16T09:57:42",
-    "modified_gmt": "2022-08-16T16:57:42",
+    "modified": "2022-10-02T16:49:43",
+    "modified_gmt": "2022-10-02T23:49:43",
     "slug": "department-of-consumer-affairs-announces-appointments-to-cannabis-advisory-committee",
     "status": "publish",
     "type": "post",
