@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-09-20T08:02:38",
-    "updated_date": "2022-09-20T08:03:31",
+    "created_date": "2021-06-20T19:13:54",
+    "updated_date": "2022-10-03T00:29:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/11447",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/8111",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 11447,
-    "date": "2022-09-20T01:02:38",
-    "date_gmt": "2022-09-20T08:02:38",
-    "guid": "https://api.cannabis.ca.gov/?page_id=11447",
-    "modified": "2022-09-20T01:03:31",
-    "modified_gmt": "2022-09-20T08:03:31",
-    "slug": "this-is-california-cannabis-production",
+    "id": 8111,
+    "date": "2021-06-20T12:13:54",
+    "date_gmt": "2021-06-20T19:13:54",
+    "guid": "https://staginginye.prod3.sites.ca.gov/?page_id=8111",
+    "modified": "2022-10-02T17:29:53",
+    "modified_gmt": "2022-10-03T00:29:53",
+    "slug": "search",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis-production/",
-    "title": "This is California Cannabis",
+    "link": "https://api.cannabis.ca.gov/search/",
+    "title": "Search",
     "excerpt": "",
-    "author": "Chach Sikes",
+    "author": "Department of Cannabis Control",
     "featured_media": 0,
-    "parent": 700,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
+    "template": "page-templates/searchpage.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column-wide"
+      "template": "searchpage"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +53,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis-production/",
-      "page_title": "This is California Cannabis",
+      "canonical_url": "https://api.cannabis.ca.gov/search/",
+      "page_title": "Search",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "This is California Cannabis",
+      "meta_title": "Search",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis-production/",
-      "open_graph_title": "This is California Cannabis",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/search/",
+      "open_graph_title": "Search",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "This is California Cannabis",
+      "twitter_title": "Search",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis-production/"
+    "wordpress_url": "https://api.cannabis.ca.gov/search/"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2022-09-30T14:28:04",
+    "updated_date": "2022-10-03T00:20:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/applicants/applicants/how-to-apply-renew/",
-    "modified": "2022-09-30T07:28:04",
-    "modified_gmt": "2022-09-30T14:28:04",
+    "modified": "2022-10-02T17:20:37",
+    "modified_gmt": "2022-10-03T00:20:37",
     "slug": "how-to-apply-renew",
     "status": "publish",
     "type": "page",
@@ -29,7 +29,7 @@
     "author": "Department of Cannabis Control",
     "featured_media": 0,
     "parent": 756,
-    "menu_order": 2,
+    "menu_order": 0,
     "comment_status": "open",
     "ping_status": "open",
     "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",

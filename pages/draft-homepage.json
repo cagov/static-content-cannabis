@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2021-06-20T19:13:54",
-    "updated_date": "2022-08-16T16:55:33",
+    "created_date": "2022-09-15T19:44:13",
+    "updated_date": "2022-10-02T23:53:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/8111",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/11507",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 8111,
-    "date": "2021-06-20T12:13:54",
-    "date_gmt": "2021-06-20T19:13:54",
-    "guid": "https://staginginye.api.cannabis.ca.gov/?page_id=8111",
-    "modified": "2022-08-16T09:55:33",
-    "modified_gmt": "2022-08-16T16:55:33",
-    "slug": "serp",
+    "id": 11507,
+    "date": "2022-09-15T12:44:13",
+    "date_gmt": "2022-09-15T19:44:13",
+    "guid": "https://cannabis.ca.gov/?page_id=11507",
+    "modified": "2022-10-02T16:53:12",
+    "modified_gmt": "2022-10-02T23:53:12",
+    "slug": "draft-homepage",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/serp/",
-    "title": "Search",
-    "excerpt": "",
-    "author": "Department of Cannabis Control",
+    "link": "https://api.cannabis.ca.gov/draft-homepage/",
+    "title": "DRAFT Homepage",
+    "excerpt": "<p>Get started Tweets by CACannabisDept</p>\n",
+    "author": "Wes Breazell",
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "page-templates/searchpage.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-landing.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "searchpage"
+      "template": "landing"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +53,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/serp/",
-      "page_title": "Search",
+      "canonical_url": "https://api.cannabis.ca.gov/draft-homepage/",
+      "page_title": "DRAFT Homepage",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Search",
+      "meta_title": "DRAFT Homepage",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/serp/",
-      "open_graph_title": "Search",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/draft-homepage/",
+      "open_graph_title": "DRAFT Homepage",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Search",
+      "twitter_title": "DRAFT Homepage",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/serp/"
+    "wordpress_url": "https://api.cannabis.ca.gov/draft-homepage/"
   }
 }
