@@ -1647,7 +1647,7 @@
           "object": "page",
           "type": "post_type",
           "type_label": "Page",
-          "url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/",
+          "url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/",
           "title": "Public awareness campaigns",
           "target": "",
           "attr_title": "",
@@ -1656,7 +1656,7 @@
             ""
           ],
           "xfn": "",
-          "slug": "public-awareness-campaigns-2"
+          "slug": "public-awareness-campaigns"
         },
         {
           "ID": 11661,
