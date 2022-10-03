@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-08-17T19:58:02",
-    "updated_date": "2022-10-03T09:07:02",
+    "updated_date": "2022-10-03T09:09:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-08-17T12:58:02",
     "date_gmt": "2022-08-17T19:58:02",
     "guid": "https://cannabis.ca.gov/?page_id=11107",
-    "modified": "2022-10-03T02:07:02",
-    "modified_gmt": "2022-10-03T09:07:02",
+    "modified": "2022-10-03T02:09:03",
+    "modified_gmt": "2022-10-03T09:09:03",
     "slug": "this-is-california-cannabis",
     "status": "publish",
     "type": "page",
