@@ -29,7 +29,7 @@
       },
       {
         "Destination": "menu/stateWideFooterMenu.json",
-        "Source": "/wp-json/menus/v1/menus/footer",
+        "Source": "/wp-json/menus/v1/menus/footer-menu",
         "ExcludeProperties": []
       },
       {
