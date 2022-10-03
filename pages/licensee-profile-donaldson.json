@@ -23,7 +23,7 @@
     "slug": "licensee-profile-donaldson",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-donaldson/",
+    "link": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/licensee-profile-donaldson/",
     "title": "Licensee profile",
     "excerpt": "<p>Drakari Donaldson&nbsp; California Street Cannabis Company&nbsp;San FranciscoWebsite: californiastreetcannabis.com About California Street Cannabis Company&nbsp; San Francisco native, Drakari Donaldson, owns and operates the California Street Cannabis Company in the Nob&nbsp;Hill and Inner Richmond Neighborhoods of&nbsp;San Francisco. California Street Cannabis Company was the&nbsp;third social equity retail cannabis license to be approved&nbsp;to open in San Francisco and the [&hellip;]</p>\n",
     "author": "Wes Breazell",
@@ -53,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-donaldson/",
+      "canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/licensee-profile-donaldson/",
       "page_title": "Licensee profile",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Licensee profile",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-donaldson/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/licensee-profile-donaldson/",
       "open_graph_title": "Licensee profile",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Licensee profile",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-donaldson/"
+    "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/licensee-profile-donaldson/"
   }
 }

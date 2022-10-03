@@ -23,7 +23,7 @@
     "slug": "licensee-profile-hua",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-hua/",
+    "link": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/licensee-profile-hua/",
     "title": "Licensee profile",
     "excerpt": "<p>[et_pb_section admin_label=&#8221;section&#8221;] [et_pb_row admin_label=&#8221;row&#8221;] [et_pb_column type=&#8221;4_4&#8243;][et_pb_text admin_label=&#8221;Text&#8221;] Stephanie Hua&nbsp; MellowsSan FranciscoWebsite: getmellows.com&nbsp; About Mellows Stephanie Hua is the founder and chief confectioner of Mellows, a cannabis edibles manufacturer based in San Francisco.&nbsp;&nbsp;Mellows produces low-dose marshmallows infused with solventless ice-water hash that come in a wide range of flavors to the delight of her customers. Each [&hellip;]</p>\n",
     "author": "Wes Breazell",
@@ -53,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-hua/",
+      "canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/licensee-profile-hua/",
       "page_title": "Licensee profile",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Licensee profile",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-hua/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/licensee-profile-hua/",
       "open_graph_title": "Licensee profile",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Licensee profile",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-hua/"
+    "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/this-is-california-cannabis/licensee-profile-hua/"
   }
 }
