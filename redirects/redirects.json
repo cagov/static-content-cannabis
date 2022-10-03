@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 45,
+      "redirects": 51,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1229,136 +1229,6 @@
       "enabled": true
     },
     {
-      "id": 214,
-      "url": "/cannabis-laws/laws-and-regulations/",
-      "match_url": "/cannabis-laws/laws-and-regulations",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/consumers/laws-and-regulations/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 40,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 215,
-      "url": "/cannabis-laws/where-cannabis-businesses-are-allowed/",
-      "match_url": "/cannabis-laws/where-cannabis-businesses-are-allowed",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/consumers/where-cannabis-businesses-are-allowed/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 41,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 216,
-      "url": "/cannabis-laws/dcc-regulations/",
-      "match_url": "/cannabis-laws/dcc-regulations",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/consumers/dcc-regulations/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 42,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 217,
-      "url": "/cannabis-laws/how-regulations-are-made/",
-      "match_url": "/cannabis-laws/how-regulations-are-made",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/consumers/how-regulations-are-made/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 43,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 218,
-      "url": "/cannabis-laws/rulemaking/",
-      "match_url": "/cannabis-laws/rulemaking",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/consumers/rulemaking/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 44,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
       "id": 276,
       "url": "/social-media-materials/",
       "match_url": "/social-media-materials",
@@ -1385,9 +1255,9 @@
       "enabled": true
     },
     {
-      "id": 219,
-      "url": "/cannabis-laws/compliance-with-state-law/",
-      "match_url": "/cannabis-laws/compliance-with-state-law",
+      "id": 277,
+      "url": "/consumers/compliance-with-state-law/",
+      "match_url": "/consumers/compliance-with-state-law",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -1399,7 +1269,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/consumers/compliance-with-state-law/"
+        "url": "/cannabis-laws/compliance-with-state-law/"
       },
       "match_type": "url",
       "title": "",
@@ -1407,6 +1277,32 @@
       "regex": false,
       "group_id": 1,
       "position": 45,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 278,
+      "url": "/consumers/rulemaking/",
+      "match_url": "/consumers/rulemaking",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 46,
       "last_access": "-",
       "enabled": true
     },
@@ -1437,6 +1333,58 @@
       "enabled": true
     },
     {
+      "id": 279,
+      "url": "/consumers/how-regulations-are-made/",
+      "match_url": "/consumers/how-regulations-are-made",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/how-regulations-are-made/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 47,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 280,
+      "url": "/consumers/dcc-regulations/",
+      "match_url": "/consumers/dcc-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/dcc-regulations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 48,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 223,
       "url": "/licensee-profile-farrar/",
       "match_url": "/licensee-profile-farrar",
@@ -1463,6 +1411,32 @@
       "enabled": true
     },
     {
+      "id": 281,
+      "url": "/consumers/where-cannabis-businesses-are-allowed/",
+      "match_url": "/consumers/where-cannabis-businesses-are-allowed",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/where-cannabis-businesses-are-allowed/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 49,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 224,
       "url": "/licensee-profile-abarca/",
       "match_url": "/licensee-profile-abarca",
@@ -1478,6 +1452,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-abarca/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 50,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 282,
+      "url": "/consumers/laws-and-regulations/",
+      "match_url": "/consumers/laws-and-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/laws-and-regulations/"
       },
       "match_type": "url",
       "title": "",
