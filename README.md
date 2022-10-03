@@ -41,9 +41,19 @@ To double check any issues in the pipeline:
 * The AWS Lambda configuration can be monitored by accessing AWS CloudFormation account, navigating to the deployment, then go to Resources and select the POST Lambda function. From there you will be able to go to the Monitoring tab.
 * If there is an error, it will be reported to Slack channel #odi-bot-cannabis.
 
+### Updating the editor
+* The main plugin is local to the Pantheon repo (working on |check: `release/1.1.8-draft`|), but based on ca-gov-design-system-gutenberg-blocks. This plugin mirrors the CA Design System as Gutenberg Blocks. https://designsystem.webstandards.ca.gov.
+* The editor is hosted on Pantheon, which let's us continuously upgrade the backend with security updates and evolving design system updates.
+* Editor WordPress mirror: https://github.com/cagov/pantheon-mirror-cannabis-ca-gov (Currently not public because Divi is checked into the code base & is a paid WordPress plugin.)
+* Check WordPress API endpoints for any rendering issues: https://api.cannabis.ca.gov/wp-json/
+* Syncing configuration files live at: https://github.com/cagov/static-content-cannabis/blob/main/config/wordpress-to-github.config.json
+* Automated site updates are managed at: https://github.com/cagov/cannabis-ca-gov-lambda-sync-github/blob/main/src/shared/config/endpoints.json (remember to `enableLocal: true` for any local debugging)
+* All tokens for project developers can be accessed by contacting the Office of Data & Innovation engineering manager.
 
 ---
 
-### Team notes
-Project maintainer & lead: Chach Sikes, she/her @chachasikes
+### Team maintenance notes
+Project maintainer & lead: Chach Sikes (she/her) @chachasikes
+Engineering manager: Zakiya Khabir @zakiyarules
 Report an issue: https://github.com/cagov/cannabis.ca.gov
+Slack channels: #odi-cannabis (ODI internal), #cagov-cannabis (Multi-partner channel)
