@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-03T09:58:05",
-    "updated_date": "2022-10-04T20:03:42",
+    "updated_date": "2022-10-04T20:03:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-03T01:58:05",
     "date_gmt": "2022-03-03T09:58:05",
     "guid": "https://cannabis.ca.gov/?page_id=9438",
-    "modified": "2022-10-04T13:03:42",
-    "modified_gmt": "2022-10-04T20:03:42",
+    "modified": "2022-10-04T13:03:53",
+    "modified_gmt": "2022-10-04T20:03:53",
     "slug": "cannabis-laws",
     "status": "publish",
     "type": "page",
