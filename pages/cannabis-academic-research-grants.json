@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-09-15T19:44:13",
-    "updated_date": "2022-10-07T20:03:13",
+    "created_date": "2022-10-07T20:05:37",
+    "updated_date": "2022-10-07T20:05:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/11507",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/12100",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 11507,
-    "date": "2022-09-15T12:44:13",
-    "date_gmt": "2022-09-15T19:44:13",
-    "guid": "https://cannabis.ca.gov/?page_id=11507",
-    "modified": "2022-10-07T13:03:13",
-    "modified_gmt": "2022-10-07T20:03:13",
-    "slug": "draft-homepage",
+    "id": 12100,
+    "date": "2022-10-07T13:05:37",
+    "date_gmt": "2022-10-07T20:05:37",
+    "guid": "https://api.cannabis.ca.gov/?page_id=12100",
+    "modified": "2022-10-07T13:05:37",
+    "modified_gmt": "2022-10-07T20:05:37",
+    "slug": "cannabis-academic-research-grants",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/draft-homepage/",
-    "title": "DRAFT Homepage",
-    "excerpt": "<p>California offers cannabis-related grants to local governments to fund programs and universities to fund research. Grants for local governments Local Jurisdiction Assistance Grant Program California is committed to quickly transition cannabis businesses from provisional to annual licenses. One-time grant funding, totaling $100 million, is available to help eligible jurisdictions participate in this effort. Extra funds [&hellip;]</p>\n",
-    "author": "Wes Breazell",
+    "link": "https://api.cannabis.ca.gov/about-us/grant-funding/cannabis-academic-research-grants/",
+    "title": "Cannabis Academic Research Grants",
+    "excerpt": "<p>As of July 2022, 37 states allow medical-use, and 19 states allow adult-use of cannabis. Despite changes in state policy, cannabis is still classified by the federal government as a Schedule 1 Controlled Substance. This limits research opportunities and our collective understanding of cannabis and its effects.&nbsp; Funding opportunity DCC is seeking proposals for research [&hellip;]</p>\n",
+    "author": "Chach Sikes",
     "featured_media": 0,
-    "parent": 0,
+    "parent": 703,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-landing.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "landing"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +53,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/draft-homepage/",
-      "page_title": "DRAFT Homepage",
+      "canonical_url": "https://api.cannabis.ca.gov/about-us/grant-funding/cannabis-academic-research-grants/",
+      "page_title": "Cannabis Academic Research Grants",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "DRAFT Homepage",
+      "meta_title": "Cannabis Academic Research Grants",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/draft-homepage/",
-      "open_graph_title": "DRAFT Homepage",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/grant-funding/cannabis-academic-research-grants/",
+      "open_graph_title": "Cannabis Academic Research Grants",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "DRAFT Homepage",
+      "twitter_title": "Cannabis Academic Research Grants",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/draft-homepage/"
+    "wordpress_url": "https://api.cannabis.ca.gov/about-us/grant-funding/cannabis-academic-research-grants/"
   }
 }
