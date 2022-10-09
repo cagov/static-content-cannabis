@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 39,
+      "redirects": 41,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -841,32 +841,6 @@
       "enabled": true
     },
     {
-      "id": 267,
-      "url": "/licensees/compliance-with-state-law/",
-      "match_url": "/licensees/compliance-with-state-law",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cannabis-laws/compliance-with-state-law/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 3,
-      "position": 31,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
       "id": 268,
       "url": "/resources/rulemaking/",
       "match_url": "/resources/rulemaking",
@@ -1173,6 +1147,32 @@
       "regex": false,
       "group_id": 3,
       "position": 39,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 288,
+      "url": "/licensees/compliance-with-state-law/",
+      "match_url": "/licensees/compliance-with-state-law",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/compliance-with-state-law/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 40,
       "last_access": "-",
       "enabled": true
     },
