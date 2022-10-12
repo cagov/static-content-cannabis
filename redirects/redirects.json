@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 41,
+      "redirects": 42,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1149,6 +1149,32 @@
       "regex": false,
       "group_id": 1,
       "position": 40,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 290,
+      "url": "/cannabis-academic-research-grants",
+      "match_url": "/cannabis-academic-research-grants",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/grant-funding/cannabis-academic-research-grants"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 41,
       "last_access": "-",
       "enabled": true
     },
