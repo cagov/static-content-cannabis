@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-26T16:54:19",
-    "updated_date": "2022-10-14T23:40:58",
+    "updated_date": "2022-10-21T22:20:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-01-26T08:54:19",
     "date_gmt": "2022-01-26T16:54:19",
     "guid": "https://cannabis.ca.gov/?page_id=9345",
-    "modified": "2022-10-14T16:40:58",
-    "modified_gmt": "2022-10-14T23:40:58",
+    "modified": "2022-10-21T15:20:33",
+    "modified_gmt": "2022-10-21T22:20:33",
     "slug": "cannabis-recalls-and-safety-notices",
     "status": "publish",
     "type": "page",
