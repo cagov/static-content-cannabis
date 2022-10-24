@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-03T10:34:46",
-    "updated_date": "2022-10-24T22:40:13",
+    "updated_date": "2022-10-24T22:45:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-03T02:34:46",
     "date_gmt": "2022-03-03T10:34:46",
     "guid": "https://cannabis.ca.gov/?page_id=9443",
-    "modified": "2022-10-24T15:40:13",
-    "modified_gmt": "2022-10-24T22:40:13",
+    "modified": "2022-10-24T15:45:39",
+    "modified_gmt": "2022-10-24T22:45:39",
     "slug": "how-regulations-are-made",
     "status": "publish",
     "type": "page",
