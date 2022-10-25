@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-05T23:08:00",
-    "updated_date": "2022-10-07T20:12:25",
+    "updated_date": "2022-10-25T18:05:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-10-05T16:08:00",
     "date_gmt": "2022-10-05T23:08:00",
     "guid": "https://api.cannabis.ca.gov/?p=12106",
-    "modified": "2022-10-07T13:12:25",
-    "modified_gmt": "2022-10-07T20:12:25",
+    "modified": "2022-10-25T11:05:59",
+    "modified_gmt": "2022-10-25T18:05:59",
     "slug": "california-takes-action-to-combat-illicit-cannabis-grows-transnational-criminal-organizations",
     "status": "publish",
     "type": "post",
