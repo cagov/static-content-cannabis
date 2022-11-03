@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 42,
+      "redirects": 46,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1179,6 +1179,58 @@
       "enabled": true
     },
     {
+      "id": 291,
+      "url": "/promising-practice-technical-assistance/",
+      "match_url": "/promising-practice-technical-assistance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/equity-promising-practice-technical-assistance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 42,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 292,
+      "url": "/equity-promising-practice-technical-assistance/",
+      "match_url": "/equity-promising-practice-technical-assistance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/equity/promising-practice-technical-assistance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 43,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 276,
       "url": "/social-media-materials/",
       "match_url": "/social-media-materials",
@@ -1201,6 +1253,58 @@
       "regex": false,
       "group_id": 1,
       "position": 44,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 293,
+      "url": "/promising-practice-direct-grants/",
+      "match_url": "/promising-practice-direct-grants",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/equity/promising-practice-direct-grants/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 44,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 294,
+      "url": "/promising-practice-no-interest-revolving-loans/",
+      "match_url": "/promising-practice-no-interest-revolving-loans",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/equity/promising-practice-no-interest-revolving-loans/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 45,
       "last_access": "-",
       "enabled": true
     },
