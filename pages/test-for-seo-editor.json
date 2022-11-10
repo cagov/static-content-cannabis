@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-24T17:30:20",
-    "updated_date": "2022-11-08T18:48:23",
+    "updated_date": "2022-11-10T21:53:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-24T10:30:20",
     "date_gmt": "2021-06-24T17:30:20",
     "guid": "https://staginginye.prod3.sites.ca.gov/?page_id=8181",
-    "modified": "2022-11-08T10:48:23",
-    "modified_gmt": "2022-11-08T18:48:23",
+    "modified": "2022-11-10T13:53:59",
+    "modified_gmt": "2022-11-10T21:53:59",
     "slug": "test-for-seo-editor",
     "status": "publish",
     "type": "page",
