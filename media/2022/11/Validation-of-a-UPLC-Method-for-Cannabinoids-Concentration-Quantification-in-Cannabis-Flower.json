@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-10T17:23:50",
-    "updated_date": "2022-11-10T17:24:34",
+    "updated_date": "2022-11-10T17:25:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2022-11-10T09:23:50",
     "date_gmt": "2022-11-10T17:23:50",
     "guid": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/Validation-of-a-UPLC-Method-for-Cannabinoids-Concentration-Quantification-in-Cannabis-Flower.pdf",
-    "modified": "2022-11-10T09:24:34",
-    "modified_gmt": "2022-11-10T17:24:34",
+    "modified": "2022-11-10T09:25:04",
+    "modified_gmt": "2022-11-10T17:25:04",
     "slug": "validation-of-a-uplc-method-for-cannabinoids-concentration-quantification-in-cannabis-flower",
     "status": "inherit",
     "type": "attachment",
     "link": "https://api.cannabis.ca.gov/validation-of-a-uplc-method-for-cannabinoids-concentration-quantification-in-cannabis-flower/",
-    "title": "Validationof-a-UPLC-Method-for-Cannabinoids-Concentration-Quantification-in-Cannabis-Flower",
+    "title": "Validation of a UPLC Method for Cannabinoids Concentration Quantification in Cannabis Flower",
     "author": "Wes Breazell",
     "comment_status": "closed",
     "ping_status": "closed",
@@ -36,8 +36,8 @@
     "categories": [
       14
     ],
-    "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2022/11/Validation-of-a-UPLC-Method-for-Cannabinoids-Concentration-Quantification-in-Cannabis-Flower.pdf'>Validationof-a-UPLC-Method-for-Cannabinoids-Concentration-Quantification-in-Cannabis-Flower</a></p>\n",
-    "caption": "<p>Validationof-a-UPLC-Method-for-Cannabinoids-Concentration-Quantification-in-Cannabis-Flower</p>\n",
+    "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2022/11/Validation-of-a-UPLC-Method-for-Cannabinoids-Concentration-Quantification-in-Cannabis-Flower.pdf'>Validation of a UPLC Method for Cannabinoids Concentration Quantification in Cannabis Flower</a></p>\n",
+    "caption": "<p>Validation of a UPLC Method for Cannabinoids Concentration Quantification in Cannabis Flower</p>\n",
     "alt_text": "",
     "media_type": "file",
     "mime_type": "application/pdf",
