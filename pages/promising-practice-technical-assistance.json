@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-03T17:04:00",
-    "updated_date": "2022-11-18T16:59:28",
+    "updated_date": "2022-11-18T17:00:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-03T10:04:00",
     "date_gmt": "2022-11-03T17:04:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=12281",
-    "modified": "2022-11-18T08:59:28",
-    "modified_gmt": "2022-11-18T16:59:28",
+    "modified": "2022-11-18T09:00:11",
+    "modified_gmt": "2022-11-18T17:00:11",
     "slug": "promising-practice-technical-assistance",
     "status": "publish",
     "type": "page",
