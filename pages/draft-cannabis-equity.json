@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-03T17:05:23",
-    "updated_date": "2022-11-21T17:40:21",
+    "updated_date": "2022-11-21T19:28:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-03T10:05:23",
     "date_gmt": "2022-11-03T17:05:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=12276",
-    "modified": "2022-11-21T09:40:21",
-    "modified_gmt": "2022-11-21T17:40:21",
+    "modified": "2022-11-21T11:28:34",
+    "modified_gmt": "2022-11-21T19:28:34",
     "slug": "draft-cannabis-equity",
     "status": "publish",
     "type": "page",
@@ -75,16 +75,16 @@
     "wordpress_url": "https://api.cannabis.ca.gov/draft-cannabis-equity/",
     "media": [
       {
-        "id": 12278,
+        "id": 12405,
         "type": "thumbnail",
-        "path": "2022/11/photo_carrie_broadus-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_carrie_broadus-376x376.jpg",
-        "file": "photo_carrie_broadus-376x376.jpg",
+        "path": "2022/11/photo_carrie_broadus_sq-376x376.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_carrie_broadus_sq-376x376.jpg",
+        "file": "photo_carrie_broadus_sq-376x376.jpg",
         "width": 376,
         "height": 376,
-        "filesize": 27892,
+        "filesize": 23056,
         "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_carrie_broadus-376x376.jpg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_carrie_broadus_sq-376x376.jpg",
         "source_url_match": true,
         "featured": false
       },
