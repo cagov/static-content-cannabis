@@ -725,7 +725,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/about-us/contact-us"
+        "url": "/about-us/contact-us/"
       },
       "match_type": "url",
       "title": "",
