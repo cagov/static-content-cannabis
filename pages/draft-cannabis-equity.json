@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-03T17:05:23",
-    "updated_date": "2022-12-02T17:11:53",
+    "updated_date": "2022-12-02T17:55:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-03T10:05:23",
     "date_gmt": "2022-11-03T17:05:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=12276",
-    "modified": "2022-12-02T09:11:53",
-    "modified_gmt": "2022-12-02T17:11:53",
+    "modified": "2022-12-02T09:55:18",
+    "modified_gmt": "2022-12-02T17:55:18",
     "slug": "draft-cannabis-equity",
     "status": "publish",
     "type": "page",
@@ -74,6 +74,47 @@
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/draft-cannabis-equity/",
     "media": [
+      {
+        "id": 12443,
+        "type": "full",
+        "path": "2022/12/22_0523_DCC_Social_IGS_FBS.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/22_0523_DCC_Social_IGS_FBS.jpg",
+        "file": "22_0523_DCC_Social_IGS_FBS.jpg",
+        "width": 608,
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/22_0523_DCC_Social_IGS_FBS.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 12443,
+        "type": "large",
+        "path": "2022/12/22_0523_DCC_Social_IGS_FBS-576x1024.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/22_0523_DCC_Social_IGS_FBS-576x1024.jpg",
+        "file": "22_0523_DCC_Social_IGS_FBS-576x1024.jpg",
+        "width": 576,
+        "height": 1024,
+        "filesize": 79515,
+        "mime_type": "image/jpeg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/22_0523_DCC_Social_IGS_FBS-576x1024.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 12443,
+        "type": "medium",
+        "path": "2022/12/22_0523_DCC_Social_IGS_FBS-324x576.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/22_0523_DCC_Social_IGS_FBS-324x576.jpg",
+        "file": "22_0523_DCC_Social_IGS_FBS-324x576.jpg",
+        "width": 324,
+        "height": 576,
+        "filesize": 33035,
+        "mime_type": "image/jpeg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/22_0523_DCC_Social_IGS_FBS-324x576.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
       {
         "id": 12405,
         "type": "thumbnail",
