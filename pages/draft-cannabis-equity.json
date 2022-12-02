@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-03T17:05:23",
-    "updated_date": "2022-12-02T17:10:42",
+    "updated_date": "2022-12-02T17:11:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-03T10:05:23",
     "date_gmt": "2022-11-03T17:05:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=12276",
-    "modified": "2022-12-02T09:10:42",
-    "modified_gmt": "2022-12-02T17:10:42",
+    "modified": "2022-12-02T09:11:53",
+    "modified_gmt": "2022-12-02T17:11:53",
     "slug": "draft-cannabis-equity",
     "status": "publish",
     "type": "page",
@@ -103,16 +103,16 @@
         "featured": false
       },
       {
-        "id": 12280,
+        "id": 12438,
         "type": "thumbnail",
-        "path": "2022/11/photo_reese_benton-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_reese_benton-376x376.jpg",
-        "file": "photo_reese_benton-376x376.jpg",
+        "path": "2022/12/photo_reese_benton_sq-2-376x376.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_reese_benton_sq-2-376x376.jpg",
+        "file": "photo_reese_benton_sq-2-376x376.jpg",
         "width": 376,
         "height": 376,
-        "filesize": 34518,
+        "filesize": 26033,
         "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_reese_benton-376x376.jpg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_reese_benton_sq-2-376x376.jpg",
         "source_url_match": true,
         "featured": false
       }
