@@ -101,20 +101,6 @@
         "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_maisha_bahati_sq-376x376.jpg",
         "source_url_match": true,
         "featured": false
-      },
-      {
-        "id": 12433,
-        "type": "thumbnail",
-        "path": "2022/12/photo_reese_benton_sq-2-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_reese_benton_sq-2-376x376.jpg",
-        "file": "photo_reese_benton_sq-2-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "filesize": 25576,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_reese_benton_sq-2-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
       }
     ]
   }
