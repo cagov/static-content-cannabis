@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-09-15T19:44:13",
-    "updated_date": "2022-12-02T21:10:43",
+    "created_date": "2022-11-30T21:43:27",
+    "updated_date": "2022-11-30T21:46:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/11507",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/12421",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 11507,
-    "date": "2022-09-15T12:44:13",
-    "date_gmt": "2022-09-15T19:44:13",
-    "guid": "https://cannabis.ca.gov/?page_id=11507",
-    "modified": "2022-12-02T13:10:43",
-    "modified_gmt": "2022-12-02T21:10:43",
-    "slug": "draft-homepage",
+    "id": 12421,
+    "date": "2022-11-30T13:43:27",
+    "date_gmt": "2022-11-30T21:43:27",
+    "guid": "https://api.cannabis.ca.gov/?page_id=12421",
+    "modified": "2022-11-30T13:46:28",
+    "modified_gmt": "2022-11-30T21:46:28",
+    "slug": "draft-payment-office",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/draft-homepage/",
-    "title": "DRAFT Homepage",
-    "excerpt": "<p>California offers cannabis-related grants to local governments to fund programs and universities to fund research. Grants for local governments Local Jurisdiction Assistance Grant Program California is committed to quickly transition cannabis businesses from provisional to annual licenses. One-time grant funding, totaling $100 million, is available to help eligible jurisdictions participate in this effort. Extra funds [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/draft-payment-office/",
+    "title": "[DRAFT] Payment office",
+    "excerpt": "<p>Visit our office You can visit our offices in Rancho Cordova or Eureka for the following services: Schedule a payment appointment Make a payment for an application, license, or renewal fee Inquire about your license or application payment status North Hollywood office coming soon! Hours of operation Payment appointment hours: Eureka office: Monday through Thursday [&hellip;]</p>\n",
     "author": "Wes Breazell",
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-landing.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "landing"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +53,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/draft-homepage/",
-      "page_title": "DRAFT Homepage",
+      "canonical_url": "https://api.cannabis.ca.gov/draft-payment-office/",
+      "page_title": "[DRAFT] Payment office",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "DRAFT Homepage",
+      "meta_title": "[DRAFT] Payment office",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/draft-homepage/",
-      "open_graph_title": "DRAFT Homepage",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/draft-payment-office/",
+      "open_graph_title": "[DRAFT] Payment office",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "DRAFT Homepage",
+      "twitter_title": "[DRAFT] Payment office",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/draft-homepage/"
+    "wordpress_url": "https://api.cannabis.ca.gov/draft-payment-office/"
   }
 }
