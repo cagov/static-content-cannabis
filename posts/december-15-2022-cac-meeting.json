@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-03T00:01:00",
-    "updated_date": "2022-12-03T00:14:44",
+    "updated_date": "2022-12-03T00:46:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2022-12-02T16:01:00",
     "date_gmt": "2022-12-03T00:01:00",
     "guid": "https://api.cannabis.ca.gov/?p=12468",
-    "modified": "2022-12-02T16:14:44",
-    "modified_gmt": "2022-12-03T00:14:44",
+    "modified": "2022-12-02T16:46:42",
+    "modified_gmt": "2022-12-03T00:46:42",
     "slug": "december-15-2022-cac-meeting",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2022/12/december-15-2022-cac-meeting/",
     "title": "December 15, 2022 (CAC meeting)",
-    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">December 15, 2022 &#8211; </div>\n<p></p>\n<div class=\"event-time\">10:00 AM &#8211;  PST</div>\n<p></p>\n<div class=\"event-location\">WebEx Event</div>\n</div>\n",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">December 15, 2022</div>\n<p></p>\n<div class=\"event-time\">10:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx Event</div>\n</div>\n",
     "author": "Wes Breazell",
     "featured_media": 0,
     "comment_status": "closed",
@@ -93,8 +93,11 @@
     "headless_preview": [],
     "event": {
       "startDateTimeUTC": "2022-12-15T18:00:00",
+      "endDateTimeUTC": "2022-12-15T18:00:00",
       "startDate": "December 15, 2022",
+      "endDate": "December 15, 2022",
       "startTime": "10:00 AM",
+      "endTime": "10:00 AM",
       "localTimezone": "America/Los_Angeles",
       "localTimezoneLabel": "PST",
       "location": "WebEx Event"
