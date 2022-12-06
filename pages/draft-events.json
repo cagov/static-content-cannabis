@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-05T18:54:07",
-    "updated_date": "2022-12-05T20:47:59",
+    "updated_date": "2022-12-06T21:45:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-05T10:54:07",
     "date_gmt": "2022-12-05T18:54:07",
     "guid": "https://api.cannabis.ca.gov/?page_id=12493",
-    "modified": "2022-12-05T12:47:59",
-    "modified_gmt": "2022-12-05T20:47:59",
+    "modified": "2022-12-06T13:45:41",
+    "modified_gmt": "2022-12-06T21:45:41",
     "slug": "draft-events",
     "status": "publish",
     "type": "page",
