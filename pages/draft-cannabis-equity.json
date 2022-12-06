@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-03T17:05:23",
-    "updated_date": "2022-12-06T18:59:51",
+    "updated_date": "2022-12-06T21:26:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-03T10:05:23",
     "date_gmt": "2022-11-03T17:05:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=12276",
-    "modified": "2022-12-06T10:59:51",
-    "modified_gmt": "2022-12-06T18:59:51",
+    "modified": "2022-12-06T13:26:12",
+    "modified_gmt": "2022-12-06T21:26:12",
     "slug": "draft-cannabis-equity",
     "status": "publish",
     "type": "page",
