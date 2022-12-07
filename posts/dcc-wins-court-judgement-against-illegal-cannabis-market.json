@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "created_date": "2022-12-06T23:59:41",
+    "updated_date": "2022-12-06T23:59:47",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/12556",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 12556,
+    "date": "2022-12-06T15:59:41",
+    "date_gmt": "2022-12-06T23:59:41",
+    "guid": "https://api.cannabis.ca.gov/?p=12556",
+    "modified": "2022-12-06T15:59:47",
+    "modified_gmt": "2022-12-06T23:59:47",
+    "slug": "dcc-wins-court-judgement-against-illegal-cannabis-market",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
+    "title": "DCC wins court judgement against illegal cannabis market",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) announced today that it has won a significant legal victory against participants in the illegal cannabis market. Represented by its partners in the Attorney General’s Office, DCC obtained a court order awarding more than $128 million in civil penalties—the maximum sought by DCC—against businesses and individuals that were engaged [&hellip;]</p>\n",
+    "author": "Wes Breazell",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-press-release.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Press Releases"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single-press-release"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
+      "page_title": "DCC wins court judgement against illegal cannabis market",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "DCC wins court judgement against illegal cannabis market",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
+      "open_graph_title": "DCC wins court judgement against illegal cannabis market",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "DCC wins court judgement against illegal cannabis market",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
+        "term_group": 0,
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/"
+  }
+}
