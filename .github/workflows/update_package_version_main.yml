@@ -7,31 +7,42 @@ on:
   pull_request:
       types: [opened, synchronize]
 
+concurrency: sync_sequential_version_bumps  
+
 jobs:
   bump-version:  # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
     name: Bump Version on main branch
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
-      - name: "Checkout source code"
-        uses: "actions/checkout@v2"
-        with:
-          ref: ${{ github.ref }}
+      - name: "Partially checkout source code"
+        # Fast checkout of package.json in order to bump the version number.
+        run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git config --global user.email github-actions@github.com
+          git config --global user.name github-actions
+          git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
+          git sparse-checkout init --cone
+          git sparse-checkout add "package.json"
+          git checkout
       - name: "cat package.json"
+        # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
-      - name: "Setup Node.js"
-        uses: "actions/setup-node@v1"
-        with:
-          node-version: 12
       - name: "Automated Version Bump"
-        uses: "phips28/gh-action-bump-version@master"
+        # https://github.com/phips28/gh-action-bump-version
+        # Method suggestion from https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
+        # Bump the version number of this content package repo.
+        uses: "phips28/gh-action-bump-version@v9.1.0"
         with:
           tag-prefix: ''
-        env:
+          commit-message: 'Bumps main branch content package version to {{version}}.'
+        env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "cat package.json"
+        # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
-      - name: Repository dispatch to cannabis.ca.gov [main]
+      - name: Repository dispatch to cagov/cannabis.ca.gov [main]
+        # description: "Send signal to static site generation repo to trigger an update."
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.ODI_GITHUB_TOKEN }}
