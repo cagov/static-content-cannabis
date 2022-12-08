@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2022-12-05T19:19:22",
+    "updated_date": "2022-12-08T00:35:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/cannabis-advisory-committee/",
-    "modified": "2022-12-05T11:19:22",
-    "modified_gmt": "2022-12-05T19:19:22",
+    "modified": "2022-12-07T16:35:08",
+    "modified_gmt": "2022-12-08T00:35:08",
     "slug": "cannabis-advisory-committee",
     "status": "publish",
     "type": "page",
