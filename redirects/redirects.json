@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 39,
+      "redirects": 47,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "Redirections",
-      "redirects": 21,
+      "redirects": 20,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -725,7 +725,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/about-us/contact-us"
+        "url": "/about-us/contact-us/"
       },
       "match_type": "url",
       "title": "",
@@ -841,32 +841,6 @@
       "enabled": true
     },
     {
-      "id": 267,
-      "url": "/licensees/compliance-with-state-law/",
-      "match_url": "/licensees/compliance-with-state-law",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cannabis-laws/compliance-with-state-law/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 3,
-      "position": 31,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
       "id": 268,
       "url": "/resources/rulemaking/",
       "match_url": "/resources/rulemaking",
@@ -968,30 +942,6 @@
       "group_id": 1,
       "position": 35,
       "last_access": "November 15, 2021",
-      "enabled": true
-    },
-    {
-      "id": 271,
-      "url": "/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/cagov-design-system/blocks/accordion/css/index.css",
-      "match_url": "/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/cagov-design-system/blocks/accordion/css/index.css",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 0,
-      "action_type": "nothing",
-      "action_data": null,
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 3,
-      "position": 35,
-      "last_access": "-",
       "enabled": true
     },
     {
@@ -1177,6 +1127,110 @@
       "enabled": true
     },
     {
+      "id": 288,
+      "url": "/licensees/compliance-with-state-law/",
+      "match_url": "/licensees/compliance-with-state-law",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/compliance-with-state-law/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 40,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 290,
+      "url": "/cannabis-academic-research-grants",
+      "match_url": "/cannabis-academic-research-grants",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/grant-funding/cannabis-academic-research-grants"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 41,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 291,
+      "url": "/promising-practice-technical-assistance/",
+      "match_url": "/promising-practice-technical-assistance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/equity-promising-practice-technical-assistance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 42,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 292,
+      "url": "/equity-promising-practice-technical-assistance/",
+      "match_url": "/equity-promising-practice-technical-assistance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/equity/promising-practice-technical-assistance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 43,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 276,
       "url": "/social-media-materials/",
       "match_url": "/social-media-materials",
@@ -1199,6 +1253,84 @@
       "regex": false,
       "group_id": 1,
       "position": 44,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 293,
+      "url": "/promising-practice-direct-grants/",
+      "match_url": "/promising-practice-direct-grants",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/equity/promising-practice-direct-grants/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 44,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 294,
+      "url": "/promising-practice-no-interest-revolving-loans/",
+      "match_url": "/promising-practice-no-interest-revolving-loans",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/equity/promising-practice-no-interest-revolving-loans/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 45,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 295,
+      "url": "/licensees/cannaconnect-compliance-hub",
+      "match_url": "/licensees/cannaconnect-compliance-hub",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannaconnect"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 46,
       "last_access": "-",
       "enabled": true
     },

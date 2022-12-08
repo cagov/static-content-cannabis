@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2022-10-02T23:50:54",
+    "updated_date": "2022-10-24T20:21:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/resources/banking-insurance/",
-    "modified": "2022-10-02T16:50:54",
-    "modified_gmt": "2022-10-02T23:50:54",
+    "modified": "2022-10-24T13:21:15",
+    "modified_gmt": "2022-10-24T20:21:15",
     "slug": "banking-insurance",
     "status": "publish",
     "type": "page",
