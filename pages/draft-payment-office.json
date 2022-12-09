@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-30T21:43:27",
-    "updated_date": "2022-11-30T21:46:28",
+    "updated_date": "2022-12-09T23:17:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-30T13:43:27",
     "date_gmt": "2022-11-30T21:43:27",
     "guid": "https://api.cannabis.ca.gov/?page_id=12421",
-    "modified": "2022-11-30T13:46:28",
-    "modified_gmt": "2022-11-30T21:46:28",
+    "modified": "2022-12-09T15:17:44",
+    "modified_gmt": "2022-12-09T23:17:44",
     "slug": "draft-payment-office",
     "status": "publish",
     "type": "page",
@@ -72,6 +72,36 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/draft-payment-office/"
+    "wordpress_url": "https://api.cannabis.ca.gov/draft-payment-office/",
+    "media": [
+      {
+        "id": 12626,
+        "type": "thumbnail",
+        "path": "2022/12/photo_eureka-office-376x376.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_eureka-office-376x376.jpg",
+        "file": "photo_eureka-office-376x376.jpg",
+        "width": 376,
+        "height": 376,
+        "filesize": 40670,
+        "mime_type": "image/jpeg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_eureka-office-376x376.jpg",
+        "source_url_match": true,
+        "featured": false
+      },
+      {
+        "id": 12627,
+        "type": "thumbnail",
+        "path": "2022/12/photo_rancho-office-376x376.jpg",
+        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_rancho-office-376x376.jpg",
+        "file": "photo_rancho-office-376x376.jpg",
+        "width": 376,
+        "height": 376,
+        "filesize": 52400,
+        "mime_type": "image/jpeg",
+        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_rancho-office-376x376.jpg",
+        "source_url_match": true,
+        "featured": false
+      }
+    ]
   }
 }
