@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 47,
+      "redirects": 48,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1350,6 +1350,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-glasse/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 47,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 296,
+      "url": "/draft-payment-office/",
+      "match_url": "/draft-payment-office",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/draft-make-a-payment/"
       },
       "match_type": "url",
       "title": "",
