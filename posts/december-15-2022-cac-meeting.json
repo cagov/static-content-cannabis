@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-03T00:01:00",
-    "updated_date": "2022-12-15T16:18:42",
+    "updated_date": "2022-12-15T18:01:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-02T16:01:00",
     "date_gmt": "2022-12-03T00:01:00",
     "guid": "https://api.cannabis.ca.gov/?p=12468",
-    "modified": "2022-12-15T08:18:42",
-    "modified_gmt": "2022-12-15T16:18:42",
+    "modified": "2022-12-15T10:01:22",
+    "modified_gmt": "2022-12-15T18:01:22",
     "slug": "december-15-2022-cac-meeting",
     "status": "publish",
     "type": "post",
