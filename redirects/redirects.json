@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 50,
+      "redirects": 52,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1491,6 +1491,32 @@
       "enabled": true
     },
     {
+      "id": 299,
+      "url": "/draft-cannabis-equity-2/",
+      "match_url": "/draft-cannabis-equity-2",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/draft-cannabis-equity/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 50,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 225,
       "url": "/licensee-profile-ingram/",
       "match_url": "/licensee-profile-ingram",
@@ -1506,6 +1532,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-ingram/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 51,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 300,
+      "url": "/draft-equity-fee-waivers/",
+      "match_url": "/draft-equity-fee-waivers",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/draft-equity-fee-relief/"
       },
       "match_type": "url",
       "title": "",
