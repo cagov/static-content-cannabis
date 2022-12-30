@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 53,
+      "redirects": 54,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1636,6 +1636,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-moussalli/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 53,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 302,
+      "url": "/applicants/apply-for-an-equity-fee-waiver/",
+      "match_url": "/applicants/apply-for-an-equity-fee-waiver",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/apply-for-equity-fee-relief/"
       },
       "match_type": "url",
       "title": "",
