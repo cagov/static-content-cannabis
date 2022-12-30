@@ -209,8 +209,8 @@
           "object": "page",
           "type": "post_type",
           "type_label": "Page",
-          "url": "https://api.cannabis.ca.gov/applicants/apply-for-an-equity-fee-waiver/",
-          "title": "Apply for an equity fee waiver",
+          "url": "https://api.cannabis.ca.gov/applicants/apply-for-equity-fee-relief/",
+          "title": "Apply for equity fee relief",
           "target": "",
           "attr_title": "",
           "description": "",
@@ -218,7 +218,7 @@
             ""
           ],
           "xfn": "",
-          "slug": "apply-for-an-equity-fee-waiver"
+          "slug": "apply-for-equity-fee-relief"
         },
         {
           "ID": 11634,
