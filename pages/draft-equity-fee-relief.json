@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-30T00:00:37",
-    "updated_date": "2022-12-30T20:40:35",
+    "updated_date": "2022-12-30T20:54:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-29T16:00:37",
     "date_gmt": "2022-12-30T00:00:37",
     "guid": "https://api.cannabis.ca.gov/?page_id=12760",
-    "modified": "2022-12-30T12:40:35",
-    "modified_gmt": "2022-12-30T20:40:35",
+    "modified": "2022-12-30T12:54:22",
+    "modified_gmt": "2022-12-30T20:54:22",
     "slug": "draft-equity-fee-relief",
     "status": "publish",
     "type": "page",
