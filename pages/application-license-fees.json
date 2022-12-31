@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2022-10-10T20:46:10",
+    "updated_date": "2022-12-31T19:14:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/application-license-fees/",
-    "modified": "2022-10-10T13:46:10",
-    "modified_gmt": "2022-10-10T20:46:10",
+    "modified": "2022-12-31T11:14:45",
+    "modified_gmt": "2022-12-31T19:14:45",
     "slug": "application-license-fees",
     "status": "publish",
     "type": "page",
