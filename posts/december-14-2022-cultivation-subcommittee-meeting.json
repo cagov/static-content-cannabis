@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-03T00:15:35",
-    "updated_date": "2022-12-14T18:44:56",
+    "updated_date": "2022-12-31T22:27:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2022-12-02T16:15:35",
     "date_gmt": "2022-12-03T00:15:35",
     "guid": "https://api.cannabis.ca.gov/?p=12472",
-    "modified": "2022-12-14T10:44:56",
-    "modified_gmt": "2022-12-14T18:44:56",
+    "modified": "2022-12-31T14:27:15",
+    "modified_gmt": "2022-12-31T22:27:15",
     "slug": "december-14-2022-cultivation-subcommittee-meeting",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2022/12/december-14-2022-cultivation-subcommittee-meeting/",
-    "title": "Cultivation Subcommittee meeting &#8211; December 14, 2022",
+    "title": "Cannabis Advisory Committee &#8211; Cultivation Subcommittee",
     "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">December 14, 2022</div>\n<p></p>\n<div class=\"event-time\">1:00 PM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx Event</div>\n</div>\n",
     "author": "Wes Breazell",
     "featured_media": 0,
@@ -56,18 +56,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2022/12/december-14-2022-cultivation-subcommittee-meeting/",
-      "page_title": "Cultivation Subcommittee meeting - December 14, 2022",
+      "page_title": "Cannabis Advisory Committee - Cultivation Subcommittee",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cultivation Subcommittee meeting - December 14, 2022",
+      "meta_title": "Cannabis Advisory Committee - Cultivation Subcommittee",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2022/12/december-14-2022-cultivation-subcommittee-meeting/",
-      "open_graph_title": "Cultivation Subcommittee meeting - December 14, 2022",
+      "open_graph_title": "Cannabis Advisory Committee - Cultivation Subcommittee",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cultivation Subcommittee meeting - December 14, 2022",
+      "twitter_title": "Cannabis Advisory Committee - Cultivation Subcommittee",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -100,7 +100,8 @@
       "endTime": "1:00 PM",
       "localTimezone": "America/Los_Angeles",
       "localTimezoneLabel": "PST",
-      "location": "WebEx Event"
+      "location": "WebEx Event",
+      "cost": "Free"
     },
     "custom_post_date": "",
     "meta_": {
