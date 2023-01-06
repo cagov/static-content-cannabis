@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-06T18:34:25",
-    "updated_date": "2023-01-06T18:34:31",
+    "updated_date": "2023-01-06T18:35:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-06T10:34:25",
     "date_gmt": "2023-01-06T18:34:25",
     "guid": "https://api.cannabis.ca.gov/?p=12881",
-    "modified": "2023-01-06T10:34:31",
-    "modified_gmt": "2023-01-06T18:34:31",
+    "modified": "2023-01-06T10:35:32",
+    "modified_gmt": "2023-01-06T18:35:32",
     "slug": "with-new-regulations-in-effect-applicants-can-apply-to-convert-multiple-cultivation-licenses-to-a-large-or-medium-cultivation-license",
     "status": "publish",
     "type": "post",
