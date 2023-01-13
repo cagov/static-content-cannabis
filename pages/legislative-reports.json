@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-21T19:58:48",
-    "updated_date": "2022-10-02T23:50:55",
+    "updated_date": "2023-01-13T22:00:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-09-21T12:58:48",
     "date_gmt": "2022-09-21T19:58:48",
     "guid": "https://cannabis.ca.gov/?page_id=11542",
-    "modified": "2022-10-02T16:50:55",
-    "modified_gmt": "2022-10-02T23:50:55",
+    "modified": "2023-01-13T14:00:41",
+    "modified_gmt": "2023-01-13T22:00:41",
     "slug": "legislative-reports",
     "status": "publish",
     "type": "page",
