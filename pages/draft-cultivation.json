@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-24T16:53:53",
-    "updated_date": "2023-01-24T17:16:42",
+    "updated_date": "2023-01-24T22:37:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-24T08:53:53",
     "date_gmt": "2023-01-24T16:53:53",
     "guid": "https://api.cannabis.ca.gov/?page_id=12972",
-    "modified": "2023-01-24T09:16:42",
-    "modified_gmt": "2023-01-24T17:16:42",
+    "modified": "2023-01-24T14:37:46",
+    "modified_gmt": "2023-01-24T22:37:46",
     "slug": "draft-cultivation",
     "status": "publish",
     "type": "page",
