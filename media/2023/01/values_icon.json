@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-25T23:06:09",
-    "updated_date": "2023-01-25T23:06:09",
+    "updated_date": "2023-01-25T23:07:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-25T15:06:09",
     "date_gmt": "2023-01-25T23:06:09",
     "guid": "https://api.cannabis.ca.gov/wp-content/uploads/2023/01/values_icon.svg",
-    "modified": "2023-01-25T15:06:09",
-    "modified_gmt": "2023-01-25T23:06:09",
+    "modified": "2023-01-25T15:07:31",
+    "modified_gmt": "2023-01-25T23:07:31",
     "slug": "values_icon-2",
     "status": "inherit",
     "type": "attachment",
@@ -36,9 +36,9 @@
     "categories": [
       14
     ],
-    "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2023/01/values_icon.svg'><img width=\"1\" height=\"1\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2023/01/values_icon.svg\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2023/01/values_icon.svg'><img width=\"1\" height=\"1\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2023/01/values_icon.svg\" class=\"attachment-medium size-medium\" alt=\"Values\" decoding=\"async\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "Values",
     "media_type": "image",
     "mime_type": "image/svg+xml",
     "media_details": {
