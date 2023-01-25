@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-25T23:03:01",
-    "updated_date": "2023-01-25T23:03:01",
+    "updated_date": "2023-01-25T23:04:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-25T15:03:01",
     "date_gmt": "2023-01-25T23:03:01",
     "guid": "https://api.cannabis.ca.gov/wp-content/uploads/2023/01/mission_icon.png",
-    "modified": "2023-01-25T15:03:01",
-    "modified_gmt": "2023-01-25T23:03:01",
+    "modified": "2023-01-25T15:04:18",
+    "modified_gmt": "2023-01-25T23:04:18",
     "slug": "mission_icon",
     "status": "inherit",
     "type": "attachment",
@@ -36,9 +36,9 @@
     "categories": [
       14
     ],
-    "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2023/01/mission_icon.png'><img width=\"200\" height=\"200\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2023/01/mission_icon.png\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" /></a></p>\n",
+    "description": "<p class=\"attachment\"><a href='https://api.cannabis.ca.gov/wp-content/uploads/2023/01/mission_icon.png'><img width=\"200\" height=\"200\" src=\"https://api.cannabis.ca.gov/wp-content/uploads/2023/01/mission_icon.png\" class=\"attachment-medium size-medium\" alt=\"Mission\" decoding=\"async\" loading=\"lazy\" /></a></p>\n",
     "caption": "",
-    "alt_text": "",
+    "alt_text": "Mission",
     "media_type": "image",
     "mime_type": "image/png",
     "media_details": {
