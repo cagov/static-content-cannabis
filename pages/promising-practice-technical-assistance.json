@@ -72,35 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-technical-assistance/",
-    "media": [
-      {
-        "id": 12278,
-        "type": "full",
-        "path": "2022/11/photo_carrie_broadus.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_carrie_broadus.jpg",
-        "file": "photo_carrie_broadus.jpg",
-        "width": 395,
-        "height": 636,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_carrie_broadus.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 12278,
-        "type": "medium",
-        "path": "2022/11/photo_carrie_broadus-358x576.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_carrie_broadus-358x576.jpg",
-        "file": "photo_carrie_broadus-358x576.jpg",
-        "width": 358,
-        "height": 576,
-        "filesize": 39966,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/11/photo_carrie_broadus-358x576.jpg",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-technical-assistance/"
   }
 }
