@@ -99,21 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/10/unified-cannabis-enforcement-taskforce-targets-illegal-indoor-cultivation-in-industrial-warehouses-in-southern-california-in-second-operation/",
-    "media": [
-      {
-        "id": 12085,
-        "type": "full",
-        "path": "2022/10/Logos_CDFW-CalOES-DCC.png",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/10/Logos_CDFW-CalOES-DCC.png",
-        "file": "Logos_CDFW-CalOES-DCC.png",
-        "width": 500,
-        "height": 162,
-        "mime_type": "image/png",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/10/Logos_CDFW-CalOES-DCC.png",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://api.cannabis.ca.gov/2022/10/unified-cannabis-enforcement-taskforce-targets-illegal-indoor-cultivation-in-industrial-warehouses-in-southern-california-in-second-operation/"
   }
 }
