@@ -72,36 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/make-a-payment/",
-    "media": [
-      {
-        "id": 12626,
-        "type": "thumbnail",
-        "path": "2022/12/photo_eureka-office-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_eureka-office-376x376.jpg",
-        "file": "photo_eureka-office-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "filesize": 40670,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_eureka-office-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 12627,
-        "type": "thumbnail",
-        "path": "2022/12/photo_rancho-office-376x376.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_rancho-office-376x376.jpg",
-        "file": "photo_rancho-office-376x376.jpg",
-        "width": 376,
-        "height": 376,
-        "filesize": 52400,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_rancho-office-376x376.jpg",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/make-a-payment/"
   }
 }
