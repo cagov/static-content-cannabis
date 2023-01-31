@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-24T18:48:56",
-    "updated_date": "2023-01-31T21:59:15",
+    "updated_date": "2023-01-31T22:20:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-24T10:48:56",
     "date_gmt": "2023-01-24T18:48:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=12975",
-    "modified": "2023-01-31T13:59:15",
-    "modified_gmt": "2023-01-31T21:59:15",
+    "modified": "2023-01-31T14:20:58",
+    "modified_gmt": "2023-01-31T22:20:58",
     "slug": "draft-about-the-department-of-cannabis-control",
     "status": "publish",
     "type": "page",
