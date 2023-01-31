@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-24T16:53:53",
-    "updated_date": "2023-01-24T22:37:46",
+    "updated_date": "2023-01-31T23:21:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-01-24T08:53:53",
     "date_gmt": "2023-01-24T16:53:53",
     "guid": "https://api.cannabis.ca.gov/?page_id=12972",
-    "modified": "2023-01-24T14:37:46",
-    "modified_gmt": "2023-01-24T22:37:46",
-    "slug": "draft-cultivation",
+    "modified": "2023-01-31T15:21:28",
+    "modified_gmt": "2023-01-31T23:21:28",
+    "slug": "draft-cultivation_draft",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/draft-cultivation/",
+    "link": "https://api.cannabis.ca.gov/draft-cultivation_draft/",
     "title": "[Draft] Cultivation",
-    "excerpt": "<p>Cultivators grow all of the cannabis plants that are harvested, sold as flower, and made into products. Their operations look like other agricultural operations in California. Cannabis cultivation is a multi-step process that includes: Preparing the soil and growing medium Planting seeds or clones Irrigating, fertilizing, and managing pests Harvesting plants Drying, curing and trimming [&hellip;]</p>\n",
+    "excerpt": "<p>Cultivators grow all of the cannabis plants that are harvested, sold as flower, and made into products. Their operations look like other agricultural operations in California. Cannabis cultivation is a multi-step process that includes: Cultivation licenses If you want to grow cannabis and sell it in California, you will need a cultivation license. The type [&hellip;]</p>\n",
     "author": "Wes Breazell",
     "featured_media": 0,
     "parent": 0,
@@ -53,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/draft-cultivation/",
+      "canonical_url": "https://api.cannabis.ca.gov/draft-cultivation_draft/",
       "page_title": "[Draft] Cultivation",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "[Draft] Cultivation",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/draft-cultivation/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/draft-cultivation_draft/",
       "open_graph_title": "[Draft] Cultivation",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "[Draft] Cultivation",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/draft-cultivation/"
+    "wordpress_url": "https://api.cannabis.ca.gov/draft-cultivation_draft/"
   }
 }
