@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-02-02T18:25:20",
-    "updated_date": "2023-02-01T10:25:25",
+    "created_date": "2023-02-01T18:25:20",
+    "updated_date": "2023-02-02T20:28:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,11 +15,11 @@
   },
   "data": {
     "id": 13084,
-    "date": "2023-02-02T10:25:20",
-    "date_gmt": "2023-02-02T18:25:20",
+    "date": "2023-02-01T10:25:20",
+    "date_gmt": "2023-02-01T18:25:20",
     "guid": "https://api.cannabis.ca.gov/?p=13084",
-    "modified": "2023-02-01T10:25:25",
-    "modified_gmt": "2023-02-01T10:25:25",
+    "modified": "2023-02-02T12:28:55",
+    "modified_gmt": "2023-02-02T20:28:55",
     "slug": "new-guidance-answers-licensee-questions-on-use-of-generators",
     "status": "publish",
     "type": "post",
