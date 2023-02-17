@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-17T16:54:02",
-    "updated_date": "2023-02-17T16:54:07",
+    "updated_date": "2023-02-17T16:54:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,31 +18,31 @@
     "date": "2023-02-17T08:54:02",
     "date_gmt": "2023-02-17T16:54:02",
     "guid": "https://api.cannabis.ca.gov/?p=13258",
-    "modified": "2023-02-17T08:54:07",
-    "modified_gmt": "2023-02-17T16:54:07",
+    "modified": "2023-02-17T08:54:50",
+    "modified_gmt": "2023-02-17T16:54:50",
     "slug": "cannabis-advisory-committee-equity-subcommittee",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-equity-subcommittee/",
     "title": "Cannabis Advisory Committee – Equity Subcommittee",
-    "excerpt": "<p>The Cannabis Advisory Committee’s (CAC) Equity Subcommittee will hold a virtual meeting on Thursday, March 2, 2023, beginning at 1 p.m. Meeting agenda:&nbsp; How to join the meeting:&nbsp; To view or participate in the meeting, please join by computer or phone at the meeting time: &nbsp; View instructions for connecting to the meeting.</p>\n",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">March 2, 2023</div>\n<p></p>\n<div class=\"event-time\">1:00 PM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx Event</div>\n</div>\n",
     "author": "Wes Breazell",
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-event.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Events"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-single-event"
     },
     "og_meta": {
       "editor": {
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 4,
+        "name": "Events",
+        "slug": "events",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 4,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 2,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 4,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
+        "cat_name": "Events",
+        "category_nicename": "events",
+        "category_parent": 2
       }
     ],
     "headless_tags": [],
