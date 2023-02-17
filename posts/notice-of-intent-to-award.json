@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-17T18:00:34",
-    "updated_date": "2023-02-17T18:04:24",
+    "updated_date": "2023-02-17T18:08:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-17T10:00:34",
     "date_gmt": "2023-02-17T18:00:34",
     "guid": "https://api.cannabis.ca.gov/?p=13265",
-    "modified": "2023-02-17T10:04:24",
-    "modified_gmt": "2023-02-17T18:04:24",
+    "modified": "2023-02-17T10:08:27",
+    "modified_gmt": "2023-02-17T18:08:27",
     "slug": "notice-of-intent-to-award",
     "status": "publish",
     "type": "post",
