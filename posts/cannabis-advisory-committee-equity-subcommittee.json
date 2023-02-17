@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "created_date": "2023-02-17T16:54:02",
+    "updated_date": "2023-02-17T16:54:07",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13258",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13258,
+    "date": "2023-02-17T08:54:02",
+    "date_gmt": "2023-02-17T16:54:02",
+    "guid": "https://api.cannabis.ca.gov/?p=13258",
+    "modified": "2023-02-17T08:54:07",
+    "modified_gmt": "2023-02-17T16:54:07",
+    "slug": "cannabis-advisory-committee-equity-subcommittee",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-equity-subcommittee/",
+    "title": "Cannabis Advisory Committee – Equity Subcommittee",
+    "excerpt": "<p>The Cannabis Advisory Committee’s (CAC) Equity Subcommittee will hold a virtual meeting on Thursday, March 2, 2023, beginning at 1 p.m. Meeting agenda:&nbsp; How to join the meeting:&nbsp; To view or participate in the meeting, please join by computer or phone at the meeting time: &nbsp; View instructions for connecting to the meeting.</p>\n",
+    "author": "Wes Breazell",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Announcements"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-equity-subcommittee/",
+      "page_title": "Cannabis Advisory Committee – Equity Subcommittee",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis Advisory Committee – Equity Subcommittee",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-equity-subcommittee/",
+      "open_graph_title": "Cannabis Advisory Committee – Equity Subcommittee",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cannabis Advisory Committee – Equity Subcommittee",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": {
+      "startDateTimeUTC": "2023-03-02T21:00:00",
+      "endDateTimeUTC": "2023-03-02T21:00:00",
+      "startDate": "March 2, 2023",
+      "endDate": "March 2, 2023",
+      "startTime": "1:00 PM",
+      "endTime": "1:00 PM",
+      "localTimezone": "America/Los_Angeles",
+      "localTimezoneLabel": "PST",
+      "location": "WebEx Event",
+      "cost": "Free"
+    },
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-equity-subcommittee/"
+  }
+}
