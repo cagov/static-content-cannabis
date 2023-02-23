@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "created_date": "2023-02-23T17:50:54",
+    "updated_date": "2023-02-23T17:50:59",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13265",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13265,
+    "date": "2023-02-23T09:50:54",
+    "date_gmt": "2023-02-23T17:50:54",
+    "guid": "https://api.cannabis.ca.gov/?p=13265",
+    "modified": "2023-02-23T09:50:59",
+    "modified_gmt": "2023-02-23T17:50:59",
+    "slug": "notice-of-intent-to-award",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/02/notice-of-intent-to-award/",
+    "title": " Notice of Intent to Award",
+    "excerpt": "<p>Amendment No. 1 Date amendment issued: 2/23/2023 This amendment No. 1 is being issued to correct the closing date of the protest period. Except as modified hereby, the Notice of Intent to Award remains unmodified. The Department of Cannabis Control intends to award solicitation No.&nbsp;RFP 22-002 For:&nbsp;Cannabis Consumer Awareness Campaign To:&nbsp;Fiona Hutton &amp; Associates Any [&hellip;]</p>\n",
+    "author": "Wes Breazell",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Announcements"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/02/notice-of-intent-to-award/",
+      "page_title": " Notice of Intent to Award",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": " Notice of Intent to Award",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/02/notice-of-intent-to-award/",
+      "open_graph_title": " Notice of Intent to Award",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": " Notice of Intent to Award",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/02/notice-of-intent-to-award/"
+  }
+}
