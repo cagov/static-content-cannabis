@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-17T16:54:02",
-    "updated_date": "2023-03-02T16:25:58",
+    "updated_date": "2023-03-02T16:28:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-17T08:54:02",
     "date_gmt": "2023-02-17T16:54:02",
     "guid": "https://api.cannabis.ca.gov/?p=13258",
-    "modified": "2023-03-02T08:25:58",
-    "modified_gmt": "2023-03-02T16:25:58",
+    "modified": "2023-03-02T08:28:13",
+    "modified_gmt": "2023-03-02T16:28:13",
     "slug": "cannabis-advisory-committee-equity-subcommittee",
     "status": "publish",
     "type": "post",
