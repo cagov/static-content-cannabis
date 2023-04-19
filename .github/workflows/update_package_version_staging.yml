@@ -29,7 +29,8 @@ jobs:
           git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
           git sparse-checkout init --cone
           git sparse-checkout add "package.json"
-          git checkout staging
+          # git checkout staging
+          git checkout
       - name: "cat package.json"
         # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
