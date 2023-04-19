@@ -6,6 +6,11 @@ on:
     - main
   pull_request:
       types: [opened, synchronize]
+  workflow_dispatch:
+  repository_dispatch:
+    types: [update_package_version_main]
+
+concurrency: sync_sequential_version_bumps  
 
 concurrency: sync_sequential_version_bumps  
 
