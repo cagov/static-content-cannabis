@@ -10,7 +10,9 @@ on:
   repository_dispatch:
     types: [update_package_version_staging]
 
-concurrency: sync_version_bumps_staging
+concurrency: 
+  group: sync_update_package_version_staging
+  cancel-in-progress: true
 
 jobs:
   bump-version:  # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
