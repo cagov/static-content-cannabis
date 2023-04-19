@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "created_date": "2021-12-30T23:22:53",
+    "updated_date": "2022-12-31T00:56:12",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/9249",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 9249,
+    "date": "2021-12-30T15:22:53",
+    "date_gmt": "2021-12-30T23:22:53",
+    "guid": "https://cannabis.ca.gov/?page_id=9249",
+    "modified": "2022-12-30T16:56:12",
+    "modified_gmt": "2022-12-31T00:56:12",
+    "slug": "equity-fee-relief",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/",
+    "title": "Equity fee relief",
+    "excerpt": "<p>If you were negatively affected by the criminalization of cannabis, you can apply to have your license fee waived and/or deferred. Read the eligibility criteria below for fee waivers and fee deferrals, or download a guidance document. Business eligibility There are two basic requirements for getting equity fee relief. If your business meets them both, [&hellip;]</p>\n",
+    "author": "Department of Cannabis Control",
+    "featured_media": 0,
+    "parent": 756,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/",
+      "page_title": "Equity fee relief",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Equity fee relief",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/",
+      "open_graph_title": "Equity fee relief",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Equity fee relief",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/"
+  }
+}

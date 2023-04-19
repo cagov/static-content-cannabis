@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 47,
+      "redirects": 57,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1361,6 +1361,58 @@
       "enabled": true
     },
     {
+      "id": 296,
+      "url": "/draft-payment-office/",
+      "match_url": "/draft-payment-office",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/draft-make-a-payment/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 47,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 297,
+      "url": "/draft-make-a-payment/",
+      "match_url": "/draft-make-a-payment",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/make-a-payment/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 48,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 223,
       "url": "/licensee-profile-farrar/",
       "match_url": "/licensee-profile-farrar",
@@ -1376,6 +1428,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-farrar/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 49,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 298,
+      "url": "/draft-apply-for-an-equity-fee-waiver/",
+      "match_url": "/draft-apply-for-an-equity-fee-waiver",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/draft-apply-for-equity-fee-relief/"
       },
       "match_type": "url",
       "title": "",
@@ -1413,6 +1491,32 @@
       "enabled": true
     },
     {
+      "id": 299,
+      "url": "/draft-cannabis-equity-2/",
+      "match_url": "/draft-cannabis-equity-2",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/draft-cannabis-equity/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 50,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 225,
       "url": "/licensee-profile-ingram/",
       "match_url": "/licensee-profile-ingram",
@@ -1428,6 +1532,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-ingram/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 51,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 300,
+      "url": "/draft-equity-fee-waivers/",
+      "match_url": "/draft-equity-fee-waivers",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/draft-equity-fee-relief/"
       },
       "match_type": "url",
       "title": "",
@@ -1465,6 +1595,32 @@
       "enabled": true
     },
     {
+      "id": 301,
+      "url": "/applicants/equity-fee-waivers/apply-for-an-equity-fee-waiver/",
+      "match_url": "/applicants/equity-fee-waivers/apply-for-an-equity-fee-waiver",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/apply-for-an-equity-fee-waiver/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 52,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 227,
       "url": "/licensee-profile-moussalli/",
       "match_url": "/licensee-profile-moussalli",
@@ -1480,6 +1636,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-moussalli/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 53,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 302,
+      "url": "/applicants/apply-for-an-equity-fee-waiver/",
+      "match_url": "/applicants/apply-for-an-equity-fee-waiver",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/apply-for-equity-fee-relief/"
       },
       "match_type": "url",
       "title": "",
@@ -1517,6 +1699,32 @@
       "enabled": true
     },
     {
+      "id": 303,
+      "url": "/applicants/equity-fee-waivers/",
+      "match_url": "/applicants/equity-fee-waivers",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/equity-fee-relief/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 54,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 229,
       "url": "/licensee-profile-donaldson/",
       "match_url": "/licensee-profile-donaldson",
@@ -1543,6 +1751,32 @@
       "enabled": true
     },
     {
+      "id": 304,
+      "url": "/draft-cultivation/",
+      "match_url": "/draft-cultivation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/draft-cultivation_draft/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 55,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 230,
       "url": "/licensee-profile-swami/",
       "match_url": "/licensee-profile-swami",
@@ -1558,6 +1792,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-swami/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 56,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 305,
+      "url": "/draft-cultivation_draft/",
+      "match_url": "/draft-cultivation_draft",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation_draft/"
       },
       "match_type": "url",
       "title": "",
