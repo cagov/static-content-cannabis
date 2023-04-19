@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-03T17:04:08",
-    "updated_date": "2022-12-02T17:12:46",
+    "updated_date": "2022-12-07T00:36:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -9,7 +9,7 @@
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -18,8 +18,8 @@
     "date": "2022-11-03T10:04:08",
     "date_gmt": "2022-11-03T17:04:08",
     "guid": "https://api.cannabis.ca.gov/?page_id=12285",
-    "modified": "2022-12-02T09:12:46",
-    "modified_gmt": "2022-12-02T17:12:46",
+    "modified": "2022-12-06T16:36:23",
+    "modified_gmt": "2022-12-07T00:36:23",
     "slug": "promising-practice-direct-grants",
     "status": "publish",
     "type": "page",
@@ -72,35 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-direct-grants/",
-    "media": [
-      {
-        "id": 12439,
-        "type": "full",
-        "path": "2022/12/photo_reese_benton-2.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_reese_benton-2.jpg",
-        "file": "photo_reese_benton-2.jpg",
-        "width": 395,
-        "height": 636,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_reese_benton-2.jpg",
-        "source_url_match": true,
-        "featured": false
-      },
-      {
-        "id": 12439,
-        "type": "medium",
-        "path": "2022/12/photo_reese_benton-2-358x576.jpg",
-        "wordpress_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_reese_benton-2-358x576.jpg",
-        "file": "photo_reese_benton-2-358x576.jpg",
-        "width": 358,
-        "height": 576,
-        "filesize": 35766,
-        "mime_type": "image/jpeg",
-        "source_url": "https://api.cannabis.ca.gov/wp-content/uploads/2022/12/photo_reese_benton-2-358x576.jpg",
-        "source_url_match": true,
-        "featured": false
-      }
-    ]
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-direct-grants/"
   }
 }

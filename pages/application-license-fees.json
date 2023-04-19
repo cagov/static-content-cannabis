@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2022-10-10T20:46:10",
+    "updated_date": "2023-01-06T20:37:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -9,7 +9,7 @@
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/application-license-fees/",
-    "modified": "2022-10-10T13:46:10",
-    "modified_gmt": "2022-10-10T20:46:10",
+    "modified": "2023-01-06T12:37:36",
+    "modified_gmt": "2023-01-06T20:37:36",
     "slug": "application-license-fees",
     "status": "publish",
     "type": "page",
