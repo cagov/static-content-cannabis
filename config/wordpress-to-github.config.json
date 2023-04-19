@@ -8,7 +8,7 @@
     "disabled": false,
     "PostPath": "posts",
     "PagePath": "pages",
-    "MediaPath": "media",
+    "MediaPath": "",
     "GeneralFilePath": "config/general/general.json",
     "ExcludeProperties": ["content", "_links"],
     "ApiRequests": [
