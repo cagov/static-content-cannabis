@@ -6,6 +6,9 @@ on:
     - staging
   pull_request:
       types: [opened, synchronize]
+  workflow_dispatch:
+  repository_dispatch:
+    types: [update_package_version_staging]
 
 concurrency: sync_version_bumps_staging
 
