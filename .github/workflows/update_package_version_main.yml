@@ -10,7 +10,9 @@ on:
   repository_dispatch:
     types: [update_package_version_main]
 
-concurrency: sync_sequential_version_bumps  
+concurrency: 
+  group: sync_update_package_version_main
+  cancel-in-progress: true
 
 concurrency: sync_sequential_version_bumps  
 
