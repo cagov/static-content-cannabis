@@ -20,17 +20,24 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-      - name: "Partially checkout source code"
-        # Fast checkout of package.json in order to bump the version number.
-        run: |
-          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-          git config --global user.email github-actions@github.com
-          git config --global user.name github-actions
-          git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
-          git sparse-checkout init --cone
-          git sparse-checkout add "package.json"
-          # git checkout staging
-          git checkout
+      - name: "Checkout source code"
+        uses: "actions/checkout@v2"
+        with:
+          ref: ${{ github.ref }}
+      # jbum: this code breaks on staging branch. checkouts should be significantly faster now
+      # since we've dropped media folder
+      #
+      # - name: "Partially checkout source code"
+      #   # Fast checkout of package.json in order to bump the version number.
+      #   run: |
+      #     REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+      #     git config --global user.email github-actions@github.com
+      #     git config --global user.name github-actions
+      #     git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
+      #     git sparse-checkout init --cone
+      #     git sparse-checkout add "package.json"
+      #     # git checkout staging
+      #     git checkout
       - name: "cat package.json"
         # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
