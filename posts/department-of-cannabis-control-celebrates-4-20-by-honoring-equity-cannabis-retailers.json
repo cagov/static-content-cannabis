@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-20T17:53:15",
-    "updated_date": "2023-04-20T17:53:20",
+    "updated_date": "2023-04-20T18:01:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-20T10:53:15",
     "date_gmt": "2023-04-20T17:53:15",
     "guid": "https://api.cannabis.ca.gov/?p=13543",
-    "modified": "2023-04-20T10:53:20",
-    "modified_gmt": "2023-04-20T17:53:20",
+    "modified": "2023-04-20T11:01:30",
+    "modified_gmt": "2023-04-20T18:01:30",
     "slug": "department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers",
     "status": "publish",
     "type": "post",
