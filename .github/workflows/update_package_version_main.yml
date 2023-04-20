@@ -33,16 +33,16 @@ jobs:
       - name: "cat package.json"
         # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
-      - name: "Automated Version Bump"
-        # https://github.com/phips28/gh-action-bump-version
-        # Method suggestion from https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
-        # Bump the version number of this content package repo.
-        uses: "phips28/gh-action-bump-version@v9.1.0"
-        with:
-          tag-prefix: ''
-          commit-message: 'Bumps main branch content package version to {{version}}.'
-        env: 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       - name: "Automated Version Bump"
+#         # https://github.com/phips28/gh-action-bump-version
+#         # Method suggestion from https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
+#         # Bump the version number of this content package repo.
+#         uses: "phips28/gh-action-bump-version@v9.1.0"
+#         with:
+#           tag-prefix: ''
+#           commit-message: 'Bumps main branch content package version to {{version}}.'
+#         env: 
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "cat package.json"
         # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
