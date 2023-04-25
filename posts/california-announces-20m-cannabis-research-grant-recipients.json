@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "created_date": "2023-04-25T17:57:18",
+    "updated_date": "2023-04-25T17:57:18",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13562",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13562,
+    "date": "2023-04-25T10:57:18",
+    "date_gmt": "2023-04-25T17:57:18",
+    "guid": "https://api.cannabis.ca.gov/?p=13562",
+    "modified": "2023-04-25T10:57:18",
+    "modified_gmt": "2023-04-25T17:57:18",
+    "slug": "california-announces-20m-cannabis-research-grant-recipients",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/04/california-announces-20m-cannabis-research-grant-recipients/",
+    "title": "California announces $20M cannabis research grant recipients",
+    "excerpt": "<p>Sixteen grant recipients will study medicinal use of cannabis, cannabis potency, health of the cannabis industry, monopolies and unfair competition, and California legacy genetics &amp; genetic sequencing CALIFORNIA &#8211; The California Department of Cannabis Control (DCC) awarded $20 million in research grants to 16 academic institutions. These funds will support scientific research on the impact [&hellip;]</p>\n",
+    "author": "Mukhtar Mukhtar",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-press-release.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Announcements"
+    ],
+    "tags": [
+      "California Department of Public Health"
+    ],
+    "design_system_fields": {
+      "template": "template-single-press-release"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/04/california-announces-20m-cannabis-research-grant-recipients/",
+      "page_title": "California announces $20M cannabis research grant recipients",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "California announces $20M cannabis research grant recipients",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/04/california-announces-20m-cannabis-research-grant-recipients/",
+      "open_graph_title": "California announces $20M cannabis research grant recipients",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "California announces $20M cannabis research grant recipients",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 114,
+        "name": "California Department of Public Health",
+        "slug": "california-department-of-public-health",
+        "term_group": 0,
+        "term_taxonomy_id": 114,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/04/california-announces-20m-cannabis-research-grant-recipients/"
+  }
+}
