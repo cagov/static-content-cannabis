@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-25T17:57:18",
-    "updated_date": "2023-04-25T17:57:18",
+    "updated_date": "2023-04-25T17:57:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-25T10:57:18",
     "date_gmt": "2023-04-25T17:57:18",
     "guid": "https://api.cannabis.ca.gov/?p=13562",
-    "modified": "2023-04-25T10:57:18",
-    "modified_gmt": "2023-04-25T17:57:18",
+    "modified": "2023-04-25T10:57:24",
+    "modified_gmt": "2023-04-25T17:57:24",
     "slug": "california-announces-20m-cannabis-research-grant-recipients",
     "status": "publish",
     "type": "post",
