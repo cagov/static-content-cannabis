@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-11T20:32:25",
-    "updated_date": "2023-04-26T20:16:15",
+    "updated_date": "2023-04-26T21:21:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -9,7 +9,7 @@
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
     },
     "refresh_frequency": "as needed"
   },
@@ -18,14 +18,14 @@
     "date": "2023-01-11T12:32:25",
     "date_gmt": "2023-01-11T20:32:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=12920",
-    "modified": "2023-04-26T13:16:15",
-    "modified_gmt": "2023-04-26T20:16:15",
+    "modified": "2023-04-26T14:21:43",
+    "modified_gmt": "2023-04-26T21:21:43",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/testing-page/",
     "title": "Testing Page",
-    "excerpt": "<p>Page for testing publishing pipeline. Last updated 1:16 pm 2023-04-26 (without staging tag)Created 9:45am 2023-01-011 This is custom HTML first second third fourth 10,001 sq. ft. to 1 acre 10,001 sq. ft. to 1 acre 10,001 sq. ft. to 1 acre 10,001 sq. ft. to 1 acre 10,001 sq. ft. to 1 acre 10,001 sq. [&hellip;]</p>\n",
+    "excerpt": "<p>Page for testing publishing pipeline. Last updated 2:21 pm 2023-04-26 (with staging tag)Created 9:45am 2023-01-011 This is custom HTML first second third fourth 10,001 sq. ft. to 1 acre 10,001 sq. ft. to 1 acre 10,001 sq. ft. to 1 acre 10,001 sq. ft. to 1 acre 10,001 sq. ft. to 1 acre 10,001 sq. [&hellip;]</p>\n",
     "author": "Jim Bumgardner",
     "featured_media": 0,
     "parent": 0,
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -69,7 +71,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/testing-page/"
