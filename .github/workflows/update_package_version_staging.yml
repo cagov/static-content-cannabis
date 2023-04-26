@@ -20,10 +20,10 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-      - name: "Checkout source code"
+      - name: "Checkout source code (staging)"
         uses: "actions/checkout@v2"
         with:
-          ref: ${{ github.ref }}
+          ref: staging
       # jbum: this code breaks on staging branch. checkouts should be significantly faster now
       # since we've dropped media folder
       #
