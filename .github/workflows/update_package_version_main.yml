@@ -14,8 +14,6 @@ concurrency:
   group: sync_update_package_version_main
   cancel-in-progress: true
 
-concurrency: sync_sequential_version_bumps  
-
 jobs:
   bump-version:  # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
     name: Bump Version on main branch
