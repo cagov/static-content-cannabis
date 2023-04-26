@@ -42,6 +42,7 @@ jobs:
         # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
       - name: "Automated Version Bump"
+        continue-on-error: true
         # https://github.com/phips28/gh-action-bump-version
         # Method suggestion from https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
         # Bump the version number of this content package repo.
