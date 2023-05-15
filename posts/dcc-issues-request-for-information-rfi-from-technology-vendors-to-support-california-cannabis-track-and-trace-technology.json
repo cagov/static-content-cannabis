@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T17:31:25",
-    "updated_date": "2023-05-15T17:31:31",
+    "updated_date": "2023-05-15T17:48:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T10:31:25",
     "date_gmt": "2023-05-15T17:31:25",
     "guid": "https://api.cannabis.ca.gov/?p=13620",
-    "modified": "2023-05-15T10:31:31",
-    "modified_gmt": "2023-05-15T17:31:31",
+    "modified": "2023-05-15T10:48:47",
+    "modified_gmt": "2023-05-15T17:48:47",
     "slug": "dcc-issues-request-for-information-rfi-from-technology-vendors-to-support-california-cannabis-track-and-trace-technology",
     "status": "publish",
     "type": "post",
@@ -40,9 +40,7 @@
     "categories": [
       "Announcements"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single"
     },
@@ -90,19 +88,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
