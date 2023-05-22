@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-22T16:36:35",
-    "updated_date": "2023-05-22T16:36:41",
+    "updated_date": "2023-05-22T16:38:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-22T09:36:35",
     "date_gmt": "2023-05-22T16:36:35",
     "guid": "https://api.cannabis.ca.gov/?p=13648",
-    "modified": "2023-05-22T09:36:41",
-    "modified_gmt": "2023-05-22T16:36:41",
+    "modified": "2023-05-22T09:38:45",
+    "modified_gmt": "2023-05-22T16:38:45",
     "slug": "californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-52m-worth-of-unlicensed-cannabis-products-in-q1-2023",
     "status": "publish",
     "type": "post",
