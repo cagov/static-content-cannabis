@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-26T20:14:17",
-    "updated_date": "2023-05-26T20:52:39",
+    "updated_date": "2023-05-26T21:26:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-26T13:14:17",
     "date_gmt": "2023-05-26T20:14:17",
     "guid": "https://api.cannabis.ca.gov/?p=13695",
-    "modified": "2023-05-26T13:52:39",
-    "modified_gmt": "2023-05-26T20:52:39",
+    "modified": "2023-05-26T14:26:04",
+    "modified_gmt": "2023-05-26T21:26:04",
     "slug": "cannabis-advisory-committee-june-8-2023",
     "status": "publish",
     "type": "post",
@@ -40,9 +40,7 @@
     "categories": [
       "Events"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single-event"
     },
@@ -90,19 +88,7 @@
         "category_parent": 2
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": {
