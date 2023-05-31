@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/licensees/testing-laboratories/",
     "title": "Testing laboratories",
     "excerpt": "<p>Testing laboratories make sure cannabis goods are safe for consumption.</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 758,
     "menu_order": 5,

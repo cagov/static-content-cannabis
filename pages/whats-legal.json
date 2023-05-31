@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/consumers/whats-legal/",
     "title": "What&#8217;s legal",
     "excerpt": "<p>While cannabis is legal in California, it is still subject to rules.</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 757,
     "menu_order": 2,

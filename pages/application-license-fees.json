@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/applicants/application-license-fees/",
     "title": "Application and license fees",
     "excerpt": "<p>Fees are specific to the license type you are applying for or renewing. Most fees are calculated based on your business’s gross annual revenue.</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 756,
     "menu_order": 3,

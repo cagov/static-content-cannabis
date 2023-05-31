@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/about-us/scientific-research/",
     "title": "Scientific research",
     "excerpt": "<p>Some of the revenue collected from cannabis taxes funds grants. This will help expand our knowledge about cannabis.</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 856,
     "menu_order": 5,

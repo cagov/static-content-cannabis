@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/licensees/events/",
     "title": "Events",
     "excerpt": "<p>Cannabis events are multi-day events where people can sell and consume cannabis.</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 758,
     "menu_order": 7,
