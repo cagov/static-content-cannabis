@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/cannabis-laws/",
     "title": "Cannabis laws",
     "excerpt": "<p>[et_pb_section admin_label=&#8221;section&#8221;] [et_pb_row admin_label=&#8221;row&#8221;] [et_pb_column type=&#8221;4_4&#8243;][/et_pb_column] [/et_pb_row] [/et_pb_section] Test test test</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,

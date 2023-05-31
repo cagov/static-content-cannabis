@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/about-us/dcc-events/",
     "title": "Department of Cannabis Control events",
     "excerpt": "<p>Find out about upcoming Department of Cannabis Control events.</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 856,
     "menu_order": 3,

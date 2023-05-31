@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/licensees/cultivation/",
     "title": "Cultivation",
     "excerpt": "<p>Cultivators grow all of the cannabis plants that are harvested, sold as flower, and made into products.</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 758,
     "menu_order": 2,

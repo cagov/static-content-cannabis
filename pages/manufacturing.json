@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/licensees/manufacturing/",
     "title": "Manufacturing",
     "excerpt": "<p>Manufacturers extract cannabinoids from cannabis plants and make products out of the extract.</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 758,
     "menu_order": 3,

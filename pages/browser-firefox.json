@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/browser-firefox/",
     "title": "Keyboard Shortcuts for Firefox",
     "excerpt": "<p>Keyboard Shortcuts for Firefox Windows Navigation To do this Press this Back Alt + ← BackspaceAlt + ← Ctrl + [ Forward Alt + → Shift + BackspaceAlt + → Ctrl + ] Home Alt + Home Open File Ctrl + O Reload F5 Ctrl + R Reload (override cache) Ctrl + F5 Ctrl + [&hellip;]</p>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
