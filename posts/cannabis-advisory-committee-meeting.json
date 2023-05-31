@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/2021/12/cannabis-advisory-committee-meeting/",
     "title": "Cannabis Advisory Committee",
     "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">December 13, 2021</div>\n<p></p>\n<div class=\"event-time\">10:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">Virtual (WebEx Events)</div>\n</div>\n",
-    "author": "Department of Cannabis Control",
+    "author": 2,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
