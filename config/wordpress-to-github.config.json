@@ -11,6 +11,7 @@
     "MediaPath": "",
     "GeneralFilePath": "config/general/general.json",
     "ExcludeProperties": ["content", "_links"],
+    "HideAuthorName":true,
     "ApiRequests": [
       {
         "Destination": "redirects/redirects.json",
