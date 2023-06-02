@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-02T20:29:04",
-    "updated_date": "2023-06-02T22:48:11",
+    "updated_date": "2023-06-02T22:48:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-02T13:29:04",
     "date_gmt": "2023-06-02T20:29:04",
     "guid": "https://api.cannabis.ca.gov/?p=13736",
-    "modified": "2023-06-02T15:48:11",
-    "modified_gmt": "2023-06-02T22:48:11",
+    "modified": "2023-06-02T15:48:56",
+    "modified_gmt": "2023-06-02T22:48:56",
     "slug": "cannabis-manufacturer-self-inspection-checklist",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "Licensees",
       "Manufacturing"
     ],
     "tags": [],
@@ -71,6 +72,22 @@
       "twitter_description": "This checklist is designed to help you review the conditions of your cannabis manufacturing facility in preparation for an inspection by Department of Cannabis Control (Department) staff. "
     },
     "headless_categories": [
+      {
+        "term_id": 799,
+        "name": "Licensees",
+        "slug": "licensees",
+        "term_group": 0,
+        "term_taxonomy_id": 799,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 799,
+        "category_description": "",
+        "cat_name": "Licensees",
+        "category_nicename": "licensees",
+        "category_parent": 0
+      },
       {
         "term_id": 800,
         "name": "Manufacturing",
