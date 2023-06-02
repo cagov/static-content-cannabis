@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-02T20:56:47",
-    "updated_date": "2023-06-02T20:56:52",
+    "updated_date": "2023-06-02T22:19:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-02T13:56:47",
     "date_gmt": "2023-06-02T20:56:47",
     "guid": "https://api.cannabis.ca.gov/?p=13740",
-    "modified": "2023-06-02T13:56:52",
-    "modified_gmt": "2023-06-02T20:56:52",
+    "modified": "2023-06-02T15:19:35",
+    "modified_gmt": "2023-06-02T22:19:35",
     "slug": "cannabis-cultivator-self-inspection-checklist",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/06/cannabis-cultivator-self-inspection-checklist/",
     "title": "Cannabis Cultivator: Self-Inspection Checklist",
-    "excerpt": "<p>This checklist is designed to help you review the conditions of your cannabis cultivation (including nursery or processing) facility in preparation for an inspection by Department of Cannabis Control staff. The items listed below represent the major areas evaluated during a routine compliance inspection. This checklist is not an exhaustive list or substitute for ensuring [&hellip;]</p>\n",
+    "excerpt": "<p>This checklist is designed to help you review the conditions of your cannabis cultivation (including nursery or processing) facility in preparation for an inspection by Department of Cannabis Control (Department) staff. The items listed below represent the major areas evaluated during a routine compliance inspection. The requirements come from division 10 of the California Business [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      null
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 801,
+        "name": "Cultivation",
+        "slug": "cultivation",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 801,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 799,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 801,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
+        "cat_name": "Cultivation",
+        "category_nicename": "cultivation",
+        "category_parent": 799
       }
     ],
     "headless_tags": [],
