@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "created_date": "2023-06-06T21:26:34",
+    "updated_date": "2023-06-06T21:26:40",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13796",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13796,
+    "date": "2023-06-06T14:26:34",
+    "date_gmt": "2023-06-06T21:26:34",
+    "guid": "https://api.cannabis.ca.gov/?p=13796",
+    "modified": "2023-06-06T14:26:40",
+    "modified_gmt": "2023-06-06T21:26:40",
+    "slug": "cannabis-license-fee-waivers",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/06/cannabis-license-fee-waivers/",
+    "title": "Cannabis license fee waivers",
+    "excerpt": "<p>Type: Readoption of emergency regulations Status: Approved June 6, 2022 The Department of Cannabis Control (DCC) is providing notice to the public of its intent to readopt its emergency regulations implementing Senate Bill 166 which requires DCC to develop and implement a program to provide waivers for cannabis licensing fees, with at least 60 percent [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Completed Actions"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/06/cannabis-license-fee-waivers/",
+      "page_title": "Cannabis license fee waivers",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis license fee waivers",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/06/cannabis-license-fee-waivers/",
+      "open_graph_title": "Cannabis license fee waivers",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cannabis license fee waivers",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 804,
+        "name": "Completed Actions",
+        "slug": "completed-actions",
+        "term_group": 0,
+        "term_taxonomy_id": 804,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 802,
+        "filter": "raw",
+        "cat_ID": 804,
+        "category_description": "",
+        "cat_name": "Completed Actions",
+        "category_nicename": "completed-actions",
+        "category_parent": 802
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/06/cannabis-license-fee-waivers/"
+  }
+}
