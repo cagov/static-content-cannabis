@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:52",
-    "updated_date": "2022-10-25T21:20:35",
+    "updated_date": "2023-06-08T22:32:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:52",
     "date_gmt": "2021-06-19T15:07:52",
     "guid": "http://wordpress.test:8888/whats-legal/",
-    "modified": "2022-10-25T14:20:35",
-    "modified_gmt": "2022-10-25T21:20:35",
+    "modified": "2023-06-08T15:32:21",
+    "modified_gmt": "2023-06-08T22:32:21",
     "slug": "whats-legal",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -69,7 +71,19 @@
       "twitter_description": "While cannabis is legal in California, it is still subject to rules."
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/consumers/whats-legal/"
