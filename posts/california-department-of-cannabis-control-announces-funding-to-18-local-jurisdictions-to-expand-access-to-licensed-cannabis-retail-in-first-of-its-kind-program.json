@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-20T22:58:01",
-    "updated_date": "2023-06-20T22:58:35",
+    "updated_date": "2023-06-20T23:02:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-20T15:58:01",
     "date_gmt": "2023-06-20T22:58:01",
     "guid": "https://api.cannabis.ca.gov/?p=13912",
-    "modified": "2023-06-20T15:58:35",
-    "modified_gmt": "2023-06-20T22:58:35",
+    "modified": "2023-06-20T16:02:14",
+    "modified_gmt": "2023-06-20T23:02:14",
     "slug": "california-department-of-cannabis-control-announces-funding-to-18-local-jurisdictions-to-expand-access-to-licensed-cannabis-retail-in-first-of-its-kind-program",
     "status": "publish",
     "type": "post",
@@ -40,9 +40,7 @@
     "categories": [
       "Announcements"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single-press-release"
     },
@@ -90,19 +88,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
