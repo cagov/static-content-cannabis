@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-20T22:58:01",
-    "updated_date": "2023-06-20T22:58:07",
+    "updated_date": "2023-06-20T22:58:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-06-20T15:58:01",
     "date_gmt": "2023-06-20T22:58:01",
     "guid": "https://api.cannabis.ca.gov/?p=13912",
-    "modified": "2023-06-20T15:58:07",
-    "modified_gmt": "2023-06-20T22:58:07",
+    "modified": "2023-06-20T15:58:35",
+    "modified_gmt": "2023-06-20T22:58:35",
     "slug": "california-department-of-cannabis-control-announces-funding-to-18-local-jurisdictions-to-expand-access-to-licensed-cannabis-retail-in-first-of-its-kind-program",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/06/california-department-of-cannabis-control-announces-funding-to-18-local-jurisdictions-to-expand-access-to-licensed-cannabis-retail-in-first-of-its-kind-program/",
     "title": "California Department of Cannabis Control announces funding to 18 local jurisdictions to expand access to licensed cannabis retail in first of its kind program ",
-    "excerpt": "<p>Additional funds were awarded to strengthen support for equity operators throughout the state   Today, the Department of Cannabis Control (DCC) announced awards to 18 local jurisdictions that will be establishing cannabis retail licensing pathways for the first time in their city or county. Fourteen of the 18 jurisdictions selected for awards are proposing equity programs [&hellip;]</p>\n",
+    "excerpt": "<p>Additional funds were awarded to strengthen support for equity operators throughout the state&nbsp;&nbsp; Today, the Department of Cannabis Control (DCC) announced awards to 18 local jurisdictions that will be establishing cannabis retail licensing pathways for the first time in their city or county. Fourteen of the 18 jurisdictions selected for awards are proposing equity programs [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-press-release.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -44,7 +44,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-single-press-release"
     },
     "og_meta": {
       "editor": {
