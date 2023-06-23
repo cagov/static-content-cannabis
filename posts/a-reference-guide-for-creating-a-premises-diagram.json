@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "created_date": "2023-06-22T21:39:38",
+    "updated_date": "2023-06-23T23:27:24",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13930",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13930,
+    "date": "2023-06-22T14:39:38",
+    "date_gmt": "2023-06-22T21:39:38",
+    "guid": "https://api.cannabis.ca.gov/?p=13930",
+    "modified": "2023-06-23T16:27:24",
+    "modified_gmt": "2023-06-23T23:27:24",
+    "slug": "a-reference-guide-for-creating-a-premises-diagram",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/06/a-reference-guide-for-creating-a-premises-diagram/",
+    "title": "A reference guide for creating a premises diagram",
+    "excerpt": "<p>This document may be used to help prepare the premises diagram required for a commercial cannabis license application. Resource summary Use this guide to learn more about: Download the PDF A Reference Guide for Creating a Premises Diagram Additional resources Cannabis manufacturer: self-inspection checklist: This checklist is designed to help you review the conditions of [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Application resources"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/06/a-reference-guide-for-creating-a-premises-diagram/",
+      "page_title": "A reference guide for creating a premises diagram",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "A reference guide for creating a premises diagram",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/06/a-reference-guide-for-creating-a-premises-diagram/",
+      "open_graph_title": "A reference guide for creating a premises diagram",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "A reference guide for creating a premises diagram",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 806,
+        "name": "Application resources",
+        "slug": "application-resources",
+        "term_group": 0,
+        "term_taxonomy_id": 806,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 806,
+        "category_description": "",
+        "cat_name": "Application resources",
+        "category_nicename": "application-resources",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/06/a-reference-guide-for-creating-a-premises-diagram/"
+  }
+}
