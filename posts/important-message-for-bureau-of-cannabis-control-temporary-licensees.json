@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-04-09T20:16:00",
-    "updated_date": "2022-10-02T23:49:40",
+    "updated_date": "2023-06-28T18:49:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-04-09T20:16:00",
     "date_gmt": "2018-04-09T20:16:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/important-message-for-bureau-of-cannabis-control-temporary-licensees/",
-    "modified": "2022-10-02T16:49:40",
-    "modified_gmt": "2022-10-02T23:49:40",
+    "modified": "2023-06-28T11:49:16",
+    "modified_gmt": "2023-06-28T18:49:16",
     "slug": "important-message-for-bureau-of-cannabis-control-temporary-licensees",
     "status": "publish",
     "type": "post",
