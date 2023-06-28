@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-07-09T18:39:00",
-    "updated_date": "2022-10-02T23:47:35",
+    "updated_date": "2023-06-28T18:48:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-07-09T18:39:00",
     "date_gmt": "2018-07-09T18:39:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/ca-department-of-public-health-request-for-live-scan-form-is-now-available/",
-    "modified": "2022-10-02T16:47:35",
-    "modified_gmt": "2022-10-02T23:47:35",
+    "modified": "2023-06-28T11:48:51",
+    "modified_gmt": "2023-06-28T18:48:51",
     "slug": "ca-department-of-public-health-request-for-live-scan-form-is-now-available",
     "status": "publish",
     "type": "post",
@@ -49,7 +49,6 @@
       "CDPH",
       "Emergency regulations",
       "Fingerprint",
-      "Livescan",
       "MAUCRSA",
       "Temporary licenses"
     ],
@@ -184,17 +183,6 @@
         "slug": "fingerprint",
         "term_group": 0,
         "term_taxonomy_id": 317,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 423,
-        "name": "Livescan",
-        "slug": "livescan",
-        "term_group": 0,
-        "term_taxonomy_id": 423,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
