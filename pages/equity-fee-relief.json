@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-30T23:22:53",
-    "updated_date": "2023-06-01T00:57:20",
+    "updated_date": "2023-06-28T22:05:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-12-30T15:22:53",
     "date_gmt": "2021-12-30T23:22:53",
     "guid": "https://cannabis.ca.gov/?page_id=9249",
-    "modified": "2023-05-31T17:57:20",
-    "modified_gmt": "2023-06-01T00:57:20",
+    "modified": "2023-06-28T15:05:01",
+    "modified_gmt": "2023-06-28T22:05:01",
     "slug": "equity-fee-relief",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -69,7 +71,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/"
