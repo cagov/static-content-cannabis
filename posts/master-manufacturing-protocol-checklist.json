@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:14:54",
-    "updated_date": "2023-06-30T17:15:00",
+    "updated_date": "2023-06-30T17:40:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-06-30T10:14:54",
     "date_gmt": "2023-06-30T17:14:54",
     "guid": "https://api.cannabis.ca.gov/?p=13961",
-    "modified": "2023-06-30T10:15:00",
-    "modified_gmt": "2023-06-30T17:15:00",
+    "modified": "2023-06-30T10:40:08",
+    "modified_gmt": "2023-06-30T17:40:08",
     "slug": "master-manufacturing-protocol-checklist",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/06/master-manufacturing-protocol-checklist/",
-    "title": "Master Manufacturing Protocol Checklist",
+    "title": "Master manufacturing protocol checklist",
     "excerpt": "<p>Resource overview The Master Manufacturing Protocol is a written document that describes how to make a cannabis product. It lists the type and amount of each ingredient to use and each step that must be followed to safely and consistently produce the product. This protocol helps reduce adulteration risk by preventing incorrect or unintended ingredients [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -59,18 +59,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/06/master-manufacturing-protocol-checklist/",
-      "page_title": "Master Manufacturing Protocol Checklist",
+      "page_title": "Master manufacturing protocol checklist",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Master Manufacturing Protocol Checklist",
+      "meta_title": "Master manufacturing protocol checklist",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/06/master-manufacturing-protocol-checklist/",
-      "open_graph_title": "Master Manufacturing Protocol Checklist",
+      "open_graph_title": "Master manufacturing protocol checklist",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Master Manufacturing Protocol Checklist",
+      "twitter_title": "Master manufacturing protocol checklist",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
