@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:27:38",
-    "updated_date": "2023-06-30T17:35:03",
+    "updated_date": "2023-06-30T17:38:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T10:27:38",
     "date_gmt": "2023-06-30T17:27:38",
     "guid": "https://api.cannabis.ca.gov/?p=13965",
-    "modified": "2023-06-30T10:35:03",
-    "modified_gmt": "2023-06-30T17:35:03",
+    "modified": "2023-06-30T10:38:00",
+    "modified_gmt": "2023-06-30T17:38:00",
     "slug": "packaging-requirements-final-form-cannabis-goods",
     "status": "publish",
     "type": "post",
