@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:14:54",
-    "updated_date": "2023-06-30T17:51:49",
+    "updated_date": "2023-06-30T17:56:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T10:14:54",
     "date_gmt": "2023-06-30T17:14:54",
     "guid": "https://api.cannabis.ca.gov/?p=13961",
-    "modified": "2023-06-30T10:51:49",
-    "modified_gmt": "2023-06-30T17:51:49",
+    "modified": "2023-06-30T10:56:11",
+    "modified_gmt": "2023-06-30T17:56:11",
     "slug": "master-manufacturing-protocol-checklist",
     "status": "publish",
     "type": "post",
@@ -82,13 +82,13 @@
         "term_taxonomy_id": 807,
         "taxonomy": "category",
         "description": "",
-        "parent": 2,
+        "parent": 809,
         "filter": "raw",
         "cat_ID": 807,
         "category_description": "",
         "cat_name": "Fact Sheet",
         "category_nicename": "fact-sheet",
-        "category_parent": 2
+        "category_parent": 809
       },
       {
         "term_id": 800,
