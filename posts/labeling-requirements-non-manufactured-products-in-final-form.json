@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:23:21",
-    "updated_date": "2023-06-30T17:50:19",
+    "updated_date": "2023-06-30T17:56:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T10:23:21",
     "date_gmt": "2023-06-30T17:23:21",
     "guid": "https://api.cannabis.ca.gov/?p=13963",
-    "modified": "2023-06-30T10:50:19",
-    "modified_gmt": "2023-06-30T17:50:19",
+    "modified": "2023-06-30T10:56:51",
+    "modified_gmt": "2023-06-30T17:56:51",
     "slug": "labeling-requirements-non-manufactured-products-in-final-form",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,6 @@
       "_modified_date": ""
     },
     "categories": [
-      "Checklist",
       "Manufacturing"
     ],
     "tags": [
@@ -74,22 +73,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 808,
-        "name": "Checklist",
-        "slug": "checklist",
-        "term_group": 0,
-        "term_taxonomy_id": 808,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 809,
-        "filter": "raw",
-        "cat_ID": 808,
-        "category_description": "",
-        "cat_name": "Checklist",
-        "category_nicename": "checklist",
-        "category_parent": 809
-      },
       {
         "term_id": 800,
         "name": "Manufacturing",

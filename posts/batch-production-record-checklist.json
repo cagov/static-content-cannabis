@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:03:17",
-    "updated_date": "2023-06-30T17:53:38",
+    "updated_date": "2023-06-30T17:57:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T10:03:17",
     "date_gmt": "2023-06-30T17:03:17",
     "guid": "https://api.cannabis.ca.gov/?p=13957",
-    "modified": "2023-06-30T10:53:38",
-    "modified_gmt": "2023-06-30T17:53:38",
+    "modified": "2023-06-30T10:57:04",
+    "modified_gmt": "2023-06-30T17:57:04",
     "slug": "batch-production-record-checklist",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,6 @@
       "_modified_date": ""
     },
     "categories": [
-      "Fact Sheet",
       "Manufacturing"
     ],
     "tags": [
@@ -74,22 +73,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 807,
-        "name": "Fact Sheet",
-        "slug": "fact-sheet",
-        "term_group": 0,
-        "term_taxonomy_id": 807,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 809,
-        "filter": "raw",
-        "cat_ID": 807,
-        "category_description": "",
-        "cat_name": "Fact Sheet",
-        "category_nicename": "fact-sheet",
-        "category_parent": 809
-      },
       {
         "term_id": 800,
         "name": "Manufacturing",
