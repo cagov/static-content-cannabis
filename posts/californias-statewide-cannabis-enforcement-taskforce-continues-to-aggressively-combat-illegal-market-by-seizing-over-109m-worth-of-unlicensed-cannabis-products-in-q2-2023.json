@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-03T17:33:34",
-    "updated_date": "2023-07-03T22:13:21",
+    "updated_date": "2023-07-03T22:15:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-03T10:33:34",
     "date_gmt": "2023-07-03T17:33:34",
     "guid": "https://api.cannabis.ca.gov/?p=13994",
-    "modified": "2023-07-03T15:13:21",
-    "modified_gmt": "2023-07-03T22:13:21",
+    "modified": "2023-07-03T15:15:58",
+    "modified_gmt": "2023-07-03T22:15:58",
     "slug": "californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023",
     "status": "publish",
     "type": "post",
