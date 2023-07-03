@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-03T17:33:34",
-    "updated_date": "2023-07-03T22:15:58",
+    "updated_date": "2023-07-03T22:21:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-07-03T10:33:34",
     "date_gmt": "2023-07-03T17:33:34",
     "guid": "https://api.cannabis.ca.gov/?p=13994",
-    "modified": "2023-07-03T15:15:58",
-    "modified_gmt": "2023-07-03T22:15:58",
-    "slug": "californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023",
+    "modified": "2023-07-03T15:21:30",
+    "modified_gmt": "2023-07-03T22:21:30",
+    "slug": "californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023/",
+    "link": "https://api.cannabis.ca.gov/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market/",
     "title": "California’s statewide cannabis enforcement taskforce continues to aggressively combat illegal market by seizing over $109M worth of unlicensed cannabis products in Q2 2023 ",
     "excerpt": "<p>The Unified Cannabis Enforcement Taskforce more than doubled the amount of illegal cannabis seized in Q1 2023 through strategic, wide-ranging enforcement actions CALIFORNIA – Building upon the momentum in Q1 2023, the Unified Cannabis Enforcement Taskforce (UCETF) seized more than $109 million in illegal cannabis in Q2 2023. This total represents a 104 percent increase [&hellip;]</p>\n",
     "author": 32,
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market/",
       "page_title": "California’s statewide cannabis enforcement taskforce continues to aggressively combat illegal market by seizing over $109M worth of unlicensed cannabis products in Q2 2023 ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "California’s statewide cannabis enforcement taskforce continues to aggressively combat illegal market by seizing over $109M worth of unlicensed cannabis products in Q2 2023 ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market/",
       "open_graph_title": "California’s statewide cannabis enforcement taskforce continues to aggressively combat illegal market by seizing over $109M worth of unlicensed cannabis products in Q2 2023 ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California’s statewide cannabis enforcement taskforce continues to aggressively combat illegal market by seizing over $109M worth of unlicensed cannabis products in Q2 2023 ",
@@ -113,6 +113,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market/"
   }
 }
