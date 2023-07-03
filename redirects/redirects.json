@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 58,
+      "redirects": 59,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1896,6 +1896,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-mitchell/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 58,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 307,
+      "url": "/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023/",
+      "match_url": "/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market/"
       },
       "match_type": "url",
       "title": "",
