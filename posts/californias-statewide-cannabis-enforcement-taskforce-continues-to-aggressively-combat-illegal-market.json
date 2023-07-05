@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-07-03T17:33:34",
-    "updated_date": "2023-07-03T22:47:00",
+    "created_date": "2023-07-05T15:43:52",
+    "updated_date": "2023-07-05T15:43:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,11 +15,11 @@
   },
   "data": {
     "id": 13994,
-    "date": "2023-07-03T10:33:34",
-    "date_gmt": "2023-07-03T17:33:34",
+    "date": "2023-07-05T08:43:52",
+    "date_gmt": "2023-07-05T15:43:52",
     "guid": "https://api.cannabis.ca.gov/?p=13994",
-    "modified": "2023-07-03T15:47:00",
-    "modified_gmt": "2023-07-03T22:47:00",
+    "modified": "2023-07-05T08:43:57",
+    "modified_gmt": "2023-07-05T15:43:57",
     "slug": "californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market",
     "status": "publish",
     "type": "post",
