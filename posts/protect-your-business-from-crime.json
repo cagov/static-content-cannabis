@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-22T17:09:57",
-    "updated_date": "2023-07-06T16:42:52",
+    "updated_date": "2023-07-06T16:43:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-22T10:09:57",
     "date_gmt": "2023-06-22T17:09:57",
     "guid": "https://api.cannabis.ca.gov/?p=13917",
-    "modified": "2023-07-06T09:42:52",
-    "modified_gmt": "2023-07-06T16:42:52",
+    "modified": "2023-07-06T09:43:20",
+    "modified_gmt": "2023-07-06T16:43:20",
     "slug": "protect-your-business-from-crime",
     "status": "publish",
     "type": "post",
