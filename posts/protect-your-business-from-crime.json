@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-22T17:09:57",
-    "updated_date": "2023-07-07T18:52:54",
+    "updated_date": "2023-07-07T19:05:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-22T10:09:57",
     "date_gmt": "2023-06-22T17:09:57",
     "guid": "https://api.cannabis.ca.gov/?p=13917",
-    "modified": "2023-07-07T11:52:54",
-    "modified_gmt": "2023-07-07T18:52:54",
+    "modified": "2023-07-07T12:05:35",
+    "modified_gmt": "2023-07-07T19:05:35",
     "slug": "protect-your-business-from-crime",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "CannaConnect",
       "Safety"
     ],
     "tags": [
@@ -73,6 +74,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 810,
+        "name": "CannaConnect",
+        "slug": "cannaconnect",
+        "term_group": 0,
+        "term_taxonomy_id": 810,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 810,
+        "category_description": "",
+        "cat_name": "CannaConnect",
+        "category_nicename": "cannaconnect",
+        "category_parent": 0
+      },
       {
         "term_id": 805,
         "name": "Safety",
