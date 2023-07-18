@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-18T16:26:55",
-    "updated_date": "2023-07-18T16:45:31",
+    "updated_date": "2023-07-18T16:47:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-18T09:26:55",
     "date_gmt": "2023-07-18T16:26:55",
     "guid": "https://api.cannabis.ca.gov/?p=14158",
-    "modified": "2023-07-18T09:45:31",
-    "modified_gmt": "2023-07-18T16:45:31",
+    "modified": "2023-07-18T09:47:43",
+    "modified_gmt": "2023-07-18T16:47:43",
     "slug": "economic-impact-assessment-services",
     "status": "publish",
     "type": "post",
