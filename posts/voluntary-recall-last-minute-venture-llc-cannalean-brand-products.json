@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-24T19:19:04",
-    "updated_date": "2023-07-24T19:22:41",
+    "updated_date": "2023-07-24T20:52:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-24T12:19:04",
     "date_gmt": "2023-07-24T19:19:04",
     "guid": "https://api.cannabis.ca.gov/?p=14191",
-    "modified": "2023-07-24T12:22:41",
-    "modified_gmt": "2023-07-24T19:22:41",
+    "modified": "2023-07-24T13:52:49",
+    "modified_gmt": "2023-07-24T20:52:49",
     "slug": "voluntary-recall-last-minute-venture-llc-cannalean-brand-products",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
       "Recalls and safety notices",
       "Voluntary recalls"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -107,19 +105,7 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
