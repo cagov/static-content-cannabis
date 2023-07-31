@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "created_date": "2023-07-31T16:31:31",
+    "updated_date": "2023-07-31T16:31:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/14201",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14201,
+    "date": "2023-07-31T09:31:31",
+    "date_gmt": "2023-07-31T16:31:31",
+    "guid": "https://api.cannabis.ca.gov/?p=14201",
+    "modified": "2023-07-31T09:31:37",
+    "modified_gmt": "2023-07-31T16:31:37",
+    "slug": "public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
+    "title": "Public invited to learn more about DCC’s draft Environmental report in preparation for annual licensure in Mendocino County",
+    "excerpt": "<p>August 2, 2023 DCC prepares Notice of Preparation documentation and will hold a public scoping meeting for a draft environmental impact report for the licensing of commercial cannabis cultivation in the Mendocino County Project.  The Department of Cannabis Control (DCC) intends to prepare an Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Announcements",
+      "Environmental"
+    ],
+    "tags": [
+      "Mendocino County",
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
+      "page_title": "Public invited to learn more about DCC’s draft Environmental report in preparation for annual licensure in Mendocino County",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Public invited to learn more about DCC’s draft Environmental report in preparation for annual licensure in Mendocino County",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
+      "open_graph_title": "Public invited to learn more about DCC’s draft Environmental report in preparation for annual licensure in Mendocino County",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Public invited to learn more about DCC’s draft Environmental report in preparation for annual licensure in Mendocino County",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 816,
+        "name": "Environmental",
+        "slug": "environmental",
+        "term_group": 0,
+        "term_taxonomy_id": 816,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 816,
+        "category_description": "",
+        "cat_name": "Environmental",
+        "category_nicename": "environmental",
+        "category_parent": 14
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 815,
+        "name": "Mendocino County",
+        "slug": "mendocino-county",
+        "term_group": 0,
+        "term_taxonomy_id": 815,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/"
+  }
+}
