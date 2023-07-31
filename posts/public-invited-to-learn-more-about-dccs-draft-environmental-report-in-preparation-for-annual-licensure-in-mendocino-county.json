@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-31T16:31:31",
-    "updated_date": "2023-07-31T16:31:37",
+    "updated_date": "2023-07-31T17:19:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-07-31T09:31:31",
     "date_gmt": "2023-07-31T16:31:31",
     "guid": "https://api.cannabis.ca.gov/?p=14201",
-    "modified": "2023-07-31T09:31:37",
-    "modified_gmt": "2023-07-31T16:31:37",
+    "modified": "2023-07-31T10:19:14",
+    "modified_gmt": "2023-07-31T17:19:14",
     "slug": "public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
     "title": "Public invited to learn more about DCC’s draft Environmental report in preparation for annual licensure in Mendocino County",
-    "excerpt": "<p>August 2, 2023 DCC prepares Notice of Preparation documentation and will hold a public scoping meeting for a draft environmental impact report for the licensing of commercial cannabis cultivation in the Mendocino County Project.  The Department of Cannabis Control (DCC) intends to prepare an Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation [&hellip;]</p>\n",
+    "excerpt": "<p>August 2, 2023 DCC prepares Notice of Preparation documentation and will hold a public scoping meeting for a draft environmental impact report for the licensing of commercial cannabis cultivation in the Mendocino County Project.&nbsp; The Department of Cannabis Control (DCC) intends to prepare an Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -46,7 +46,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-single"
     },
     "og_meta": {
       "editor": {
