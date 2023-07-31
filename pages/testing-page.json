@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-20T17:20:00",
-    "updated_date": "2023-07-31T23:02:09",
+    "updated_date": "2023-07-31T23:58:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-20T10:20:00",
     "date_gmt": "2023-07-20T17:20:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=12920",
-    "modified": "2023-07-31T16:02:09",
-    "modified_gmt": "2023-07-31T23:02:09",
+    "modified": "2023-07-31T16:58:01",
+    "modified_gmt": "2023-07-31T23:58:01",
     "slug": "testing-page",
     "status": "publish",
     "type": "page",
