@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-31T16:31:31",
-    "updated_date": "2023-08-01T17:13:07",
+    "updated_date": "2023-08-01T17:29:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-07-31T09:31:31",
     "date_gmt": "2023-07-31T16:31:31",
     "guid": "https://api.cannabis.ca.gov/?p=14201",
-    "modified": "2023-08-01T10:13:07",
-    "modified_gmt": "2023-08-01T17:13:07",
-    "slug": "public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county",
+    "modified": "2023-08-01T10:29:13",
+    "modified_gmt": "2023-08-01T17:29:13",
+    "slug": "mendocino-county-project-environmental-impact-report",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
+    "link": "https://api.cannabis.ca.gov/2023/07/mendocino-county-project-environmental-impact-report/",
     "title": "California Department of Cannabis Control (DCC) announces intent to prepare an Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
     "excerpt": "<p>The public is invited to learn more about DCC’s draft environmental report at an upcoming public scoping meeting later this month. DCC and Mendocino County have worked in partnership to support provisional cultivation licensees’ transition to annual licensure within the County. The Licensing of Commercial Cannabis in Mendocino County Project (Project) consists of the DCC [&hellip;]</p>\n",
     "author": 32,
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/07/mendocino-county-project-environmental-impact-report/",
       "page_title": "California Department of Cannabis Control (DCC) announces intent to prepare an Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "California Department of Cannabis Control (DCC) announces intent to prepare an Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/07/mendocino-county-project-environmental-impact-report/",
       "open_graph_title": "California Department of Cannabis Control (DCC) announces intent to prepare an Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California Department of Cannabis Control (DCC) announces intent to prepare an Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
@@ -142,6 +142,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/07/mendocino-county-project-environmental-impact-report/"
   }
 }
