@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 61,
+      "redirects": 62,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2052,6 +2052,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/search/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 61,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 310,
+      "url": "/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
+      "match_url": "/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/07/mendocino-county-project-environmental-impact-report/"
       },
       "match_type": "url",
       "title": "",
