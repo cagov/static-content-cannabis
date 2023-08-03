@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-02T16:31:31",
-    "updated_date": "2023-08-03T00:53:05",
+    "updated_date": "2023-08-03T00:57:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-02T09:31:31",
     "date_gmt": "2023-08-02T16:31:31",
     "guid": "https://api.cannabis.ca.gov/?p=14201",
-    "modified": "2023-08-02T17:53:05",
-    "modified_gmt": "2023-08-03T00:53:05",
+    "modified": "2023-08-02T17:57:16",
+    "modified_gmt": "2023-08-03T00:57:16",
     "slug": "mendocino-county-project-environmental-impact-report",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
       "Announcements",
       "Environmental"
     ],
-    "tags": [
-      "Mendocino County"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single"
     },
@@ -107,19 +105,7 @@
         "category_parent": 14
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 815,
-        "name": "Mendocino County",
-        "slug": "mendocino-county",
-        "term_group": 0,
-        "term_taxonomy_id": 815,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
