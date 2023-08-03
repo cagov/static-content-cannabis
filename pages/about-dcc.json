@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2023-07-06T00:42:25",
+    "updated_date": "2023-08-03T16:42:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/index/",
-    "modified": "2023-07-05T17:42:25",
-    "modified_gmt": "2023-07-06T00:42:25",
+    "modified": "2023-08-03T09:42:48",
+    "modified_gmt": "2023-08-03T16:42:48",
     "slug": "about-dcc",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -69,7 +71,19 @@
       "twitter_description": "The Department of Cannabis Control (DCC) is the California state agency that licenses and regulates cannabis businesses."
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/about-us/about-dcc/"
