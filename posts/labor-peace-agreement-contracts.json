@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-03T16:58:26",
-    "updated_date": "2023-08-03T16:58:55",
+    "updated_date": "2023-08-03T17:00:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-03T09:58:26",
     "date_gmt": "2023-08-03T16:58:26",
     "guid": "https://api.cannabis.ca.gov/?p=14291",
-    "modified": "2023-08-03T09:58:55",
-    "modified_gmt": "2023-08-03T16:58:55",
+    "modified": "2023-08-03T10:00:46",
+    "modified_gmt": "2023-08-03T17:00:46",
     "slug": "labor-peace-agreement-contracts",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Announcements",
+      "Labor peace"
     ],
     "tags": [
       "staging"
@@ -88,6 +89,22 @@
         "cat_name": "Announcements",
         "category_nicename": "announcements",
         "category_parent": 0
+      },
+      {
+        "term_id": 821,
+        "name": "Labor peace",
+        "slug": "labor-peace",
+        "term_group": 0,
+        "term_taxonomy_id": 821,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 820,
+        "filter": "raw",
+        "cat_ID": 821,
+        "category_description": "",
+        "cat_name": "Labor peace",
+        "category_nicename": "labor-peace",
+        "category_parent": 820
       }
     ],
     "headless_tags": [
