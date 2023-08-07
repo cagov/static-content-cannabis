@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 63,
+      "redirects": 64,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2111,6 +2111,32 @@
       "regex": false,
       "group_id": 1,
       "position": 62,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 312,
+      "url": "/how-to-file-a-complaint/",
+      "match_url": "/how-to-file-a-complaint",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/complaints-non-dcc/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 63,
       "last_access": "-",
       "enabled": true
     }
