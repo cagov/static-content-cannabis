@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-09T16:25:27",
-    "updated_date": "2023-08-09T17:16:53",
+    "updated_date": "2023-08-09T17:18:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-09T09:25:27",
     "date_gmt": "2023-08-09T16:25:27",
     "guid": "https://api.cannabis.ca.gov/?p=14338",
-    "modified": "2023-08-09T10:16:53",
-    "modified_gmt": "2023-08-09T17:16:53",
+    "modified": "2023-08-09T10:18:35",
+    "modified_gmt": "2023-08-09T17:18:35",
     "slug": "governors-unified-cannabis-enforcement-taskforce-targets-environmental-harm-in-largest-ever-operation-to-eradicate-illegal-cannabis-grows-in-siskiyou-county",
     "status": "publish",
     "type": "post",
