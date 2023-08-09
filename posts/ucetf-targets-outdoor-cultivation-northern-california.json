@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-09T16:25:27",
-    "updated_date": "2023-08-09T17:18:35",
+    "updated_date": "2023-08-09T20:02:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-08-09T09:25:27",
     "date_gmt": "2023-08-09T16:25:27",
     "guid": "https://api.cannabis.ca.gov/?p=14338",
-    "modified": "2023-08-09T10:18:35",
-    "modified_gmt": "2023-08-09T17:18:35",
-    "slug": "governors-unified-cannabis-enforcement-taskforce-targets-environmental-harm-in-largest-ever-operation-to-eradicate-illegal-cannabis-grows-in-siskiyou-county",
+    "modified": "2023-08-09T13:02:01",
+    "modified_gmt": "2023-08-09T20:02:01",
+    "slug": "ucetf-targets-outdoor-cultivation-northern-california",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/08/governors-unified-cannabis-enforcement-taskforce-targets-environmental-harm-in-largest-ever-operation-to-eradicate-illegal-cannabis-grows-in-siskiyou-county/",
+    "link": "https://api.cannabis.ca.gov/2023/08/ucetf-targets-outdoor-cultivation-northern-california/",
     "title": "Governor’s Unified Cannabis Enforcement Taskforce Targets Environmental Harm in Largest Ever Operation to Eradicate Illegal Cannabis Grows in Siskiyou County",
     "excerpt": "<p>Governor Gavin Newsom’s Unified Cannabis Enforcement Taskforce (UCETF) has continued its work to combat the illicit cannabis market, conducting an operation in Siskiyou County last month. The operation targeted illegal cannabis cultivation sites that threaten the environment, workers, and other members of the public. The sites in question were associated with suspected environmental violations, including [&hellip;]</p>\n",
     "author": 32,
@@ -40,9 +40,7 @@
     "categories": [
       "Announcements"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single-press-release"
     },
@@ -57,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/08/governors-unified-cannabis-enforcement-taskforce-targets-environmental-harm-in-largest-ever-operation-to-eradicate-illegal-cannabis-grows-in-siskiyou-county/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/08/ucetf-targets-outdoor-cultivation-northern-california/",
       "page_title": "Governor’s Unified Cannabis Enforcement Taskforce Targets Environmental Harm in Largest Ever Operation to Eradicate Illegal Cannabis Grows in Siskiyou County",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Governor’s Unified Cannabis Enforcement Taskforce Targets Environmental Harm in Largest Ever Operation to Eradicate Illegal Cannabis Grows in Siskiyou County",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/08/governors-unified-cannabis-enforcement-taskforce-targets-environmental-harm-in-largest-ever-operation-to-eradicate-illegal-cannabis-grows-in-siskiyou-county/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/08/ucetf-targets-outdoor-cultivation-northern-california/",
       "open_graph_title": "Governor’s Unified Cannabis Enforcement Taskforce Targets Environmental Harm in Largest Ever Operation to Eradicate Illegal Cannabis Grows in Siskiyou County",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Governor’s Unified Cannabis Enforcement Taskforce Targets Environmental Harm in Largest Ever Operation to Eradicate Illegal Cannabis Grows in Siskiyou County",
@@ -90,19 +88,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -113,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/08/governors-unified-cannabis-enforcement-taskforce-targets-environmental-harm-in-largest-ever-operation-to-eradicate-illegal-cannabis-grows-in-siskiyou-county/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/08/ucetf-targets-outdoor-cultivation-northern-california/"
   }
 }
