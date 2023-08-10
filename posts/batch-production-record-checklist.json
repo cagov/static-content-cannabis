@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:03:17",
-    "updated_date": "2023-06-30T17:57:10",
+    "updated_date": "2023-08-10T20:51:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-30T10:03:17",
     "date_gmt": "2023-06-30T17:03:17",
     "guid": "https://api.cannabis.ca.gov/?p=13957",
-    "modified": "2023-06-30T10:57:10",
-    "modified_gmt": "2023-06-30T17:57:10",
+    "modified": "2023-08-10T13:51:50",
+    "modified_gmt": "2023-08-10T20:51:50",
     "slug": "batch-production-record-checklist",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/06/batch-production-record-checklist/",
     "title": "Batch production record checklist",
-    "excerpt": "<p>A Batch Production Record is a detailed, written documentation of the work performed to manufacture or remediate a batch of cannabis or cannabis product. Batch production records include: Included in this checklist Get your copy This checklist will help you verify that your batch production records capture the minimum required information. A complete list of [&hellip;]</p>\n",
+    "excerpt": "<p>A Batch Production Record is a detailed, written documentation of the work performed to manufacture or remediate a batch of cannabis or cannabis product. Batch production records include: Included in this checklist Download the batch production checklist This checklist will help you verify that your batch production records capture the minimum required information. A complete [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -40,9 +40,7 @@
     "categories": [
       "Manufacturing"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -90,19 +88,7 @@
         "category_parent": 799
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
