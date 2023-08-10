@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-06-30T17:10:07",
+    "updated_date": "2023-08-10T18:32:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13959",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13959,
+    "date": "2023-06-30T10:10:07",
+    "date_gmt": "2023-06-30T17:10:07",
+    "guid": "https://api.cannabis.ca.gov/?p=13959",
+    "modified": "2023-08-10T11:32:23",
+    "modified_gmt": "2023-08-10T18:32:23",
+    "slug": "labeling-requirements-manufactured-cannabis-products-in-final-form",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/06/labeling-requirements-manufactured-cannabis-products-in-final-form/",
+    "title": "Labeling requirements: manufactured cannabis products in final form",
+    "excerpt": "<p>Resource overview Cannabis goods must be labeled to ensure consumers are informed about what they are buying and to prevent unintended use. Cannabis products must be in their final form and packaged and labeled for retail sale before they can be transferred to a licensed distributor for regulatory compliance testing. These guidelines apply to manufactured [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Checklist",
+      "Manufacturing"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/06/labeling-requirements-manufactured-cannabis-products-in-final-form/",
+      "page_title": "Labeling requirements: manufactured cannabis products in final form",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Labeling requirements: manufactured cannabis products in final form",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/06/labeling-requirements-manufactured-cannabis-products-in-final-form/",
+      "open_graph_title": "Labeling requirements: manufactured cannabis products in final form",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Labeling requirements: manufactured cannabis products in final form",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
+      },
+      {
+        "term_id": 800,
+        "name": "Manufacturing",
+        "slug": "manufacturing",
+        "term_group": 0,
+        "term_taxonomy_id": 800,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 800,
+        "category_description": "",
+        "cat_name": "Manufacturing",
+        "category_nicename": "manufacturing",
+        "category_parent": 799
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/06/labeling-requirements-manufactured-cannabis-products-in-final-form/"
+  }
+}
