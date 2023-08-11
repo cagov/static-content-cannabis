@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-28T19:52:35",
-    "updated_date": "2023-08-11T18:19:42",
+    "updated_date": "2023-08-11T18:20:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-01-28T11:52:35",
     "date_gmt": "2022-01-28T19:52:35",
     "guid": "https://cannabis.ca.gov/?p=9391",
-    "modified": "2023-08-11T11:19:42",
-    "modified_gmt": "2023-08-11T18:19:42",
+    "modified": "2023-08-11T11:20:46",
+    "modified_gmt": "2023-08-11T18:20:46",
     "slug": "department-of-cannabis-control-proposes-adoption-of-conflict-of-interest-code",
     "status": "publish",
     "type": "post",

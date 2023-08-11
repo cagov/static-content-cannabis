@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-26T20:07:55",
-    "updated_date": "2023-08-11T18:19:42",
+    "updated_date": "2023-08-11T18:20:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-01-26T12:07:55",
     "date_gmt": "2022-01-26T20:07:55",
     "guid": "https://cannabis.ca.gov/?p=9374",
-    "modified": "2023-08-11T11:19:42",
-    "modified_gmt": "2023-08-11T18:19:42",
+    "modified": "2023-08-11T11:20:46",
+    "modified_gmt": "2023-08-11T18:20:46",
     "slug": "dcc-orders-recall-of-packaged-cannabis-flower-due-to-mold-contamination",
     "status": "publish",
     "type": "post",
