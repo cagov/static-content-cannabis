@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-18T19:33:39",
-    "updated_date": "2023-08-11T18:12:43",
+    "updated_date": "2023-08-11T18:17:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-05-18T12:33:39",
     "date_gmt": "2022-05-18T19:33:39",
     "guid": "https://cannabis.ca.gov/?p=9740",
-    "modified": "2023-08-11T11:12:43",
-    "modified_gmt": "2023-08-11T18:12:43",
+    "modified": "2023-08-11T11:17:38",
+    "modified_gmt": "2023-08-11T18:17:38",
     "slug": "department-of-cannabis-control-provides-notice-of-emergency-regulatory-action",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
     },
     "categories": [
       "2022",
-      "2023",
       "Announcements"
     ],
     "tags": [],
@@ -87,22 +86,6 @@
         "category_description": "",
         "cat_name": "2022",
         "category_nicename": "2022",
-        "category_parent": 14
-      },
-      {
-        "term_id": 822,
-        "name": "2023",
-        "slug": "2023",
-        "term_group": 0,
-        "term_taxonomy_id": 822,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 14,
-        "filter": "raw",
-        "cat_ID": 822,
-        "category_description": "",
-        "cat_name": "2023",
-        "category_nicename": "2023",
         "category_parent": 14
       },
       {
