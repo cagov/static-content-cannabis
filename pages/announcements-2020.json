@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-11T19:05:59",
-    "updated_date": "2023-08-11T19:05:59",
+    "updated_date": "2023-08-11T19:06:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-11T12:05:59",
     "date_gmt": "2023-08-11T19:05:59",
     "guid": "https://api.cannabis.ca.gov/?page_id=14402",
-    "modified": "2023-08-11T12:05:59",
-    "modified_gmt": "2023-08-11T19:05:59",
+    "modified": "2023-08-11T12:06:05",
+    "modified_gmt": "2023-08-11T19:06:05",
     "slug": "announcements-2020",
     "status": "publish",
     "type": "page",
