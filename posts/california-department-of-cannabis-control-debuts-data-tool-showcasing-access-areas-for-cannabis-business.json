@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-26T17:22:27",
-    "updated_date": "2022-10-02T23:47:24",
+    "updated_date": "2023-08-11T18:08:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-05-26T10:22:27",
     "date_gmt": "2022-05-26T17:22:27",
     "guid": "https://cannabis.ca.gov/?p=9811",
-    "modified": "2022-10-02T16:47:24",
-    "modified_gmt": "2022-10-02T23:47:24",
+    "modified": "2023-08-11T11:08:16",
+    "modified_gmt": "2023-08-11T18:08:16",
     "slug": "california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2023",
       "Announcements"
     ],
     "tags": [],
@@ -71,6 +72,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 822,
+        "name": "2023",
+        "slug": "2023",
+        "term_group": 0,
+        "term_taxonomy_id": 822,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 822,
+        "category_description": "",
+        "cat_name": "2023",
+        "category_nicename": "2023",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",
