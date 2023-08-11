@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-18T19:33:39",
-    "updated_date": "2023-08-11T18:08:16",
+    "updated_date": "2023-08-11T18:08:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-05-18T12:33:39",
     "date_gmt": "2022-05-18T19:33:39",
     "guid": "https://cannabis.ca.gov/?p=9740",
-    "modified": "2023-08-11T11:08:16",
-    "modified_gmt": "2023-08-11T18:08:16",
+    "modified": "2023-08-11T11:08:26",
+    "modified_gmt": "2023-08-11T18:08:26",
     "slug": "department-of-cannabis-control-provides-notice-of-emergency-regulatory-action",
     "status": "publish",
     "type": "post",
