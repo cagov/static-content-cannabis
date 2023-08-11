@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2018-07-09T18:39:00",
-    "updated_date": "2023-06-29T17:07:41",
+    "created_date": "2018-07-10T01:39:00",
+    "updated_date": "2023-08-11T18:41:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6240,
     "date": "2018-07-09T18:39:00",
-    "date_gmt": "2018-07-09T18:39:00",
+    "date_gmt": "2018-07-10T01:39:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/ca-department-of-public-health-request-for-live-scan-form-is-now-available/",
-    "modified": "2023-06-29T10:07:41",
-    "modified_gmt": "2023-06-29T17:07:41",
+    "modified": "2023-08-11T11:41:03",
+    "modified_gmt": "2023-08-11T18:41:03",
     "slug": "ca-department-of-public-health-request-for-live-scan-form-is-now-available",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2018",
       "Announcements"
     ],
     "tags": [
@@ -82,6 +83,22 @@
       "twitter_description": "The California Department of Public Health will begin processing Live Scan forms that are submitted with annual license applications for cannabis manufacturing."
     },
     "headless_categories": [
+      {
+        "term_id": 827,
+        "name": "2018",
+        "slug": "2018",
+        "term_group": 0,
+        "term_taxonomy_id": 827,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 827,
+        "category_description": "",
+        "cat_name": "2018",
+        "category_nicename": "2018",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",

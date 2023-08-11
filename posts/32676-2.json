@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2019-04-19T22:00:00",
-    "updated_date": "2022-10-02T23:47:30",
+    "created_date": "2019-04-20T05:00:00",
+    "updated_date": "2023-08-11T18:45:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6205,
     "date": "2019-04-19T22:00:00",
-    "date_gmt": "2019-04-19T22:00:00",
+    "date_gmt": "2019-04-20T05:00:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/32676/",
-    "modified": "2022-10-02T16:47:30",
-    "modified_gmt": "2022-10-02T23:47:30",
+    "modified": "2023-08-11T11:45:16",
+    "modified_gmt": "2023-08-11T18:45:16",
     "slug": "32676-2",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2019",
       "Announcements"
     ],
     "tags": [
@@ -86,6 +87,22 @@
       "twitter_description": "To All Interested Parties,\nOn April 16, 2019, the Office of Administrative Law approved the updates to the Cannabis Policy, and the new provisions went into effect.  The focus of the updates to the Cannabis Policy involve:  (a) allowing some existing onstream reservoirs to obtain water rights for cannabis cultivation; (b) updating the Water Boards tribal notification process for cannabis cultivation sites that are on or within 600 feet of Tribal lands; (c) updates to tribal buffers conditionally exempt for indoor cultivation sites; and (d) updates to the winterization requirements to allow for cultivation on flat lands."
     },
     "headless_categories": [
+      {
+        "term_id": 826,
+        "name": "2019",
+        "slug": "2019",
+        "term_group": 0,
+        "term_taxonomy_id": 826,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 826,
+        "category_description": "",
+        "cat_name": "2019",
+        "category_nicename": "2019",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",

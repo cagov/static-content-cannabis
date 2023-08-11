@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2019-12-30T20:23:00",
-    "updated_date": "2023-08-11T18:24:28",
+    "created_date": "2019-12-31T04:23:00",
+    "updated_date": "2023-08-11T18:49:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6185,
     "date": "2019-12-30T20:23:00",
-    "date_gmt": "2019-12-30T20:23:00",
+    "date_gmt": "2019-12-31T04:23:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/important-announcement-regarding-external-transfers-for-metrc-users/",
-    "modified": "2023-08-11T11:24:28",
-    "modified_gmt": "2023-08-11T18:24:28",
+    "modified": "2023-08-11T11:49:09",
+    "modified_gmt": "2023-08-11T18:49:09",
     "slug": "important-announcement-regarding-external-transfers-for-metrc-users",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "2022",
+      "2019",
       "Announcements"
     ],
     "tags": [
@@ -83,19 +83,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 823,
-        "name": "2022",
-        "slug": "2022",
+        "term_id": 826,
+        "name": "2019",
+        "slug": "2019",
         "term_group": 0,
-        "term_taxonomy_id": 823,
+        "term_taxonomy_id": 826,
         "taxonomy": "category",
         "description": "",
         "parent": 14,
         "filter": "raw",
-        "cat_ID": 823,
+        "cat_ID": 826,
         "category_description": "",
-        "cat_name": "2022",
-        "category_nicename": "2022",
+        "cat_name": "2019",
+        "category_nicename": "2019",
         "category_parent": 14
       },
       {

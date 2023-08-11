@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2017-09-25T16:18:00",
-    "updated_date": "2022-10-02T23:49:43",
+    "created_date": "2017-09-25T23:18:00",
+    "updated_date": "2023-08-11T18:38:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6279,
     "date": "2017-09-25T16:18:00",
-    "date_gmt": "2017-09-25T16:18:00",
+    "date_gmt": "2017-09-25T23:18:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/upcoming-state-of-cannabis-conference-aims-to-educate-industry-insiders-create-network/",
-    "modified": "2022-10-02T16:49:43",
-    "modified_gmt": "2022-10-02T23:49:43",
+    "modified": "2023-08-11T11:38:18",
+    "modified_gmt": "2023-08-11T18:38:18",
     "slug": "upcoming-state-of-cannabis-conference-aims-to-educate-industry-insiders-create-network",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2017",
       "Announcements"
     ],
     "tags": [
@@ -76,6 +77,22 @@
       "twitter_description": "Long Beach will play host to a two-day conference on marijuana next week that will not only let attendees try the products they will discuss, but it will bring together cannabis industry leaders, elected officials, regulators and others to understand the federally illegal plant that will be sold recreationally statewide by next year."
     },
     "headless_categories": [
+      {
+        "term_id": 828,
+        "name": "2017",
+        "slug": "2017",
+        "term_group": 0,
+        "term_taxonomy_id": 828,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 828,
+        "category_description": "",
+        "cat_name": "2017",
+        "category_nicename": "2017",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",
