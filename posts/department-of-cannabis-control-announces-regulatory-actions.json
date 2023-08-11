@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-07-16T22:16:00",
-    "updated_date": "2023-08-11T18:19:43",
+    "updated_date": "2023-08-11T18:20:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-07-16T15:16:00",
     "date_gmt": "2021-07-16T22:16:00",
     "guid": "https://cannabis.ca.gov/?p=8600",
-    "modified": "2023-08-11T11:19:43",
-    "modified_gmt": "2023-08-11T18:19:43",
+    "modified": "2023-08-11T11:20:47",
+    "modified_gmt": "2023-08-11T18:20:47",
     "slug": "department-of-cannabis-control-announces-regulatory-actions",
     "status": "publish",
     "type": "post",
