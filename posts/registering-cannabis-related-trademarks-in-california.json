@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2019-04-29T21:00:00",
-    "updated_date": "2022-10-02T23:47:29",
+    "created_date": "2019-04-30T04:00:00",
+    "updated_date": "2023-08-11T18:45:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6202,
     "date": "2019-04-29T21:00:00",
-    "date_gmt": "2019-04-29T21:00:00",
+    "date_gmt": "2019-04-30T04:00:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/registering-cannabis-related-trademarks-in-california/",
-    "modified": "2022-10-02T16:47:29",
-    "modified_gmt": "2022-10-02T23:47:29",
+    "modified": "2023-08-11T11:45:25",
+    "modified_gmt": "2023-08-11T18:45:25",
     "slug": "registering-cannabis-related-trademarks-in-california",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2019",
       "Announcements"
     ],
     "tags": [
@@ -84,6 +85,22 @@
       "twitter_description": "The Secretary of State&#8217;s Office has created a new brochure with information regarding registering cannabis-related trademarks in California."
     },
     "headless_categories": [
+      {
+        "term_id": 826,
+        "name": "2019",
+        "slug": "2019",
+        "term_group": 0,
+        "term_taxonomy_id": 826,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 826,
+        "category_description": "",
+        "cat_name": "2019",
+        "category_nicename": "2019",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",

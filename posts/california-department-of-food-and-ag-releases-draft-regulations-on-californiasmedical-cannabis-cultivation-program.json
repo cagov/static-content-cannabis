@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2017-04-28T22:02:00",
-    "updated_date": "2022-10-02T23:49:45",
+    "created_date": "2017-04-29T05:02:00",
+    "updated_date": "2023-08-11T18:37:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6291,
     "date": "2017-04-28T22:02:00",
-    "date_gmt": "2017-04-28T22:02:00",
+    "date_gmt": "2017-04-29T05:02:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/california-department-of-food-and-ag-releases-draft-regulations-on-californiasmedical-cannabis-cultivation-program/",
-    "modified": "2022-10-02T16:49:45",
-    "modified_gmt": "2022-10-02T23:49:45",
+    "modified": "2023-08-11T11:37:11",
+    "modified_gmt": "2023-08-11T18:37:11",
     "slug": "california-department-of-food-and-ag-releases-draft-regulations-on-californiasmedical-cannabis-cultivation-program",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2017",
       "Announcements"
     ],
     "tags": [
@@ -76,6 +77,22 @@
       "twitter_description": "The California Department of Food and Agriculture (CDFA) today released proposed regulations for the state medical cannabis cultivation and licensing program."
     },
     "headless_categories": [
+      {
+        "term_id": 828,
+        "name": "2017",
+        "slug": "2017",
+        "term_group": 0,
+        "term_taxonomy_id": 828,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 828,
+        "category_description": "",
+        "cat_name": "2017",
+        "category_nicename": "2017",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2019-12-19T07:15:00",
-    "updated_date": "2023-08-11T18:35:04",
+    "updated_date": "2023-08-11T18:46:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2019-12-18T23:15:00",
     "date_gmt": "2019-12-19T07:15:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/california-legislative-analysts-office-publishes-cannabis-tax-adjustment-report/",
-    "modified": "2023-08-11T11:35:04",
-    "modified_gmt": "2023-08-11T18:35:04",
+    "modified": "2023-08-11T11:46:05",
+    "modified_gmt": "2023-08-11T18:46:05",
     "slug": "california-legislative-analysts-office-publishes-cannabis-tax-adjustment-report",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
     },
     "categories": [
       "2019",
-      "2022",
       "Announcements"
     ],
     "tags": [
@@ -96,22 +95,6 @@
         "category_description": "",
         "cat_name": "2019",
         "category_nicename": "2019",
-        "category_parent": 14
-      },
-      {
-        "term_id": 823,
-        "name": "2022",
-        "slug": "2022",
-        "term_group": 0,
-        "term_taxonomy_id": 823,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 14,
-        "filter": "raw",
-        "cat_ID": 823,
-        "category_description": "",
-        "cat_name": "2022",
-        "category_nicename": "2022",
         "category_parent": 14
       },
       {

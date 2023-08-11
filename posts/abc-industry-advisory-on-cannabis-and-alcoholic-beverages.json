@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2019-05-21T20:00:00",
-    "updated_date": "2022-10-02T23:47:29",
+    "created_date": "2019-05-22T03:00:00",
+    "updated_date": "2023-08-11T18:45:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6200,
     "date": "2019-05-21T20:00:00",
-    "date_gmt": "2019-05-21T20:00:00",
+    "date_gmt": "2019-05-22T03:00:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/abc-industry-advisory-on-cannabis-and-alcoholic-beverages/",
-    "modified": "2022-10-02T16:47:29",
-    "modified_gmt": "2022-10-02T23:47:29",
+    "modified": "2023-08-11T11:45:34",
+    "modified_gmt": "2023-08-11T18:45:34",
     "slug": "abc-industry-advisory-on-cannabis-and-alcoholic-beverages",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2019",
       "Announcements"
     ],
     "tags": [
@@ -85,6 +86,22 @@
       "twitter_description": "With the legalization of commercial recreational use of cannabis and cannabis products commencing in 2018, along with the licensed manufacture and sale, a number of questions have arisen about what activities are permissible on or in premises licensed by the Department of Alcoholic Beverage Control to manufacture or sell alcoholic beverages."
     },
     "headless_categories": [
+      {
+        "term_id": 826,
+        "name": "2019",
+        "slug": "2019",
+        "term_group": 0,
+        "term_taxonomy_id": 826,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 826,
+        "category_description": "",
+        "cat_name": "2019",
+        "category_nicename": "2019",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",
