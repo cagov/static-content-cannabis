@@ -1,6 +1,6 @@
 {
   "name": "static-content-cannabis",
-  "version": "2.0.2361",
+  "version": "2.0.2362",
   "description": "Static site generator for https://headless.cannabis.ca.gov",
   "main": "index.js",
   "keywords": [
