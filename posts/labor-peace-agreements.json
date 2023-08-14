@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-03T16:58:26",
-    "updated_date": "2023-08-14T23:23:44",
+    "updated_date": "2023-08-14T23:33:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-08-03T09:58:26",
     "date_gmt": "2023-08-03T16:58:26",
     "guid": "https://api.cannabis.ca.gov/?p=14291",
-    "modified": "2023-08-14T16:23:44",
-    "modified_gmt": "2023-08-14T23:23:44",
-    "slug": "labor-peace-agreement-contracts",
+    "modified": "2023-08-14T16:33:31",
+    "modified_gmt": "2023-08-14T23:33:31",
+    "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/08/labor-peace-agreement-contracts/",
+    "link": "https://api.cannabis.ca.gov/2023/08/labor-peace-agreements/",
     "title": "Labor peace agreements on file",
     "excerpt": "<p>DCC has a full or partial labor peace agreement (LPA) on file from the licensees listed in table format. Additional information can also be requested.</p>\n",
     "author": 32,
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/08/labor-peace-agreement-contracts/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/08/labor-peace-agreements/",
       "page_title": "Labor peace agreements on file",
       "page_description": "DCC has a full or partial labor peace agreement (LPA) on file from the licensees listed in table format. Additional information can also be requested.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "Labor peace agreements on file",
       "meta_description": "DCC has a full or partial labor peace agreement (LPA) on file from the licensees listed in table format. Additional information can also be requested.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/08/labor-peace-agreement-contracts/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/08/labor-peace-agreements/",
       "open_graph_title": "Labor peace agreements on file",
       "open_graph_description": "DCC has a full or partial labor peace agreement (LPA) on file from the licensees listed in table format. Additional information can also be requested.",
       "twitter_title": "Labor peace agreements on file",
@@ -113,6 +113,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/08/labor-peace-agreement-contracts/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/08/labor-peace-agreements/"
   }
 }
