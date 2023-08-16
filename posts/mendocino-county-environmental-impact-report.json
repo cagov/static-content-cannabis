@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-31T17:08:05",
-    "updated_date": "2023-08-03T00:45:03",
+    "updated_date": "2023-08-16T16:36:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-31T10:08:05",
     "date_gmt": "2023-07-31T17:08:05",
     "guid": "https://api.cannabis.ca.gov/?p=14203",
-    "modified": "2023-08-02T17:45:03",
-    "modified_gmt": "2023-08-03T00:45:03",
+    "modified": "2023-08-16T09:36:39",
+    "modified_gmt": "2023-08-16T16:36:39",
     "slug": "mendocino-county-environmental-impact-report",
     "status": "publish",
     "type": "post",
@@ -41,7 +41,9 @@
       "Environmental",
       "Environmental impact reports"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -105,7 +107,19 @@
         "category_parent": 817
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
