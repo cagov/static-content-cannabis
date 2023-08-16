@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-11T18:59:54",
-    "updated_date": "2023-08-15T15:22:37",
+    "updated_date": "2023-08-16T23:22:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-11T11:59:54",
     "date_gmt": "2023-08-11T18:59:54",
     "guid": "https://api.cannabis.ca.gov/?page_id=14396",
-    "modified": "2023-08-15T08:22:37",
-    "modified_gmt": "2023-08-15T15:22:37",
+    "modified": "2023-08-16T16:22:08",
+    "modified_gmt": "2023-08-16T23:22:08",
     "slug": "announcements-archive",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -42,7 +42,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page-single-column-wide"
     },
     "og_meta": {
       "editor": {
