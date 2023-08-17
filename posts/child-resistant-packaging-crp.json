@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-17T23:30:42",
-    "updated_date": "2023-08-17T23:31:10",
+    "updated_date": "2023-08-17T23:31:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-17T16:30:42",
     "date_gmt": "2023-08-17T23:30:42",
     "guid": "https://api.cannabis.ca.gov/?p=14501",
-    "modified": "2023-08-17T16:31:10",
-    "modified_gmt": "2023-08-17T23:31:10",
+    "modified": "2023-08-17T16:31:33",
+    "modified_gmt": "2023-08-17T23:31:33",
     "slug": "child-resistant-packaging-crp",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Manufacturing"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 800,
+        "name": "Manufacturing",
+        "slug": "manufacturing",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 800,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 799,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 800,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
+        "cat_name": "Manufacturing",
+        "category_nicename": "manufacturing",
+        "category_parent": 799
       }
     ],
     "headless_tags": [],
