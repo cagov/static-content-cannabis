@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-17T23:30:42",
-    "updated_date": "2023-08-17T23:30:47",
+    "updated_date": "2023-08-17T23:31:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-17T16:30:42",
     "date_gmt": "2023-08-17T23:30:42",
     "guid": "https://api.cannabis.ca.gov/?p=14501",
-    "modified": "2023-08-17T16:30:47",
-    "modified_gmt": "2023-08-17T23:30:47",
+    "modified": "2023-08-17T16:31:10",
+    "modified_gmt": "2023-08-17T23:31:10",
     "slug": "child-resistant-packaging-crp",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
