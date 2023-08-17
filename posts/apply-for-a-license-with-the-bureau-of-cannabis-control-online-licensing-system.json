@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-17T22:39:16",
-    "updated_date": "2023-08-17T22:39:16",
+    "updated_date": "2023-08-17T22:39:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-17T15:39:16",
     "date_gmt": "2023-08-17T22:39:16",
     "guid": "https://api.cannabis.ca.gov/?p=14488",
-    "modified": "2023-08-17T15:39:16",
-    "modified_gmt": "2023-08-17T22:39:16",
+    "modified": "2023-08-17T15:39:21",
+    "modified_gmt": "2023-08-17T22:39:21",
     "slug": "apply-for-a-license-with-the-bureau-of-cannabis-control-online-licensing-system",
     "status": "publish",
     "type": "post",
