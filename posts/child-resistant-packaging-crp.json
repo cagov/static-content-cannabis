@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-17T23:30:42",
-    "updated_date": "2023-08-18T16:08:47",
+    "updated_date": "2023-08-21T16:07:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-17T16:30:42",
     "date_gmt": "2023-08-17T23:30:42",
     "guid": "https://api.cannabis.ca.gov/?p=14501",
-    "modified": "2023-08-18T09:08:47",
-    "modified_gmt": "2023-08-18T16:08:47",
+    "modified": "2023-08-21T09:07:05",
+    "modified_gmt": "2023-08-21T16:07:05",
     "slug": "child-resistant-packaging-crp",
     "status": "publish",
     "type": "post",
