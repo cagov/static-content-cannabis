@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-10T21:18:17",
-    "updated_date": "2023-08-24T23:00:38",
+    "updated_date": "2023-08-24T23:07:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-10T14:18:17",
     "date_gmt": "2023-07-10T21:18:17",
     "guid": "https://api.cannabis.ca.gov/?page_id=13124",
-    "modified": "2023-08-24T16:00:38",
-    "modified_gmt": "2023-08-24T23:00:38",
+    "modified": "2023-08-24T16:07:59",
+    "modified_gmt": "2023-08-24T23:07:59",
     "slug": "complaints-non-dcc",
     "status": "publish",
     "type": "page",
