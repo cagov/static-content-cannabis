@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-30T20:57:51",
-    "updated_date": "2023-06-20T18:54:22",
+    "updated_date": "2023-08-24T23:39:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-01-30T12:57:51",
     "date_gmt": "2023-01-30T20:57:51",
     "guid": "https://api.cannabis.ca.gov/?page_id=13040",
-    "modified": "2023-06-20T11:54:22",
-    "modified_gmt": "2023-06-20T18:54:22",
+    "modified": "2023-08-24T16:39:56",
+    "modified_gmt": "2023-08-24T23:39:56",
     "slug": "local-jurisdiction-retail-access-grant",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/about-us/grant-funding/local-jurisdiction-retail-access-grant/",
     "title": "Local Jurisdiction Retail Access Grant",
-    "excerpt": "<p>Nearly two-thirds of California cities and counties do not allow the establishment of any regulated cannabis retailers within their jurisdictions. This limits consumer access to regulated, tested cannabis and cannabis products. Funding opportunity The Retail Access Grant provides local governments with resources to develop and implement cannabis retailer licensing programs. Up to $20 million total [&hellip;]</p>\n",
+    "excerpt": "<p>Nearly two-thirds of California cities and counties do not allow the establishment of any regulated cannabis retailers within their jurisdictions. This limits consumer access to regulated, tested cannabis and cannabis products. To address this, the Retail Access Grant provides local governments with resources to develop and implement cannabis retailer licensing programs. $20 million in total [&hellip;]</p>\n",
     "author": 15,
     "featured_media": 0,
     "parent": 703,
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -69,7 +71,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/about-us/grant-funding/local-jurisdiction-retail-access-grant/"
