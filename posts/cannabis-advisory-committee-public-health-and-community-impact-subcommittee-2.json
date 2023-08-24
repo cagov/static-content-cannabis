@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-12T00:00:36",
-    "updated_date": "2023-08-11T18:06:20",
+    "updated_date": "2023-08-24T17:18:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-11T17:00:36",
     "date_gmt": "2023-05-12T00:00:36",
     "guid": "https://api.cannabis.ca.gov/?p=13604",
-    "modified": "2023-08-11T11:06:20",
-    "modified_gmt": "2023-08-11T18:06:20",
+    "modified": "2023-08-24T10:18:44",
+    "modified_gmt": "2023-08-24T17:18:44",
     "slug": "cannabis-advisory-committee-public-health-and-community-impact-subcommittee-2",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2023",
       "2023",
       "Announcements"
     ],
@@ -87,6 +88,22 @@
         "cat_name": "2023",
         "category_nicename": "2023",
         "category_parent": 14
+      },
+      {
+        "term_id": 834,
+        "name": "2023",
+        "slug": "2023-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 834,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 834,
+        "category_description": "",
+        "cat_name": "2023",
+        "category_nicename": "2023-cac",
+        "category_parent": 833
       },
       {
         "term_id": 14,
