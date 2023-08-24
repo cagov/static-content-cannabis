@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-27T23:25:43",
-    "updated_date": "2023-03-15T21:25:14",
+    "updated_date": "2023-08-24T17:40:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-27T15:25:43",
     "date_gmt": "2023-02-27T23:25:43",
     "guid": "https://api.cannabis.ca.gov/?p=13309",
-    "modified": "2023-03-15T14:25:14",
-    "modified_gmt": "2023-03-15T21:25:14",
+    "modified": "2023-08-24T10:40:46",
+    "modified_gmt": "2023-08-24T17:40:46",
     "slug": "cannabis-advisory-committee-meeting-2",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Events"
+      "Events",
+      "Past meetings"
     ],
     "tags": [],
     "design_system_fields": {
@@ -86,6 +87,22 @@
         "cat_name": "Events",
         "category_nicename": "events",
         "category_parent": 2
+      },
+      {
+        "term_id": 833,
+        "name": "Past meetings",
+        "slug": "past-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 833,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 833,
+        "category_description": "",
+        "cat_name": "Past meetings",
+        "category_nicename": "past-meetings",
+        "category_parent": 831
       }
     ],
     "headless_tags": [],
