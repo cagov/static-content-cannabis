@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-03T00:15:35",
-    "updated_date": "2023-08-25T17:57:02",
+    "updated_date": "2023-08-25T18:30:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-02T16:15:35",
     "date_gmt": "2022-12-03T00:15:35",
     "guid": "https://api.cannabis.ca.gov/?p=12472",
-    "modified": "2023-08-25T10:57:02",
-    "modified_gmt": "2023-08-25T17:57:02",
+    "modified": "2023-08-25T11:30:16",
+    "modified_gmt": "2023-08-25T18:30:16",
     "slug": "december-14-2022-cultivation-subcommittee-meeting",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
     },
     "categories": [
       "2022 meetings",
-      "Cannabis Advisory Committee",
       "Events",
       "Past meetings"
     ],
@@ -89,22 +88,6 @@
         "cat_name": "2022 meetings",
         "category_nicename": "2022-cac",
         "category_parent": 833
-      },
-      {
-        "term_id": 831,
-        "name": "Cannabis Advisory Committee",
-        "slug": "cac",
-        "term_group": 0,
-        "term_taxonomy_id": 831,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 831,
-        "category_description": "",
-        "cat_name": "Cannabis Advisory Committee",
-        "category_nicename": "cac",
-        "category_parent": 0
       },
       {
         "term_id": 4,
