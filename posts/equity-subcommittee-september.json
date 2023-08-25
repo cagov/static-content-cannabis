@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T18:00:56",
-    "updated_date": "2023-08-25T17:06:42",
+    "updated_date": "2023-08-25T17:51:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-08-24T11:00:56",
     "date_gmt": "2023-08-24T18:00:56",
     "guid": "https://api.cannabis.ca.gov/?p=14555",
-    "modified": "2023-08-25T10:06:42",
-    "modified_gmt": "2023-08-25T17:06:42",
+    "modified": "2023-08-25T10:51:04",
+    "modified_gmt": "2023-08-25T17:51:04",
     "slug": "equity-subcommittee-september",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/08/equity-subcommittee-september/",
-    "title": "Equity Subcommittee: September",
-    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\"></div>\n<p></p>\n<div class=\"event-time\"> </div>\n<p></p>\n<div class=\"event-location\"></div>\n</div>\n",
+    "title": "Equity Subcommittee: 9/6/2023",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">September 6, 2023</div>\n<p></p>\n<div class=\"event-time\">1:00 PM &#8211; 3:00 PM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx</div>\n</div>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Equity subcommittee"
+      "Equity subcommittee",
+      "Events"
     ],
     "tags": [
       "staging"
@@ -58,18 +59,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/08/equity-subcommittee-september/",
-      "page_title": "Equity Subcommittee: September",
+      "page_title": "Equity Subcommittee: 9/6/2023",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Equity Subcommittee: September",
+      "meta_title": "Equity Subcommittee: 9/6/2023",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/08/equity-subcommittee-september/",
-      "open_graph_title": "Equity Subcommittee: September",
+      "open_graph_title": "Equity Subcommittee: 9/6/2023",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Equity Subcommittee: September",
+      "twitter_title": "Equity Subcommittee: 9/6/2023",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -88,6 +89,22 @@
         "cat_name": "Equity subcommittee",
         "category_nicename": "equity-subcommittee",
         "category_parent": 831
+      },
+      {
+        "term_id": 4,
+        "name": "Events",
+        "slug": "events",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 4,
+        "category_description": "",
+        "cat_name": "Events",
+        "category_nicename": "events",
+        "category_parent": 2
       }
     ],
     "headless_tags": [
@@ -105,7 +122,18 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "event": null,
+    "event": {
+      "startDateTimeUTC": "2023-09-06T20:00:00",
+      "endDateTimeUTC": "2023-09-06T22:00:00",
+      "startDate": "September 6, 2023",
+      "endDate": "September 6, 2023",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM",
+      "localTimezone": "America/Los_Angeles",
+      "localTimezoneLabel": "PST",
+      "location": "WebEx",
+      "cost": "Free"
+    },
     "custom_post_date": "",
     "meta_": {
       "0": "",
