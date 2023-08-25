@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "2021",
+      "2021 announcements",
       "Announcements"
     ],
     "tags": [
@@ -81,7 +81,7 @@
     "headless_categories": [
       {
         "term_id": 824,
-        "name": "2021",
+        "name": "2021 announcements",
         "slug": "2021",
         "term_group": 0,
         "term_taxonomy_id": 824,
@@ -91,7 +91,7 @@
         "filter": "raw",
         "cat_ID": 824,
         "category_description": "",
-        "cat_name": "2021",
+        "cat_name": "2021 announcements",
         "category_nicename": "2021",
         "category_parent": 14
       },

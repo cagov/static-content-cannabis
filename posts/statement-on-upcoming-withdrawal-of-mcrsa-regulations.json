@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "2017",
+      "2017 announcements",
       "Announcements"
     ],
     "tags": [
@@ -78,7 +78,7 @@
     "headless_categories": [
       {
         "term_id": 828,
-        "name": "2017",
+        "name": "2017 announcements",
         "slug": "2017",
         "term_group": 0,
         "term_taxonomy_id": 828,
@@ -88,7 +88,7 @@
         "filter": "raw",
         "cat_ID": 828,
         "category_description": "",
-        "cat_name": "2017",
+        "cat_name": "2017 announcements",
         "category_nicename": "2017",
         "category_parent": 14
       },
