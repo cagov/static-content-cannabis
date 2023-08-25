@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-08-03T06:16:00",
-    "updated_date": "2023-08-25T23:22:06",
+    "updated_date": "2023-08-25T23:24:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-08-02T23:16:00",
     "date_gmt": "2017-08-03T06:16:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/media-california-must-overhaul-draft-cannabis-regulations-using-emergency-process-so-sales-can-start-jan-2/",
-    "modified": "2023-08-25T16:22:06",
-    "modified_gmt": "2023-08-25T23:22:06",
+    "modified": "2023-08-25T16:24:06",
+    "modified_gmt": "2023-08-25T23:24:06",
     "slug": "media-california-must-overhaul-draft-cannabis-regulations-using-emergency-process-so-sales-can-start-jan-2",
     "status": "publish",
     "type": "post",
