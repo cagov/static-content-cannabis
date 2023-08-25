@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "created_date": "2023-08-24T17:59:27",
+    "updated_date": "2023-08-25T18:57:56",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/14553",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14553,
+    "date": "2023-08-24T10:59:27",
+    "date_gmt": "2023-08-24T17:59:27",
+    "guid": "https://api.cannabis.ca.gov/?p=14553",
+    "modified": "2023-08-25T11:57:56",
+    "modified_gmt": "2023-08-25T18:57:56",
+    "slug": "public-health-community-impact-subcommittee-september",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/08/public-health-community-impact-subcommittee-september/",
+    "title": "Cannabis Advisory Committee – Public Health &#038; Community Impact Subcommittee: 9/6/2023",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">September 6, 2023</div>\n<p></p>\n<div class=\"event-time\">9:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx or in person</div>\n</div>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-event.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "CAC Subcommittee",
+      "Events",
+      "Public Health &amp; Community Impact subcommittee"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single-event"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/08/public-health-community-impact-subcommittee-september/",
+      "page_title": "Cannabis Advisory Committee – Public Health & Community Impact Subcommittee: 9/6/2023",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis Advisory Committee – Public Health & Community Impact Subcommittee: 9/6/2023",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/08/public-health-community-impact-subcommittee-september/",
+      "open_graph_title": "Cannabis Advisory Committee – Public Health & Community Impact Subcommittee: 9/6/2023",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cannabis Advisory Committee – Public Health & Community Impact Subcommittee: 9/6/2023",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 832,
+        "name": "CAC Subcommittee",
+        "slug": "cac-subcommittee",
+        "term_group": 0,
+        "term_taxonomy_id": 832,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 832,
+        "category_description": "",
+        "cat_name": "CAC Subcommittee",
+        "category_nicename": "cac-subcommittee",
+        "category_parent": 831
+      },
+      {
+        "term_id": 4,
+        "name": "Events",
+        "slug": "events",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 4,
+        "category_description": "",
+        "cat_name": "Events",
+        "category_nicename": "events",
+        "category_parent": 2
+      },
+      {
+        "term_id": 839,
+        "name": "Public Health &amp; Community Impact subcommittee",
+        "slug": "public-health-community-impact-subcommittee",
+        "term_group": 0,
+        "term_taxonomy_id": 839,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 839,
+        "category_description": "",
+        "cat_name": "Public Health &amp; Community Impact subcommittee",
+        "category_nicename": "public-health-community-impact-subcommittee",
+        "category_parent": 831
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": {
+      "startDateTimeUTC": "2023-09-06T16:00:00",
+      "endDateTimeUTC": "2023-09-06T16:00:00",
+      "startDate": "September 6, 2023",
+      "endDate": "September 6, 2023",
+      "startTime": "9:00 AM",
+      "endTime": "9:00 AM",
+      "localTimezone": "America/Los_Angeles",
+      "localTimezoneLabel": "PST",
+      "location": "WebEx or in person",
+      "cost": "Free"
+    },
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/08/public-health-community-impact-subcommittee-september/"
+  }
+}
