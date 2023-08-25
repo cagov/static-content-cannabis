@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-03T23:28:52",
-    "updated_date": "2023-08-24T17:44:02",
+    "updated_date": "2023-08-25T17:41:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-03T15:28:52",
     "date_gmt": "2023-02-03T23:28:52",
     "guid": "https://api.cannabis.ca.gov/?p=13096",
-    "modified": "2023-08-24T10:44:02",
-    "modified_gmt": "2023-08-24T17:44:02",
+    "modified": "2023-08-25T10:41:08",
+    "modified_gmt": "2023-08-25T17:41:08",
     "slug": "cannabis-advisory-committee-medicinal-use-subcommittee",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2023",
       "Events",
       "Past meetings"
     ],
@@ -72,6 +73,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 834,
+        "name": "2023",
+        "slug": "2023-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 834,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 834,
+        "category_description": "",
+        "cat_name": "2023",
+        "category_nicename": "2023-cac",
+        "category_parent": 833
+      },
       {
         "term_id": 4,
         "name": "Events",
