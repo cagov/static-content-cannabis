@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-03T00:07:41",
-    "updated_date": "2023-08-25T17:42:31",
+    "updated_date": "2023-08-25T17:56:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-02T16:07:41",
     "date_gmt": "2022-12-03T00:07:41",
     "guid": "https://api.cannabis.ca.gov/?p=12470",
-    "modified": "2023-08-25T10:42:31",
-    "modified_gmt": "2023-08-25T17:42:31",
+    "modified": "2023-08-25T10:56:14",
+    "modified_gmt": "2023-08-25T17:56:14",
     "slug": "december-13-2022-equity-subcommittee-meeting",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "2023 meetings",
+      "2022 meetings",
       "Cannabis Advisory Committee",
       "Events",
       "Past meetings"
@@ -75,19 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 834,
-        "name": "2023 meetings",
-        "slug": "2023-cac",
+        "term_id": 835,
+        "name": "2022 meetings",
+        "slug": "2022-cac",
         "term_group": 0,
-        "term_taxonomy_id": 834,
+        "term_taxonomy_id": 835,
         "taxonomy": "category",
         "description": "",
         "parent": 833,
         "filter": "raw",
-        "cat_ID": 834,
+        "cat_ID": 835,
         "category_description": "",
-        "cat_name": "2023 meetings",
-        "category_nicename": "2023-cac",
+        "cat_name": "2022 meetings",
+        "category_nicename": "2022-cac",
         "category_parent": 833
       },
       {
