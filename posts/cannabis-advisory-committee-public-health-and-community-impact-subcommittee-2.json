@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-12T00:00:36",
-    "updated_date": "2023-08-24T17:18:44",
+    "updated_date": "2023-08-25T17:57:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-11T17:00:36",
     "date_gmt": "2023-05-12T00:00:36",
     "guid": "https://api.cannabis.ca.gov/?p=13604",
-    "modified": "2023-08-24T10:18:44",
-    "modified_gmt": "2023-08-24T17:18:44",
+    "modified": "2023-08-25T10:57:14",
+    "modified_gmt": "2023-08-25T17:57:14",
     "slug": "cannabis-advisory-committee-public-health-and-community-impact-subcommittee-2",
     "status": "publish",
     "type": "post",
