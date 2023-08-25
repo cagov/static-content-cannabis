@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "2023",
+      "2023 meetings",
       "Equity subcommittee",
       "Events",
       "Past meetings"
@@ -76,7 +76,7 @@
     "headless_categories": [
       {
         "term_id": 834,
-        "name": "2023",
+        "name": "2023 meetings",
         "slug": "2023-cac",
         "term_group": 0,
         "term_taxonomy_id": 834,
@@ -86,7 +86,7 @@
         "filter": "raw",
         "cat_ID": 834,
         "category_description": "",
-        "cat_name": "2023",
+        "cat_name": "2023 meetings",
         "category_nicename": "2023-cac",
         "category_parent": 833
       },
