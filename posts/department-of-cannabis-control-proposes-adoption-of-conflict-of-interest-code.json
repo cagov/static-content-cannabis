@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "2022",
+      "2022 announcements",
       "Announcements"
     ],
     "tags": [
@@ -82,7 +82,7 @@
     "headless_categories": [
       {
         "term_id": 823,
-        "name": "2022",
+        "name": "2022 announcements",
         "slug": "2022",
         "term_group": 0,
         "term_taxonomy_id": 823,
@@ -92,7 +92,7 @@
         "filter": "raw",
         "cat_ID": 823,
         "category_description": "",
-        "cat_name": "2022",
+        "cat_name": "2022 announcements",
         "category_nicename": "2022",
         "category_parent": 14
       },

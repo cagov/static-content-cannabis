@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "2020",
+      "2020 announcements",
       "Announcements"
     ],
     "tags": [
@@ -93,7 +93,7 @@
     "headless_categories": [
       {
         "term_id": 825,
-        "name": "2020",
+        "name": "2020 announcements",
         "slug": "2020",
         "term_group": 0,
         "term_taxonomy_id": 825,
@@ -103,7 +103,7 @@
         "filter": "raw",
         "cat_ID": 825,
         "category_description": "",
-        "cat_name": "2020",
+        "cat_name": "2020 announcements",
         "category_nicename": "2020",
         "category_parent": 14
       },
