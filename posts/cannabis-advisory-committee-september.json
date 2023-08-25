@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:57:08",
-    "updated_date": "2023-08-25T18:14:33",
+    "updated_date": "2023-08-25T18:14:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:57:08",
     "date_gmt": "2023-08-24T17:57:08",
     "guid": "https://api.cannabis.ca.gov/?p=14549",
-    "modified": "2023-08-25T11:14:33",
-    "modified_gmt": "2023-08-25T18:14:33",
+    "modified": "2023-08-25T11:14:57",
+    "modified_gmt": "2023-08-25T18:14:57",
     "slug": "cannabis-advisory-committee-september",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Cannabis Advisory Committee"
+      "Cannabis Advisory Committee",
+      "Events"
     ],
     "tags": [
       "staging"
@@ -88,6 +89,22 @@
         "cat_name": "Cannabis Advisory Committee",
         "category_nicename": "cac",
         "category_parent": 0
+      },
+      {
+        "term_id": 4,
+        "name": "Events",
+        "slug": "events",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 4,
+        "category_description": "",
+        "cat_name": "Events",
+        "category_nicename": "events",
+        "category_parent": 2
       }
     ],
     "headless_tags": [
