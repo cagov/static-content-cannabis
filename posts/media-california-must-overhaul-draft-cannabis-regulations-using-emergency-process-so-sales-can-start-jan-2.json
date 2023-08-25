@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-08-03T06:16:00",
-    "updated_date": "2023-08-11T18:37:59",
+    "updated_date": "2023-08-25T23:22:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-08-02T23:16:00",
     "date_gmt": "2017-08-03T06:16:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/media-california-must-overhaul-draft-cannabis-regulations-using-emergency-process-so-sales-can-start-jan-2/",
-    "modified": "2023-08-11T11:37:59",
-    "modified_gmt": "2023-08-11T18:37:59",
+    "modified": "2023-08-25T16:22:06",
+    "modified_gmt": "2023-08-25T23:22:06",
     "slug": "media-california-must-overhaul-draft-cannabis-regulations-using-emergency-process-so-sales-can-start-jan-2",
     "status": "publish",
     "type": "post",
@@ -38,13 +38,10 @@
       "_modified_date": ""
     },
     "categories": [
-      "2017 announcements",
-      "Announcements"
+      "News archive old"
     ],
     "tags": [
       "Cannabis",
-      "Emergency regs",
-      "Media",
       "News"
     ],
     "design_system_fields": {
@@ -78,35 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 828,
-        "name": "2017 announcements",
-        "slug": "2017",
+        "term_id": 844,
+        "name": "News archive old",
+        "slug": "news-archive-old",
         "term_group": 0,
-        "term_taxonomy_id": 828,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 14,
-        "filter": "raw",
-        "cat_ID": 828,
-        "category_description": "",
-        "cat_name": "2017 announcements",
-        "category_nicename": "2017",
-        "category_parent": 14
-      },
-      {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 844,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 844,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "News archive old",
+        "category_nicename": "news-archive-old",
         "category_parent": 0
       }
     ],
@@ -117,28 +98,6 @@
         "slug": "cannabis",
         "term_group": 0,
         "term_taxonomy_id": 122,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 278,
-        "name": "Emergency regs",
-        "slug": "emergency-regs",
-        "term_group": 0,
-        "term_taxonomy_id": 278,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 452,
-        "name": "Media",
-        "slug": "media",
-        "term_group": 0,
-        "term_taxonomy_id": 452,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
