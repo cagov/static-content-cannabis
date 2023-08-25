@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:58:24",
-    "updated_date": "2023-08-25T17:24:22",
+    "updated_date": "2023-08-25T18:25:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,33 +18,34 @@
     "date": "2023-08-24T10:58:24",
     "date_gmt": "2023-08-24T17:58:24",
     "guid": "https://api.cannabis.ca.gov/?p=14551",
-    "modified": "2023-08-25T10:24:22",
-    "modified_gmt": "2023-08-25T17:24:22",
+    "modified": "2023-08-25T11:25:24",
+    "modified_gmt": "2023-08-25T18:25:24",
     "slug": "cultivation-subcommittee-september",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/08/cultivation-subcommittee-september/",
     "title": "Cultivation Subcommittee: 9/5/2023",
-    "excerpt": "<p>Webinar topic Cannabis Advisory Committee &#8211; Cultivation Subcommittee Date and time Tuesday, September 5, 2023 1:00 PM | (UTC-07:00) Pacific Time (US &amp; Canada) Join by web WebEx join link Webinar number 2530 899 6186 Webinar password CultivationPblc (28584829 from phones and video systems) Join by phone 1-844-621-3956 United States Toll Free +1-650-479-3208 United States [&hellip;]</p>\n",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">September 5, 2023</div>\n<p></p>\n<div class=\"event-time\">1:00 PM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx or in person</div>\n</div>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-event.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Cultivation subcommittee"
+      "Cultivation subcommittee",
+      "Events"
     ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-single-event"
     },
     "og_meta": {
       "editor": {
@@ -88,6 +89,22 @@
         "cat_name": "Cultivation subcommittee",
         "category_nicename": "cultivation-subcommittee",
         "category_parent": 831
+      },
+      {
+        "term_id": 4,
+        "name": "Events",
+        "slug": "events",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 4,
+        "category_description": "",
+        "cat_name": "Events",
+        "category_nicename": "events",
+        "category_parent": 2
       }
     ],
     "headless_tags": [
@@ -105,7 +122,18 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "event": null,
+    "event": {
+      "startDateTimeUTC": "2023-09-05T20:00:00",
+      "endDateTimeUTC": "2023-09-05T20:00:00",
+      "startDate": "September 5, 2023",
+      "endDate": "September 5, 2023",
+      "startTime": "1:00 PM",
+      "endTime": "1:00 PM",
+      "localTimezone": "America/Los_Angeles",
+      "localTimezoneLabel": "PST",
+      "location": "WebEx or in person",
+      "cost": "Free"
+    },
     "custom_post_date": "",
     "meta_": {
       "0": "",
