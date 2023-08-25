@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-03T00:01:00",
-    "updated_date": "2023-02-24T20:17:29",
+    "updated_date": "2023-08-25T17:28:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2022-12-02T16:01:00",
     "date_gmt": "2022-12-03T00:01:00",
     "guid": "https://api.cannabis.ca.gov/?p=12468",
-    "modified": "2023-02-24T12:17:29",
-    "modified_gmt": "2023-02-24T20:17:29",
+    "modified": "2023-08-25T10:28:49",
+    "modified_gmt": "2023-08-25T17:28:49",
     "slug": "december-15-2022-cac-meeting",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2022/12/december-15-2022-cac-meeting/",
-    "title": "Cannabis Advisory Committee meeting",
+    "title": "Cannabis Advisory Committee meeting: 12/15/2022",
     "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">December 15, 2022</div>\n<p></p>\n<div class=\"event-time\">10:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx Event</div>\n</div>\n",
     "author": 15,
     "featured_media": 0,
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [
-      "Events"
+      "Cannabis Advisory Committee",
+      "Events",
+      "Past meetings"
     ],
     "tags": [],
     "design_system_fields": {
@@ -56,21 +58,37 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2022/12/december-15-2022-cac-meeting/",
-      "page_title": "Cannabis Advisory Committee meeting",
+      "page_title": "Cannabis Advisory Committee meeting: 12/15/2022",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cannabis Advisory Committee meeting",
+      "meta_title": "Cannabis Advisory Committee meeting: 12/15/2022",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2022/12/december-15-2022-cac-meeting/",
-      "open_graph_title": "Cannabis Advisory Committee meeting",
+      "open_graph_title": "Cannabis Advisory Committee meeting: 12/15/2022",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cannabis Advisory Committee meeting",
+      "twitter_title": "Cannabis Advisory Committee meeting: 12/15/2022",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 831,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
+        "term_group": 0,
+        "term_taxonomy_id": 831,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 831,
+        "category_description": "",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
+        "category_parent": 0
+      },
       {
         "term_id": 4,
         "name": "Events",
@@ -86,6 +104,22 @@
         "cat_name": "Events",
         "category_nicename": "events",
         "category_parent": 2
+      },
+      {
+        "term_id": 833,
+        "name": "Past meetings",
+        "slug": "past-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 833,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 833,
+        "category_description": "",
+        "cat_name": "Past meetings",
+        "category_nicename": "past-meetings",
+        "category_parent": 831
       }
     ],
     "headless_tags": [],
