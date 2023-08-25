@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-10T21:02:25",
-    "updated_date": "2023-08-25T17:22:51",
+    "updated_date": "2023-08-25T17:41:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-10T13:02:25",
     "date_gmt": "2023-01-10T21:02:25",
     "guid": "https://api.cannabis.ca.gov/?p=12911",
-    "modified": "2023-08-25T10:22:51",
-    "modified_gmt": "2023-08-25T17:22:51",
+    "modified": "2023-08-25T10:41:41",
+    "modified_gmt": "2023-08-25T17:41:41",
     "slug": "cannabis-advisory-committee-public-health-and-community-impact-subcommittee",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2023",
       "Cannabis Advisory Committee",
       "Events",
       "Past meetings",
@@ -74,6 +75,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 834,
+        "name": "2023",
+        "slug": "2023-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 834,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 834,
+        "category_description": "",
+        "cat_name": "2023",
+        "category_nicename": "2023-cac",
+        "category_parent": 833
+      },
       {
         "term_id": 831,
         "name": "Cannabis Advisory Committee",
