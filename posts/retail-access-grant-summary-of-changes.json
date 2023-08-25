@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-25T20:36:04",
-    "updated_date": "2023-08-25T20:36:04",
+    "updated_date": "2023-08-25T20:36:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-25T13:36:04",
     "date_gmt": "2023-08-25T20:36:04",
     "guid": "https://api.cannabis.ca.gov/?p=14670",
-    "modified": "2023-08-25T13:36:04",
-    "modified_gmt": "2023-08-25T20:36:04",
+    "modified": "2023-08-25T13:36:10",
+    "modified_gmt": "2023-08-25T20:36:10",
     "slug": "retail-access-grant-summary-of-changes",
     "status": "publish",
     "type": "post",
@@ -38,8 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      null,
-      null
+      "Grants",
+      "Retail Access Grant"
     ],
     "tags": [
       "staging"
