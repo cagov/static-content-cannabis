@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T18:00:56",
-    "updated_date": "2023-08-25T16:50:28",
+    "updated_date": "2023-08-25T17:06:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T11:00:56",
     "date_gmt": "2023-08-24T18:00:56",
     "guid": "https://api.cannabis.ca.gov/?p=14555",
-    "modified": "2023-08-25T09:50:28",
-    "modified_gmt": "2023-08-25T16:50:28",
+    "modified": "2023-08-25T10:06:42",
+    "modified_gmt": "2023-08-25T17:06:42",
     "slug": "equity-subcommittee-september",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "CAC Subcommittee"
+      "Equity subcommittee"
     ],
     "tags": [
       "staging"
@@ -74,19 +74,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 832,
-        "name": "CAC Subcommittee",
-        "slug": "cac-subcommittee",
+        "term_id": 837,
+        "name": "Equity subcommittee",
+        "slug": "equity-subcommittee",
         "term_group": 0,
-        "term_taxonomy_id": 832,
+        "term_taxonomy_id": 837,
         "taxonomy": "category",
         "description": "",
         "parent": 831,
         "filter": "raw",
-        "cat_ID": 832,
+        "cat_ID": 837,
         "category_description": "",
-        "cat_name": "CAC Subcommittee",
-        "category_nicename": "cac-subcommittee",
+        "cat_name": "Equity subcommittee",
+        "category_nicename": "equity-subcommittee",
         "category_parent": 831
       }
     ],

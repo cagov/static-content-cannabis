@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:59:27",
-    "updated_date": "2023-08-24T17:59:33",
+    "updated_date": "2023-08-25T17:07:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:59:27",
     "date_gmt": "2023-08-24T17:59:27",
     "guid": "https://api.cannabis.ca.gov/?p=14553",
-    "modified": "2023-08-24T10:59:33",
-    "modified_gmt": "2023-08-24T17:59:33",
+    "modified": "2023-08-25T10:07:00",
+    "modified_gmt": "2023-08-25T17:07:00",
     "slug": "public-health-community-impact-subcommittee-september",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "CAC Subcommittee"
+      "Public Health &amp; Community Impact subcommittee"
     ],
     "tags": [
       "staging"
@@ -74,19 +74,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 832,
-        "name": "CAC Subcommittee",
-        "slug": "cac-subcommittee",
+        "term_id": 839,
+        "name": "Public Health &amp; Community Impact subcommittee",
+        "slug": "public-health-community-impact-subcommittee",
         "term_group": 0,
-        "term_taxonomy_id": 832,
+        "term_taxonomy_id": 839,
         "taxonomy": "category",
         "description": "",
         "parent": 831,
         "filter": "raw",
-        "cat_ID": 832,
+        "cat_ID": 839,
         "category_description": "",
-        "cat_name": "CAC Subcommittee",
-        "category_nicename": "cac-subcommittee",
+        "cat_name": "Public Health &amp; Community Impact subcommittee",
+        "category_nicename": "public-health-community-impact-subcommittee",
         "category_parent": 831
       }
     ],
