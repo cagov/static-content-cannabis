@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:58:24",
-    "updated_date": "2023-08-24T17:58:31",
+    "updated_date": "2023-08-25T17:07:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:58:24",
     "date_gmt": "2023-08-24T17:58:24",
     "guid": "https://api.cannabis.ca.gov/?p=14551",
-    "modified": "2023-08-24T10:58:31",
-    "modified_gmt": "2023-08-24T17:58:31",
+    "modified": "2023-08-25T10:07:10",
+    "modified_gmt": "2023-08-25T17:07:10",
     "slug": "cultivation-subcommittee-september",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "CAC Subcommittee"
+      "Cultivation subcommittee"
     ],
     "tags": [
       "staging"
@@ -74,19 +74,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 832,
-        "name": "CAC Subcommittee",
-        "slug": "cac-subcommittee",
+        "term_id": 838,
+        "name": "Cultivation subcommittee",
+        "slug": "cultivation-subcommittee",
         "term_group": 0,
-        "term_taxonomy_id": 832,
+        "term_taxonomy_id": 838,
         "taxonomy": "category",
         "description": "",
         "parent": 831,
         "filter": "raw",
-        "cat_ID": 832,
+        "cat_ID": 838,
         "category_description": "",
-        "cat_name": "CAC Subcommittee",
-        "category_nicename": "cac-subcommittee",
+        "cat_name": "Cultivation subcommittee",
+        "category_nicename": "cultivation-subcommittee",
         "category_parent": 831
       }
     ],
