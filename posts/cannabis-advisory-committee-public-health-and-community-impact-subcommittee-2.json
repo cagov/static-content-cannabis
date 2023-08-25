@@ -74,22 +74,6 @@
     },
     "headless_categories": [
       {
-        "term_id": 822,
-        "name": "2023",
-        "slug": "2023",
-        "term_group": 0,
-        "term_taxonomy_id": 822,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 14,
-        "filter": "raw",
-        "cat_ID": 822,
-        "category_description": "",
-        "cat_name": "2023",
-        "category_nicename": "2023",
-        "category_parent": 14
-      },
-      {
         "term_id": 834,
         "name": "2023",
         "slug": "2023-cac",
@@ -104,6 +88,22 @@
         "cat_name": "2023",
         "category_nicename": "2023-cac",
         "category_parent": 833
+      },
+      {
+        "term_id": 822,
+        "name": "2023",
+        "slug": "2023",
+        "term_group": 0,
+        "term_taxonomy_id": 822,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 822,
+        "category_description": "",
+        "cat_name": "2023",
+        "category_nicename": "2023",
+        "category_parent": 14
       },
       {
         "term_id": 14,
