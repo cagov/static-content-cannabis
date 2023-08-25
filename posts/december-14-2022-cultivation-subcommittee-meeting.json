@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-03T00:15:35",
-    "updated_date": "2023-08-25T17:42:07",
+    "updated_date": "2023-08-25T17:42:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-02T16:15:35",
     "date_gmt": "2022-12-03T00:15:35",
     "guid": "https://api.cannabis.ca.gov/?p=12472",
-    "modified": "2023-08-25T10:42:07",
-    "modified_gmt": "2023-08-25T17:42:07",
+    "modified": "2023-08-25T10:42:16",
+    "modified_gmt": "2023-08-25T17:42:16",
     "slug": "december-14-2022-cultivation-subcommittee-meeting",
     "status": "publish",
     "type": "post",
