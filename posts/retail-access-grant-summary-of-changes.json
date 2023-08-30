@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-25T20:36:04",
-    "updated_date": "2023-08-25T20:40:48",
+    "updated_date": "2023-08-30T22:03:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-25T13:36:04",
     "date_gmt": "2023-08-25T20:36:04",
     "guid": "https://api.cannabis.ca.gov/?p=14670",
-    "modified": "2023-08-25T13:40:48",
-    "modified_gmt": "2023-08-25T20:40:48",
+    "modified": "2023-08-30T15:03:20",
+    "modified_gmt": "2023-08-30T22:03:20",
     "slug": "retail-access-grant-summary-of-changes",
     "status": "publish",
     "type": "post",
