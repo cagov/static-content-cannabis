@@ -35,7 +35,8 @@
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
-      "_modified_date": ""
+      "_modified_date": "",
+      "footnotes": ""
     },
     "categories": [
       "Licensees",
