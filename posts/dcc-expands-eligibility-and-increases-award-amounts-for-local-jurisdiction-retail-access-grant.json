@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-01T17:42:07",
-    "updated_date": "2023-09-01T17:44:23",
+    "updated_date": "2023-09-01T17:44:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-01T10:42:07",
     "date_gmt": "2023-09-01T17:42:07",
     "guid": "https://api.cannabis.ca.gov/?p=14772",
-    "modified": "2023-09-01T10:44:23",
-    "modified_gmt": "2023-09-01T17:44:23",
+    "modified": "2023-09-01T10:44:55",
+    "modified_gmt": "2023-09-01T17:44:55",
     "slug": "dcc-expands-eligibility-and-increases-award-amounts-for-local-jurisdiction-retail-access-grant",
     "status": "publish",
     "type": "post",
@@ -39,11 +39,10 @@
       "footnotes": ""
     },
     "categories": [
+      "2023 announcements",
       "Announcements"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single"
     },
@@ -75,6 +74,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 822,
+        "name": "2023 announcements",
+        "slug": "2023",
+        "term_group": 0,
+        "term_taxonomy_id": 822,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 822,
+        "category_description": "",
+        "cat_name": "2023 announcements",
+        "category_nicename": "2023",
+        "category_parent": 14
+      },
+      {
         "term_id": 14,
         "name": "Announcements",
         "slug": "announcements",
@@ -91,19 +106,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
