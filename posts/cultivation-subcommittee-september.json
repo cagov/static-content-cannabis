@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:58:24",
-    "updated_date": "2023-08-30T16:12:56",
+    "updated_date": "2023-09-06T15:56:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:58:24",
     "date_gmt": "2023-08-24T17:58:24",
     "guid": "https://api.cannabis.ca.gov/?p=14551",
-    "modified": "2023-08-30T09:12:56",
-    "modified_gmt": "2023-08-30T16:12:56",
+    "modified": "2023-09-06T08:56:27",
+    "modified_gmt": "2023-09-06T15:56:27",
     "slug": "cultivation-subcommittee-september",
     "status": "publish",
     "type": "post",
