@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T18:00:56",
-    "updated_date": "2023-08-30T16:11:54",
+    "updated_date": "2023-09-07T00:13:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T11:00:56",
     "date_gmt": "2023-08-24T18:00:56",
     "guid": "https://api.cannabis.ca.gov/?p=14555",
-    "modified": "2023-08-30T09:11:54",
-    "modified_gmt": "2023-08-30T16:11:54",
+    "modified": "2023-09-06T17:13:30",
+    "modified_gmt": "2023-09-07T00:13:30",
     "slug": "equity-subcommittee-september",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,9 @@
       "Equity subcommittee",
       "Events"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-single-event"
     },
@@ -106,7 +108,19 @@
         "category_parent": 2
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": {
