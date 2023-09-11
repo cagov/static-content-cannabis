@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-14T18:08:13",
-    "updated_date": "2023-08-25T17:56:47",
+    "updated_date": "2023-09-11T18:23:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-14T11:08:13",
     "date_gmt": "2023-04-14T18:08:13",
     "guid": "https://api.cannabis.ca.gov/?p=13516",
-    "modified": "2023-08-25T10:56:47",
-    "modified_gmt": "2023-08-25T17:56:47",
+    "modified": "2023-09-11T11:23:05",
+    "modified_gmt": "2023-09-11T18:23:05",
     "slug": "cannabis-advisory-committee-equity-subcommittee-2",
     "status": "publish",
     "type": "post",
@@ -40,6 +40,7 @@
     },
     "categories": [
       "2023 meetings",
+      "Cannabis Advisory Committee",
       "Events",
       "Past meetings"
     ],
@@ -89,6 +90,22 @@
         "cat_name": "2023 meetings",
         "category_nicename": "2023-cac",
         "category_parent": 833
+      },
+      {
+        "term_id": 831,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
+        "term_group": 0,
+        "term_taxonomy_id": 831,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 831,
+        "category_description": "",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
+        "category_parent": 0
       },
       {
         "term_id": 4,
