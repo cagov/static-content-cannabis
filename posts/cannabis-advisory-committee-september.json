@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:57:08",
-    "updated_date": "2023-09-11T16:20:20",
+    "updated_date": "2023-09-11T16:38:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:57:08",
     "date_gmt": "2023-08-24T17:57:08",
     "guid": "https://api.cannabis.ca.gov/?p=14549",
-    "modified": "2023-09-11T09:20:20",
-    "modified_gmt": "2023-09-11T16:20:20",
+    "modified": "2023-09-11T09:38:11",
+    "modified_gmt": "2023-09-11T16:38:11",
     "slug": "cannabis-advisory-committee-september",
     "status": "publish",
     "type": "post",
@@ -39,8 +39,9 @@
       "footnotes": ""
     },
     "categories": [
-      "Cannabis Advisory Committee",
-      "Events"
+      "2023 meetings",
+      "Events",
+      "Past meetings"
     ],
     "tags": [],
     "design_system_fields": {
@@ -74,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 831,
-        "name": "Cannabis Advisory Committee",
-        "slug": "cac",
+        "term_id": 834,
+        "name": "2023 meetings",
+        "slug": "2023-cac",
         "term_group": 0,
-        "term_taxonomy_id": 831,
+        "term_taxonomy_id": 834,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 833,
         "filter": "raw",
-        "cat_ID": 831,
+        "cat_ID": 834,
         "category_description": "",
-        "cat_name": "Cannabis Advisory Committee",
-        "category_nicename": "cac",
-        "category_parent": 0
+        "cat_name": "2023 meetings",
+        "category_nicename": "2023-cac",
+        "category_parent": 833
       },
       {
         "term_id": 4,
@@ -104,6 +105,22 @@
         "cat_name": "Events",
         "category_nicename": "events",
         "category_parent": 2
+      },
+      {
+        "term_id": 833,
+        "name": "Past meetings",
+        "slug": "past-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 833,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 833,
+        "category_description": "",
+        "cat_name": "Past meetings",
+        "category_nicename": "past-meetings",
+        "category_parent": 831
       }
     ],
     "headless_tags": [],
