@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:59:27",
-    "updated_date": "2023-09-06T19:46:20",
+    "updated_date": "2023-09-11T18:09:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:59:27",
     "date_gmt": "2023-08-24T17:59:27",
     "guid": "https://api.cannabis.ca.gov/?p=14553",
-    "modified": "2023-09-06T12:46:20",
-    "modified_gmt": "2023-09-06T19:46:20",
+    "modified": "2023-09-11T11:09:33",
+    "modified_gmt": "2023-09-11T18:09:33",
     "slug": "public-health-community-impact-subcommittee-september",
     "status": "publish",
     "type": "post",
@@ -39,8 +39,10 @@
       "footnotes": ""
     },
     "categories": [
+      "2023 meetings",
       "CAC Subcommittee",
       "Events",
+      "Past meetings",
       "Public Health &amp; Community Impact subcommittee"
     ],
     "tags": [],
@@ -75,6 +77,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 834,
+        "name": "2023 meetings",
+        "slug": "2023-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 834,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 834,
+        "category_description": "",
+        "cat_name": "2023 meetings",
+        "category_nicename": "2023-cac",
+        "category_parent": 833
+      },
+      {
         "term_id": 832,
         "name": "CAC Subcommittee",
         "slug": "cac-subcommittee",
@@ -105,6 +123,22 @@
         "cat_name": "Events",
         "category_nicename": "events",
         "category_parent": 2
+      },
+      {
+        "term_id": 833,
+        "name": "Past meetings",
+        "slug": "past-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 833,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 833,
+        "category_description": "",
+        "cat_name": "Past meetings",
+        "category_nicename": "past-meetings",
+        "category_parent": 831
       },
       {
         "term_id": 839,
