@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-06T20:18:47",
-    "updated_date": "2023-08-25T17:19:09",
+    "updated_date": "2023-09-11T18:29:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2021-12-06T12:18:47",
     "date_gmt": "2021-12-06T20:18:47",
     "guid": "https://cannabis.ca.gov/?p=9070",
-    "modified": "2023-08-25T10:19:09",
-    "modified_gmt": "2023-08-25T17:19:09",
+    "modified": "2023-09-11T11:29:05",
+    "modified_gmt": "2023-09-11T18:29:05",
     "slug": "cannabis-advisory-committee-meeting",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2021/12/cannabis-advisory-committee-meeting/",
-    "title": "Cannabis Advisory Committee",
+    "title": "Cannabis Advisory Committee Meeting: 12/13/2021",
     "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">December 13, 2021</div>\n<p></p>\n<div class=\"event-time\">10:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">Virtual (WebEx Events)</div>\n</div>\n",
     "author": 2,
     "featured_media": 0,
@@ -39,8 +39,10 @@
       "footnotes": ""
     },
     "categories": [
+      "2021 meetings",
       "Cannabis Advisory Committee",
-      "Events"
+      "Events",
+      "Past meetings"
     ],
     "tags": [],
     "design_system_fields": {
@@ -58,21 +60,37 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2021/12/cannabis-advisory-committee-meeting/",
-      "page_title": "Cannabis Advisory Committee",
+      "page_title": "Cannabis Advisory Committee Meeting: 12/13/2021",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cannabis Advisory Committee",
+      "meta_title": "Cannabis Advisory Committee Meeting: 12/13/2021",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2021/12/cannabis-advisory-committee-meeting/",
-      "open_graph_title": "Cannabis Advisory Committee",
+      "open_graph_title": "Cannabis Advisory Committee Meeting: 12/13/2021",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cannabis Advisory Committee",
+      "twitter_title": "Cannabis Advisory Committee Meeting: 12/13/2021",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 836,
+        "name": "2021 meetings",
+        "slug": "2021-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 836,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 836,
+        "category_description": "",
+        "cat_name": "2021 meetings",
+        "category_nicename": "2021-cac",
+        "category_parent": 833
+      },
       {
         "term_id": 831,
         "name": "Cannabis Advisory Committee",
@@ -104,6 +122,22 @@
         "cat_name": "Events",
         "category_nicename": "events",
         "category_parent": 2
+      },
+      {
+        "term_id": 833,
+        "name": "Past meetings",
+        "slug": "past-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 833,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 833,
+        "category_description": "",
+        "cat_name": "Past meetings",
+        "category_nicename": "past-meetings",
+        "category_parent": 831
       }
     ],
     "headless_tags": [],
