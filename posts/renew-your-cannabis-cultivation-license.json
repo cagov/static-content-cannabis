@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-13T17:13:13",
-    "updated_date": "2023-09-13T17:24:05",
+    "updated_date": "2023-09-13T17:27:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-13T10:13:13",
     "date_gmt": "2023-09-13T17:13:13",
     "guid": "https://api.cannabis.ca.gov/?p=14836",
-    "modified": "2023-09-13T10:24:05",
-    "modified_gmt": "2023-09-13T17:24:05",
+    "modified": "2023-09-13T10:27:47",
+    "modified_gmt": "2023-09-13T17:27:47",
     "slug": "renew-your-cannabis-cultivation-license",
     "status": "publish",
     "type": "post",
