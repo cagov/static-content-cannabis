@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-11T19:25:39",
-    "updated_date": "2023-09-13T17:20:45",
+    "updated_date": "2023-09-13T17:21:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-11T12:25:39",
     "date_gmt": "2023-09-11T19:25:39",
     "guid": "https://api.cannabis.ca.gov/?p=14817",
-    "modified": "2023-09-13T10:20:45",
-    "modified_gmt": "2023-09-13T17:20:45",
+    "modified": "2023-09-13T10:21:37",
+    "modified_gmt": "2023-09-13T17:21:37",
     "slug": "renewal-requirements-for-provisional-licenses",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Announcements"
+      "Provisional licenses"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,19 +73,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 850,
+        "name": "Provisional licenses",
+        "slug": "provisional-licenses",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 850,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 850,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "Provisional licenses",
+        "category_nicename": "provisional-licenses",
         "category_parent": 0
       }
     ],
