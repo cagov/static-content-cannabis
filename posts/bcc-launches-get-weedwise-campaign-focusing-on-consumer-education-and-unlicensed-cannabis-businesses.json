@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2019-06-21T16:38:00",
-    "updated_date": "2023-09-15T22:53:07",
+    "updated_date": "2023-09-15T22:53:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2019-06-21T16:38:00",
     "date_gmt": "2019-06-21T16:38:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/bcc-launches-get-weedwise-campaign-focusing-on-consumer-education-and-unlicensed-cannabis-businesses/",
-    "modified": "2023-09-15T15:53:07",
-    "modified_gmt": "2023-09-15T22:53:07",
+    "modified": "2023-09-15T15:53:13",
+    "modified_gmt": "2023-09-15T22:53:13",
     "slug": "bcc-launches-get-weedwise-campaign-focusing-on-consumer-education-and-unlicensed-cannabis-businesses",
     "status": "publish",
     "type": "post",
