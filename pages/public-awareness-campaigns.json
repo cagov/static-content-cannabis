@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2023-09-15T22:45:32",
+    "updated_date": "2023-09-15T22:50:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/public-outreach-campaigns/",
-    "modified": "2023-09-15T15:45:32",
-    "modified_gmt": "2023-09-15T22:45:32",
+    "modified": "2023-09-15T15:50:41",
+    "modified_gmt": "2023-09-15T22:50:41",
     "slug": "public-awareness-campaigns",
     "status": "publish",
     "type": "page",
