@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-03T10:00:22",
-    "updated_date": "2023-02-10T16:21:14",
+    "updated_date": "2023-09-15T23:03:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-03T02:00:22",
     "date_gmt": "2022-03-03T10:00:22",
     "guid": "https://cannabis.ca.gov/?page_id=9437",
-    "modified": "2023-02-10T08:21:14",
-    "modified_gmt": "2023-02-10T16:21:14",
+    "modified": "2023-09-15T16:03:12",
+    "modified_gmt": "2023-09-15T23:03:12",
     "slug": "dcc-regulations",
     "status": "publish",
     "type": "page",
