@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:57:08",
-    "updated_date": "2023-09-11T18:11:46",
+    "updated_date": "2023-09-18T20:18:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:57:08",
     "date_gmt": "2023-08-24T17:57:08",
     "guid": "https://api.cannabis.ca.gov/?p=14549",
-    "modified": "2023-09-11T11:11:46",
-    "modified_gmt": "2023-09-11T18:11:46",
+    "modified": "2023-09-18T13:18:57",
+    "modified_gmt": "2023-09-18T20:18:57",
     "slug": "cannabis-advisory-committee-september",
     "status": "publish",
     "type": "post",
