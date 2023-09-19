@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-11-28T07:55:00",
-    "updated_date": "2023-08-11T18:38:52",
+    "updated_date": "2023-09-19T17:43:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-11-27T23:55:00",
     "date_gmt": "2017-11-28T07:55:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/public-comment-period-for-emergency-rulemaking-action-related-to-cannabis-cultivation-licensing/",
-    "modified": "2023-08-11T11:38:52",
-    "modified_gmt": "2023-08-11T18:38:52",
+    "modified": "2023-09-19T10:43:22",
+    "modified_gmt": "2023-09-19T17:43:22",
     "slug": "public-comment-period-for-emergency-rulemaking-action-related-to-cannabis-cultivation-licensing",
     "status": "publish",
     "type": "post",
