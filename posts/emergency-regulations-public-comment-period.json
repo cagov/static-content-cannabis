@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-11-28T05:34:00",
-    "updated_date": "2023-08-11T18:38:47",
+    "updated_date": "2023-09-19T17:45:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-11-27T21:34:00",
     "date_gmt": "2017-11-28T05:34:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/emergency-regulations-public-comment-period/",
-    "modified": "2023-08-11T11:38:47",
-    "modified_gmt": "2023-08-11T18:38:47",
+    "modified": "2023-09-19T10:45:22",
+    "modified_gmt": "2023-09-19T17:45:22",
     "slug": "emergency-regulations-public-comment-period",
     "status": "publish",
     "type": "post",
