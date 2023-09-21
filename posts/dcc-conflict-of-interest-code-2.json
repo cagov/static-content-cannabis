@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "created_date": "2023-09-20T20:26:16",
+    "updated_date": "2023-09-21T00:12:13",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/14955",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14955,
+    "date": "2023-09-20T13:26:16",
+    "date_gmt": "2023-09-20T20:26:16",
+    "guid": "https://api.cannabis.ca.gov/?p=14955",
+    "modified": "2023-09-20T17:12:13",
+    "modified_gmt": "2023-09-21T00:12:13",
+    "slug": "dcc-conflict-of-interest-code-2",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/09/dcc-conflict-of-interest-code-2/",
+    "title": "DCC Conflict of Interest Code",
+    "excerpt": "<p>Overview Type: Special rulemaking Status: Approved and filed with Secretary of State February 1, 2023. Effective March 3, 2023. California law requires all state and local government agencies to establish and follow a Conflict of Interest Code. These codes require agency officials who routinely participate in decisions to publicly disclose personal financial information. They designate: [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Conflict of Interest",
+      "Rulemaking"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/09/dcc-conflict-of-interest-code-2/",
+      "page_title": "DCC Conflict of Interest Code",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "DCC Conflict of Interest Code",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/09/dcc-conflict-of-interest-code-2/",
+      "open_graph_title": "DCC Conflict of Interest Code",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "DCC Conflict of Interest Code",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 858,
+        "name": "Conflict of Interest",
+        "slug": "conflict-of-interest",
+        "term_group": 0,
+        "term_taxonomy_id": 858,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 802,
+        "filter": "raw",
+        "cat_ID": 858,
+        "category_description": "",
+        "cat_name": "Conflict of Interest",
+        "category_nicename": "conflict-of-interest",
+        "category_parent": 802
+      },
+      {
+        "term_id": 802,
+        "name": "Rulemaking",
+        "slug": "rulemaking",
+        "term_group": 0,
+        "term_taxonomy_id": 802,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 802,
+        "category_description": "",
+        "cat_name": "Rulemaking",
+        "category_nicename": "rulemaking",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/09/dcc-conflict-of-interest-code-2/"
+  }
+}
