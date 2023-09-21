@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2023-09-21T23:50:42",
+    "updated_date": "2023-09-21T23:50:48",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/14990",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14990,
+    "date": "2023-09-21T16:50:42",
+    "date_gmt": "2023-09-21T23:50:42",
+    "guid": "https://api.cannabis.ca.gov/?p=14990",
+    "modified": "2023-09-21T16:50:48",
+    "modified_gmt": "2023-09-21T23:50:48",
+    "slug": "sampling-standard-operating-procedures-dcc-lic-021",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/09/sampling-standard-operating-procedures-dcc-lic-021/",
+    "title": "Sampling – Standard Operating Procedures (DCC-LIC-021)",
+    "excerpt": "<p>This form covers:</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Forms"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/09/sampling-standard-operating-procedures-dcc-lic-021/",
+      "page_title": "Sampling – Standard Operating Procedures (DCC-LIC-021)",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Sampling – Standard Operating Procedures (DCC-LIC-021)",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/09/sampling-standard-operating-procedures-dcc-lic-021/",
+      "open_graph_title": "Sampling – Standard Operating Procedures (DCC-LIC-021)",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Sampling – Standard Operating Procedures (DCC-LIC-021)",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
+        "term_group": 0,
+        "term_taxonomy_id": 845,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 845,
+        "category_description": "",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
+        "category_parent": 2
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/09/sampling-standard-operating-procedures-dcc-lic-021/"
+  }
+}
