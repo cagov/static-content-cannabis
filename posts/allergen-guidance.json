@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-20T16:40:00",
-    "updated_date": "2023-09-20T16:40:21",
+    "updated_date": "2023-09-29T22:20:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-20T09:40:00",
     "date_gmt": "2023-09-20T16:40:00",
     "guid": "https://api.cannabis.ca.gov/?p=14940",
-    "modified": "2023-09-20T09:40:21",
-    "modified_gmt": "2023-09-20T16:40:21",
+    "modified": "2023-09-29T15:20:55",
+    "modified_gmt": "2023-09-29T22:20:55",
     "slug": "allergen-guidance",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Fact Sheet"
+      "Fact Sheet",
+      "Safety"
     ],
     "tags": [
       "staging"
@@ -89,6 +90,22 @@
         "cat_name": "Fact Sheet",
         "category_nicename": "fact-sheet",
         "category_parent": 809
+      },
+      {
+        "term_id": 805,
+        "name": "Safety",
+        "slug": "safety",
+        "term_group": 0,
+        "term_taxonomy_id": 805,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 805,
+        "category_description": "",
+        "cat_name": "Safety",
+        "category_nicename": "safety",
+        "category_parent": 0
       }
     ],
     "headless_tags": [
