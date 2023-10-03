@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-20T16:45:39",
-    "updated_date": "2023-10-02T21:01:47",
+    "updated_date": "2023-10-03T17:27:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-20T09:45:39",
     "date_gmt": "2023-09-20T16:45:39",
     "guid": "https://api.cannabis.ca.gov/?p=14942",
-    "modified": "2023-10-02T14:01:47",
-    "modified_gmt": "2023-10-02T21:01:47",
+    "modified": "2023-10-03T10:27:35",
+    "modified_gmt": "2023-10-03T17:27:35",
     "slug": "allergen-control-program-checklist",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Checklist",
       "Safety"
     ],
     "tags": [],
@@ -72,6 +73,22 @@
       "twitter_description": "Used in conjunction with the Allergy Guidance document, this checklist will assist you in establishing and implementing a written allergen control program as required by the California Code of Regulations, title 4 (4 CCR) section 17214(d)(3), Product Quality Plan."
     },
     "headless_categories": [
+      {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
+      },
       {
         "term_id": 805,
         "name": "Safety",
