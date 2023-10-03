@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-02T20:56:47",
-    "updated_date": "2023-06-06T23:31:25",
+    "updated_date": "2023-10-03T17:41:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-02T13:56:47",
     "date_gmt": "2023-06-02T20:56:47",
     "guid": "https://api.cannabis.ca.gov/?p=13740",
-    "modified": "2023-06-06T16:31:25",
-    "modified_gmt": "2023-06-06T23:31:25",
+    "modified": "2023-10-03T10:41:31",
+    "modified_gmt": "2023-10-03T17:41:31",
     "slug": "cannabis-cultivator-self-inspection-checklist",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Checklist",
       "Cultivation"
     ],
     "tags": [],
@@ -72,6 +73,22 @@
       "twitter_description": "This checklist is designed to help you review the conditions of your cannabis cultivation (including nursery or processing) facility in preparation for an inspection by Department of Cannabis Control (Department) staff. The items listed below represent the major areas evaluated during a routine compliance inspection. Form DCC-3204."
     },
     "headless_categories": [
+      {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
+      },
       {
         "term_id": 801,
         "name": "Cultivation",
