@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:03:17",
-    "updated_date": "2023-08-10T20:51:50",
+    "updated_date": "2023-10-03T17:37:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T10:03:17",
     "date_gmt": "2023-06-30T17:03:17",
     "guid": "https://api.cannabis.ca.gov/?p=13957",
-    "modified": "2023-08-10T13:51:50",
-    "modified_gmt": "2023-08-10T20:51:50",
+    "modified": "2023-10-03T10:37:41",
+    "modified_gmt": "2023-10-03T17:37:41",
     "slug": "batch-production-record-checklist",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Checklist",
       "Manufacturing"
     ],
     "tags": [],
@@ -72,6 +73,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
+      },
       {
         "term_id": 800,
         "name": "Manufacturing",
