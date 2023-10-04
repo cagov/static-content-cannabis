@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-04T23:38:53",
-    "updated_date": "2023-10-04T23:38:58",
+    "updated_date": "2023-10-04T23:40:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-10-04T16:38:53",
     "date_gmt": "2023-10-04T23:38:53",
     "guid": "https://api.cannabis.ca.gov/?p=15071",
-    "modified": "2023-10-04T16:38:58",
-    "modified_gmt": "2023-10-04T23:38:58",
-    "slug": "unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023",
+    "modified": "2023-10-04T16:40:50",
+    "modified_gmt": "2023-10-04T23:40:50",
+    "slug": "ucetf-q3-2023-stats",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/10/unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023/",
+    "link": "https://api.cannabis.ca.gov/2023/10/ucetf-q3-2023-stats/",
     "title": "Unified Cannabis Enforcement Taskforce strategically disrupted illegal market by seizing over $101M worth of unlicensed cannabis products in Q3 2023 ",
     "excerpt": "<p>Focusing on larger targets, the taskforce achieved similar results from previous quarter through serving 35 percent fewer search warrants. CALIFORNIA – Continuing to protect public safety, safeguard natural resources, and advance the integrity of the legal cannabis market, the Unified Cannabis Enforcement Taskforce (UCETF) seized more than $101 million in illegal cannabis during the third [&hellip;]</p>\n",
     "author": 32,
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-press-release.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,14 +39,13 @@
       "footnotes": ""
     },
     "categories": [
-      "2023 announcements",
-      "Announcements"
+      "Press Releases"
     ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-single"
+      "template": "template-single-press-release"
     },
     "og_meta": {
       "editor": {
@@ -59,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/10/unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/10/ucetf-q3-2023-stats/",
       "page_title": "Unified Cannabis Enforcement Taskforce strategically disrupted illegal market by seizing over $101M worth of unlicensed cannabis products in Q3 2023 ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Unified Cannabis Enforcement Taskforce strategically disrupted illegal market by seizing over $101M worth of unlicensed cannabis products in Q3 2023 ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/ucetf-q3-2023-stats/",
       "open_graph_title": "Unified Cannabis Enforcement Taskforce strategically disrupted illegal market by seizing over $101M worth of unlicensed cannabis products in Q3 2023 ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Unified Cannabis Enforcement Taskforce strategically disrupted illegal market by seizing over $101M worth of unlicensed cannabis products in Q3 2023 ",
@@ -76,35 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 822,
-        "name": "2023 announcements",
-        "slug": "2023",
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
         "term_group": 0,
-        "term_taxonomy_id": 822,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 14,
-        "filter": "raw",
-        "cat_ID": 822,
-        "category_description": "",
-        "cat_name": "2023 announcements",
-        "category_nicename": "2023",
-        "category_parent": 14
-      },
-      {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 16,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 16,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
         "category_parent": 0
       }
     ],
@@ -131,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/ucetf-q3-2023-stats/"
   }
 }
