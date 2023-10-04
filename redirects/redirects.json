@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 67,
+      "redirects": 68,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2215,6 +2215,32 @@
       "regex": false,
       "group_id": 1,
       "position": 66,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 317,
+      "url": "/2023/10/unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023/",
+      "match_url": "/2023/10/unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/10/ucetf-q3-2023-stats/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 67,
       "last_access": "-",
       "enabled": true
     }
