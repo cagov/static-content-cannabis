@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-04T23:38:53",
-    "updated_date": "2023-10-04T23:43:36",
+    "updated_date": "2023-10-04T23:51:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-04T16:38:53",
     "date_gmt": "2023-10-04T23:38:53",
     "guid": "https://api.cannabis.ca.gov/?p=15071",
-    "modified": "2023-10-04T16:43:36",
-    "modified_gmt": "2023-10-04T23:43:36",
+    "modified": "2023-10-04T16:51:43",
+    "modified_gmt": "2023-10-04T23:51:43",
     "slug": "ucetf-q3-2023-stats",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Press Releases"
+      "2023 announcements",
+      "Announcements"
     ],
     "tags": [
       "staging"
@@ -75,19 +76,35 @@
     },
     "headless_categories": [
       {
-        "term_id": 16,
-        "name": "Press Releases",
-        "slug": "press-releases",
+        "term_id": 822,
+        "name": "2023 announcements",
+        "slug": "2023",
         "term_group": 0,
-        "term_taxonomy_id": 16,
+        "term_taxonomy_id": 822,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 822,
+        "category_description": "",
+        "cat_name": "2023 announcements",
+        "category_nicename": "2023",
+        "category_parent": 14
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 16,
+        "cat_ID": 14,
         "category_description": "",
-        "cat_name": "Press Releases",
-        "category_nicename": "press-releases",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
         "category_parent": 0
       }
     ],
