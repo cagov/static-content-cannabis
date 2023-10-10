@@ -82,11 +82,11 @@
         "term_group": 0,
         "term_taxonomy_id": 845,
         "taxonomy": "category",
-        "description": "",
+        "description": "View all forms for DCC.",
         "parent": 2,
         "filter": "raw",
         "cat_ID": 845,
-        "category_description": "",
+        "category_description": "View all forms for DCC.",
         "cat_name": "Forms",
         "category_nicename": "forms",
         "category_parent": 2
