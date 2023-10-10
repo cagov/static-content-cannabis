@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-29T16:54:06",
-    "updated_date": "2023-10-03T17:55:47",
+    "updated_date": "2023-10-10T18:45:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-29T09:54:06",
     "date_gmt": "2023-08-29T16:54:06",
     "guid": "https://api.cannabis.ca.gov/?p=14723",
-    "modified": "2023-10-03T10:55:47",
-    "modified_gmt": "2023-10-03T17:55:47",
+    "modified": "2023-10-10T11:45:43",
+    "modified_gmt": "2023-10-10T18:45:43",
     "slug": "notifications-and-requests-to-modify-a-license",
     "status": "publish",
     "type": "post",
@@ -43,6 +43,7 @@
       "Notifications and requests"
     ],
     "tags": [
+      "modifications",
       "staging"
     ],
     "design_system_fields": {
@@ -109,6 +110,17 @@
       }
     ],
     "headless_tags": [
+      {
+        "term_id": 862,
+        "name": "modifications",
+        "slug": "modifications",
+        "term_group": 0,
+        "term_taxonomy_id": 862,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
       {
         "term_id": 797,
         "name": "staging",
