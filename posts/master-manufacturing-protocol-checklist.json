@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:14:54",
-    "updated_date": "2023-10-10T19:31:32",
+    "updated_date": "2023-10-10T19:41:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T10:14:54",
     "date_gmt": "2023-06-30T17:14:54",
     "guid": "https://api.cannabis.ca.gov/?p=13961",
-    "modified": "2023-10-10T12:31:32",
-    "modified_gmt": "2023-10-10T19:31:32",
+    "modified": "2023-10-10T12:41:23",
+    "modified_gmt": "2023-10-10T19:41:23",
     "slug": "master-manufacturing-protocol-checklist",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "Checklist",
-      "Manufacturing"
+      "Manufacturing documentation"
     ],
     "tags": [],
     "design_system_fields": {
@@ -90,20 +90,20 @@
         "category_parent": 809
       },
       {
-        "term_id": 800,
-        "name": "Manufacturing",
-        "slug": "manufacturing",
+        "term_id": 865,
+        "name": "Manufacturing documentation",
+        "slug": "manufacturing-documentation",
         "term_group": 0,
-        "term_taxonomy_id": 800,
+        "term_taxonomy_id": 865,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 800,
         "filter": "raw",
-        "cat_ID": 800,
+        "cat_ID": 865,
         "category_description": "",
-        "cat_name": "Manufacturing",
-        "category_nicename": "manufacturing",
-        "category_parent": 799
+        "cat_name": "Manufacturing documentation",
+        "category_nicename": "manufacturing-documentation",
+        "category_parent": 800
       }
     ],
     "headless_tags": [],
