@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:46:05",
-    "updated_date": "2023-10-10T22:04:06",
+    "updated_date": "2023-10-10T22:57:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-21T16:46:05",
     "date_gmt": "2023-09-21T23:46:05",
     "guid": "https://api.cannabis.ca.gov/?p=14985",
-    "modified": "2023-10-10T15:04:06",
-    "modified_gmt": "2023-10-10T22:04:06",
+    "modified": "2023-10-10T15:57:10",
+    "modified_gmt": "2023-10-10T22:57:10",
     "slug": "standard-operating-procedures-dcc-lic-019",
     "status": "publish",
     "type": "post",
