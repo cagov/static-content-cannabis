@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-10T19:40:22",
-    "updated_date": "2023-10-10T19:44:58",
+    "updated_date": "2023-10-10T19:47:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-10T12:40:22",
     "date_gmt": "2023-10-10T19:40:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=15129",
-    "modified": "2023-10-10T12:44:58",
-    "modified_gmt": "2023-10-10T19:44:58",
+    "modified": "2023-10-10T12:47:13",
+    "modified_gmt": "2023-10-10T19:47:13",
     "slug": "manufacturing-resources",
     "status": "publish",
     "type": "page",
