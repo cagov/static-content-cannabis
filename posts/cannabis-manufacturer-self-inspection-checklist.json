@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-02T20:29:04",
-    "updated_date": "2023-10-10T19:35:23",
+    "updated_date": "2023-10-10T19:46:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-02T13:29:04",
     "date_gmt": "2023-06-02T20:29:04",
     "guid": "https://api.cannabis.ca.gov/?p=13736",
-    "modified": "2023-10-10T12:35:23",
-    "modified_gmt": "2023-10-10T19:35:23",
+    "modified": "2023-10-10T12:46:34",
+    "modified_gmt": "2023-10-10T19:46:34",
     "slug": "cannabis-manufacturer-self-inspection-checklist",
     "status": "publish",
     "type": "post",
@@ -41,7 +41,8 @@
     "categories": [
       "Checklist",
       "Licensees",
-      "Manufacturing"
+      "Manufacturing",
+      "Manufacturing best practices"
     ],
     "tags": [],
     "design_system_fields": {
@@ -121,6 +122,22 @@
         "cat_name": "Manufacturing",
         "category_nicename": "manufacturing",
         "category_parent": 799
+      },
+      {
+        "term_id": 867,
+        "name": "Manufacturing best practices",
+        "slug": "manufacturing-best-practices",
+        "term_group": 0,
+        "term_taxonomy_id": 867,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 867,
+        "category_description": "",
+        "cat_name": "Manufacturing best practices",
+        "category_nicename": "manufacturing-best-practices",
+        "category_parent": 800
       }
     ],
     "headless_tags": [],
