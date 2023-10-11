@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-11T19:37:14",
-    "updated_date": "2023-10-11T19:37:20",
+    "updated_date": "2023-10-11T19:41:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-10-11T12:37:14",
     "date_gmt": "2023-10-11T19:37:14",
     "guid": "https://api.cannabis.ca.gov/?p=15162",
-    "modified": "2023-10-11T12:37:20",
-    "modified_gmt": "2023-10-11T19:37:20",
+    "modified": "2023-10-11T12:41:07",
+    "modified_gmt": "2023-10-11T19:41:07",
     "slug": "faq-transporter-and-destination-transfer-approvals",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/10/faq-transporter-and-destination-transfer-approvals/",
     "title": "FAQ: Transporter and Destination Transfer Approvals ",
-    "excerpt": "<p>The Department of Cannabis Control and Metrc will be implementing a change in the California Cannabis Track and Trace system on October 25, 2023, to require that Transporter and Destination licensees approve incoming cannabis product transfers prior to physical product movement.   Q: What process will licensees follow to account for this change?&nbsp; A: CA Industry [&hellip;]</p>\n",
+    "excerpt": "<p>The Department of Cannabis Control and Metrc will be implementing a change in the California Cannabis Track and Trace system on October 25, 2023, to require that Transporter and Destination licensees approve incoming cannabis product transfers prior to physical product movement.&nbsp;&nbsp; Q: What process will licensees follow to account for this change?&nbsp; A: CA Industry [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -46,7 +46,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
