@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-11T19:39:47",
-    "updated_date": "2023-10-12T00:34:12",
+    "updated_date": "2023-10-12T00:35:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-11T12:39:47",
     "date_gmt": "2023-10-11T19:39:47",
     "guid": "https://api.cannabis.ca.gov/?p=15164",
-    "modified": "2023-10-11T17:34:12",
-    "modified_gmt": "2023-10-12T00:34:12",
+    "modified": "2023-10-11T17:35:18",
+    "modified_gmt": "2023-10-12T00:35:18",
     "slug": "updates-to-metrc-transfer-functionality",
     "status": "publish",
     "type": "post",
