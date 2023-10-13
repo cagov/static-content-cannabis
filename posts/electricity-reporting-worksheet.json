@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-13T20:16:20",
-    "updated_date": "2023-10-13T20:30:23",
+    "updated_date": "2023-10-13T20:31:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-13T13:16:20",
     "date_gmt": "2023-10-13T20:16:20",
     "guid": "https://api.cannabis.ca.gov/?p=15174",
-    "modified": "2023-10-13T13:30:23",
-    "modified_gmt": "2023-10-13T20:30:23",
+    "modified": "2023-10-13T13:31:09",
+    "modified_gmt": "2023-10-13T20:31:09",
     "slug": "electricity-reporting-worksheet",
     "status": "publish",
     "type": "post",
@@ -39,9 +39,9 @@
       "footnotes": ""
     },
     "categories": [
-      "All",
       "Electricity reporting",
-      "Resources"
+      "Resources",
+      "Worksheet"
     ],
     "tags": [
       "staging"
@@ -77,22 +77,6 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
-        "term_group": 0,
-        "term_taxonomy_id": 1,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1,
-        "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
-      },
-      {
         "term_id": 869,
         "name": "Electricity reporting",
         "slug": "electricity-reporting",
@@ -123,6 +107,22 @@
         "cat_name": "Resources",
         "category_nicename": "resources",
         "category_parent": 0
+      },
+      {
+        "term_id": 870,
+        "name": "Worksheet",
+        "slug": "worksheet",
+        "term_group": 0,
+        "term_taxonomy_id": 870,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 870,
+        "category_description": "",
+        "cat_name": "Worksheet",
+        "category_nicename": "worksheet",
+        "category_parent": 809
       }
     ],
     "headless_tags": [
