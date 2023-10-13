@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-10T17:03:51",
-    "updated_date": "2022-10-02T23:50:52",
+    "updated_date": "2023-10-13T23:40:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2022-03-10T09:03:51",
     "date_gmt": "2022-03-10T17:03:51",
     "guid": "https://cannabis.ca.gov/?page_id=9509",
-    "modified": "2022-10-02T16:50:52",
-    "modified_gmt": "2022-10-02T23:50:52",
+    "modified": "2023-10-13T16:40:05",
+    "modified_gmt": "2023-10-13T23:40:05",
     "slug": "ceqa-review-for-cannabis-businesses",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/applicants/ceqa-review-for-cannabis-businesses/",
     "title": "CEQA review for cannabis businesses",
-    "excerpt": "<p>What is CEQA The California Environmental Quality Act (CEQA) is a 1970 state law that requires environmental review of proposed projects. The CEQA process aims to: Identify significant environmental impacts Avoid or reduce environmental damage Aid public participation Add transparency to government decisions The CEQA review process Projects that require CEQA review All annual state [&hellip;]</p>\n",
+    "excerpt": "<p>What is CEQA The California Environmental Quality Act (CEQA) is a 1970 state law that requires environmental review of proposed projects. The CEQA process aims to: The CEQA review process Projects that require CEQA review All annual state cannabis licenses are subject to CEQA compliance. The DCC may only issue an annual license once a [&hellip;]</p>\n",
     "author": 2,
     "featured_media": 0,
     "parent": 756,
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "Provisional licenses"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -69,7 +71,24 @@
       "twitter_title": "CEQA review for cannabis businesses",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 850,
+        "name": "Provisional licenses",
+        "slug": "provisional-licenses",
+        "term_group": 0,
+        "term_taxonomy_id": 850,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 850,
+        "category_description": "",
+        "cat_name": "Provisional licenses",
+        "category_nicename": "provisional-licenses",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
