@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-29T17:00:43",
-    "updated_date": "2023-10-03T17:53:39",
+    "updated_date": "2023-10-13T23:33:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-29T10:00:43",
     "date_gmt": "2023-08-29T17:00:43",
     "guid": "https://api.cannabis.ca.gov/?p=14725",
-    "modified": "2023-10-03T10:53:39",
-    "modified_gmt": "2023-10-03T17:53:39",
+    "modified": "2023-10-13T16:33:14",
+    "modified_gmt": "2023-10-13T23:33:14",
     "slug": "notifications-and-requests-regarding-testing-laboratories",
     "status": "publish",
     "type": "post",
