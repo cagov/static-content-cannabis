@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 70,
+      "redirects": 71,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2293,6 +2293,32 @@
       "regex": false,
       "group_id": 1,
       "position": 69,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 320,
+      "url": "/2023/10/electricity-reporting-guidance/",
+      "match_url": "/2023/10/electricity-reporting-guidance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/02/electricity-reporting-guidance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 70,
       "last_access": "-",
       "enabled": true
     }
