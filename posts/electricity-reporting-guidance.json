@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-13T20:20:50",
-    "updated_date": "2023-10-13T20:43:20",
+    "updated_date": "2023-10-13T20:43:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-13T13:20:50",
     "date_gmt": "2023-10-13T20:20:50",
     "guid": "https://api.cannabis.ca.gov/?p=15177",
-    "modified": "2023-10-13T13:43:20",
-    "modified_gmt": "2023-10-13T20:43:20",
+    "modified": "2023-10-13T13:43:25",
+    "modified_gmt": "2023-10-13T20:43:25",
     "slug": "electricity-reporting-guidance",
     "status": "publish",
     "type": "post",
