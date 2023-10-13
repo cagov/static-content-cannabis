@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-02T21:20:50",
-    "updated_date": "2023-10-13T22:08:09",
+    "updated_date": "2023-10-13T23:16:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-02T13:20:50",
     "date_gmt": "2023-02-02T21:20:50",
     "guid": "https://api.cannabis.ca.gov/?p=15177",
-    "modified": "2023-10-13T15:08:09",
-    "modified_gmt": "2023-10-13T22:08:09",
+    "modified": "2023-10-13T16:16:31",
+    "modified_gmt": "2023-10-13T23:16:31",
     "slug": "electricity-reporting-guidance",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "CannaConnect",
       "Electricity reporting",
       "Guidance"
     ],
@@ -76,22 +75,6 @@
       "twitter_description": "This guidance resource will provide licensees with the tools and resources necessary for reporting at time of renewal and for determining whether they are required to meet renewable energy requirements."
     },
     "headless_categories": [
-      {
-        "term_id": 810,
-        "name": "CannaConnect",
-        "slug": "cannaconnect",
-        "term_group": 0,
-        "term_taxonomy_id": 810,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 810,
-        "category_description": "",
-        "cat_name": "CannaConnect",
-        "category_nicename": "cannaconnect",
-        "category_parent": 0
-      },
       {
         "term_id": 869,
         "name": "Electricity reporting",
