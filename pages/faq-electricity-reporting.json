@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-13T22:40:33",
-    "updated_date": "2023-10-13T22:41:33",
+    "updated_date": "2023-10-13T22:42:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-13T15:40:33",
     "date_gmt": "2023-10-13T22:40:33",
     "guid": "https://api.cannabis.ca.gov/?page_id=15221",
-    "modified": "2023-10-13T15:41:33",
-    "modified_gmt": "2023-10-13T22:41:33",
+    "modified": "2023-10-13T15:42:21",
+    "modified_gmt": "2023-10-13T22:42:21",
     "slug": "faq-electricity-reporting",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
