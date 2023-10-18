@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "created_date": "2023-10-18T20:42:03",
+    "updated_date": "2023-10-18T20:57:25",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/15324",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 15324,
+    "date": "2023-10-18T13:42:03",
+    "date_gmt": "2023-10-18T20:42:03",
+    "guid": "https://api.cannabis.ca.gov/?p=15324",
+    "modified": "2023-10-18T13:57:25",
+    "modified_gmt": "2023-10-18T20:57:25",
+    "slug": "how-to-submit-a-conversion-request",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/10/how-to-submit-a-conversion-request/",
+    "title": "Guide: How to Submit a Conversion Request",
+    "excerpt": "<p>Cultivation Licensing System (CLS) Quick Reference Guide This is a guide to the Cultivation Licensing System (CLS) provided by the California Department of Cannabis Control (DCC). Starting January 1, 2023, multiple licensed and previously licensed premises can be consolidated into a single Medium or Large cultivation license, provided they have the same owners and at [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Conversion",
+      "User guides"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/10/how-to-submit-a-conversion-request/",
+      "page_title": "Guide: How to Submit a Conversion Request",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Guide: How to Submit a Conversion Request",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/how-to-submit-a-conversion-request/",
+      "open_graph_title": "Guide: How to Submit a Conversion Request",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Guide: How to Submit a Conversion Request",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 871,
+        "name": "Conversion",
+        "slug": "conversion",
+        "term_group": 0,
+        "term_taxonomy_id": 871,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 871,
+        "category_description": "",
+        "cat_name": "Conversion",
+        "category_nicename": "conversion",
+        "category_parent": 799
+      },
+      {
+        "term_id": 851,
+        "name": "User guides",
+        "slug": "user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 851,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 851,
+        "category_description": "",
+        "cat_name": "User guides",
+        "category_nicename": "user-guides",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/how-to-submit-a-conversion-request/"
+  }
+}
