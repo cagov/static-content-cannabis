@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-18T20:50:13",
-    "updated_date": "2023-10-18T20:50:39",
+    "updated_date": "2023-10-18T20:51:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-18T13:50:13",
     "date_gmt": "2023-10-18T20:50:13",
     "guid": "https://api.cannabis.ca.gov/?p=15327",
-    "modified": "2023-10-18T13:50:39",
-    "modified_gmt": "2023-10-18T20:50:39",
+    "modified": "2023-10-18T13:51:04",
+    "modified_gmt": "2023-10-18T20:51:04",
     "slug": "video-how-to-request-a-license-conversion",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Conversion"
+      "Conversion",
+      null
     ],
     "tags": [
       "staging"
@@ -89,6 +90,22 @@
         "cat_name": "Conversion",
         "category_nicename": "conversion",
         "category_parent": 799
+      },
+      {
+        "term_id": 872,
+        "name": "Video",
+        "slug": "video",
+        "term_group": 0,
+        "term_taxonomy_id": 872,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 872,
+        "category_description": "",
+        "cat_name": "Video",
+        "category_nicename": "video",
+        "category_parent": 2
       }
     ],
     "headless_tags": [
