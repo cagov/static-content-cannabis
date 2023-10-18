@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-18T20:37:52",
-    "updated_date": "2023-10-18T20:55:10",
+    "updated_date": "2023-10-18T20:56:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-18T13:37:52",
     "date_gmt": "2023-10-18T20:37:52",
     "guid": "https://api.cannabis.ca.gov/?p=15322",
-    "modified": "2023-10-18T13:55:10",
-    "modified_gmt": "2023-10-18T20:55:10",
+    "modified": "2023-10-18T13:56:42",
+    "modified_gmt": "2023-10-18T20:56:42",
     "slug": "checklist-cultivation-license-conversions",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
     "categories": [
       "Conversion"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 799
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
