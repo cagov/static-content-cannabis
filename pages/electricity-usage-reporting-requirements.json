@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-10-13T21:28:37",
-    "updated_date": "2023-10-13T21:35:59",
+    "created_date": "2023-10-18T17:55:12",
+    "updated_date": "2023-10-18T17:55:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/15201",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/15259",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,38 +14,36 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15201,
-    "date": "2023-10-13T14:28:37",
-    "date_gmt": "2023-10-13T21:28:37",
-    "guid": "https://api.cannabis.ca.gov/?page_id=15201",
-    "modified": "2023-10-13T14:35:59",
-    "modified_gmt": "2023-10-13T21:35:59",
+    "id": 15259,
+    "date": "2023-10-18T10:55:12",
+    "date_gmt": "2023-10-18T17:55:12",
+    "guid": "https://api.cannabis.ca.gov/?page_id=15259",
+    "modified": "2023-10-18T10:55:17",
+    "modified_gmt": "2023-10-18T17:55:17",
     "slug": "electricity-usage-reporting-requirements",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/electricity-usage-reporting-requirements/",
+    "link": "https://api.cannabis.ca.gov/electricity-usage-reporting-requirements/",
     "title": "Electricity usage reporting requirements",
     "excerpt": "<p>All cultivation and microbusiness licensees authorized to engage in cannabis cultivation are required to report total electricity use for each power source used to the DCC upon license renewal. Renewable energy requirements Beginning January 1, 2023, DCC cultivation and microbusiness licensees authorized to engage in indoor, tier 2 mixed-light cultivation, or nursery using indoor or [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 9492,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Electricity reporting"
-    ],
+    "categories": [],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -58,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/electricity-usage-reporting-requirements/",
+      "canonical_url": "https://api.cannabis.ca.gov/electricity-usage-reporting-requirements/",
       "page_title": "Electricity usage reporting requirements",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,30 +65,13 @@
       "page_social_image_alt": "",
       "meta_title": "Electricity usage reporting requirements",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/electricity-usage-reporting-requirements/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/electricity-usage-reporting-requirements/",
       "open_graph_title": "Electricity usage reporting requirements",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Electricity usage reporting requirements",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 869,
-        "name": "Electricity reporting",
-        "slug": "electricity-reporting",
-        "term_group": 0,
-        "term_taxonomy_id": 869,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 799,
-        "filter": "raw",
-        "cat_ID": 869,
-        "category_description": "",
-        "cat_name": "Electricity reporting",
-        "category_nicename": "electricity-reporting",
-        "category_parent": 799
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [
       {
         "term_id": 797,
@@ -106,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/electricity-usage-reporting-requirements/"
+    "wordpress_url": "https://api.cannabis.ca.gov/electricity-usage-reporting-requirements/"
   }
 }
