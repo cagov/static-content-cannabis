@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-30T23:22:53",
-    "updated_date": "2023-06-28T23:54:37",
+    "updated_date": "2023-10-18T19:54:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-12-30T15:22:53",
     "date_gmt": "2021-12-30T23:22:53",
     "guid": "https://cannabis.ca.gov/?page_id=9249",
-    "modified": "2023-06-28T16:54:37",
-    "modified_gmt": "2023-06-28T23:54:37",
+    "modified": "2023-10-18T12:54:16",
+    "modified_gmt": "2023-10-18T19:54:16",
     "slug": "equity-fee-relief",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "Equity fee relief"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -69,7 +71,24 @@
       "twitter_title": "Equity fee relief",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 855,
+        "name": "Equity fee relief",
+        "slug": "equity-fee-relief",
+        "term_group": 0,
+        "term_taxonomy_id": 855,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 855,
+        "category_description": "",
+        "cat_name": "Equity fee relief",
+        "category_nicename": "equity-fee-relief",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
