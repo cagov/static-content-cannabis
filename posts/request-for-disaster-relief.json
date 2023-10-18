@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-18T22:58:37",
-    "updated_date": "2023-10-18T22:58:42",
+    "updated_date": "2023-10-18T23:10:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2023-10-18T15:58:37",
     "date_gmt": "2023-10-18T22:58:37",
     "guid": "https://api.cannabis.ca.gov/?p=15340",
-    "modified": "2023-10-18T15:58:42",
-    "modified_gmt": "2023-10-18T22:58:42",
+    "modified": "2023-10-18T16:10:59",
+    "modified_gmt": "2023-10-18T23:10:59",
     "slug": "request-for-disaster-relief",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/10/request-for-disaster-relief/",
-    "title": "Request for disaster relief",
+    "title": "Form 8101: Request for disaster relief",
     "excerpt": "<p>If you cannot meet a regulatory rule due to a declared disaster, you can request disaster relief. Disaster relief is a temporary waiver of a regulatory rule. Qualified disasters are a State of Emergency declared by the Governor or a local emergency declared by the city or county.  You can use this form to request temporary relief from a regulation and, if applicable, to notify us you have moved your product as the result of immediate threat related to a qualified disaster. </p>\n",
     "author": 32,
     "featured_media": 0,
@@ -42,9 +42,7 @@
       "Forms-Other",
       "Resources"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "post"
     },
@@ -60,18 +58,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/10/request-for-disaster-relief/",
-      "page_title": "Request for disaster relief",
+      "page_title": "Form 8101: Request for disaster relief",
       "page_description": "If you cannot meet a regulatory rule due to a declared disaster, you can request disaster relief. Disaster relief is a temporary waiver of a regulatory rule. Qualified disasters are a State of Emergency declared by the Governor or a local emergency declared by the city or county.  You can use this form to request temporary relief from a regulation and, if applicable, to notify us you have moved your product as the result of immediate threat related to a qualified disaster. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Request for disaster relief",
+      "meta_title": "Form 8101: Request for disaster relief",
       "meta_description": "If you cannot meet a regulatory rule due to a declared disaster, you can request disaster relief. Disaster relief is a temporary waiver of a regulatory rule. Qualified disasters are a State of Emergency declared by the Governor or a local emergency declared by the city or county.  You can use this form to request temporary relief from a regulation and, if applicable, to notify us you have moved your product as the result of immediate threat related to a qualified disaster. ",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/request-for-disaster-relief/",
-      "open_graph_title": "Request for disaster relief",
+      "open_graph_title": "Form 8101: Request for disaster relief",
       "open_graph_description": "If you cannot meet a regulatory rule due to a declared disaster, you can request disaster relief. Disaster relief is a temporary waiver of a regulatory rule. Qualified disasters are a State of Emergency declared by the Governor or a local emergency declared by the city or county.  You can use this form to request temporary relief from a regulation and, if applicable, to notify us you have moved your product as the result of immediate threat related to a qualified disaster. ",
-      "twitter_title": "Request for disaster relief",
+      "twitter_title": "Form 8101: Request for disaster relief",
       "twitter_description": "If you cannot meet a regulatory rule due to a declared disaster, you can request disaster relief. Disaster relief is a temporary waiver of a regulatory rule. Qualified disasters are a State of Emergency declared by the Governor or a local emergency declared by the city or county.  You can use this form to request temporary relief from a regulation and, if applicable, to notify us you have moved your product as the result of immediate threat related to a qualified disaster. "
     },
     "headless_categories": [
@@ -108,19 +106,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
