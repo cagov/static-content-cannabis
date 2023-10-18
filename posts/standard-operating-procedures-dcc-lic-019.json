@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:46:05",
-    "updated_date": "2023-10-10T22:57:10",
+    "updated_date": "2023-10-18T23:38:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-09-21T16:46:05",
     "date_gmt": "2023-09-21T23:46:05",
     "guid": "https://api.cannabis.ca.gov/?p=14985",
-    "modified": "2023-10-10T15:57:10",
-    "modified_gmt": "2023-10-10T22:57:10",
+    "modified": "2023-10-18T16:38:19",
+    "modified_gmt": "2023-10-18T23:38:19",
     "slug": "standard-operating-procedures-dcc-lic-019",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/09/standard-operating-procedures-dcc-lic-019/",
     "title": "Form 19: Standard Operating Procedures",
-    "excerpt": "<p>This form DCC-LIC-019, Standard Operating Procedures, must be prepared by applicants for licensure and maintained post licensure pursuant to Cal. Code Regs., tit. 4, § 15011.</p>\n",
+    "excerpt": "<p>This form DCC-LIC-019, Standard Operating Procedures, must be prepared by applicants for licensure and maintained post licensure pursuant to Cal. Code Regs., tit. 4, § 15011. </p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,13 +39,14 @@
       "footnotes": ""
     },
     "categories": [
+      "Application resources",
       "Forms"
     ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -60,20 +61,36 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/09/standard-operating-procedures-dcc-lic-019/",
       "page_title": "Form 19: Standard Operating Procedures",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "This form DCC-LIC-019, Standard Operating Procedures, must be prepared by applicants for licensure and maintained post licensure pursuant to Cal. Code Regs., tit. 4, § 15011. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Form 19: Standard Operating Procedures",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "This form DCC-LIC-019, Standard Operating Procedures, must be prepared by applicants for licensure and maintained post licensure pursuant to Cal. Code Regs., tit. 4, § 15011. ",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/09/standard-operating-procedures-dcc-lic-019/",
       "open_graph_title": "Form 19: Standard Operating Procedures",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "This form DCC-LIC-019, Standard Operating Procedures, must be prepared by applicants for licensure and maintained post licensure pursuant to Cal. Code Regs., tit. 4, § 15011. ",
       "twitter_title": "Form 19: Standard Operating Procedures",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "This form DCC-LIC-019, Standard Operating Procedures, must be prepared by applicants for licensure and maintained post licensure pursuant to Cal. Code Regs., tit. 4, § 15011. "
     },
     "headless_categories": [
+      {
+        "term_id": 806,
+        "name": "Application resources",
+        "slug": "application-resources",
+        "term_group": 0,
+        "term_taxonomy_id": 806,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 806,
+        "category_description": "",
+        "cat_name": "Application resources",
+        "category_nicename": "application-resources",
+        "category_parent": 0
+      },
       {
         "term_id": 845,
         "name": "Forms",
