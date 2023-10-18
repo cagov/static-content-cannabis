@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-18T21:08:58",
-    "updated_date": "2023-10-18T21:09:04",
+    "updated_date": "2023-10-18T21:09:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-18T14:08:58",
     "date_gmt": "2023-10-18T21:08:58",
     "guid": "https://api.cannabis.ca.gov/?p=15336",
-    "modified": "2023-10-18T14:09:04",
-    "modified_gmt": "2023-10-18T21:09:04",
+    "modified": "2023-10-18T14:09:44",
+    "modified_gmt": "2023-10-18T21:09:44",
     "slug": "faq-temporary-cannabis-events",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,13 +39,13 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "Temporary events"
     ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 873,
+        "name": "Temporary events",
+        "slug": "temporary-events",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 873,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 799,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 873,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
+        "cat_name": "Temporary events",
+        "category_nicename": "temporary-events",
+        "category_parent": 799
       }
     ],
     "headless_tags": [
