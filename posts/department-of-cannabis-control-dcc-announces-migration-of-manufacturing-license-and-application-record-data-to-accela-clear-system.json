@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-19T17:06:12",
-    "updated_date": "2023-10-19T17:06:18",
+    "updated_date": "2023-10-19T17:08:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-19T10:06:12",
     "date_gmt": "2023-10-19T17:06:12",
     "guid": "https://api.cannabis.ca.gov/?p=15365",
-    "modified": "2023-10-19T10:06:18",
-    "modified_gmt": "2023-10-19T17:06:18",
+    "modified": "2023-10-19T10:08:54",
+    "modified_gmt": "2023-10-19T17:08:54",
     "slug": "department-of-cannabis-control-dcc-announces-migration-of-manufacturing-license-and-application-record-data-to-accela-clear-system",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -47,7 +47,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-single"
     },
     "og_meta": {
       "editor": {
