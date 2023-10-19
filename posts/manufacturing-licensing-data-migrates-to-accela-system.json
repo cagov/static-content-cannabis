@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-19T17:06:12",
-    "updated_date": "2023-10-19T17:08:54",
+    "updated_date": "2023-10-19T17:10:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-10-19T10:06:12",
     "date_gmt": "2023-10-19T17:06:12",
     "guid": "https://api.cannabis.ca.gov/?p=15365",
-    "modified": "2023-10-19T10:08:54",
-    "modified_gmt": "2023-10-19T17:08:54",
-    "slug": "department-of-cannabis-control-dcc-announces-migration-of-manufacturing-license-and-application-record-data-to-accela-clear-system",
+    "modified": "2023-10-19T10:10:23",
+    "modified_gmt": "2023-10-19T17:10:23",
+    "slug": "manufacturing-licensing-data-migrates-to-accela-system",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/10/department-of-cannabis-control-dcc-announces-migration-of-manufacturing-license-and-application-record-data-to-accela-clear-system/",
+    "link": "https://api.cannabis.ca.gov/2023/10/manufacturing-licensing-data-migrates-to-accela-system/",
     "title": "Department of Cannabis Control (DCC) announces migration of manufacturing license and application record data to Accela CLEaR System.",
     "excerpt": "<p>Manufacturing license renewals and applications will be migrating to the Accela platform next month. CALIFORNIA – DCC will be transferring all manufacturing license and application data from its current PEGA system to the Accela CLEaR system on November 16, 2023. From November 16, 2023, forward, manufacturing licensees and applicants will manage and renew their licenses [&hellip;]</p>\n",
     "author": 32,
@@ -60,7 +60,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/10/department-of-cannabis-control-dcc-announces-migration-of-manufacturing-license-and-application-record-data-to-accela-clear-system/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/10/manufacturing-licensing-data-migrates-to-accela-system/",
       "page_title": "Department of Cannabis Control (DCC) announces migration of manufacturing license and application record data to Accela CLEaR System.",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -69,7 +69,7 @@
       "page_social_image_alt": "",
       "meta_title": "Department of Cannabis Control (DCC) announces migration of manufacturing license and application record data to Accela CLEaR System.",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/department-of-cannabis-control-dcc-announces-migration-of-manufacturing-license-and-application-record-data-to-accela-clear-system/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/manufacturing-licensing-data-migrates-to-accela-system/",
       "open_graph_title": "Department of Cannabis Control (DCC) announces migration of manufacturing license and application record data to Accela CLEaR System.",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Department of Cannabis Control (DCC) announces migration of manufacturing license and application record data to Accela CLEaR System.",
@@ -148,6 +148,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/department-of-cannabis-control-dcc-announces-migration-of-manufacturing-license-and-application-record-data-to-accela-clear-system/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/manufacturing-licensing-data-migrates-to-accela-system/"
   }
 }
