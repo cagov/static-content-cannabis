@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:12:14",
-    "updated_date": "2023-10-18T22:55:43",
+    "updated_date": "2023-10-20T18:19:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2021-06-19T15:12:14",
     "date_gmt": "2021-06-19T15:12:14",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/equity/",
-    "modified": "2023-10-18T15:55:43",
-    "modified_gmt": "2023-10-18T22:55:43",
+    "modified": "2023-10-20T11:19:36",
+    "modified_gmt": "2023-10-20T18:19:36",
     "slug": "equity",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/equity/",
     "title": "Cannabis equity",
-    "excerpt": "<p>California’s cannabis equity efforts support people and communities harmed by cannabis criminalization. These efforts lower barriers to the cannabis industry for those hit hardest by the War on Drugs.&nbsp; Listen to our Deputy Director of Equity and Inclusion talk to two Black female entrepreneurs&nbsp;in this video&nbsp;about the investments DCC has made toward creating equity in [&hellip;]</p>\n",
+    "excerpt": "<p>California’s cannabis equity efforts support people and communities harmed by cannabis criminalization. These efforts lower barriers to the cannabis industry for those hit hardest by the War on Drugs.  Effects of cannabis criminalization Cannabis prohibition had a devastating impact on Californians and people across the country. The long-term consequences of cannabis criminalization continue to impact: [&hellip;]</p>\n",
     "author": 2,
     "featured_media": 0,
     "parent": 759,
@@ -41,7 +41,9 @@
     "categories": [
       "Equity"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/"
