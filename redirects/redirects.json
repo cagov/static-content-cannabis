@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 73,
+      "redirects": 74,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2371,6 +2371,34 @@
       "regex": false,
       "group_id": 1,
       "position": 72,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 323,
+      "url": "/wp-content/uploads/sites/2/2021/10/DCC-Cannabis-Regulations-Sept.-2021.pdf",
+      "match_url": "/wp-content/uploads/sites/2/2021/10/dcc-cannabis-regulations-sept.-2021.pdf",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "server": "https://cannabis.ca.gov",
+        "url_from": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/09/dcc_commercial_cannabis_regulations-1.pdf",
+        "url_notfrom": ""
+      },
+      "match_type": "server",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 73,
       "last_access": "-",
       "enabled": true
     }
