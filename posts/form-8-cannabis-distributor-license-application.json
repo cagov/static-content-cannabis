@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:24:04",
-    "updated_date": "2023-10-20T00:08:41",
+    "updated_date": "2023-10-20T00:08:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-03T11:24:04",
     "date_gmt": "2023-10-03T18:24:04",
     "guid": "https://api.cannabis.ca.gov/?p=15060",
-    "modified": "2023-10-19T17:08:41",
-    "modified_gmt": "2023-10-20T00:08:41",
+    "modified": "2023-10-19T17:08:47",
+    "modified_gmt": "2023-10-20T00:08:47",
     "slug": "form-8-cannabis-distributor-license-application",
     "status": "publish",
     "type": "post",
