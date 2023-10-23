@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-10-23T18:46:14",
-    "updated_date": "2023-10-23T18:47:07",
+    "created_date": "2022-02-23T19:46:00",
+    "updated_date": "2023-10-23T23:20:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,17 +15,17 @@
   },
   "data": {
     "id": 15391,
-    "date": "2023-10-23T11:46:14",
-    "date_gmt": "2023-10-23T18:46:14",
+    "date": "2022-02-23T11:46:00",
+    "date_gmt": "2022-02-23T19:46:00",
     "guid": "https://api.cannabis.ca.gov/?p=15391",
-    "modified": "2023-10-23T11:47:07",
-    "modified_gmt": "2023-10-23T18:47:07",
+    "modified": "2023-10-23T16:20:12",
+    "modified_gmt": "2023-10-23T23:20:12",
     "slug": "what-to-expect-when-youre-inspected",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/10/what-to-expect-when-youre-inspected/",
+    "link": "https://api.cannabis.ca.gov/2022/02/what-to-expect-when-youre-inspected/",
     "title": "What to expect when you&#8217;re inspected",
-    "excerpt": "<p>For businessowners, the word “inspection” can cause anxiety. The Department of Cannabis Control (DCC) wants to remove the anxiety from the process and serve as a resource and a partner for licensees — every step of the way. DCC Inspection Checklist Keep Metrc updated It’s important to record all of your cannabis inventory in Metrc [&hellip;]</p>\n",
+    "excerpt": "<p>For businessowners, the word “inspection” can cause anxiety. The Department of Cannabis Control (DCC) wants to remove the anxiety from the process and serve as a resource and a partner for licensees — every step of the way. </p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -59,20 +59,20 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/10/what-to-expect-when-youre-inspected/",
+      "canonical_url": "https://api.cannabis.ca.gov/2022/02/what-to-expect-when-youre-inspected/",
       "page_title": "What to expect when you're inspected",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "For businessowners, the word “inspection” can cause anxiety. The Department of Cannabis Control (DCC) wants to remove the anxiety from the process and serve as a resource and a partner for licensees — every step of the way. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "What to expect when you're inspected",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/what-to-expect-when-youre-inspected/",
+      "meta_description": "For businessowners, the word “inspection” can cause anxiety. The Department of Cannabis Control (DCC) wants to remove the anxiety from the process and serve as a resource and a partner for licensees — every step of the way. ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/02/what-to-expect-when-youre-inspected/",
       "open_graph_title": "What to expect when you're inspected",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "For businessowners, the word “inspection” can cause anxiety. The Department of Cannabis Control (DCC) wants to remove the anxiety from the process and serve as a resource and a partner for licensees — every step of the way. ",
       "twitter_title": "What to expect when you're inspected",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "For businessowners, the word “inspection” can cause anxiety. The Department of Cannabis Control (DCC) wants to remove the anxiety from the process and serve as a resource and a partner for licensees — every step of the way. "
     },
     "headless_categories": [
       {
@@ -151,6 +151,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/what-to-expect-when-youre-inspected/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2022/02/what-to-expect-when-youre-inspected/"
   }
 }
