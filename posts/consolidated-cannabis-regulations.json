@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-07T22:24:00",
-    "updated_date": "2023-10-23T21:02:15",
+    "updated_date": "2023-10-23T21:16:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-07T14:24:00",
     "date_gmt": "2022-11-07T22:24:00",
     "guid": "https://api.cannabis.ca.gov/?p=13794",
-    "modified": "2023-10-23T14:02:15",
-    "modified_gmt": "2023-10-23T21:02:15",
+    "modified": "2023-10-23T14:16:55",
+    "modified_gmt": "2023-10-23T21:16:55",
     "slug": "consolidated-cannabis-regulations",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Cannabis regulations",
       "Completed Actions"
     ],
     "tags": [
@@ -74,6 +75,22 @@
       "twitter_description": "The Department of Cannabis Control (DCC) has adopted a consolidated regulatory package that streamlines and simplifies cannabis regulations, eases burdens for licensees, and enhances consumer and youth protections. These regulations, which reflect community and industry input, are now in effect."
     },
     "headless_categories": [
+      {
+        "term_id": 880,
+        "name": "Cannabis regulations",
+        "slug": "cannabis-regulations",
+        "term_group": 0,
+        "term_taxonomy_id": 880,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 804,
+        "filter": "raw",
+        "cat_ID": 880,
+        "category_description": "",
+        "cat_name": "Cannabis regulations",
+        "category_nicename": "cannabis-regulations",
+        "category_parent": 804
+      },
       {
         "term_id": 804,
         "name": "Completed Actions",
