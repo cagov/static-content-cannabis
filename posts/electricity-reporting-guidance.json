@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-02T21:20:50",
-    "updated_date": "2023-10-18T18:14:45",
+    "updated_date": "2023-10-23T23:17:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-02T13:20:50",
     "date_gmt": "2023-02-02T21:20:50",
     "guid": "https://api.cannabis.ca.gov/?p=15177",
-    "modified": "2023-10-18T11:14:45",
-    "modified_gmt": "2023-10-18T18:14:45",
+    "modified": "2023-10-23T16:17:27",
+    "modified_gmt": "2023-10-23T23:17:27",
     "slug": "electricity-reporting-guidance",
     "status": "publish",
     "type": "post",
@@ -42,9 +42,7 @@
       "Electricity reporting",
       "Guidance"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -108,19 +106,7 @@
         "category_parent": 809
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
