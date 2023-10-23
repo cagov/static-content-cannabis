@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 75,
+      "redirects": 78,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2425,6 +2425,84 @@
       "regex": false,
       "group_id": 1,
       "position": 74,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 325,
+      "url": "/2023/06/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/",
+      "match_url": "/2023/06/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/12/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 75,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 326,
+      "url": "/2023/06/emergency-regulations-for-track-and-trace-requirements-for-delivery-of-cannabis-goods/",
+      "match_url": "/2023/06/emergency-regulations-for-track-and-trace-requirements-for-delivery-of-cannabis-goods",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/12/emergency-regulations-for-track-and-trace-requirements-for-delivery-of-cannabis-goods/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 76,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 327,
+      "url": "/2023/06/proposal-to-adopt-regulations-for-cannabis-license-fee-waivers-and-deferrals/",
+      "match_url": "/2023/06/proposal-to-adopt-regulations-for-cannabis-license-fee-waivers-and-deferrals",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/12/proposal-to-adopt-regulations-for-cannabis-license-fee-waivers-and-deferrals/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 77,
       "last_access": "-",
       "enabled": true
     }
