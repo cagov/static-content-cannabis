@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-20T22:30:00",
-    "updated_date": "2023-10-23T21:06:14",
+    "updated_date": "2023-10-23T21:19:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-12-20T14:30:00",
     "date_gmt": "2021-12-20T22:30:00",
     "guid": "https://api.cannabis.ca.gov/?p=13802",
-    "modified": "2023-10-23T14:06:14",
-    "modified_gmt": "2023-10-23T21:06:14",
+    "modified": "2023-10-23T14:19:24",
+    "modified_gmt": "2023-10-23T21:19:24",
     "slug": "equity-fee-waivers",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "Completed Actions",
-      "Equity fee waivers"
+      "Fee waivers"
     ],
     "tags": [
       "staging"
@@ -92,19 +92,19 @@
         "category_parent": 802
       },
       {
-        "term_id": 878,
-        "name": "Equity fee waivers",
-        "slug": "equity-fee-waivers",
+        "term_id": 881,
+        "name": "Fee waivers",
+        "slug": "fee-waivers",
         "term_group": 0,
-        "term_taxonomy_id": 878,
+        "term_taxonomy_id": 881,
         "taxonomy": "category",
         "description": "",
         "parent": 804,
         "filter": "raw",
-        "cat_ID": 878,
+        "cat_ID": 881,
         "category_description": "",
-        "cat_name": "Equity fee waivers",
-        "category_nicename": "equity-fee-waivers",
+        "cat_name": "Fee waivers",
+        "category_nicename": "fee-waivers",
         "category_parent": 804
       }
     ],
