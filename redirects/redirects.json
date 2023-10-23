@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 78,
+      "redirects": 85,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2503,6 +2503,188 @@
       "regex": false,
       "group_id": 1,
       "position": 77,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 328,
+      "url": "/2023/06/consolidated-cannabis-regulations/",
+      "match_url": "/2023/06/consolidated-cannabis-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/11/consolidated-cannabis-regulations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 78,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 329,
+      "url": "/2023/06/cannabis-license-fee-waivers/",
+      "match_url": "/2023/06/cannabis-license-fee-waivers",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/06/cannabis-license-fee-waivers/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 79,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 330,
+      "url": "/2023/06/ab-1525-information-sharing-with-financial-institutions-certificate-of-compliance/",
+      "match_url": "/2023/06/ab-1525-information-sharing-with-financial-institutions-certificate-of-compliance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/03/ab-1525-information-sharing-with-financial-institutions-certificate-of-compliance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 80,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 331,
+      "url": "/2023/06/equity-fee-waivers/",
+      "match_url": "/2023/06/equity-fee-waivers",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2021/12/equity-fee-waivers/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 81,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 332,
+      "url": "/2023/06/quick-response-qr-code/",
+      "match_url": "/2023/06/quick-response-qr-code",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2021/11/quick-response-qr-code/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 82,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 333,
+      "url": "/2023/06/ab-1525-information-sharing-with-financial-institutions/",
+      "match_url": "/2023/06/ab-1525-information-sharing-with-financial-institutions",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2021/02/ab-1525-information-sharing-with-financial-institutions/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 83,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 334,
+      "url": "/2023/06/re-titling-of-cannabis-regulations/",
+      "match_url": "/2023/06/re-titling-of-cannabis-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2021/07/re-titling-of-cannabis-regulations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 84,
       "last_access": "-",
       "enabled": true
     }
