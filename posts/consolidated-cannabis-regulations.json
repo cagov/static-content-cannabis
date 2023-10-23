@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-07T22:24:00",
-    "updated_date": "2023-10-23T21:16:55",
+    "updated_date": "2023-10-23T21:17:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-07T14:24:00",
     "date_gmt": "2022-11-07T22:24:00",
     "guid": "https://api.cannabis.ca.gov/?p=13794",
-    "modified": "2023-10-23T14:16:55",
-    "modified_gmt": "2023-10-23T21:16:55",
+    "modified": "2023-10-23T14:17:00",
+    "modified_gmt": "2023-10-23T21:17:00",
     "slug": "consolidated-cannabis-regulations",
     "status": "publish",
     "type": "post",
