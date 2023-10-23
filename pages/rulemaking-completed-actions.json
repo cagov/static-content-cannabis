@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-23T21:14:48",
-    "updated_date": "2023-10-23T21:14:53",
+    "updated_date": "2023-10-23T21:21:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,21 +18,21 @@
     "date": "2023-10-23T14:14:48",
     "date_gmt": "2023-10-23T21:14:48",
     "guid": "https://api.cannabis.ca.gov/?page_id=15430",
-    "modified": "2023-10-23T14:14:53",
-    "modified_gmt": "2023-10-23T21:14:53",
+    "modified": "2023-10-23T14:21:04",
+    "modified_gmt": "2023-10-23T21:21:04",
     "slug": "rulemaking-completed-actions",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/rulemaking-completed-actions/",
     "title": "Rulemaking: Completed actions",
-    "excerpt": "<p>Track and trace DCC regulations Information sharing All completed actions</p>\n",
+    "excerpt": "<p>Track and trace Fee waivers DCC regulations Information sharing All completed actions</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
