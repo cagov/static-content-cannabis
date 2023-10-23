@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-06-06T21:19:49",
-    "updated_date": "2023-10-23T19:59:55",
+    "created_date": "2022-12-30T22:19:00",
+    "updated_date": "2023-10-23T20:59:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,23 +15,23 @@
   },
   "data": {
     "id": 13788,
-    "date": "2023-06-06T14:19:49",
-    "date_gmt": "2023-06-06T21:19:49",
+    "date": "2022-12-30T14:19:00",
+    "date_gmt": "2022-12-30T22:19:00",
     "guid": "https://api.cannabis.ca.gov/?p=13788",
-    "modified": "2023-10-23T12:59:55",
-    "modified_gmt": "2023-10-23T19:59:55",
+    "modified": "2023-10-23T13:59:08",
+    "modified_gmt": "2023-10-23T20:59:08",
     "slug": "proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/06/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/",
+    "link": "https://api.cannabis.ca.gov/2022/12/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/",
     "title": "Proposal to adopt regulations for large cultivation licenses and conversion to large and medium licenses",
-    "excerpt": "<p>Type:&nbsp;Regular rulemaking&nbsp; Status:&nbsp;Approved and filed December 30, 2022. Effective January 1, 2023. The Department of Cannabis Control (DCC) has adopted regulations t for obtaining a Large Cultivation License under MAUCRSA. These regulations also provide a pathway for existing licensees to convert to multiple smaller licenses into a Large or Medium Cultivation License. View the rulemaking [&hellip;]</p>\n",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) has adopted regulations t for obtaining a Large Cultivation License under MAUCRSA. These regulations also provide a pathway for existing licensees to convert to multiple smaller licenses into a Large or Medium Cultivation License.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -58,20 +58,20 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/06/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/",
+      "canonical_url": "https://api.cannabis.ca.gov/2022/12/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/",
       "page_title": "Proposal to adopt regulations for large cultivation licenses and conversion to large and medium licenses",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "The Department of Cannabis Control (DCC) has adopted regulations t for obtaining a Large Cultivation License under MAUCRSA. These regulations also provide a pathway for existing licensees to convert to multiple smaller licenses into a Large or Medium Cultivation License.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Proposal to adopt regulations for large cultivation licenses and conversion to large and medium licenses",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/06/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/",
+      "meta_description": "The Department of Cannabis Control (DCC) has adopted regulations t for obtaining a Large Cultivation License under MAUCRSA. These regulations also provide a pathway for existing licensees to convert to multiple smaller licenses into a Large or Medium Cultivation License.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/12/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/",
       "open_graph_title": "Proposal to adopt regulations for large cultivation licenses and conversion to large and medium licenses",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "The Department of Cannabis Control (DCC) has adopted regulations t for obtaining a Large Cultivation License under MAUCRSA. These regulations also provide a pathway for existing licensees to convert to multiple smaller licenses into a Large or Medium Cultivation License.",
       "twitter_title": "Proposal to adopt regulations for large cultivation licenses and conversion to large and medium licenses",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "The Department of Cannabis Control (DCC) has adopted regulations t for obtaining a Large Cultivation License under MAUCRSA. These regulations also provide a pathway for existing licensees to convert to multiple smaller licenses into a Large or Medium Cultivation License."
     },
     "headless_categories": [
       {
@@ -114,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/06/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2022/12/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/"
   }
 }
