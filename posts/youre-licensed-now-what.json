@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-10-23T18:30:16",
-    "updated_date": "2022-02-03T11:00:00",
+    "created_date": "2022-02-23T19:30:00",
+    "updated_date": "2023-10-23T23:18:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,17 +15,17 @@
   },
   "data": {
     "id": 15388,
-    "date": "2023-10-23T11:30:16",
-    "date_gmt": "2023-10-23T18:30:16",
+    "date": "2022-02-23T11:30:00",
+    "date_gmt": "2022-02-23T19:30:00",
     "guid": "https://api.cannabis.ca.gov/?p=15388",
-    "modified": "2022-02-03T11:00:00",
-    "modified_gmt": "2022-02-03T11:00:00",
+    "modified": "2023-10-23T16:18:58",
+    "modified_gmt": "2023-10-23T23:18:58",
     "slug": "youre-licensed-now-what",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/10/youre-licensed-now-what/",
+    "link": "https://api.cannabis.ca.gov/2022/02/youre-licensed-now-what/",
     "title": "You’re Licensed. Now What?",
-    "excerpt": "<p>Congratulations! As the holder of a cannabis business license, you are a pioneer at the forefront of California’s budding cannabis industry. Now that you have obtained your license, you may be asking – now what? Complying with the regulations that protect and support California’s legal cannabis market can be complex, and the state’s new Department [&hellip;]</p>\n",
+    "excerpt": "<p>Complying with the regulations that protect and support California’s legal cannabis market can be complex, and the state’s new Department of Cannabis Control (DCC) is here to help you every step of the way. </p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -42,9 +42,7 @@
       "CannaConnect",
       "Resources"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -59,20 +57,20 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/10/youre-licensed-now-what/",
+      "canonical_url": "https://api.cannabis.ca.gov/2022/02/youre-licensed-now-what/",
       "page_title": "You’re Licensed. Now What?",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "Complying with the regulations that protect and support California’s legal cannabis market can be complex, and the state’s new Department of Cannabis Control (DCC) is here to help you every step of the way. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "You’re Licensed. Now What?",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/youre-licensed-now-what/",
+      "meta_description": "Complying with the regulations that protect and support California’s legal cannabis market can be complex, and the state’s new Department of Cannabis Control (DCC) is here to help you every step of the way. ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/02/youre-licensed-now-what/",
       "open_graph_title": "You’re Licensed. Now What?",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "Complying with the regulations that protect and support California’s legal cannabis market can be complex, and the state’s new Department of Cannabis Control (DCC) is here to help you every step of the way. ",
       "twitter_title": "You’re Licensed. Now What?",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "Complying with the regulations that protect and support California’s legal cannabis market can be complex, and the state’s new Department of Cannabis Control (DCC) is here to help you every step of the way. "
     },
     "headless_categories": [
       {
@@ -108,19 +106,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -131,6 +117,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/youre-licensed-now-what/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2022/02/youre-licensed-now-what/"
   }
 }
