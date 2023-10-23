@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-08T22:28:00",
-    "updated_date": "2023-10-23T21:05:04",
+    "updated_date": "2023-10-23T21:17:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-08T14:28:00",
     "date_gmt": "2022-03-08T22:28:00",
     "guid": "https://api.cannabis.ca.gov/?p=13800",
-    "modified": "2023-10-23T14:05:04",
-    "modified_gmt": "2023-10-23T21:05:04",
+    "modified": "2023-10-23T14:17:21",
+    "modified_gmt": "2023-10-23T21:17:21",
     "slug": "ab-1525-information-sharing-with-financial-institutions-certificate-of-compliance",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Completed Actions"
+      "Completed Actions",
+      "Information sharing"
     ],
     "tags": [
       "staging"
@@ -89,6 +90,22 @@
         "cat_name": "Completed Actions",
         "category_nicename": "completed-actions",
         "category_parent": 802
+      },
+      {
+        "term_id": 879,
+        "name": "Information sharing",
+        "slug": "information-sharing",
+        "term_group": 0,
+        "term_taxonomy_id": 879,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 804,
+        "filter": "raw",
+        "cat_ID": 879,
+        "category_description": "",
+        "cat_name": "Information sharing",
+        "category_nicename": "information-sharing",
+        "category_parent": 804
       }
     ],
     "headless_tags": [
