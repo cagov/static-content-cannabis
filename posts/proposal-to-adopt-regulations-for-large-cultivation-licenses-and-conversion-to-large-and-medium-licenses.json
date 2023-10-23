@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T21:19:49",
-    "updated_date": "2023-10-23T19:59:13",
+    "updated_date": "2023-10-23T19:59:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-06T14:19:49",
     "date_gmt": "2023-06-06T21:19:49",
     "guid": "https://api.cannabis.ca.gov/?p=13788",
-    "modified": "2023-10-23T12:59:13",
-    "modified_gmt": "2023-10-23T19:59:13",
+    "modified": "2023-10-23T12:59:55",
+    "modified_gmt": "2023-10-23T19:59:55",
     "slug": "proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Proposed Changes"
+      "Completed Actions"
     ],
     "tags": [
       "staging"
@@ -75,19 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 803,
-        "name": "Proposed Changes",
-        "slug": "proposed-changes",
+        "term_id": 804,
+        "name": "Completed Actions",
+        "slug": "completed-actions",
         "term_group": 0,
-        "term_taxonomy_id": 803,
+        "term_taxonomy_id": 804,
         "taxonomy": "category",
         "description": "",
         "parent": 802,
         "filter": "raw",
-        "cat_ID": 803,
+        "cat_ID": 804,
         "category_description": "",
-        "cat_name": "Proposed Changes",
-        "category_nicename": "proposed-changes",
+        "cat_name": "Completed Actions",
+        "category_nicename": "completed-actions",
         "category_parent": 802
       }
     ],
