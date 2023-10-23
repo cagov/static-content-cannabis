@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-10-18T20:50:13",
-    "updated_date": "2023-10-18T20:51:09",
+    "created_date": "2023-01-05T21:50:00",
+    "updated_date": "2023-10-23T23:41:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,15 +15,15 @@
   },
   "data": {
     "id": 15327,
-    "date": "2023-10-18T13:50:13",
-    "date_gmt": "2023-10-18T20:50:13",
+    "date": "2023-01-05T13:50:00",
+    "date_gmt": "2023-01-05T21:50:00",
     "guid": "https://api.cannabis.ca.gov/?p=15327",
-    "modified": "2023-10-18T13:51:09",
-    "modified_gmt": "2023-10-18T20:51:09",
+    "modified": "2023-10-23T16:41:15",
+    "modified_gmt": "2023-10-23T23:41:15",
     "slug": "video-how-to-request-a-license-conversion",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/10/video-how-to-request-a-license-conversion/",
+    "link": "https://api.cannabis.ca.gov/2023/01/video-how-to-request-a-license-conversion/",
     "title": "Video: How to request a license conversion",
     "excerpt": "<p>Learn more about license conversion</p>\n",
     "author": 32,
@@ -42,9 +42,7 @@
       "Conversion",
       "Video"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -59,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/10/video-how-to-request-a-license-conversion/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/01/video-how-to-request-a-license-conversion/",
       "page_title": "Video: How to request a license conversion",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "Video: How to request a license conversion",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/video-how-to-request-a-license-conversion/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/01/video-how-to-request-a-license-conversion/",
       "open_graph_title": "Video: How to request a license conversion",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Video: How to request a license conversion",
@@ -108,19 +106,7 @@
         "category_parent": 2
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -131,6 +117,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/video-how-to-request-a-license-conversion/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/01/video-how-to-request-a-license-conversion/"
   }
 }
