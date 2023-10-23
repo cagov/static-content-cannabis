@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 88,
+      "redirects": 89,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2763,6 +2763,32 @@
       "regex": false,
       "group_id": 1,
       "position": 87,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 338,
+      "url": "/2023/10/video-how-to-request-a-license-conversion/",
+      "match_url": "/2023/10/video-how-to-request-a-license-conversion",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/01/video-how-to-request-a-license-conversion/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 88,
       "last_access": "-",
       "enabled": true
     }
