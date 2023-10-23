@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-10-23T20:45:23",
-    "updated_date": "2023-10-23T20:47:59",
+    "created_date": "2023-07-28T20:45:00",
+    "updated_date": "2023-10-23T20:48:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,15 +15,15 @@
   },
   "data": {
     "id": 15415,
-    "date": "2023-10-23T13:45:23",
-    "date_gmt": "2023-10-23T20:45:23",
+    "date": "2023-07-28T13:45:00",
+    "date_gmt": "2023-07-28T20:45:00",
     "guid": "https://api.cannabis.ca.gov/?p=15415",
-    "modified": "2023-10-23T13:47:59",
-    "modified_gmt": "2023-10-23T20:47:59",
+    "modified": "2023-10-23T13:48:38",
+    "modified_gmt": "2023-10-23T20:48:38",
     "slug": "standard-cannabinoids-test-method-and-standardized-operating-procedures",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/10/standard-cannabinoids-test-method-and-standardized-operating-procedures/",
+    "link": "https://api.cannabis.ca.gov/2023/07/standard-cannabinoids-test-method-and-standardized-operating-procedures/",
     "title": "Standard cannabinoids test method and standardized operating procedures",
     "excerpt": "<p>The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) regulations implementing Business and Professions Code section 26100(f)(2) pertaining to the establishment of a standard cannabinoids test method, including standardized operating procedures, that shall be utilized by all licensed testing laboratories in California. OAL filed the approved regulations with the Secretary of State on July 28, 2023. These regulations will become effective on October 1, 2023 and compliance will be required starting January 1, 2024. </p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/10/standard-cannabinoids-test-method-and-standardized-operating-procedures/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/07/standard-cannabinoids-test-method-and-standardized-operating-procedures/",
       "page_title": "Standard cannabinoids test method and standardized operating procedures",
       "page_description": "The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) regulations implementing Business and Professions Code section 26100(f)(2) pertaining to the establishment of a standard cannabinoids test method, including standardized operating procedures, that shall be utilized by all licensed testing laboratories in California. OAL filed the approved regulations with the Secretary of State on July 28, 2023. These regulations will become effective on October 1, 2023 and compliance will be required starting January 1, 2024. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Standard cannabinoids test method and standardized operating procedures",
       "meta_description": "The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) regulations implementing Business and Professions Code section 26100(f)(2) pertaining to the establishment of a standard cannabinoids test method, including standardized operating procedures, that shall be utilized by all licensed testing laboratories in California. OAL filed the approved regulations with the Secretary of State on July 28, 2023. These regulations will become effective on October 1, 2023 and compliance will be required starting January 1, 2024. ",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/standard-cannabinoids-test-method-and-standardized-operating-procedures/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/07/standard-cannabinoids-test-method-and-standardized-operating-procedures/",
       "open_graph_title": "Standard cannabinoids test method and standardized operating procedures",
       "open_graph_description": "The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) regulations implementing Business and Professions Code section 26100(f)(2) pertaining to the establishment of a standard cannabinoids test method, including standardized operating procedures, that shall be utilized by all licensed testing laboratories in California. OAL filed the approved regulations with the Secretary of State on July 28, 2023. These regulations will become effective on October 1, 2023 and compliance will be required starting January 1, 2024. ",
       "twitter_title": "Standard cannabinoids test method and standardized operating procedures",
@@ -114,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/standard-cannabinoids-test-method-and-standardized-operating-procedures/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/07/standard-cannabinoids-test-method-and-standardized-operating-procedures/"
   }
 }
