@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 85,
+      "redirects": 87,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2685,6 +2685,58 @@
       "regex": false,
       "group_id": 1,
       "position": 84,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 335,
+      "url": "/2023/10/youre-licensed-now-what/",
+      "match_url": "/2023/10/youre-licensed-now-what",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/02/youre-licensed-now-what/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 85,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 336,
+      "url": "/2023/10/what-to-expect-when-youre-inspected/",
+      "match_url": "/2023/10/what-to-expect-when-youre-inspected",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/02/what-to-expect-when-youre-inspected/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 86,
       "last_access": "-",
       "enabled": true
     }
