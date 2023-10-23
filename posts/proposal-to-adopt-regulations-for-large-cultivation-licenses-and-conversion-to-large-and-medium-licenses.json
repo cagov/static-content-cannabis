@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T21:19:49",
-    "updated_date": "2023-06-06T21:19:55",
+    "updated_date": "2023-10-23T19:59:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-06T14:19:49",
     "date_gmt": "2023-06-06T21:19:49",
     "guid": "https://api.cannabis.ca.gov/?p=13788",
-    "modified": "2023-06-06T14:19:55",
-    "modified_gmt": "2023-06-06T21:19:55",
+    "modified": "2023-10-23T12:59:13",
+    "modified_gmt": "2023-10-23T19:59:13",
     "slug": "proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses",
     "status": "publish",
     "type": "post",
