@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-06-06T21:37:24",
-    "updated_date": "2023-10-23T20:35:46",
+    "created_date": "2021-07-14T21:37:00",
+    "updated_date": "2023-10-23T21:09:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,15 +15,15 @@
   },
   "data": {
     "id": 13812,
-    "date": "2023-06-06T14:37:24",
-    "date_gmt": "2023-06-06T21:37:24",
+    "date": "2021-07-14T14:37:00",
+    "date_gmt": "2021-07-14T21:37:00",
     "guid": "https://api.cannabis.ca.gov/?p=13812",
-    "modified": "2023-10-23T13:35:46",
-    "modified_gmt": "2023-10-23T20:35:46",
+    "modified": "2023-10-23T14:09:42",
+    "modified_gmt": "2023-10-23T21:09:42",
     "slug": "re-titling-of-cannabis-regulations",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/06/re-titling-of-cannabis-regulations/",
+    "link": "https://api.cannabis.ca.gov/2021/07/re-titling-of-cannabis-regulations/",
     "title": "Re-titling of cannabis regulations",
     "excerpt": "<p>The three existing sets of regulations were moved into one title in the California Code of Regulations. The cannabis regulations are now together in Title 4, Division 19. Sections were also renumbered. No changes were made to the requirements in regulation.</p>\n",
     "author": 32,
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Cannabis regulations",
       "Completed Actions"
     ],
     "tags": [
@@ -58,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/06/re-titling-of-cannabis-regulations/",
+      "canonical_url": "https://api.cannabis.ca.gov/2021/07/re-titling-of-cannabis-regulations/",
       "page_title": "Re-titling of cannabis regulations",
       "page_description": "The three existing sets of regulations were moved into one title in the California Code of Regulations. The cannabis regulations are now together in Title 4, Division 19. Sections were also renumbered. No changes were made to the requirements in regulation.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,13 +68,29 @@
       "page_social_image_alt": "",
       "meta_title": "Re-titling of cannabis regulations",
       "meta_description": "The three existing sets of regulations were moved into one title in the California Code of Regulations. The cannabis regulations are now together in Title 4, Division 19. Sections were also renumbered. No changes were made to the requirements in regulation.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/06/re-titling-of-cannabis-regulations/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2021/07/re-titling-of-cannabis-regulations/",
       "open_graph_title": "Re-titling of cannabis regulations",
       "open_graph_description": "The three existing sets of regulations were moved into one title in the California Code of Regulations. The cannabis regulations are now together in Title 4, Division 19. Sections were also renumbered. No changes were made to the requirements in regulation.",
       "twitter_title": "Re-titling of cannabis regulations",
       "twitter_description": "The three existing sets of regulations were moved into one title in the California Code of Regulations. The cannabis regulations are now together in Title 4, Division 19. Sections were also renumbered. No changes were made to the requirements in regulation."
     },
     "headless_categories": [
+      {
+        "term_id": 880,
+        "name": "Cannabis regulations",
+        "slug": "cannabis-regulations",
+        "term_group": 0,
+        "term_taxonomy_id": 880,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 804,
+        "filter": "raw",
+        "cat_ID": 880,
+        "category_description": "",
+        "cat_name": "Cannabis regulations",
+        "category_nicename": "cannabis-regulations",
+        "category_parent": 804
+      },
       {
         "term_id": 804,
         "name": "Completed Actions",
@@ -114,6 +131,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/06/re-titling-of-cannabis-regulations/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2021/07/re-titling-of-cannabis-regulations/"
   }
 }
