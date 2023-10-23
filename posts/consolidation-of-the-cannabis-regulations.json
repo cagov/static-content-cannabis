@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-06T21:34:37",
-    "updated_date": "2023-06-06T21:34:43",
+    "updated_date": "2023-10-23T21:15:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-06T14:34:37",
     "date_gmt": "2023-06-06T21:34:37",
     "guid": "https://api.cannabis.ca.gov/?p=13808",
-    "modified": "2023-06-06T14:34:43",
-    "modified_gmt": "2023-06-06T21:34:43",
+    "modified": "2023-10-23T14:15:55",
+    "modified_gmt": "2023-10-23T21:15:55",
     "slug": "consolidation-of-the-cannabis-regulations",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,13 +39,14 @@
       "footnotes": ""
     },
     "categories": [
+      "Cannabis regulations",
       "Completed Actions"
     ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -74,6 +75,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 880,
+        "name": "Cannabis regulations",
+        "slug": "cannabis-regulations",
+        "term_group": 0,
+        "term_taxonomy_id": 880,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 804,
+        "filter": "raw",
+        "cat_ID": 880,
+        "category_description": "",
+        "cat_name": "Cannabis regulations",
+        "category_nicename": "cannabis-regulations",
+        "category_parent": 804
+      },
       {
         "term_id": 804,
         "name": "Completed Actions",
