@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-06-06T21:26:34",
-    "updated_date": "2023-10-23T20:19:48",
+    "created_date": "2022-06-06T21:26:00",
+    "updated_date": "2023-10-23T21:03:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,17 +15,17 @@
   },
   "data": {
     "id": 13796,
-    "date": "2023-06-06T14:26:34",
-    "date_gmt": "2023-06-06T21:26:34",
+    "date": "2022-06-06T14:26:00",
+    "date_gmt": "2022-06-06T21:26:00",
     "guid": "https://api.cannabis.ca.gov/?p=13796",
-    "modified": "2023-10-23T13:19:48",
-    "modified_gmt": "2023-10-23T20:19:48",
+    "modified": "2023-10-23T14:03:26",
+    "modified_gmt": "2023-10-23T21:03:26",
     "slug": "cannabis-license-fee-waivers",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/06/cannabis-license-fee-waivers/",
+    "link": "https://api.cannabis.ca.gov/2022/06/cannabis-license-fee-waivers/",
     "title": "Cannabis license fee waivers",
-    "excerpt": "<p>Type: Readoption of emergency regulations Status: Approved June 6, 2022 The Department of Cannabis Control (DCC) is providing notice to the public of its intent to readopt its emergency regulations implementing Senate Bill 166 which requires DCC to develop and implement a program to provide waivers for cannabis licensing fees, with at least 60 percent [&hellip;]</p>\n",
+    "excerpt": "<p>The cannabis equity fee waiver program is designed to assist commercial cannabis license applicants and licensees who have been harmed by the War on Drugs. DCC proposes this readoption action to allow emergency regulations, with amendments, to remain in place while DCC continues working to begin the process of permanently adopting the regulations through the regular rulemaking action.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -58,20 +58,20 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/06/cannabis-license-fee-waivers/",
+      "canonical_url": "https://api.cannabis.ca.gov/2022/06/cannabis-license-fee-waivers/",
       "page_title": "Cannabis license fee waivers",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "The cannabis equity fee waiver program is designed to assist commercial cannabis license applicants and licensees who have been harmed by the War on Drugs. DCC proposes this readoption action to allow emergency regulations, with amendments, to remain in place while DCC continues working to begin the process of permanently adopting the regulations through the regular rulemaking action.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Cannabis license fee waivers",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/06/cannabis-license-fee-waivers/",
+      "meta_description": "The cannabis equity fee waiver program is designed to assist commercial cannabis license applicants and licensees who have been harmed by the War on Drugs. DCC proposes this readoption action to allow emergency regulations, with amendments, to remain in place while DCC continues working to begin the process of permanently adopting the regulations through the regular rulemaking action.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/06/cannabis-license-fee-waivers/",
       "open_graph_title": "Cannabis license fee waivers",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "The cannabis equity fee waiver program is designed to assist commercial cannabis license applicants and licensees who have been harmed by the War on Drugs. DCC proposes this readoption action to allow emergency regulations, with amendments, to remain in place while DCC continues working to begin the process of permanently adopting the regulations through the regular rulemaking action.",
       "twitter_title": "Cannabis license fee waivers",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "The cannabis equity fee waiver program is designed to assist commercial cannabis license applicants and licensees who have been harmed by the War on Drugs. DCC proposes this readoption action to allow emergency regulations, with amendments, to remain in place while DCC continues working to begin the process of permanently adopting the regulations through the regular rulemaking action."
     },
     "headless_categories": [
       {
@@ -114,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/06/cannabis-license-fee-waivers/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2022/06/cannabis-license-fee-waivers/"
   }
 }
