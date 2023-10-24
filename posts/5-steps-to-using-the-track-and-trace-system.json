@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2023-10-24T20:13:28",
+    "updated_date": "2023-10-24T20:25:15",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/15500",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 15500,
+    "date": "2023-10-24T13:13:28",
+    "date_gmt": "2023-10-24T20:13:28",
+    "guid": "https://api.cannabis.ca.gov/?p=15500",
+    "modified": "2023-10-24T13:25:15",
+    "modified_gmt": "2023-10-24T20:25:15",
+    "slug": "5-steps-to-using-the-track-and-trace-system",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/10/5-steps-to-using-the-track-and-trace-system/",
+    "title": "5 Steps to using the Track and Trace System",
+    "excerpt": "<p>In January 2018, the California Cannabis Track-and-Trace (CCTT) system was launched using METRC software. CCTT uses unique identifiers (UIDs) for reporting the movement of cannabis and cannabis products through the licensed commercial cannabis distribution chain. Review our five-step guide to using the CCTT system.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "CCTT"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/10/5-steps-to-using-the-track-and-trace-system/",
+      "page_title": "5 Steps to using the Track and Trace System",
+      "page_description": "In January 2018, the California Cannabis Track-and-Trace (CCTT) system was launched using METRC software. CCTT uses unique identifiers (UIDs) for reporting the movement of cannabis and cannabis products through the licensed commercial cannabis distribution chain. Review our five-step guide to using the CCTT system.",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "5 Steps to using the Track and Trace System",
+      "meta_description": "In January 2018, the California Cannabis Track-and-Trace (CCTT) system was launched using METRC software. CCTT uses unique identifiers (UIDs) for reporting the movement of cannabis and cannabis products through the licensed commercial cannabis distribution chain. Review our five-step guide to using the CCTT system.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/5-steps-to-using-the-track-and-trace-system/",
+      "open_graph_title": "5 Steps to using the Track and Trace System",
+      "open_graph_description": "In January 2018, the California Cannabis Track-and-Trace (CCTT) system was launched using METRC software. CCTT uses unique identifiers (UIDs) for reporting the movement of cannabis and cannabis products through the licensed commercial cannabis distribution chain. Review our five-step guide to using the CCTT system.",
+      "twitter_title": "5 Steps to using the Track and Trace System",
+      "twitter_description": "In January 2018, the California Cannabis Track-and-Trace (CCTT) system was launched using METRC software. CCTT uses unique identifiers (UIDs) for reporting the movement of cannabis and cannabis products through the licensed commercial cannabis distribution chain. Review our five-step guide to using the CCTT system."
+    },
+    "headless_categories": [
+      {
+        "term_id": 887,
+        "name": "CCTT",
+        "slug": "cctt",
+        "term_group": 0,
+        "term_taxonomy_id": 887,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 887,
+        "category_description": "",
+        "cat_name": "CCTT",
+        "category_nicename": "cctt",
+        "category_parent": 799
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/5-steps-to-using-the-track-and-trace-system/"
+  }
+}
