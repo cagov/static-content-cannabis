@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-23T23:34:00",
-    "updated_date": "2023-10-24T00:00:49",
+    "updated_date": "2023-10-24T17:55:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-23T16:34:00",
     "date_gmt": "2023-04-23T23:34:00",
     "guid": "https://api.cannabis.ca.gov/?p=15453",
-    "modified": "2023-10-23T17:00:49",
-    "modified_gmt": "2023-10-24T00:00:49",
+    "modified": "2023-10-24T10:55:45",
+    "modified_gmt": "2023-10-24T17:55:45",
     "slug": "electricity-usage-reporting-requirements",
     "status": "publish",
     "type": "post",
