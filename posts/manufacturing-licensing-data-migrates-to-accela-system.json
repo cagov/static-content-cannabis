@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-19T17:06:12",
-    "updated_date": "2023-10-19T18:26:23",
+    "updated_date": "2023-10-24T19:54:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-19T10:06:12",
     "date_gmt": "2023-10-19T17:06:12",
     "guid": "https://api.cannabis.ca.gov/?p=15365",
-    "modified": "2023-10-19T11:26:23",
-    "modified_gmt": "2023-10-19T18:26:23",
+    "modified": "2023-10-24T12:54:20",
+    "modified_gmt": "2023-10-24T19:54:20",
     "slug": "manufacturing-licensing-data-migrates-to-accela-system",
     "status": "publish",
     "type": "post",
@@ -40,8 +40,7 @@
     },
     "categories": [
       "2023 announcements",
-      "Announcements",
-      "Licensees"
+      "Announcements"
     ],
     "tags": [],
     "design_system_fields": {
@@ -104,22 +103,6 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
-      },
-      {
-        "term_id": 799,
-        "name": "Licensees",
-        "slug": "licensees",
-        "term_group": 0,
-        "term_taxonomy_id": 799,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 799,
-        "category_description": "",
-        "cat_name": "Licensees",
-        "category_nicename": "licensees",
         "category_parent": 0
       }
     ],
