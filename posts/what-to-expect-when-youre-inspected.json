@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-02-23T19:46:00",
-    "updated_date": "2023-10-24T18:17:54",
+    "updated_date": "2023-10-24T20:38:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-02-23T11:46:00",
     "date_gmt": "2022-02-23T19:46:00",
     "guid": "https://api.cannabis.ca.gov/?p=15391",
-    "modified": "2023-10-24T11:17:54",
-    "modified_gmt": "2023-10-24T18:17:54",
+    "modified": "2023-10-24T13:38:53",
+    "modified_gmt": "2023-10-24T20:38:53",
     "slug": "what-to-expect-when-youre-inspected",
     "status": "publish",
     "type": "post",
@@ -40,6 +40,7 @@
     },
     "categories": [
       "CannaConnect",
+      "Compliance",
       "Inspections",
       "Licensees",
       "Regulations",
@@ -91,6 +92,22 @@
         "cat_name": "CannaConnect",
         "category_nicename": "cannaconnect",
         "category_parent": 0
+      },
+      {
+        "term_id": 886,
+        "name": "Compliance",
+        "slug": "compliance",
+        "term_group": 0,
+        "term_taxonomy_id": 886,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 886,
+        "category_description": "",
+        "cat_name": "Compliance",
+        "category_nicename": "compliance",
+        "category_parent": 799
       },
       {
         "term_id": 876,
