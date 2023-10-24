@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-15T23:01:54",
-    "updated_date": "2023-10-24T19:01:53",
+    "updated_date": "2023-10-24T20:38:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-15T16:01:54",
     "date_gmt": "2023-09-15T23:01:54",
     "guid": "https://api.cannabis.ca.gov/?p=14926",
-    "modified": "2023-10-24T12:01:53",
-    "modified_gmt": "2023-10-24T19:01:53",
+    "modified": "2023-10-24T13:38:47",
+    "modified_gmt": "2023-10-24T20:38:47",
     "slug": "new-closed-loop-extraction-system-certification-rules-effective-now",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Compliance",
       "Regulations"
     ],
     "tags": [],
@@ -72,6 +73,22 @@
       "twitter_description": "New rules were approved in the November 2022 regulations that require operators of closed-loop extraction systems to have their systems recertified by a California-licensed engineer at least once every five years. If you operate a closed-loop extraction system, get re-certified! "
     },
     "headless_categories": [
+      {
+        "term_id": 886,
+        "name": "Compliance",
+        "slug": "compliance",
+        "term_group": 0,
+        "term_taxonomy_id": 886,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 886,
+        "category_description": "",
+        "cat_name": "Compliance",
+        "category_nicename": "compliance",
+        "category_parent": 799
+      },
       {
         "term_id": 852,
         "name": "Regulations",
