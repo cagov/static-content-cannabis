@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2022-10-31T22:33:11",
+    "updated_date": "2023-10-24T19:55:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/applicants/applicants/how-to-apply-renew/",
-    "modified": "2022-10-31T15:33:11",
-    "modified_gmt": "2022-10-31T22:33:11",
+    "modified": "2023-10-24T12:55:26",
+    "modified_gmt": "2023-10-24T19:55:26",
     "slug": "how-to-apply-renew",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "Getting started"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -69,7 +71,24 @@
       "twitter_title": "How to apply for or renew a license",
       "twitter_description": "Learn the steps needed to apply for or renew a cannabis license."
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 883,
+        "name": "Getting started",
+        "slug": "getting-started",
+        "term_group": 0,
+        "term_taxonomy_id": 883,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 883,
+        "category_description": "",
+        "cat_name": "Getting started",
+        "category_nicename": "getting-started",
+        "category_parent": 799
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
