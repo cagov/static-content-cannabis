@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-24T20:19:06",
-    "updated_date": "2023-10-24T20:19:11",
+    "updated_date": "2023-10-24T20:24:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-24T13:19:06",
     "date_gmt": "2023-10-24T20:19:06",
     "guid": "https://api.cannabis.ca.gov/?p=15502",
-    "modified": "2023-10-24T13:19:11",
-    "modified_gmt": "2023-10-24T20:19:11",
+    "modified": "2023-10-24T13:24:50",
+    "modified_gmt": "2023-10-24T20:24:50",
     "slug": "video-how-to-attach-a-tag-to-a-cannabis-plant",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -41,11 +41,9 @@
     "categories": [
       "CCTT"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column-wide"
     },
     "og_meta": {
       "editor": {
@@ -91,19 +89,7 @@
         "category_parent": 799
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
