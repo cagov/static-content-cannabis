@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-11T19:13:12",
-    "updated_date": "2023-10-24T23:58:15",
+    "updated_date": "2023-10-24T23:59:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2023-08-11T12:13:12",
     "date_gmt": "2023-08-11T19:13:12",
     "guid": "https://api.cannabis.ca.gov/?page_id=14408",
-    "modified": "2023-10-24T16:58:15",
-    "modified_gmt": "2023-10-24T23:58:15",
+    "modified": "2023-10-24T16:59:08",
+    "modified_gmt": "2023-10-24T23:59:08",
     "slug": "announcements-revised",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/announcements-revised/",
+    "link": "https://api.cannabis.ca.gov/media/announcements-revised/",
     "title": "Announcements (Revised)",
     "excerpt": "<p>Announcement archives</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 15543,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/announcements-revised/",
+      "canonical_url": "https://api.cannabis.ca.gov/media/announcements-revised/",
       "page_title": "Announcements (Revised)",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Announcements (Revised)",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/announcements-revised/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/media/announcements-revised/",
       "open_graph_title": "Announcements (Revised)",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Announcements (Revised)",
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/announcements-revised/"
+    "wordpress_url": "https://api.cannabis.ca.gov/media/announcements-revised/"
   }
 }
