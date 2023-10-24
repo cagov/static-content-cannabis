@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-24T19:53:19",
-    "updated_date": "2023-10-24T19:53:25",
+    "updated_date": "2023-10-24T19:53:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-24T12:53:19",
     "date_gmt": "2023-10-24T19:53:19",
     "guid": "https://api.cannabis.ca.gov/?p=15492",
-    "modified": "2023-10-24T12:53:25",
-    "modified_gmt": "2023-10-24T19:53:25",
+    "modified": "2023-10-24T12:53:58",
+    "modified_gmt": "2023-10-24T19:53:58",
     "slug": "state-agencies-that-work-with-licensees",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -46,7 +46,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
