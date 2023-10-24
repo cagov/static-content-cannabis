@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-01T01:47:50",
-    "updated_date": "2023-03-06T21:31:21",
+    "updated_date": "2023-10-24T20:37:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-12-31T17:47:50",
     "date_gmt": "2022-01-01T01:47:50",
     "guid": "https://cannabis.ca.gov/?page_id=9301",
-    "modified": "2023-03-06T13:31:21",
-    "modified_gmt": "2023-03-06T21:31:21",
+    "modified": "2023-10-24T13:37:42",
+    "modified_gmt": "2023-10-24T20:37:42",
     "slug": "compliance-with-state-law",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "Compliance"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -69,7 +71,24 @@
       "twitter_title": "Compliance with state law",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 886,
+        "name": "Compliance",
+        "slug": "compliance",
+        "term_group": 0,
+        "term_taxonomy_id": 886,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 886,
+        "category_description": "",
+        "cat_name": "Compliance",
+        "category_nicename": "compliance",
+        "category_parent": 799
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
