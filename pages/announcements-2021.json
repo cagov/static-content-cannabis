@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-11T19:07:37",
-    "updated_date": "2023-08-11T19:07:43",
+    "updated_date": "2023-10-24T23:54:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-11T12:07:37",
     "date_gmt": "2023-08-11T19:07:37",
     "guid": "https://api.cannabis.ca.gov/?page_id=14404",
-    "modified": "2023-08-11T12:07:43",
-    "modified_gmt": "2023-08-11T19:07:43",
+    "modified": "2023-10-24T16:54:34",
+    "modified_gmt": "2023-10-24T23:54:34",
     "slug": "announcements-2021",
     "status": "publish",
     "type": "page",
