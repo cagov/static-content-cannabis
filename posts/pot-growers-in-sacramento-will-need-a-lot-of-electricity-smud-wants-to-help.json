@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-10-24T01:34:00",
-    "updated_date": "2023-08-11T18:38:37",
+    "updated_date": "2023-10-25T18:16:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-10-23T18:34:00",
     "date_gmt": "2017-10-24T01:34:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/pot-growers-in-sacramento-will-need-a-lot-of-electricity-smud-wants-to-help/",
-    "modified": "2023-08-11T11:38:37",
-    "modified_gmt": "2023-08-11T18:38:37",
+    "modified": "2023-10-25T11:16:37",
+    "modified_gmt": "2023-10-25T18:16:37",
     "slug": "pot-growers-in-sacramento-will-need-a-lot-of-electricity-smud-wants-to-help",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "2017 announcements",
-      "Announcements"
+      "Announcements",
+      "Press Releases"
     ],
     "tags": [
       "Cannabis",
@@ -108,6 +109,22 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
+        "term_group": 0,
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
         "category_parent": 0
       }
     ],
