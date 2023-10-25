@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-14T18:47:37",
-    "updated_date": "2023-10-23T19:01:43",
+    "updated_date": "2023-10-25T23:45:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-14T11:47:37",
     "date_gmt": "2022-03-14T18:47:37",
     "guid": "https://cannabis.ca.gov/?p=9542",
-    "modified": "2023-10-23T12:01:43",
-    "modified_gmt": "2023-10-23T19:01:43",
+    "modified": "2023-10-25T16:45:16",
+    "modified_gmt": "2023-10-25T23:45:16",
     "slug": "department-of-cannabis-control-launches-cannaconnect-a-new-resource-to-support-californias-cannabis-license-holders",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "2022 announcements",
-      "Announcements"
+      "Announcements",
+      "Press Releases"
     ],
     "tags": [],
     "design_system_fields": {
@@ -103,6 +104,22 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
+        "term_group": 0,
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
         "category_parent": 0
       }
     ],
