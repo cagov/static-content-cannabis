@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-09-20T01:38:00",
-    "updated_date": "2023-08-11T18:38:13",
+    "updated_date": "2023-10-25T18:33:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-09-19T18:38:00",
     "date_gmt": "2017-09-20T01:38:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/bureau-of-cannabis-control-to-hold-ceqa-study-results-workshop-in-fresno/",
-    "modified": "2023-08-11T11:38:13",
-    "modified_gmt": "2023-08-11T18:38:13",
+    "modified": "2023-10-25T11:33:49",
+    "modified_gmt": "2023-10-25T18:33:49",
     "slug": "bureau-of-cannabis-control-to-hold-ceqa-study-results-workshop-in-fresno",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "2017 announcements",
-      "Announcements"
+      "Announcements",
+      "Press Releases"
     ],
     "tags": [
       "Bureau of Cannabis Control",
@@ -109,6 +110,22 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
+        "term_group": 0,
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
         "category_parent": 0
       }
     ],
