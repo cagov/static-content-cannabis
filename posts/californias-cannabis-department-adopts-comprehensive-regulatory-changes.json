@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-10T22:30:09",
-    "updated_date": "2023-08-11T18:14:53",
+    "updated_date": "2023-10-25T23:28:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-10T14:30:09",
     "date_gmt": "2022-11-10T22:30:09",
     "guid": "https://api.cannabis.ca.gov/?p=12383",
-    "modified": "2023-08-11T11:14:53",
-    "modified_gmt": "2023-08-11T18:14:53",
+    "modified": "2023-10-25T16:28:14",
+    "modified_gmt": "2023-10-25T23:28:14",
     "slug": "californias-cannabis-department-adopts-comprehensive-regulatory-changes",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "2022 announcements",
-      "Announcements"
+      "Announcements",
+      "Press Releases"
     ],
     "tags": [],
     "design_system_fields": {
@@ -103,6 +104,22 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
+        "term_group": 0,
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
         "category_parent": 0
       }
     ],
