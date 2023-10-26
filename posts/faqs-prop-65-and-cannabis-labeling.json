@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-24T16:17:49",
-    "updated_date": "2023-10-26T23:25:15",
+    "updated_date": "2023-10-26T23:34:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-24T09:17:49",
     "date_gmt": "2023-10-24T16:17:49",
     "guid": "https://api.cannabis.ca.gov/?p=15463",
-    "modified": "2023-10-26T16:25:15",
-    "modified_gmt": "2023-10-26T23:25:15",
+    "modified": "2023-10-26T16:34:55",
+    "modified_gmt": "2023-10-26T23:34:55",
     "slug": "faqs-prop-65-and-cannabis-labeling",
     "status": "publish",
     "type": "post",
