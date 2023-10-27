@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-18T19:08:07",
-    "updated_date": "2023-10-27T17:22:24",
+    "updated_date": "2023-10-27T17:28:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-18T12:08:07",
     "date_gmt": "2023-10-18T19:08:07",
     "guid": "https://api.cannabis.ca.gov/?p=15289",
-    "modified": "2023-10-27T10:22:24",
-    "modified_gmt": "2023-10-27T17:22:24",
+    "modified": "2023-10-27T10:28:24",
+    "modified_gmt": "2023-10-27T17:28:24",
     "slug": "universal-symbol",
     "status": "publish",
     "type": "post",
@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "All",
-      "Labeling"
+      "All"
     ],
     "tags": [
       "staging"
@@ -90,22 +89,6 @@
         "cat_name": "All",
         "category_nicename": "all",
         "category_parent": 0
-      },
-      {
-        "term_id": 863,
-        "name": "Labeling",
-        "slug": "labeling",
-        "term_group": 0,
-        "term_taxonomy_id": 863,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 800,
-        "filter": "raw",
-        "cat_ID": 863,
-        "category_description": "",
-        "cat_name": "Labeling",
-        "category_nicename": "labeling",
-        "category_parent": 800
       }
     ],
     "headless_tags": [
