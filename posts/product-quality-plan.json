@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-27T17:06:07",
-    "updated_date": "2023-10-27T17:06:12",
+    "updated_date": "2023-10-27T17:10:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-27T10:06:07",
     "date_gmt": "2023-10-27T17:06:07",
     "guid": "https://api.cannabis.ca.gov/?p=15603",
-    "modified": "2023-10-27T10:06:12",
-    "modified_gmt": "2023-10-27T17:06:12",
+    "modified": "2023-10-27T10:10:08",
+    "modified_gmt": "2023-10-27T17:10:08",
     "slug": "product-quality-plan",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Manufacturing best practices"
+      "Manufacturing documentation"
     ],
     "tags": [
       "staging"
@@ -75,19 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 867,
-        "name": "Manufacturing best practices",
-        "slug": "manufacturing-best-practices",
+        "term_id": 865,
+        "name": "Manufacturing documentation",
+        "slug": "manufacturing-documentation",
         "term_group": 0,
-        "term_taxonomy_id": 867,
+        "term_taxonomy_id": 865,
         "taxonomy": "category",
         "description": "",
         "parent": 800,
         "filter": "raw",
-        "cat_ID": 867,
+        "cat_ID": 865,
         "category_description": "",
-        "cat_name": "Manufacturing best practices",
-        "category_nicename": "manufacturing-best-practices",
+        "cat_name": "Manufacturing documentation",
+        "category_nicename": "manufacturing-documentation",
         "category_parent": 800
       }
     ],
