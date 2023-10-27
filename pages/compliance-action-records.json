@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-27T21:25:39",
-    "updated_date": "2023-10-27T21:29:21",
+    "updated_date": "2023-10-27T21:42:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-27T14:25:39",
     "date_gmt": "2023-10-27T21:25:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=15622",
-    "modified": "2023-10-27T14:29:21",
-    "modified_gmt": "2023-10-27T21:29:21",
+    "modified": "2023-10-27T14:42:30",
+    "modified_gmt": "2023-10-27T21:42:30",
     "slug": "compliance-action-records",
     "status": "publish",
     "type": "page",
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Compliance"
-    ],
+    "categories": [],
     "tags": [
       "staging"
     ],
@@ -73,24 +71,7 @@
       "twitter_title": "Compliance Action Records",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 886,
-        "name": "Compliance",
-        "slug": "compliance",
-        "term_group": 0,
-        "term_taxonomy_id": 886,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 799,
-        "filter": "raw",
-        "cat_ID": 886,
-        "category_description": "",
-        "cat_name": "Compliance",
-        "category_nicename": "compliance",
-        "category_parent": 799
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [
       {
         "term_id": 797,
