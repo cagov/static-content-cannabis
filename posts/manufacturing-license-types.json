@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-27T16:39:32",
-    "updated_date": "2023-10-27T16:39:38",
+    "updated_date": "2023-10-27T17:01:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-27T09:39:32",
     "date_gmt": "2023-10-27T16:39:32",
     "guid": "https://api.cannabis.ca.gov/?p=15586",
-    "modified": "2023-10-27T09:39:38",
-    "modified_gmt": "2023-10-27T16:39:38",
+    "modified": "2023-10-27T10:01:22",
+    "modified_gmt": "2023-10-27T17:01:22",
     "slug": "manufacturing-license-types",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "License types"
+      "License types",
+      "Manufacturing overview"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "License types",
         "category_nicename": "license-types",
         "category_parent": 799
+      },
+      {
+        "term_id": 891,
+        "name": "Manufacturing overview",
+        "slug": "manufacturing-overview",
+        "term_group": 0,
+        "term_taxonomy_id": 891,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 891,
+        "category_description": "",
+        "cat_name": "Manufacturing overview",
+        "category_nicename": "manufacturing-overview",
+        "category_parent": 800
       }
     ],
     "headless_tags": [],
