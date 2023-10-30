@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2023-10-30T21:11:21",
+    "updated_date": "2023-10-30T21:11:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/applicants/applicants/how-to-apply-renew/",
-    "modified": "2023-10-30T14:11:21",
-    "modified_gmt": "2023-10-30T21:11:21",
+    "modified": "2023-10-30T14:11:37",
+    "modified_gmt": "2023-10-30T21:11:37",
     "slug": "how-to-apply",
     "status": "publish",
     "type": "page",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "Application resources",
-      "Getting started"
+      "Getting started",
+      "Renewal"
     ],
     "tags": [],
     "design_system_fields": {
@@ -104,6 +105,22 @@
         "cat_name": "Getting started",
         "category_nicename": "getting-started",
         "category_parent": 799
+      },
+      {
+        "term_id": 875,
+        "name": "Renewal",
+        "slug": "renewal",
+        "term_group": 0,
+        "term_taxonomy_id": 875,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 806,
+        "filter": "raw",
+        "cat_ID": 875,
+        "category_description": "",
+        "cat_name": "Renewal",
+        "category_nicename": "renewal",
+        "category_parent": 806
       }
     ],
     "headless_tags": [],
