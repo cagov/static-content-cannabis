@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T23:29:52",
-    "updated_date": "2023-10-30T23:29:58",
+    "updated_date": "2023-10-30T23:31:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T16:29:52",
     "date_gmt": "2023-10-30T23:29:52",
     "guid": "https://api.cannabis.ca.gov/?p=15727",
-    "modified": "2023-10-30T16:29:58",
-    "modified_gmt": "2023-10-30T23:29:58",
+    "modified": "2023-10-30T16:31:21",
+    "modified_gmt": "2023-10-30T23:31:21",
     "slug": "user-guide-renewals-for-manufacturing-license-types",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Licensing systems-Manufacturing",
       "Renewals-Manufacturing"
     ],
     "tags": [
@@ -74,6 +75,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 903,
+        "name": "Licensing systems-Manufacturing",
+        "slug": "licensing-systems-manufacturing",
+        "term_group": 0,
+        "term_taxonomy_id": 903,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 903,
+        "category_description": "",
+        "cat_name": "Licensing systems-Manufacturing",
+        "category_nicename": "licensing-systems-manufacturing",
+        "category_parent": 800
+      },
       {
         "term_id": 901,
         "name": "Renewals-Manufacturing",
