@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 93,
+      "redirects": 94,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2893,6 +2893,32 @@
       "regex": false,
       "group_id": 1,
       "position": 92,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 343,
+      "url": "/applicants/how-to-apply-renew/",
+      "match_url": "/applicants/how-to-apply-renew",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/how-to-apply/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 93,
       "last_access": "-",
       "enabled": true
     }
