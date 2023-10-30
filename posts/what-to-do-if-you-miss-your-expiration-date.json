@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T21:31:34",
-    "updated_date": "2023-10-30T21:32:29",
+    "updated_date": "2023-10-30T21:47:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-10-30T14:31:34",
     "date_gmt": "2023-10-30T21:31:34",
     "guid": "https://api.cannabis.ca.gov/?p=15688",
-    "modified": "2023-10-30T14:32:29",
-    "modified_gmt": "2023-10-30T21:32:29",
+    "modified": "2023-10-30T14:47:19",
+    "modified_gmt": "2023-10-30T21:47:19",
     "slug": "what-to-do-if-you-miss-your-expiration-date",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/10/what-to-do-if-you-miss-your-expiration-date/",
     "title": "What to do if you miss your expiration date",
-    "excerpt": "<p>Related content</p>\n",
+    "excerpt": "<p>You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. </p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -46,7 +46,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -61,18 +61,18 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/10/what-to-do-if-you-miss-your-expiration-date/",
       "page_title": "What to do if you miss your expiration date",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "What to do if you miss your expiration date",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. ",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/what-to-do-if-you-miss-your-expiration-date/",
       "open_graph_title": "What to do if you miss your expiration date",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. ",
       "twitter_title": "What to do if you miss your expiration date",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. "
     },
     "headless_categories": [
       {
