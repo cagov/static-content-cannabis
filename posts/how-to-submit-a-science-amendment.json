@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T22:55:10",
-    "updated_date": "2023-10-30T22:56:18",
+    "updated_date": "2023-10-30T23:14:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T15:55:10",
     "date_gmt": "2023-10-30T22:55:10",
     "guid": "https://api.cannabis.ca.gov/?p=15719",
-    "modified": "2023-10-30T15:56:18",
-    "modified_gmt": "2023-10-30T22:56:18",
+    "modified": "2023-10-30T16:14:45",
+    "modified_gmt": "2023-10-30T23:14:45",
     "slug": "how-to-submit-a-science-amendment",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,13 +39,14 @@
       "footnotes": ""
     },
     "categories": [
-      "Notifications and requests"
+      "Notifications and requests",
+      "Updates-Cultivation"
     ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -89,6 +90,22 @@
         "cat_name": "Notifications and requests",
         "category_nicename": "notifications-and-requests",
         "category_parent": 806
+      },
+      {
+        "term_id": 898,
+        "name": "Updates-Cultivation",
+        "slug": "updates-cultivation",
+        "term_group": 0,
+        "term_taxonomy_id": 898,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 801,
+        "filter": "raw",
+        "cat_ID": 898,
+        "category_description": "",
+        "cat_name": "Updates-Cultivation",
+        "category_nicename": "updates-cultivation",
+        "category_parent": 801
       }
     ],
     "headless_tags": [
