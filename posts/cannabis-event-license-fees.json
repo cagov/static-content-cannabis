@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "created_date": "2023-10-30T17:08:08",
+    "updated_date": "2023-10-30T17:08:14",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/15653",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 15653,
+    "date": "2023-10-30T10:08:08",
+    "date_gmt": "2023-10-30T17:08:08",
+    "guid": "https://api.cannabis.ca.gov/?p=15653",
+    "modified": "2023-10-30T10:08:14",
+    "modified_gmt": "2023-10-30T17:08:14",
+    "slug": "cannabis-event-license-fees",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/10/cannabis-event-license-fees/",
+    "title": "Cannabis event license fees",
+    "excerpt": "<p>Cannabis event annual license fees are based on the number of events you plan to hold during the year. Number of planned cannabis events Application fee License fee 5 or fewer $1,000 $3,000 6 to 10 $1,000 $5,000 11 to 20 $1,000 $9,000 More than 20 $1,000 $20,000 Temporary cannabis event licenses are $1,000 per [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "License fees",
+      "Temporary events"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/10/cannabis-event-license-fees/",
+      "page_title": "Cannabis event license fees",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis event license fees",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/cannabis-event-license-fees/",
+      "open_graph_title": "Cannabis event license fees",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cannabis event license fees",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 893,
+        "name": "License fees",
+        "slug": "license-fees",
+        "term_group": 0,
+        "term_taxonomy_id": 893,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 893,
+        "category_description": "",
+        "cat_name": "License fees",
+        "category_nicename": "license-fees",
+        "category_parent": 799
+      },
+      {
+        "term_id": 873,
+        "name": "Temporary events",
+        "slug": "temporary-events",
+        "term_group": 0,
+        "term_taxonomy_id": 873,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 873,
+        "category_description": "",
+        "cat_name": "Temporary events",
+        "category_nicename": "temporary-events",
+        "category_parent": 799
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/cannabis-event-license-fees/"
+  }
+}
