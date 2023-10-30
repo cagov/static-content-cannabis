@@ -1951,48 +1951,6 @@
           ],
           "xfn": "",
           "slug": "work-for-dcc"
-        },
-        {
-          "ID": 11664,
-          "post_author": "22",
-          "post_date": "2023-10-04 12:59:45",
-          "post_date_gmt": "2022-10-02 23:44:47",
-          "post_content": " ",
-          "post_title": "",
-          "post_excerpt": "",
-          "post_status": "publish",
-          "comment_status": "closed",
-          "ping_status": "closed",
-          "post_password": "",
-          "post_name": "11664",
-          "to_ping": "",
-          "pinged": "",
-          "post_modified": "2023-10-04 12:59:45",
-          "post_modified_gmt": "2023-10-04 19:59:45",
-          "post_content_filtered": "",
-          "post_parent": 856,
-          "guid": "https://api.cannabis.ca.gov/?p=11664",
-          "menu_order": 47,
-          "post_type": "nav_menu_item",
-          "post_mime_type": "",
-          "comment_count": "0",
-          "filter": "raw",
-          "db_id": 11664,
-          "menu_item_parent": "11658",
-          "object_id": "689",
-          "object": "page",
-          "type": "post_type",
-          "type_label": "Page",
-          "url": "https://api.cannabis.ca.gov/about-us/contact-us/",
-          "title": "Contact us",
-          "target": "",
-          "attr_title": "",
-          "description": "",
-          "classes": [
-            ""
-          ],
-          "xfn": "",
-          "slug": "contact-us"
         }
       ]
     }
