@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T22:55:10",
-    "updated_date": "2023-10-30T22:55:16",
+    "updated_date": "2023-10-30T22:56:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T15:55:10",
     "date_gmt": "2023-10-30T22:55:10",
     "guid": "https://api.cannabis.ca.gov/?p=15719",
-    "modified": "2023-10-30T15:55:16",
-    "modified_gmt": "2023-10-30T22:55:16",
+    "modified": "2023-10-30T15:56:18",
+    "modified_gmt": "2023-10-30T22:56:18",
     "slug": "how-to-submit-a-science-amendment",
     "status": "publish",
     "type": "post",
