@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T17:08:08",
-    "updated_date": "2023-10-30T17:21:12",
+    "updated_date": "2023-10-30T22:35:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T10:08:08",
     "date_gmt": "2023-10-30T17:08:08",
     "guid": "https://api.cannabis.ca.gov/?p=15653",
-    "modified": "2023-10-30T10:21:12",
-    "modified_gmt": "2023-10-30T17:21:12",
+    "modified": "2023-10-30T15:35:37",
+    "modified_gmt": "2023-10-30T22:35:37",
     "slug": "cannabis-event-license-fees",
     "status": "publish",
     "type": "post",
