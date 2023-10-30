@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T23:11:16",
-    "updated_date": "2023-10-30T23:17:03",
+    "updated_date": "2023-10-30T23:17:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T16:11:16",
     "date_gmt": "2023-10-30T23:11:16",
     "guid": "https://api.cannabis.ca.gov/?p=15721",
-    "modified": "2023-10-30T16:17:03",
-    "modified_gmt": "2023-10-30T23:17:03",
+    "modified": "2023-10-30T16:17:13",
+    "modified_gmt": "2023-10-30T23:17:13",
     "slug": "renew-your-cannabis-cultivation-license-in-the-cultivation-licensing-system",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "Cultivation",
-      "Renewal",
+      null,
       "Resources",
       "User guides"
     ],
@@ -92,20 +92,20 @@
         "category_parent": 0
       },
       {
-        "term_id": 875,
-        "name": "Renewal",
-        "slug": "renewal",
+        "term_id": 900,
+        "name": "Renewals-Cultivation",
+        "slug": "renewals-cultivation",
         "term_group": 0,
-        "term_taxonomy_id": 875,
+        "term_taxonomy_id": 900,
         "taxonomy": "category",
         "description": "",
-        "parent": 806,
+        "parent": 801,
         "filter": "raw",
-        "cat_ID": 875,
+        "cat_ID": 900,
         "category_description": "",
-        "cat_name": "Renewal",
-        "category_nicename": "renewal",
-        "category_parent": 806
+        "cat_name": "Renewals-Cultivation",
+        "category_nicename": "renewals-cultivation",
+        "category_parent": 801
       },
       {
         "term_id": 809,
