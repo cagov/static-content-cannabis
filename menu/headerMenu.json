@@ -83,8 +83,8 @@
           "object": "page",
           "type": "post_type",
           "type_label": "Page",
-          "url": "https://api.cannabis.ca.gov/applicants/how-to-apply-renew/",
-          "title": "How to apply for or renew a license",
+          "url": "https://api.cannabis.ca.gov/applicants/how-to-apply/",
+          "title": "How to apply for a license",
           "target": "",
           "attr_title": "",
           "description": "",
@@ -92,7 +92,7 @@
             ""
           ],
           "xfn": "",
-          "slug": "how-to-apply-renew"
+          "slug": "how-to-apply"
         },
         {
           "ID": 11631,
