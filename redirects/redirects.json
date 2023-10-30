@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 94,
+      "redirects": 95,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2919,6 +2919,32 @@
       "regex": false,
       "group_id": 1,
       "position": 93,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 344,
+      "url": "/how-to-renew-your-license/",
+      "match_url": "/how-to-renew-your-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/how-to-renew-your-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 94,
       "last_access": "-",
       "enabled": true
     }
