@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T21:31:34",
-    "updated_date": "2023-10-31T21:56:57",
+    "updated_date": "2023-10-31T21:57:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T14:31:34",
     "date_gmt": "2023-10-30T21:31:34",
     "guid": "https://api.cannabis.ca.gov/?p=15688",
-    "modified": "2023-10-31T14:56:57",
-    "modified_gmt": "2023-10-31T21:56:57",
+    "modified": "2023-10-31T14:57:48",
+    "modified_gmt": "2023-10-31T21:57:48",
     "slug": "what-to-do-if-you-miss-your-expiration-date",
     "status": "publish",
     "type": "post",
@@ -41,7 +41,7 @@
     "categories": [
       "All",
       "Renewal",
-      "Renewal"
+      "Renewal FAQs"
     ],
     "tags": [
       "staging"
@@ -109,20 +109,20 @@
         "category_parent": 806
       },
       {
-        "term_id": 904,
-        "name": "Renewal",
-        "slug": "renewal-2",
+        "term_id": 905,
+        "name": "Renewal FAQs",
+        "slug": "renewal-faqs",
         "term_group": 0,
-        "term_taxonomy_id": 904,
+        "term_taxonomy_id": 905,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 904,
         "filter": "raw",
-        "cat_ID": 904,
+        "cat_ID": 905,
         "category_description": "",
-        "cat_name": "Renewal",
-        "category_nicename": "renewal-2",
-        "category_parent": 0
+        "cat_name": "Renewal FAQs",
+        "category_nicename": "renewal-faqs",
+        "category_parent": 904
       }
     ],
     "headless_tags": [
