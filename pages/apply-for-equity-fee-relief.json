@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-31T00:29:35",
-    "updated_date": "2023-10-18T19:52:38",
+    "updated_date": "2023-10-31T22:16:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-12-30T16:29:35",
     "date_gmt": "2021-12-31T00:29:35",
     "guid": "https://cannabis.ca.gov/?page_id=9225",
-    "modified": "2023-10-18T12:52:38",
-    "modified_gmt": "2023-10-18T19:52:38",
+    "modified": "2023-10-31T15:16:01",
+    "modified_gmt": "2023-10-31T22:16:01",
     "slug": "apply-for-equity-fee-relief",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Equity fee relief"
+      "Equity fee relief",
+      "Payments"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "Equity fee relief",
         "category_nicename": "equity-fee-relief",
         "category_parent": 0
+      },
+      {
+        "term_id": 906,
+        "name": "Payments",
+        "slug": "payments",
+        "term_group": 0,
+        "term_taxonomy_id": 906,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 893,
+        "filter": "raw",
+        "cat_ID": 906,
+        "category_description": "",
+        "cat_name": "Payments",
+        "category_nicename": "payments",
+        "category_parent": 893
       }
     ],
     "headless_tags": [],
