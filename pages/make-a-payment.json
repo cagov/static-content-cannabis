@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-30T21:43:27",
-    "updated_date": "2023-10-31T22:09:40",
+    "updated_date": "2023-10-31T22:16:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-30T13:43:27",
     "date_gmt": "2022-11-30T21:43:27",
     "guid": "https://api.cannabis.ca.gov/?page_id=12421",
-    "modified": "2023-10-31T15:09:40",
-    "modified_gmt": "2023-10-31T22:09:40",
+    "modified": "2023-10-31T15:16:23",
+    "modified_gmt": "2023-10-31T22:16:23",
     "slug": "make-a-payment",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "License fees"
+      "License fees",
+      "Payments"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "License fees",
         "category_nicename": "license-fees",
         "category_parent": 799
+      },
+      {
+        "term_id": 906,
+        "name": "Payments",
+        "slug": "payments",
+        "term_group": 0,
+        "term_taxonomy_id": 906,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 893,
+        "filter": "raw",
+        "cat_ID": 906,
+        "category_description": "",
+        "cat_name": "Payments",
+        "category_nicename": "payments",
+        "category_parent": 893
       }
     ],
     "headless_tags": [],
