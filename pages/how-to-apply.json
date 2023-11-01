@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2023-10-31T22:52:10",
+    "updated_date": "2023-11-01T18:53:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/applicants/applicants/how-to-apply-renew/",
-    "modified": "2023-10-31T15:52:10",
-    "modified_gmt": "2023-10-31T22:52:10",
+    "modified": "2023-11-01T11:53:26",
+    "modified_gmt": "2023-11-01T18:53:26",
     "slug": "how-to-apply",
     "status": "publish",
     "type": "page",
@@ -42,7 +42,9 @@
       "Application resources",
       "Getting started"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -106,7 +108,19 @@
         "category_parent": 799
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/applicants/how-to-apply/"
