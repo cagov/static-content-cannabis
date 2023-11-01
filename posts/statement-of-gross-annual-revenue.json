@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T23:33:33",
-    "updated_date": "2023-11-01T18:14:54",
+    "updated_date": "2023-11-01T18:31:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T16:33:33",
     "date_gmt": "2023-10-30T23:33:33",
     "guid": "https://api.cannabis.ca.gov/?p=15729",
-    "modified": "2023-11-01T11:14:54",
-    "modified_gmt": "2023-11-01T18:14:54",
+    "modified": "2023-11-01T11:31:21",
+    "modified_gmt": "2023-11-01T18:31:21",
     "slug": "statement-of-gross-annual-revenue",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Renewal",
       "Renewals-Manufacturing"
     ],
     "tags": [
@@ -74,6 +75,22 @@
       "twitter_description": "This form reports the amount of money your company received in the 12 months before your renewal."
     },
     "headless_categories": [
+      {
+        "term_id": 904,
+        "name": "Renewal",
+        "slug": "renewal-2",
+        "term_group": 0,
+        "term_taxonomy_id": 904,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 904,
+        "category_description": "",
+        "cat_name": "Renewal",
+        "category_nicename": "renewal-2",
+        "category_parent": 0
+      },
       {
         "term_id": 901,
         "name": "Renewals-Manufacturing",
