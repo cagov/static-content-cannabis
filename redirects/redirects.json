@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 95,
+      "redirects": 96,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2945,6 +2945,32 @@
       "regex": false,
       "group_id": 1,
       "position": 94,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 345,
+      "url": "/2023/10/user-guide-renewals-for-manufacturing-license-types/",
+      "match_url": "/2023/10/user-guide-renewals-for-manufacturing-license-types",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/10/mcsb-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 95,
       "last_access": "-",
       "enabled": true
     }
