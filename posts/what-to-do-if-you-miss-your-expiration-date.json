@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T21:31:34",
-    "updated_date": "2023-10-31T21:59:21",
+    "updated_date": "2023-11-01T18:27:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T14:31:34",
     "date_gmt": "2023-10-30T21:31:34",
     "guid": "https://api.cannabis.ca.gov/?p=15688",
-    "modified": "2023-10-31T14:59:21",
-    "modified_gmt": "2023-10-31T21:59:21",
+    "modified": "2023-11-01T11:27:51",
+    "modified_gmt": "2023-11-01T18:27:51",
     "slug": "what-to-do-if-you-miss-your-expiration-date",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "All",
       "Renewal",
       "Renewal FAQs"
     ],
@@ -76,22 +75,6 @@
       "twitter_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. "
     },
     "headless_categories": [
-      {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
-        "term_group": 0,
-        "term_taxonomy_id": 1,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1,
-        "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
-      },
       {
         "term_id": 875,
         "name": "Renewal",
