@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T23:38:50",
-    "updated_date": "2023-10-30T23:38:56",
+    "updated_date": "2023-11-01T19:53:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T16:38:50",
     "date_gmt": "2023-10-30T23:38:50",
     "guid": "https://api.cannabis.ca.gov/?p=15732",
-    "modified": "2023-10-30T16:38:56",
-    "modified_gmt": "2023-10-30T23:38:56",
+    "modified": "2023-11-01T12:53:58",
+    "modified_gmt": "2023-11-01T19:53:58",
     "slug": "using-the-manufacturing-licensing-system",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Licensing systems-Manufacturing"
+      "Manufacturing Licensing System"
     ],
     "tags": [
       "staging"
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 903,
-        "name": "Licensing systems-Manufacturing",
-        "slug": "licensing-systems-manufacturing",
+        "term_id": 908,
+        "name": "Manufacturing Licensing System",
+        "slug": "manufacturing-licensing-system",
         "term_group": 0,
-        "term_taxonomy_id": 903,
+        "term_taxonomy_id": 908,
         "taxonomy": "category",
         "description": "",
-        "parent": 800,
+        "parent": 885,
         "filter": "raw",
-        "cat_ID": 903,
+        "cat_ID": 908,
         "category_description": "",
-        "cat_name": "Licensing systems-Manufacturing",
-        "category_nicename": "licensing-systems-manufacturing",
-        "category_parent": 800
+        "cat_name": "Manufacturing Licensing System",
+        "category_nicename": "manufacturing-licensing-system",
+        "category_parent": 885
       }
     ],
     "headless_tags": [
