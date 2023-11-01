@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T21:09:04",
-    "updated_date": "2023-11-01T18:22:22",
+    "updated_date": "2023-11-01T18:32:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T14:09:04",
     "date_gmt": "2023-10-30T21:09:04",
     "guid": "https://api.cannabis.ca.gov/?page_id=15678",
-    "modified": "2023-11-01T11:22:22",
-    "modified_gmt": "2023-11-01T18:22:22",
+    "modified": "2023-11-01T11:32:35",
+    "modified_gmt": "2023-11-01T18:32:35",
     "slug": "how-to-renew-your-license",
     "status": "publish",
     "type": "page",
