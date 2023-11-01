@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T23:29:52",
-    "updated_date": "2023-11-01T19:54:50",
+    "updated_date": "2023-11-01T20:22:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-10-30T16:29:52",
     "date_gmt": "2023-10-30T23:29:52",
     "guid": "https://api.cannabis.ca.gov/?p=15727",
-    "modified": "2023-11-01T12:54:50",
-    "modified_gmt": "2023-11-01T19:54:50",
+    "modified": "2023-11-01T13:22:17",
+    "modified_gmt": "2023-11-01T20:22:17",
     "slug": "user-guide-renewals-for-manufacturing-license-types",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/10/user-guide-renewals-for-manufacturing-license-types/",
     "title": "User guide: Renewals for manufacturing license types",
-    "excerpt": "<p>MCSB cannabis manufacturing licenses may be renewed up to 60 days prior to their expiration date. If your license expiration date is approaching, please review the information below on how to complete the renewal process. Download the renewal overview Check your email Licensees will automatically receive an email with instructions and a link to complete [&hellip;]</p>\n",
+    "excerpt": "<p>MCSB cannabis manufacturing licenses may be renewed up to 60 days prior to their expiration date. If your license expiration date is approaching, please review the information below on how to complete the renewal process. Download the renewal guide Check your email Licensees will automatically receive an email with instructions and a link to complete [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -43,7 +43,7 @@
       "Renewals-Manufacturing"
     ],
     "tags": [
-      "staging"
+      "MCSB"
     ],
     "design_system_fields": {
       "template": "template-page"
@@ -110,11 +110,11 @@
     ],
     "headless_tags": [
       {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
+        "term_id": 451,
+        "name": "MCSB",
+        "slug": "mcsb",
         "term_group": 0,
-        "term_taxonomy_id": 797,
+        "term_taxonomy_id": 451,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
