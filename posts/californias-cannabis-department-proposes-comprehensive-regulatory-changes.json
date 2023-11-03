@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-04T19:55:23",
-    "updated_date": "2023-10-25T23:46:24",
+    "updated_date": "2023-11-03T23:53:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-04T11:55:23",
     "date_gmt": "2022-03-04T19:55:23",
     "guid": "https://cannabis.ca.gov/?p=9475",
-    "modified": "2023-10-25T16:46:24",
-    "modified_gmt": "2023-10-25T23:46:24",
+    "modified": "2023-11-03T16:53:00",
+    "modified_gmt": "2023-11-03T23:53:00",
     "slug": "californias-cannabis-department-proposes-comprehensive-regulatory-changes",
     "status": "publish",
     "type": "post",
