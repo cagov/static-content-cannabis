@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T19:57:27",
-    "updated_date": "2023-11-03T20:27:32",
+    "updated_date": "2023-11-03T20:28:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-11-03T12:57:27",
     "date_gmt": "2023-11-03T19:57:27",
     "guid": "https://api.cannabis.ca.gov/?p=15850",
-    "modified": "2023-11-03T13:27:32",
-    "modified_gmt": "2023-11-03T20:27:32",
+    "modified": "2023-11-03T13:28:48",
+    "modified_gmt": "2023-11-03T20:28:48",
     "slug": "registration-and-account-management",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/11/registration-and-account-management/",
     "title": "Guide: Registration and Account Management",
-    "excerpt": "<p>This guide covers the following topics: creating an account, managing your account, and other key pages. Download the guide View more licensing system guides</p>\n",
+    "excerpt": "<p>This guide covers the following topics: creating an account, managing your account, and other key pages. </p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,13 +39,13 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "Licensing system guides"
     ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -60,34 +60,34 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/11/registration-and-account-management/",
       "page_title": "Guide: Registration and Account Management",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "This guide covers the following topics: creating an account, managing your account, and other key pages. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Guide: Registration and Account Management",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "This guide covers the following topics: creating an account, managing your account, and other key pages. ",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/registration-and-account-management/",
       "open_graph_title": "Guide: Registration and Account Management",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "This guide covers the following topics: creating an account, managing your account, and other key pages. ",
       "twitter_title": "Guide: Registration and Account Management",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "This guide covers the following topics: creating an account, managing your account, and other key pages. "
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 911,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 911,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
         "category_parent": 0
       }
     ],
