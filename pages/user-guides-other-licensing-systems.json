@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-01T19:50:18",
-    "updated_date": "2023-11-01T19:50:24",
+    "updated_date": "2023-11-06T18:29:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2023-11-01T12:50:18",
     "date_gmt": "2023-11-01T19:50:18",
     "guid": "https://api.cannabis.ca.gov/?page_id=15798",
-    "modified": "2023-11-01T12:50:24",
-    "modified_gmt": "2023-11-01T19:50:24",
+    "modified": "2023-11-06T10:29:17",
+    "modified_gmt": "2023-11-06T18:29:17",
     "slug": "user-guides-other-licensing-systems",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/user-guides-other-licensing-systems/",
-    "title": "User guides: Other licensing systems",
+    "title": "User guides: Using the online licensing system",
     "excerpt": "<p>Access user guides and documentation for the following licensing types: Distributors, testing laboratories, retailers, microbusinesses, and events.</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Distribution licensing system"
+      "Licensing systems"
     ],
     "tags": [
       "staging"
@@ -59,36 +59,36 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/user-guides-other-licensing-systems/",
-      "page_title": "User guides: Other licensing systems",
+      "page_title": "User guides: Using the online licensing system",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "User guides: Other licensing systems",
+      "meta_title": "User guides: Using the online licensing system",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/user-guides-other-licensing-systems/",
-      "open_graph_title": "User guides: Other licensing systems",
+      "open_graph_title": "User guides: Using the online licensing system",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "User guides: Other licensing systems",
+      "twitter_title": "User guides: Using the online licensing system",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 909,
-        "name": "Distribution licensing system",
-        "slug": "distribution-licensing-system",
+        "term_id": 885,
+        "name": "Licensing systems",
+        "slug": "licensing-systems",
         "term_group": 0,
-        "term_taxonomy_id": 909,
+        "term_taxonomy_id": 885,
         "taxonomy": "category",
         "description": "",
-        "parent": 885,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 909,
+        "cat_ID": 885,
         "category_description": "",
-        "cat_name": "Distribution licensing system",
-        "category_nicename": "distribution-licensing-system",
-        "category_parent": 885
+        "cat_name": "Licensing systems",
+        "category_nicename": "licensing-systems",
+        "category_parent": 0
       }
     ],
     "headless_tags": [
