@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2023-10-11T22:24:57",
+    "updated_date": "2023-11-07T17:06:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -9,7 +9,7 @@
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
     },
     "refresh_frequency": "as needed"
   },
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/manufacturing/",
-    "modified": "2023-10-11T15:24:57",
-    "modified_gmt": "2023-10-11T22:24:57",
+    "modified": "2023-11-07T09:06:40",
+    "modified_gmt": "2023-11-07T17:06:40",
     "slug": "manufacturing",
     "status": "publish",
     "type": "page",
@@ -32,16 +32,18 @@
     "menu_order": 3,
     "comment_status": "open",
     "ping_status": "open",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -70,7 +72,19 @@
       "twitter_description": "Manufacturers extract cannabinoids from cannabis plants and make products out of the extract."
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensees/manufacturing/"
