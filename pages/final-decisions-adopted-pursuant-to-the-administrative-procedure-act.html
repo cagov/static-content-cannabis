@@ -1,46 +1,78 @@
 <p>In certain circumstances, a license denial, citation or disciplinary action will result in DCC issuing a final Order of Decision pursuant to the Administrative Procedure Act. The following table provides information related to those decisions and allows you to view the Order of Decision by clicking in the case documents column.&nbsp;&nbsp; </p>
-<figure class="wp-block-table">
-<table>
-<tbody>
-<tr>
-<td><strong>Legal Business Name</strong></td>
-<td><strong><span class="TextRun SCXW253563092 BCX0" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW253563092 BCX0">License or Application Number</span></span></strong><span class="EOP SCXW253563092 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:259}"> / License Type</span></td>
-<td><strong>Case Documents</strong></td>
-<td><strong>Effective Date</strong></td>
-</tr>
-<tr>
-<td>Bear Butte Farms, LLC</td>
-<td>CCL 18-0003553</td>
-<td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/03/order-of-decision_bear-butte-farms_2023-0301.pdf">Order of decision</a></td>
-<td>3/1/2023</td>
-</tr>
-<tr>
-<td>Jeremy and Stephanie Hardcastle</td>
-<td> </td>
-<td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/03/order-of-decision_hardcastle_2023-0228.pdf">Order of decision</a></td>
-<td>2/28/2023</td>
-</tr>
-<tr>
-<td>Weedcon Productions, LLC</td>
-<td>CEO-14-0000105-LIC</td>
-<td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2021/12/Order-and-Decision_IMO-Weedcon-Productions-LLC-OAH-No.-2021020667.pdf">Order of decision</a></td>
-<td>12/18/2021</td>
-</tr>
-<tr>
-<td>Bear Butte Farms, LLC</td>
-<td>CCL 18-0003553</td>
-<td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2021/12/Order-and-Decision_IMO-Bear-Butte-Farms-LLC-OAH-No.-2020110600.pdf">Order of decision</a></td>
-<td>12/16/2021</td>
-</tr>
-<tr>
-<td>Otto Farms, LLC</td>
-<td>CCL20-0000351, CCL20-0000395</td>
-<td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2021/12/Otto-Farms-Order-and-Stip-CCL20-0000351-LC20-0-and-CCL20-0000395-LC20-0_NE-sig.pdf">Order of decision</a></td>
-<td>10/29/2021</td>
-</tr>
-</tbody>
+
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+<div id="breakpoint"></div>
+<table id="enforcement_table" class="display compact" width="100%">
+    <thead>
+        <tr>
+            <th class="desktop tablet">Legal Business Name</th>
+            <th class="all">License or App Number </th>
+            <th class="min-phone-l">License Type</th>
+            <th class="min-tablet">Case Documents </th>
+            <th class="desktop tablet">Effective Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bear Butte Farms,    LLC</td>
+            <td>CCL 18-0003553</td>
+            <td>Cultivation</td>
+            <td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/03/order-of-decision_bear-butte-farms_2023-0301.pdf">Order of decision</a></td>
+            <td>March 1, 2023</td>
+          </tr>
+          <tr>
+            <td>Jeremy and    Stephanie Hardcastle</td>
+            <td>Unlicensed</td>
+            <td>&nbsp;</td>
+            <td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/03/order-of-decision_hardcastle_2023-0228.pdf">Order of decision</a></td>
+            <td>February 28, 2023</td>
+          </tr>
+          <tr>
+            <td>Weedcon    Productions, LLC</td>
+            <td>CEO-14-0000105-LIC</td>
+            <td>Cannabis    Event Organizer</td>
+            <td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2021/12/Order-and-Decision_IMO-Weedcon-Productions-LLC-OAH-No.-2021020667.pdf">Order of decision</a></td>
+            <td>December 18, 2021</td>
+          </tr>
+          <tr>
+            <td>Bear Butte Farms,    LLC</td>
+            <td>CCL 18-0003553</td>
+            <td>Cultivation</td>
+            <td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2021/12/Order-and-Decision_IMO-Bear-Butte-Farms-LLC-OAH-No.-2020110600.pdf">Order of decision</a></td>
+            <td>December 16, 2021</td>
+          </tr>
+          <tr>
+            <td>Otto Farms, LLC</td>
+            <td>CCL20-0000351,    CCL20-0000395</td>
+            <td>Cultivation</td>
+            <td><a href="https://cannabis.ca.gov/wp-content/uploads/sites/2/2021/12/Otto-Farms-Order-and-Stip-CCL20-0000351-LC20-0-and-CCL20-0000395-LC20-0_NE-sig.pdf">Order of decision</a></td>
+            <td>October 29, 2021</td>
+          </tr>
+    </tbody>
 </table>
-</figure>
+<script>
+    $(document).ready(function () {
+        const enf_table = new DataTable('#enforcement_table', {
+            columns: [
+                { data: 'business' },
+                { data: 'license' },
+                { data: 'type' },
+                { data: 'documents' },
+                {
+                    data: 'date',
+                    type: 'date'
+                }
+            ],
+            responsive: true,
+        });
+    
+    });
+</script>
+
 <p>Data last reviewed: November 2023</p>
 <cagov-accordion>
 	<details>
