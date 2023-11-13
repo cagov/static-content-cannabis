@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-13T20:05:56",
-    "updated_date": "2023-11-13T22:11:01",
+    "updated_date": "2023-11-13T22:12:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-13T12:05:56",
     "date_gmt": "2023-11-13T20:05:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=15919",
-    "modified": "2023-11-13T14:11:01",
-    "modified_gmt": "2023-11-13T22:11:01",
+    "modified": "2023-11-13T14:12:04",
+    "modified_gmt": "2023-11-13T22:12:04",
     "slug": "final-decisions-adopted-pursuant-to-the-administrative-procedure-act",
     "status": "publish",
     "type": "page",
