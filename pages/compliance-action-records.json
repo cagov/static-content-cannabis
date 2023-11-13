@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-27T21:25:39",
-    "updated_date": "2023-11-13T23:29:51",
+    "updated_date": "2023-11-13T23:40:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2023-10-27T14:25:39",
     "date_gmt": "2023-10-27T21:25:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=15622",
-    "modified": "2023-11-13T15:29:51",
-    "modified_gmt": "2023-11-13T23:29:51",
+    "modified": "2023-11-13T15:40:57",
+    "modified_gmt": "2023-11-13T23:40:57",
     "slug": "compliance-action-records",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/compliance-action-records/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/compliance-action-records/",
     "title": "License denials, citations, and disciplinary actions",
     "excerpt": "<p>The table below includes information related to license denials, citations, fines, suspensions, and revocations issued by DCC. An Order of Decision pursuant to the Administrative Procedure Act has not been issued for these matters. The following table provides information related to those decisions and allows you to view the specific sections violated by clicking in [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9438,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -54,7 +54,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/compliance-action-records/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/compliance-action-records/",
       "page_title": "License denials, citations, and disciplinary actions",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "License denials, citations, and disciplinary actions",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/compliance-action-records/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/compliance-action-records/",
       "open_graph_title": "License denials, citations, and disciplinary actions",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "License denials, citations, and disciplinary actions",
@@ -73,6 +73,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/compliance-action-records/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/compliance-action-records/"
   }
 }
