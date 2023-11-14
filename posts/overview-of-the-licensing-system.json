@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T19:54:39",
-    "updated_date": "2023-11-03T20:35:15",
+    "updated_date": "2023-11-14T21:08:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-03T12:54:39",
     "date_gmt": "2023-11-03T19:54:39",
     "guid": "https://api.cannabis.ca.gov/?p=15848",
-    "modified": "2023-11-03T13:35:15",
-    "modified_gmt": "2023-11-03T20:35:15",
+    "modified": "2023-11-14T13:08:02",
+    "modified_gmt": "2023-11-14T21:08:02",
     "slug": "overview-of-the-licensing-system",
     "status": "publish",
     "type": "post",
