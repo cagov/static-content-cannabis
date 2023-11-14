@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T20:43:04",
-    "updated_date": "2023-11-14T21:05:34",
+    "updated_date": "2023-11-14T23:49:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-03T13:43:04",
     "date_gmt": "2023-11-03T20:43:04",
     "guid": "https://api.cannabis.ca.gov/?p=15875",
-    "modified": "2023-11-14T13:05:34",
-    "modified_gmt": "2023-11-14T21:05:34",
+    "modified": "2023-11-14T15:49:40",
+    "modified_gmt": "2023-11-14T23:49:40",
     "slug": "guide-navigating-the-online-licensing-system",
     "status": "publish",
     "type": "post",
