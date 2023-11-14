@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T19:57:27",
-    "updated_date": "2023-11-03T20:33:18",
+    "updated_date": "2023-11-14T21:07:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-03T12:57:27",
     "date_gmt": "2023-11-03T19:57:27",
     "guid": "https://api.cannabis.ca.gov/?p=15850",
-    "modified": "2023-11-03T13:33:18",
-    "modified_gmt": "2023-11-03T20:33:18",
+    "modified": "2023-11-14T13:07:23",
+    "modified_gmt": "2023-11-14T21:07:23",
     "slug": "registration-and-account-management",
     "status": "publish",
     "type": "post",
