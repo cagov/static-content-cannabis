@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T20:00:51",
-    "updated_date": "2023-11-14T21:04:34",
+    "updated_date": "2023-11-14T23:52:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-03T13:00:51",
     "date_gmt": "2023-11-03T20:00:51",
     "guid": "https://api.cannabis.ca.gov/?p=15852",
-    "modified": "2023-11-14T13:04:34",
-    "modified_gmt": "2023-11-14T21:04:34",
+    "modified": "2023-11-14T15:52:13",
+    "modified_gmt": "2023-11-14T23:52:13",
     "slug": "paying-fees-in-the-licensing-system",
     "status": "publish",
     "type": "post",
