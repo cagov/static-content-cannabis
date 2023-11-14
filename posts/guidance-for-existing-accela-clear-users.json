@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-14T18:38:46",
-    "updated_date": "2023-11-14T19:57:50",
+    "updated_date": "2023-11-14T19:59:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-11-14T10:38:46",
     "date_gmt": "2023-11-14T18:38:46",
     "guid": "https://api.cannabis.ca.gov/?p=15983",
-    "modified": "2023-11-14T11:57:50",
-    "modified_gmt": "2023-11-14T19:57:50",
-    "slug": "guide-how-to-access-converted-manufacturing-license-records",
+    "modified": "2023-11-14T11:59:16",
+    "modified_gmt": "2023-11-14T19:59:16",
+    "slug": "guidance-for-existing-accela-clear-users",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/11/guide-how-to-access-converted-manufacturing-license-records/",
+    "link": "https://api.cannabis.ca.gov/2023/11/guidance-for-existing-accela-clear-users/",
     "title": "Guidance for existing Accela CLEaR users",
     "excerpt": "<p>How to access converted manufacturing license records This guidance resource is designed to assist users who have an existing Accela CLEaR User ID and possess a manufacturing license converted from the PEGA Manufacturing Cannabis License System to the Accela CLEaR system. Download the user guide Download a PDF version of the information on this page [&hellip;]</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/11/guide-how-to-access-converted-manufacturing-license-records/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/11/guidance-for-existing-accela-clear-users/",
       "page_title": "Guidance for existing Accela CLEaR users",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Guidance for existing Accela CLEaR users",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/guide-how-to-access-converted-manufacturing-license-records/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/guidance-for-existing-accela-clear-users/",
       "open_graph_title": "Guidance for existing Accela CLEaR users",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Guidance for existing Accela CLEaR users",
@@ -134,6 +134,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/11/guide-how-to-access-converted-manufacturing-license-records/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/11/guidance-for-existing-accela-clear-users/"
   }
 }
