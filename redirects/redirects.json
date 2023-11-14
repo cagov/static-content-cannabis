@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 100,
+      "redirects": 101,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3075,6 +3075,32 @@
       "regex": false,
       "group_id": 1,
       "position": 99,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 350,
+      "url": "/2023/11/guide-how-to-access-converted-manufacturing-license-records/",
+      "match_url": "/2023/11/guide-how-to-access-converted-manufacturing-license-records",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/11/guidance-for-existing-accela-clear-users/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 100,
       "last_access": "-",
       "enabled": true
     }
