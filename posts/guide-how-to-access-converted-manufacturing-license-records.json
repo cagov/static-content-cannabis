@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-14T18:38:46",
-    "updated_date": "2023-11-14T18:38:52",
+    "updated_date": "2023-11-14T19:25:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-11-14T10:38:46",
     "date_gmt": "2023-11-14T18:38:46",
     "guid": "https://api.cannabis.ca.gov/?p=15983",
-    "modified": "2023-11-14T10:38:52",
-    "modified_gmt": "2023-11-14T18:38:52",
+    "modified": "2023-11-14T11:25:34",
+    "modified_gmt": "2023-11-14T19:25:34",
     "slug": "guide-how-to-access-converted-manufacturing-license-records",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/11/guide-how-to-access-converted-manufacturing-license-records/",
     "title": "Guide: How to access converted manufacturing license records",
-    "excerpt": "<p>For existing Accela CLEaR users This guidance resource is designed to assist users who have an existing Accela CLEaR User ID and possess a manufacturing license converted from the PEGA Manufacturing Cannabis License System to the Accela CLEaR system. The process for logging in to the Accela CLEaR system will not change.  Once logged in, [&hellip;]</p>\n",
+    "excerpt": "<p>For existing Accela CLEaR users This guidance resource is designed to assist users who have an existing Accela CLEaR User ID and possess a manufacturing license converted from the PEGA Manufacturing Cannabis License System to the Accela CLEaR system. The process for logging in to the Accela CLEaR system will not change.&nbsp; Once logged in, [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
