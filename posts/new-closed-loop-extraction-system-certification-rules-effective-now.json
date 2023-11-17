@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-15T23:01:54",
-    "updated_date": "2023-11-17T17:50:23",
+    "updated_date": "2023-11-17T18:30:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-15T16:01:54",
     "date_gmt": "2023-09-15T23:01:54",
     "guid": "https://api.cannabis.ca.gov/?p=14926",
-    "modified": "2023-11-17T09:50:23",
-    "modified_gmt": "2023-11-17T17:50:23",
+    "modified": "2023-11-17T10:30:44",
+    "modified_gmt": "2023-11-17T18:30:44",
     "slug": "new-closed-loop-extraction-system-certification-rules-effective-now",
     "status": "publish",
     "type": "post",
@@ -41,7 +41,6 @@
     "categories": [
       "Closed-loop",
       "Manufacturing",
-      "Regulations",
       "Updates-Manufacturing"
     ],
     "tags": [],
@@ -106,22 +105,6 @@
         "cat_name": "Manufacturing",
         "category_nicename": "manufacturing",
         "category_parent": 799
-      },
-      {
-        "term_id": 852,
-        "name": "Regulations",
-        "slug": "regulations",
-        "term_group": 0,
-        "term_taxonomy_id": 852,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 852,
-        "category_description": "",
-        "cat_name": "Regulations",
-        "category_nicename": "regulations",
-        "category_parent": 0
       },
       {
         "term_id": 902,
