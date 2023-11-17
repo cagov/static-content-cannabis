@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-15T23:01:54",
-    "updated_date": "2023-10-27T21:25:26",
+    "updated_date": "2023-11-17T17:50:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-15T16:01:54",
     "date_gmt": "2023-09-15T23:01:54",
     "guid": "https://api.cannabis.ca.gov/?p=14926",
-    "modified": "2023-10-27T14:25:26",
-    "modified_gmt": "2023-10-27T21:25:26",
+    "modified": "2023-11-17T09:50:23",
+    "modified_gmt": "2023-11-17T17:50:23",
     "slug": "new-closed-loop-extraction-system-certification-rules-effective-now",
     "status": "publish",
     "type": "post",
@@ -40,8 +40,9 @@
     },
     "categories": [
       "Closed-loop",
-      "Compliance",
-      "Regulations"
+      "Manufacturing",
+      "Regulations",
+      "Updates-Manufacturing"
     ],
     "tags": [],
     "design_system_fields": {
@@ -91,19 +92,19 @@
         "category_parent": 800
       },
       {
-        "term_id": 886,
-        "name": "Compliance",
-        "slug": "compliance",
+        "term_id": 800,
+        "name": "Manufacturing",
+        "slug": "manufacturing",
         "term_group": 0,
-        "term_taxonomy_id": 886,
+        "term_taxonomy_id": 800,
         "taxonomy": "category",
         "description": "",
         "parent": 799,
         "filter": "raw",
-        "cat_ID": 886,
+        "cat_ID": 800,
         "category_description": "",
-        "cat_name": "Compliance",
-        "category_nicename": "compliance",
+        "cat_name": "Manufacturing",
+        "category_nicename": "manufacturing",
         "category_parent": 799
       },
       {
@@ -121,6 +122,22 @@
         "cat_name": "Regulations",
         "category_nicename": "regulations",
         "category_parent": 0
+      },
+      {
+        "term_id": 902,
+        "name": "Updates-Manufacturing",
+        "slug": "updates-manufacturing",
+        "term_group": 0,
+        "term_taxonomy_id": 902,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 902,
+        "category_description": "",
+        "cat_name": "Updates-Manufacturing",
+        "category_nicename": "updates-manufacturing",
+        "category_parent": 800
       }
     ],
     "headless_tags": [],
