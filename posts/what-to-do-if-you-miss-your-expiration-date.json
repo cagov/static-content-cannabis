@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "created_date": "2023-10-30T21:31:34",
+    "updated_date": "2023-11-17T19:16:46",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/15688",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 15688,
+    "date": "2023-10-30T14:31:34",
+    "date_gmt": "2023-10-30T21:31:34",
+    "guid": "https://api.cannabis.ca.gov/?p=15688",
+    "modified": "2023-11-17T11:16:46",
+    "modified_gmt": "2023-11-17T19:16:46",
+    "slug": "what-to-do-if-you-miss-your-expiration-date",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/10/what-to-do-if-you-miss-your-expiration-date/",
+    "title": "What do I do if I miss my renewal window?",
+    "excerpt": "<p>You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. </p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Renewal",
+      "Renewal FAQs"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/10/what-to-do-if-you-miss-your-expiration-date/",
+      "page_title": "What do I do if I miss my renewal window?",
+      "page_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. ",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "What do I do if I miss my renewal window?",
+      "meta_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/10/what-to-do-if-you-miss-your-expiration-date/",
+      "open_graph_title": "What do I do if I miss my renewal window?",
+      "open_graph_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. ",
+      "twitter_title": "What do I do if I miss my renewal window?",
+      "twitter_description": "You can renew your license starting 60 calendar days before it expires.  If for some reason you miss the renewal window, please follow these steps. "
+    },
+    "headless_categories": [
+      {
+        "term_id": 875,
+        "name": "Renewal",
+        "slug": "renewal",
+        "term_group": 0,
+        "term_taxonomy_id": 875,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 806,
+        "filter": "raw",
+        "cat_ID": 875,
+        "category_description": "",
+        "cat_name": "Renewal",
+        "category_nicename": "renewal",
+        "category_parent": 806
+      },
+      {
+        "term_id": 905,
+        "name": "Renewal FAQs",
+        "slug": "renewal-faqs",
+        "term_group": 0,
+        "term_taxonomy_id": 905,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 904,
+        "filter": "raw",
+        "cat_ID": 905,
+        "category_description": "",
+        "cat_name": "Renewal FAQs",
+        "category_nicename": "renewal-faqs",
+        "category_parent": 904
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/10/what-to-do-if-you-miss-your-expiration-date/"
+  }
+}
