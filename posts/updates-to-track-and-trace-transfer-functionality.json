@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-20T18:22:50",
-    "updated_date": "2023-11-20T18:22:56",
+    "updated_date": "2023-11-20T18:23:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-11-20T10:22:50",
     "date_gmt": "2023-11-20T18:22:50",
     "guid": "https://api.cannabis.ca.gov/?p=16103",
-    "modified": "2023-11-20T10:22:56",
-    "modified_gmt": "2023-11-20T18:22:56",
-    "slug": "updates-to-california-cannabis-track-and-trace-transfer-functionality",
+    "modified": "2023-11-20T10:23:59",
+    "modified_gmt": "2023-11-20T18:23:59",
+    "slug": "updates-to-track-and-trace-transfer-functionality",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/11/updates-to-california-cannabis-track-and-trace-transfer-functionality/",
-    "title": "Updates to California Cannabis Track and Trace transfer functionality  ",
-    "excerpt": "<p>Starting December 4, licensees will be required to review and approve or deny transfers to their facility prior to creation of the shipping manifest. This will support licensees in identifying inaccuracies early and  deny unscheduled transfers.   Visit Metrc&#8217;s website for more information: Related content Track and trace overview Get an overview of how to [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/2023/11/updates-to-track-and-trace-transfer-functionality/",
+    "title": "Updates to Track and Trace transfer functionality  ",
+    "excerpt": "<p>Starting December 4, licensees will be required to review and approve or deny transfers to their facility prior to creation of the shipping manifest. This will support licensees in identifying inaccuracies early and &nbsp;deny unscheduled transfers. &nbsp; Visit Metrc&#8217;s website for more information: Related content Track and trace overview Get an overview of how to [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -58,19 +58,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/11/updates-to-california-cannabis-track-and-trace-transfer-functionality/",
-      "page_title": "Updates to California Cannabis Track and Trace transfer functionality  ",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/11/updates-to-track-and-trace-transfer-functionality/",
+      "page_title": "Updates to Track and Trace transfer functionality  ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Updates to California Cannabis Track and Trace transfer functionality  ",
+      "meta_title": "Updates to Track and Trace transfer functionality  ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/updates-to-california-cannabis-track-and-trace-transfer-functionality/",
-      "open_graph_title": "Updates to California Cannabis Track and Trace transfer functionality  ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/updates-to-track-and-trace-transfer-functionality/",
+      "open_graph_title": "Updates to Track and Trace transfer functionality  ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Updates to California Cannabis Track and Trace transfer functionality  ",
+      "twitter_title": "Updates to Track and Trace transfer functionality  ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -114,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/11/updates-to-california-cannabis-track-and-trace-transfer-functionality/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/11/updates-to-track-and-trace-transfer-functionality/"
   }
 }
