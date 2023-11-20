@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "created_date": "2023-11-16T19:36:45",
+    "updated_date": "2023-11-20T22:53:51",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/16046",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 16046,
+    "date": "2023-11-16T11:36:45",
+    "date_gmt": "2023-11-16T19:36:45",
+    "guid": "https://api.cannabis.ca.gov/?page_id=16046",
+    "modified": "2023-11-20T14:53:51",
+    "modified_gmt": "2023-11-20T22:53:51",
+    "slug": "left-coast-llc-lil-leftys",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/left-coast-llc-lil-leftys/",
+    "title": "Left Coast, LLC (Lil Leftys Premium Infused – 5 Mini Blunts, Maui Waui)",
+    "excerpt": "<p>Recall overview Product photo Batch information Batch Number Batch Source UID Brand or SKU Name Manufactured/Packaged Dated LC-MINI-MW-051123&nbsp; 1A406030002CAD9000001707&nbsp; Lil Leftys Premium Infused – 5 Mini Blunts, Maui Waui​ May 11, 2023 Batch information for Left Coast, LLC recall Company contact information Left Coast, LLC Website: leftcoastextracts.info</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 9345,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Voluntary recalls"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/left-coast-llc-lil-leftys/",
+      "page_title": "Left Coast, LLC (Lil Leftys Premium Infused – 5 Mini Blunts, Maui Waui)",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Left Coast, LLC (Lil Leftys Premium Infused – 5 Mini Blunts, Maui Waui)",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/left-coast-llc-lil-leftys/",
+      "open_graph_title": "Left Coast, LLC (Lil Leftys Premium Infused – 5 Mini Blunts, Maui Waui)",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Left Coast, LLC (Lil Leftys Premium Infused – 5 Mini Blunts, Maui Waui)",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 814,
+        "name": "Voluntary recalls",
+        "slug": "voluntary-recalls",
+        "term_group": 0,
+        "term_taxonomy_id": 814,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 812,
+        "filter": "raw",
+        "cat_ID": 814,
+        "category_description": "",
+        "cat_name": "Voluntary recalls",
+        "category_nicename": "voluntary-recalls",
+        "category_parent": 812
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/left-coast-llc-lil-leftys/"
+  }
+}
