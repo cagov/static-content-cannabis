@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-20T18:22:50",
-    "updated_date": "2023-11-21T17:44:30",
+    "updated_date": "2023-11-21T17:50:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-20T10:22:50",
     "date_gmt": "2023-11-20T18:22:50",
     "guid": "https://api.cannabis.ca.gov/?p=16103",
-    "modified": "2023-11-21T09:44:30",
-    "modified_gmt": "2023-11-21T17:44:30",
+    "modified": "2023-11-21T09:50:32",
+    "modified_gmt": "2023-11-21T17:50:32",
     "slug": "updates-to-track-and-trace-transfer-functionality",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "CCTT",
       "Track and trace"
     ],
     "tags": [
@@ -74,6 +75,22 @@
       "twitter_description": "Starting December 4, licensees will be required to review and approve or deny transfers to their facility prior to creation of the shipping manifest. Transport and destination pre-approvals will assist with creating accurate manifests and allow licensees to deny unscheduled or inaccurate transfers."
     },
     "headless_categories": [
+      {
+        "term_id": 887,
+        "name": "CCTT",
+        "slug": "cctt",
+        "term_group": 0,
+        "term_taxonomy_id": 887,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 887,
+        "category_description": "",
+        "cat_name": "CCTT",
+        "category_nicename": "cctt",
+        "category_parent": 799
+      },
       {
         "term_id": 877,
         "name": "Track and trace",
