@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-16T23:08:33",
-    "updated_date": "2023-11-14T17:36:17",
+    "updated_date": "2023-11-22T22:15:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-08-16T16:08:33",
     "date_gmt": "2023-08-16T23:08:33",
     "guid": "https://api.cannabis.ca.gov/?page_id=14476",
-    "modified": "2023-11-14T09:36:17",
-    "modified_gmt": "2023-11-14T17:36:17",
-    "slug": "clear-maintenance-message",
+    "modified": "2023-11-22T14:15:49",
+    "modified_gmt": "2023-11-22T22:15:49",
+    "slug": "system-maintenance-message",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-maintenance-message/",
+    "link": "https://api.cannabis.ca.gov/system-maintenance-message/",
     "title": "Maintenance Outage",
     "excerpt": "<p>The Department of Cannabis Control online licensing system is currently undergoing maintenance. Please try accessing the system again at a later date. You can email&nbsp;licensing@cannabis.ca.gov&nbsp;if you need assistance with your license while the system is offline.</p>\n",
     "author": 33,
@@ -54,7 +54,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-maintenance-message/",
+      "canonical_url": "https://api.cannabis.ca.gov/system-maintenance-message/",
       "page_title": "Maintenance Outage",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "Maintenance Outage",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-maintenance-message/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/system-maintenance-message/",
       "open_graph_title": "Maintenance Outage",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Maintenance Outage",
@@ -73,6 +73,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-maintenance-message/"
+    "wordpress_url": "https://api.cannabis.ca.gov/system-maintenance-message/"
   }
 }
