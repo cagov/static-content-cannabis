@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 109,
+      "redirects": 108,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3283,34 +3283,6 @@
       "regex": false,
       "group_id": 1,
       "position": 107,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 358,
-      "url": "/clear-maintenance-message/",
-      "match_url": "/clear-maintenance-message",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "server": "https://cannabis.ca.gov",
-        "url_from": "https://cannabis.ca.gov/system-maintenance-message/",
-        "url_notfrom": ""
-      },
-      "match_type": "server",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 108,
       "last_access": "-",
       "enabled": true
     }
