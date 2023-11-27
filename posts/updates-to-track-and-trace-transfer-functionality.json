@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-20T18:22:50",
-    "updated_date": "2023-11-27T19:33:36",
+    "updated_date": "2023-11-27T20:02:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-20T10:22:50",
     "date_gmt": "2023-11-20T18:22:50",
     "guid": "https://api.cannabis.ca.gov/?p=16103",
-    "modified": "2023-11-27T11:33:36",
-    "modified_gmt": "2023-11-27T19:33:36",
+    "modified": "2023-11-27T12:02:23",
+    "modified_gmt": "2023-11-27T20:02:23",
     "slug": "updates-to-track-and-trace-transfer-functionality",
     "status": "publish",
     "type": "post",
