@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-28T00:58:31",
-    "updated_date": "2023-11-28T00:58:37",
+    "updated_date": "2023-11-28T01:05:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-11-27T16:58:31",
     "date_gmt": "2023-11-28T00:58:31",
     "guid": "https://api.cannabis.ca.gov/?p=16195",
-    "modified": "2023-11-27T16:58:37",
-    "modified_gmt": "2023-11-28T00:58:37",
+    "modified": "2023-11-27T17:05:39",
+    "modified_gmt": "2023-11-28T01:05:39",
     "slug": "cannabis-advisory-committee-12-7-2023",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/11/cannabis-advisory-committee-12-7-2023/",
     "title": "Cannabis Advisory Committee: 12/7/2023",
-    "excerpt": "<p>Event overview The Cannabis Advisory Committee (CAC) will hold a meeting on December 7, 2023, at 10:00 a.m. Meeting materials Agenda Cannabis Advisory Committee: 12/7/2023 View past meetings</p>\n",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">December 7, 2023</div>\n<p></p>\n<div class=\"event-time\">10:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx</div>\n</div>\n",
     "author": 33,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-event.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -46,7 +46,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-single-event"
     },
     "og_meta": {
       "editor": {
