@@ -40,7 +40,7 @@
     },
     "categories": [
       "Cannabis regulations",
-      "Completed Actions"
+      "Recently Approved Actions"
     ],
     "tags": [
       "staging"
@@ -93,8 +93,8 @@
       },
       {
         "term_id": 804,
-        "name": "Completed Actions",
-        "slug": "completed-actions",
+        "name": "Recently Approved Actions",
+        "slug": "recently-approved",
         "term_group": 0,
         "term_taxonomy_id": 804,
         "taxonomy": "category",
@@ -103,8 +103,8 @@
         "filter": "raw",
         "cat_ID": 804,
         "category_description": "",
-        "cat_name": "Completed Actions",
-        "category_nicename": "completed-actions",
+        "cat_name": "Recently Approved Actions",
+        "category_nicename": "recently-approved",
         "category_parent": 802
       }
     ],
