@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "created_date": "2023-11-28T00:58:31",
+    "updated_date": "2023-11-28T00:58:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/16195",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 16195,
+    "date": "2023-11-27T16:58:31",
+    "date_gmt": "2023-11-28T00:58:31",
+    "guid": "https://api.cannabis.ca.gov/?p=16195",
+    "modified": "2023-11-27T16:58:37",
+    "modified_gmt": "2023-11-28T00:58:37",
+    "slug": "cannabis-advisory-committee-12-7-2023",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/11/cannabis-advisory-committee-12-7-2023/",
+    "title": "Cannabis Advisory Committee: 12/7/2023",
+    "excerpt": "<p>Event overview The Cannabis Advisory Committee (CAC) will hold a meeting on December 7, 2023, at 10:00 a.m. Meeting materials Agenda Cannabis Advisory Committee: 12/7/2023 View past meetings</p>\n",
+    "author": 33,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Cannabis Advisory Committee",
+      "Upcoming CAC"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/11/cannabis-advisory-committee-12-7-2023/",
+      "page_title": "Cannabis Advisory Committee: 12/7/2023",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis Advisory Committee: 12/7/2023",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/cannabis-advisory-committee-12-7-2023/",
+      "open_graph_title": "Cannabis Advisory Committee: 12/7/2023",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cannabis Advisory Committee: 12/7/2023",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 831,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
+        "term_group": 0,
+        "term_taxonomy_id": 831,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 831,
+        "category_description": "",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
+        "category_parent": 0
+      },
+      {
+        "term_id": 848,
+        "name": "Upcoming CAC",
+        "slug": "upcoming-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 848,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 848,
+        "category_description": "",
+        "cat_name": "Upcoming CAC",
+        "category_nicename": "upcoming-cac",
+        "category_parent": 831
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": {
+      "startDateTimeUTC": "2023-12-07T18:00:00",
+      "endDateTimeUTC": "2023-12-07T18:00:00",
+      "startDate": "December 7, 2023",
+      "endDate": "December 7, 2023",
+      "startTime": "10:00 AM",
+      "endTime": "10:00 AM",
+      "localTimezone": "America/Los_Angeles",
+      "localTimezoneLabel": "PST",
+      "location": "WebEx",
+      "cost": "Free"
+    },
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/11/cannabis-advisory-committee-12-7-2023/"
+  }
+}
