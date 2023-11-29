@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-29T19:17:57",
-    "updated_date": "2023-11-29T19:31:23",
+    "updated_date": "2023-11-29T19:40:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-29T11:17:57",
     "date_gmt": "2023-11-29T19:17:57",
     "guid": "https://api.cannabis.ca.gov/?p=16236",
-    "modified": "2023-11-29T11:31:23",
-    "modified_gmt": "2023-11-29T19:31:23",
+    "modified": "2023-11-29T11:40:43",
+    "modified_gmt": "2023-11-29T19:40:43",
     "slug": "guidance-requirements-for-inhaled-cannabis-products",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Compliance"
+      "Compliance",
+      "Regulations"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "Compliance",
         "category_nicename": "compliance",
         "category_parent": 799
+      },
+      {
+        "term_id": 852,
+        "name": "Regulations",
+        "slug": "regulations",
+        "term_group": 0,
+        "term_taxonomy_id": 852,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 852,
+        "category_description": "",
+        "cat_name": "Regulations",
+        "category_nicename": "regulations",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
