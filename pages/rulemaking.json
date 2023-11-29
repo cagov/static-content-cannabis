@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2023-11-29T00:25:56",
+    "updated_date": "2023-11-29T00:27:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/resources/rulemaking/",
-    "modified": "2023-11-28T16:25:56",
-    "modified_gmt": "2023-11-29T00:25:56",
+    "modified": "2023-11-28T16:27:53",
+    "modified_gmt": "2023-11-29T00:27:53",
     "slug": "rulemaking",
     "status": "publish",
     "type": "page",
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Rulemaking"
-    ],
+    "categories": [],
     "tags": [
       "staging"
     ],
@@ -73,24 +71,7 @@
       "twitter_title": "Rulemaking",
       "twitter_description": "Learn about how regulations are made in California."
     },
-    "headless_categories": [
-      {
-        "term_id": 802,
-        "name": "Rulemaking",
-        "slug": "rulemaking",
-        "term_group": 0,
-        "term_taxonomy_id": 802,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 802,
-        "category_description": "",
-        "cat_name": "Rulemaking",
-        "category_nicename": "rulemaking",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [
       {
         "term_id": 797,
