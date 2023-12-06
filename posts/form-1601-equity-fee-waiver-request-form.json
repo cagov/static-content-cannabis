@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:20:44",
-    "updated_date": "2023-12-05T20:33:45",
+    "updated_date": "2023-12-06T00:42:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-03T11:20:44",
     "date_gmt": "2023-10-03T18:20:44",
     "guid": "https://api.cannabis.ca.gov/?p=15054",
-    "modified": "2023-12-05T12:33:45",
-    "modified_gmt": "2023-12-05T20:33:45",
+    "modified": "2023-12-05T16:42:59",
+    "modified_gmt": "2023-12-06T00:42:59",
     "slug": "form-1601-equity-fee-waiver-request-form",
     "status": "publish",
     "type": "post",
