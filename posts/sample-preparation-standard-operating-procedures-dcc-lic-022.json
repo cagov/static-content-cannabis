@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:48:50",
-    "updated_date": "2023-10-03T17:56:28",
+    "updated_date": "2023-12-08T23:05:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-21T16:48:50",
     "date_gmt": "2023-09-21T23:48:50",
     "guid": "https://api.cannabis.ca.gov/?p=14988",
-    "modified": "2023-10-03T10:56:28",
-    "modified_gmt": "2023-10-03T17:56:28",
+    "modified": "2023-12-08T15:05:13",
+    "modified_gmt": "2023-12-08T23:05:13",
     "slug": "sample-preparation-standard-operating-procedures-dcc-lic-022",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
