@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-28T00:58:31",
-    "updated_date": "2023-12-05T20:25:19",
+    "updated_date": "2023-12-12T23:45:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-27T16:58:31",
     "date_gmt": "2023-11-28T00:58:31",
     "guid": "https://api.cannabis.ca.gov/?p=16195",
-    "modified": "2023-12-05T12:25:19",
-    "modified_gmt": "2023-12-05T20:25:19",
+    "modified": "2023-12-12T15:45:13",
+    "modified_gmt": "2023-12-12T23:45:13",
     "slug": "cannabis-advisory-committee-12-7-2023",
     "status": "publish",
     "type": "post",
@@ -39,9 +39,10 @@
       "footnotes": ""
     },
     "categories": [
+      "2023 meetings",
       "Cannabis Advisory Committee",
       "Events",
-      "Upcoming CAC"
+      "Past meetings"
     ],
     "tags": [],
     "design_system_fields": {
@@ -75,6 +76,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 834,
+        "name": "2023 meetings",
+        "slug": "2023-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 834,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 834,
+        "category_description": "",
+        "cat_name": "2023 meetings",
+        "category_nicename": "2023-cac",
+        "category_parent": 833
+      },
+      {
         "term_id": 831,
         "name": "Cannabis Advisory Committee",
         "slug": "cac",
@@ -107,19 +124,19 @@
         "category_parent": 2
       },
       {
-        "term_id": 848,
-        "name": "Upcoming CAC",
-        "slug": "upcoming-cac",
+        "term_id": 833,
+        "name": "Past meetings",
+        "slug": "past-meetings",
         "term_group": 0,
-        "term_taxonomy_id": 848,
+        "term_taxonomy_id": 833,
         "taxonomy": "category",
         "description": "",
         "parent": 831,
         "filter": "raw",
-        "cat_ID": 848,
+        "cat_ID": 833,
         "category_description": "",
-        "cat_name": "Upcoming CAC",
-        "category_nicename": "upcoming-cac",
+        "cat_name": "Past meetings",
+        "category_nicename": "past-meetings",
         "category_parent": 831
       }
     ],
