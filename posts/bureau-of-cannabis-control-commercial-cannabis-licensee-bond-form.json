@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-04-17T04:08:00",
-    "updated_date": "2023-12-13T19:19:58",
+    "updated_date": "2023-12-13T19:20:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-04-16T21:08:00",
     "date_gmt": "2018-04-17T04:08:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/bureau-of-cannabis-control-commercial-cannabis-licensee-bond-form/",
-    "modified": "2023-12-13T11:19:58",
-    "modified_gmt": "2023-12-13T19:19:58",
+    "modified": "2023-12-13T11:20:03",
+    "modified_gmt": "2023-12-13T19:20:03",
     "slug": "bureau-of-cannabis-control-commercial-cannabis-licensee-bond-form",
     "status": "publish",
     "type": "post",
