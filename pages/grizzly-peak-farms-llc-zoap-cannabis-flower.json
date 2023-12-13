@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-07T23:09:25",
-    "updated_date": "2023-12-09T01:19:46",
+    "updated_date": "2023-12-13T00:29:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-12-07T15:09:25",
     "date_gmt": "2023-12-07T23:09:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=16309",
-    "modified": "2023-12-08T17:19:46",
-    "modified_gmt": "2023-12-09T01:19:46",
+    "modified": "2023-12-12T16:29:14",
+    "modified_gmt": "2023-12-13T00:29:14",
     "slug": "grizzly-peak-farms-llc-zoap-cannabis-flower",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/",
     "title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
-    "excerpt": "<p>December 7, 2023 Recall overview Batch information Batch Number Batch Source UI Strain Name  Manufactured/Packaged Dated ZP2242 &nbsp; 1A40603000055F7000083323&nbsp; Zoap&nbsp; September 15, 2023&nbsp; Batch information for Grizzly Peak Forms, LLC recall Company contact information&nbsp; Grizzly Peak Farms, LLC&nbsp; Website: grizzlypeak.com</p>\n",
+    "excerpt": "<p>Grizzly Peak issued a voluntary recall for Zoap Cannabis Flower due to the presence of Chlorfenapyr, a Category I pesticide.     Recall overview Date of recall Product type Packaged by License number 12/7/2023 Flower Grizzly Peaks Farms, LLC  C 11-0000714-LIC  Recall overview Batch information Batch Number Batch Source UID Strain Name&nbsp; Manufactured/Packaged Dated ZP2242 &nbsp; 1A40603000055F7000083323&nbsp; [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 9345,
@@ -41,7 +41,9 @@
     "categories": [
       "Voluntary recalls"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -89,7 +91,19 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/"
