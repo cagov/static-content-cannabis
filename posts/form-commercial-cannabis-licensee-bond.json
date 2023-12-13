@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-07T23:55:47",
-    "updated_date": "2023-12-13T19:18:29",
+    "updated_date": "2023-12-13T20:01:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-07T15:55:47",
     "date_gmt": "2023-12-07T23:55:47",
     "guid": "https://api.cannabis.ca.gov/?p=16316",
-    "modified": "2023-12-13T11:18:29",
-    "modified_gmt": "2023-12-13T19:18:29",
+    "modified": "2023-12-13T12:01:48",
+    "modified_gmt": "2023-12-13T20:01:48",
     "slug": "form-commercial-cannabis-licensee-bond",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
