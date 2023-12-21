@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-05T21:50:00",
-    "updated_date": "2023-10-23T23:41:15",
+    "updated_date": "2023-12-21T17:37:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-05T13:50:00",
     "date_gmt": "2023-01-05T21:50:00",
     "guid": "https://api.cannabis.ca.gov/?p=15327",
-    "modified": "2023-10-23T16:41:15",
-    "modified_gmt": "2023-10-23T23:41:15",
+    "modified": "2023-12-21T09:37:36",
+    "modified_gmt": "2023-12-21T17:37:36",
     "slug": "video-how-to-request-a-license-conversion",
     "status": "publish",
     "type": "post",
