@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2023-12-26T19:13:30",
+    "updated_date": "2023-12-26T19:13:36",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/16433",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 16433,
+    "date": "2023-12-26T11:13:30",
+    "date_gmt": "2023-12-26T19:13:30",
+    "guid": "https://api.cannabis.ca.gov/?p=16433",
+    "modified": "2023-12-26T11:13:36",
+    "modified_gmt": "2023-12-26T19:13:36",
+    "slug": "faqs-trade-samples",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/12/faqs-trade-samples/",
+    "title": "FAQs: Trade Samples",
+    "excerpt": "<p>A “Trade Sample” is defined as a limited amount of cannabis or cannabis product that has been designated by a licensee to be provided to the licensee’s employees or other licensees for the purposes of targeted advertising and product education. Cannabis or cannabis products that have been designated as trade samples may be provided from [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "CCTT",
+      "Guidance",
+      "Resources"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/12/faqs-trade-samples/",
+      "page_title": "FAQs: Trade Samples",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "FAQs: Trade Samples",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/12/faqs-trade-samples/",
+      "open_graph_title": "FAQs: Trade Samples",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "FAQs: Trade Samples",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 887,
+        "name": "CCTT",
+        "slug": "cctt",
+        "term_group": 0,
+        "term_taxonomy_id": 887,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 887,
+        "category_description": "",
+        "cat_name": "CCTT",
+        "category_nicename": "cctt",
+        "category_parent": 799
+      },
+      {
+        "term_id": 859,
+        "name": "Guidance",
+        "slug": "guidance",
+        "term_group": 0,
+        "term_taxonomy_id": 859,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 859,
+        "category_description": "",
+        "cat_name": "Guidance",
+        "category_nicename": "guidance",
+        "category_parent": 809
+      },
+      {
+        "term_id": 809,
+        "name": "Resources",
+        "slug": "resources",
+        "term_group": 0,
+        "term_taxonomy_id": 809,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 809,
+        "category_description": "",
+        "cat_name": "Resources",
+        "category_nicename": "resources",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/12/faqs-trade-samples/"
+  }
+}
