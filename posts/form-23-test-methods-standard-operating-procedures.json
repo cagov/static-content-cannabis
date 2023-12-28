@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:17:27",
-    "updated_date": "2023-12-08T23:04:18",
+    "updated_date": "2023-12-28T20:03:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-10-03T11:17:27",
     "date_gmt": "2023-10-03T18:17:27",
     "guid": "https://api.cannabis.ca.gov/?p=15050",
-    "modified": "2023-12-08T15:04:18",
-    "modified_gmt": "2023-12-08T23:04:18",
+    "modified": "2023-12-28T12:03:05",
+    "modified_gmt": "2023-12-28T20:03:05",
     "slug": "form-23-test-methods-standard-operating-procedures",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/10/form-23-test-methods-standard-operating-procedures/",
     "title": "Form 23: Test Methods – Standard Operating Procedures",
-    "excerpt": "",
+    "excerpt": "<p>Download the form</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
