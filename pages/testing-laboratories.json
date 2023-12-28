@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:52",
-    "updated_date": "2023-11-21T21:41:16",
+    "updated_date": "2023-12-28T18:28:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:52",
     "date_gmt": "2021-06-19T15:07:52",
     "guid": "http://wordpress.test:8888/testing-laboratories/",
-    "modified": "2023-11-21T13:41:16",
-    "modified_gmt": "2023-11-21T21:41:16",
+    "modified": "2023-12-28T10:28:19",
+    "modified_gmt": "2023-12-28T18:28:19",
     "slug": "testing-laboratories",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Testing laboratories make sure cannabis goods are safe for consumption."
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensees/testing-laboratories/"
