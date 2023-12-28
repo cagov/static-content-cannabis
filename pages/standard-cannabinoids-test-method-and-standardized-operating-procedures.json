@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-29T00:13:32",
-    "updated_date": "2023-11-29T17:08:55",
+    "updated_date": "2023-12-28T18:48:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-28T16:13:32",
     "date_gmt": "2023-11-29T00:13:32",
     "guid": "https://api.cannabis.ca.gov/?page_id=16208",
-    "modified": "2023-11-29T09:08:55",
-    "modified_gmt": "2023-11-29T17:08:55",
+    "modified": "2023-12-28T10:48:02",
+    "modified_gmt": "2023-12-28T18:48:02",
     "slug": "standard-cannabinoids-test-method-and-standardized-operating-procedures",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/standard-cannabinoids-test-method-and-standardized-operating-procedures/"
