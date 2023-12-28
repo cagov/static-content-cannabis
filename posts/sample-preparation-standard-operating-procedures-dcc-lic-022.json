@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:48:50",
-    "updated_date": "2023-12-08T23:05:13",
+    "updated_date": "2023-12-28T20:00:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-21T16:48:50",
     "date_gmt": "2023-09-21T23:48:50",
     "guid": "https://api.cannabis.ca.gov/?p=14988",
-    "modified": "2023-12-08T15:05:13",
-    "modified_gmt": "2023-12-08T23:05:13",
+    "modified": "2023-12-28T12:00:39",
+    "modified_gmt": "2023-12-28T20:00:39",
     "slug": "sample-preparation-standard-operating-procedures-dcc-lic-022",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -41,11 +41,9 @@
     "categories": [
       "Forms"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -91,19 +89,7 @@
         "category_parent": 2
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
