@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-08T21:00:21",
-    "updated_date": "2023-11-29T19:41:41",
+    "updated_date": "2023-12-28T18:17:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2022-03-08T13:00:21",
     "date_gmt": "2022-03-08T21:00:21",
     "guid": "https://cannabis.ca.gov/?page_id=9492",
-    "modified": "2023-11-29T11:41:41",
-    "modified_gmt": "2023-11-29T19:41:41",
+    "modified": "2023-12-28T10:17:35",
+    "modified_gmt": "2023-12-28T18:17:35",
     "slug": "cannaconnect-compliance-hub",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/",
     "title": "CannaConnect Licensee Resources",
-    "excerpt": "<p>CannaConnect is the Department of Cannabis Control’s (DCC) resource hub, here to help license holders get the tools &amp; support they need to maintain compliance and thrive.&nbsp; Quick actions Getting started Being a cannabis license holder makes you a pioneer in a budding industry. You are in the right place to begin or continue your [&hellip;]</p>\n",
+    "excerpt": "<p>CannaConnect is the Department of Cannabis Control’s (DCC) resource hub, here to help license holders get the tools &amp; support they need to maintain compliance and thrive.&nbsp; Latest updates New regulations for testing dried flower December 28, 2023 The Department has adopted regulations requiring the use of a standard testing procedures for dried flower, including [&hellip;]</p>\n",
     "author": 2,
     "featured_media": 0,
     "parent": 758,
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/"
