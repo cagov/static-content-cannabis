@@ -8,6 +8,373 @@
 
 <p>View the list of licensed laboratories below that have properly completed the method verification and DCC review process to begin using the DCC developed test method. </p>
 
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+<script src="https://cdn.datatables.net/colreorder/1.5.4/js/dataTables.colReorder.min.js"></script>
+<div id="breakpoint"></div>
+<table id="enforcement_table" class="display compact" width="100%">
+    <thead>
+                <tr>
+            <th class="desktop tablet">Action</th>
+            <th class="all">License or App Number</th>
+            <th class="min-phone-l">Legal Business Name</th>
+            <th class="min-tablet">License Type</th>
+            <th class="min-tablet">License Status</th>
+            <th class="desktop tablet">Effective Date</th>
+            <th class="none">Sections Violated</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Citation and Fine</td>
+            <td>C8-0000043-LIC</td>
+            <td>Verity Analytics, LLC&nbsp;</td>
+            <td>Testing Laboratory</td>
+            <td>Provisional</td>
+            <td>6/8/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 15714 &#8211; Required Testing&nbsp;<br />&sect; 15725 &#8211; Terpenoid Testing &nbsp;<br />&sect; 15721 &#8211; Mycotoxin Testing&nbsp;<br />&sect; 15037 &#8211; General Record Retention Requirement &nbsp;<br />&sect; 15713 &#8211; Validation of Test Methods&nbsp;<br />&sect; 15704 &#8211; Sampling Standard Operating Procedures&nbsp;<br />&sect; 15729 &#8211; Laboratory Quality Assurance (LQA) Program&nbsp;<br />&sect; 15705 &#8211; General Sampling Requirements&nbsp;<br />&sect; 15708 &#8211; Cannabis Product Batch and Pre-Roll Sampling&nbsp;<br />&sect; 15729 &#8211; Laboratory Quality Assurance (LQA) Program&nbsp;<br />&sect; 15719 &#8211; Residual Pesticides Testing&nbsp;<br />&sect; 15723 &#8211; Heavy Metals Testing</td>
+            </tr>
+            <tr>
+            <td>Citation and Fine</td>
+            <td>C8-0000036-LIC</td>
+            <td>Encore Labs LLC</td>
+            <td>Testing Laboratory</td>
+            <td>Provisional</td>
+            <td>8/17/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Acceptance Criteria&nbsp;<br />&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Laboratory Control Sample&nbsp;<br />&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Continuing Calibration Verification</td>
+            </tr>
+            <tr>
+            <td>Citation and Fine</td>
+            <td>C8-0000072-LIC</td>
+            <td>2 River Labs</td>
+            <td>Testing Laboratory</td>
+            <td>Provisional</td>
+            <td>6/23/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Heavy Metals&nbsp;<br />&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Residual Pesticides</td>
+            </tr>
+            <tr>
+            <td>Citation and Fine</td>
+            <td>Unlicensed</td>
+            <td>Charles Adam Perry</td>
+            <td>Cultivation</td>
+            <td>&nbsp;</td>
+            <td>1/3/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26037.5 &#8211; Engaging in Commercial Cannabis Activity Without a State License</td>
+            </tr>
+            <tr>
+            <td>Denial&nbsp;</td>
+            <td>C8-19-0000077-APP</td>
+            <td>Niva Labs LLC</td>
+            <td>Testing Laboratory</td>
+            <td>Annual</td>
+            <td>7/6/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26057 &#8211; License Denials-Failure or Inability to Comply with MAUCRSA, Implementing Regulations, or Requirement Imposed to Protect Natural Resources&nbsp;</td>
+            </tr>
+            <tr>
+            <td>Denial&nbsp;</td>
+            <td>LCA18-0003421&nbsp;</td>
+            <td>Paradise Mountain LLC</td>
+            <td>Cultivation</td>
+            <td>Annual</td>
+            <td>9/15/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26057 &#8211; License Denials-Failure or Inability to Comply with MAUCRSA, Implementing Regulations, or Requirement Imposed to Protect Natural Resources&nbsp;</td>
+            </tr>
+            <tr>
+            <td>Denial&nbsp;</td>
+            <td>LCA18-0003422</td>
+            <td>Paradise Mountain LLC</td>
+            <td>Cultivation</td>
+            <td>Annual</td>
+            <td>9/15/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26057 &#8211; License Denials-Failure or Inability to Comply with MAUCRSA, Implementing Regulations, or Requirement Imposed to Protect Natural Resources&nbsp;</td>
+            </tr>
+            <tr>
+            <td>Denial&nbsp;</td>
+            <td>LCA18-0003423</td>
+            <td>Paradise Mountain LLC</td>
+            <td>Cultivation</td>
+            <td>Annual</td>
+            <td>9/15/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26057 &#8211; License Denials-Failure or Inability to Comply with MAUCRSA, Implementing Regulations, or Requirement Imposed to Protect Natural Resources&nbsp;</td>
+            </tr>
+            <tr>
+            <td>Revocation</td>
+            <td>C8-0000024-LIC</td>
+            <td>Niva Labs LLC</td>
+            <td>Testing Laboratory</td>
+            <td>Provisional</td>
+            <td>12/1/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 15714 &#8211; Required Testing, COA Results Reporting&nbsp;<br />&sect; 15726 &#8211; Certificate of Analysis, Sample Results&nbsp;<br />&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Residual Solvents&nbsp;<br />&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Residual Pesticides&nbsp;<br />&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Mycotoxins&nbsp;<br />&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Heavy Metals&nbsp;<br />&sect; 15730 &#8211; Laboratory Quality Control (LQC) Samples, Cannabinoids&nbsp;<br />&sect; 15726 &#8211; Certificate of Analysis, Attestation&nbsp;<br />&sect; 15726 &#8211; Certificate of Analysis, Validation of COA Accuracy</td>
+            </tr>
+            <tr>
+            <td>Revocation</td>
+            <td>CCL-18-0003421</td>
+            <td>Paradise Mountain LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/8/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26050.2 &#8211; Provisional Revocation or Suspension, Failure to Actively and Diligently Pursue Requirements for Annual Licensure</p>
+            <p><strong>4 CCR</strong>&nbsp;<br /><br />&sect; 15001 &#8211; Provisionales, Active and Diligent Pursuit of Annual Licensure Requirements&nbsp;<br />&sect; 15011 &#8211; Additional Information, SWRCB Waste Discharge&nbsp;<br />&sect; 15011 &#8211; Additional Information, Final Lake/Streambed Alteration Agreement&nbsp;<br />&sect; 15010 &#8211; Compliance with CEQA, Evidence of Compliance&nbsp;</td>
+            </tr>
+            <tr>
+            <td>Revocation</td>
+            <td>CCL18-0003422</td>
+            <td>Paradise Mountain LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/8/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26050.2 &#8211; Provisional Revocation or Suspension, Failure to Actively and Diligently Pursue Requirements for Annual Licensure&nbsp;</p>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 15001 &#8211; Provisionales, Active and Diligent Pursuit of Annual Licensure Requirements&nbsp;<br />&sect; 15011 &#8211; Additional Information, SWRCB Waste Discharge&nbsp;<br />&sect; 15011 &#8211; Additional Information, Final Lake/Streambed Alteration Agreement&nbsp;<br />&sect; 15010 &#8211; Compliance with CEQA, Evidence of Compliance&nbsp;</td>
+            </tr>
+            <tr>
+            <td>Revocation</td>
+            <td>CCL18-0003423</td>
+            <td>Paradise Mountain LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/8/2023</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26050.2 &#8211; Provisional Revocation or Suspension, Failure to Actively and Diligently Pursue Requirements for Annual Licensure&nbsp;</p>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 15001 &#8211; Provisionales, Active and Diligent Pursuit of Annual Licensure Requirements&nbsp;<br />&sect; 15011 &#8211; Additional Information, SWRCB Waste Discharge&nbsp;<br />&sect; 15011 &#8211; Additional Information, Final Lake/Streambed Alteration Agreement&nbsp;<br />&sect; 15010 &#8211; Compliance with CEQA, Evidence of Compliance&nbsp;</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0005098</td>
+            <td>Yifu Investments, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0005540</td>
+            <td>YCL Investment Group, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0005584</td>
+            <td>YCL Investment Group, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0005585</td>
+            <td>YCL Investment Group, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0005222</td>
+            <td>Dr. Toke, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0005027</td>
+            <td>Hing &amp; Hong LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0004763</td>
+            <td>Gardendoi Inc.</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0005596</td>
+            <td>DC Capital Holdings, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0005664</td>
+            <td>DC Capital Holdings, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0004089</td>
+            <td>Bundle Boiz, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0000077</td>
+            <td>5601-A, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Suspension</td>
+            <td>CCL21-0000137</td>
+            <td>5601-B, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>9/28/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>4 CCR&nbsp;</strong></p>
+            <p>&sect; 16306 &#8211; Generator Requirements</td>
+            </tr>
+            <tr>
+            <td>Revocation</td>
+            <td>C11-0000904-LIC</td>
+            <td>Blue Tree Medical, LLC</td>
+            <td>Distributor</td>
+            <td>Provisional</td>
+            <td>12/27/2021</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26070 &#8211; Retailers, Distributors, and Microbusinesses, Transportation of Cannabis and Cannabis Products&nbsp;</p>
+            <p><strong>4 CCR</strong></p>
+            <p>&sect; 15000.4 &#8211; Subletting of Premises &nbsp;<br />&sect; 15003 &#8211; Owners of Commercial Cannabis Businesses &nbsp;<br />&sect; 15023 &#8211; Business Modifications&nbsp;<br />&sect; 15036 &#8211; Notification of Theft, Loss, and Criminal Activity&nbsp;<br />&sect; 15037 &#8211; General Record Retention Requirements&nbsp;<br />&sect; 15044 &#8211; Video Surveillance System&nbsp;<br />&sect; 15047 &#8211; Alarm System &nbsp;<br />&sect; 15048.1 &#8211; Responsibilities of the Designated Account Manager &nbsp;<br />&sect; 15049.2 &#8211; Recording Transfers of Cannabis and Cannabis Products&nbsp;<br />&sect; 15051 &#8211; Track and Trace System Reconciliation &nbsp;<br />&sect; 15309 &#8211; Inventory Accounting&nbsp;<br />&sect; 15311 &#8211; Requirements for the Transportation of Cannabis and Cannabis Products &nbsp;<br />&sect; 15313 -Transport Personnel Requirements&nbsp;</td>
+            </tr>
+            <tr>
+            <td>Revocation</td>
+            <td>C11-0000987-LIC</td>
+            <td>Curiously&nbsp;</td>
+            <td>Distributor</td>
+            <td>Provisional</td>
+            <td>1/6/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC </strong></p>
+            <p>&sect; 26051.5 &#8211; License Application Requirements, Legal Right to Occupy Premises</p>
+            <p><strong>4 CCR</strong></p>
+            <p>&sect; 15002 &#8211; Annual Application Requirements</td>
+            </tr>
+            <tr>
+            <td>Revocation</td>
+            <td>CDPH-10003776</td>
+            <td>Curiously&nbsp;</td>
+            <td>Manufacturer</td>
+            <td>Provisional</td>
+            <td>1/6/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC </strong></p>
+            <p>&sect; 26051.5 &#8211; License Application Requirements, Legal Right to Occupy Premises</p>
+            <p><strong>4 CCR</strong></p>
+            <p>&sect; 15002 &#8211; Annual Application Requirements</td>
+            </tr>
+            <tr>
+            <td>Revocation</td>
+            <td>CCL19-0005134</td>
+            <td>Trinity High Farms, LLC</td>
+            <td>Cultivation</td>
+            <td>Provisional</td>
+            <td>3/21/2022</td>
+            <td> &nbsp; </br></br>
+            <p><strong>BPC&nbsp;</strong></p>
+            <p>&sect; 26030 &#8211; Failure to Comply With the Requirement of a Local Ordinance Regulating Commercial Cannabis Activity&nbsp;<br />&sect; 26037.5 &#8211; Engaging in Commercial Cannabis Activity Without a State License&nbsp;<br />&sect; 26053 &#8211; Failure to Apply For and Obtain a Separate License For Each Location Where Commercial Cannabis Activity Conducted&nbsp;</p>
+            <p><strong>4 CCR</strong></p>
+            <p>&sect; 15047.2 &#8211; General Requirements&nbsp;<br />&sect; 15048.1 &#8211; Responsibilities of the Designated Account Manager&nbsp;<br />&sect; 15048.4 &#8211; Tagging of Cannabis Plants&nbsp;<br />&sect; 15048.5 &#8211; Use of Harvest Batch Name and Package Tags &nbsp;<br />&sect; 15049 &#8211; Track and Trace Reporting &nbsp;<br />&sect; 15049.1 &#8211; Track and Trace Reporting, Additional Requirements for Recording Cultivation Activities &nbsp;<br />&sect; 15051 &#8211; Track and Trace System Reconciliation&nbsp;</td>
+            </tr>
+    </tbody>
+</table>
+<script>
+    $(document).ready(function () {
+        const enf_table = new DataTable('#enforcement_table', {
+            columns: [
+                { data: 'action' },
+                { data: 'license' },
+                { data: 'business' },
+                { data: 'type' },
+                { data: 'status' },
+                {
+                    data: 'date',
+                    type: 'date'
+                },
+                { data: 'violated' }
+            ],
+            responsive: true,
+            colReorder: true,
+            order: [[2, 'asc']]
+        });
+        const newColumnOrder = [2, 1, 3, 4, 0, 5, 6]
+        enf_table.colReorder.order(newColumnOrder).draw();
+    });
+</script>
+
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained"><div class="wp-block-group__inner-container">
 <figure class="wp-block-table"><table><thead><tr><th>Legal Business Name</th><th>Doing Business As</th><th>License Number</th></tr></thead><tbody><tr><td>Bel Costa Labs&nbsp;</td><td></td><td>C8-0000008-LIC</td></tr><tr><td>CaliGreen Laboratory&nbsp;</td><td></td><td>C8-0000104-LIC&nbsp;</td></tr><tr><td>Harrens Lab&nbsp;</td><td></td><td>C8-0000021-LIC&nbsp;</td></tr><tr><td>HK Holding LLC&nbsp;</td><td>SQRD Lab&nbsp;</td><td>C8-0000122-LIC&nbsp;</td></tr><tr><td>ILS Lab Inc&nbsp;</td><td>Quality Cannabis Laboratory&nbsp;</td><td>C8-0000133-LIC&nbsp;</td></tr><tr><td>Pure Cannalyst&nbsp;</td><td></td><td>C8-0000175-LIC&nbsp;&nbsp;</td></tr><tr><td>SC Laboratories California LLC&nbsp;</td><td>&nbsp;</td><td>C8-0000013-LIC&nbsp;</td></tr></tbody></table><figcaption class="wp-element-caption"><em>Licensed laboratories with verified reports </em></figcaption></figure>
 
