@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-29T17:31:34",
-    "updated_date": "2023-12-29T20:06:41",
+    "updated_date": "2023-12-29T20:09:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-29T09:31:34",
     "date_gmt": "2023-12-29T17:31:34",
     "guid": "https://api.cannabis.ca.gov/?p=16495",
-    "modified": "2023-12-29T12:06:41",
-    "modified_gmt": "2023-12-29T20:06:41",
+    "modified": "2023-12-29T12:09:44",
+    "modified_gmt": "2023-12-29T20:09:44",
     "slug": "new-regulations-for-testing-dried-flower-go-into-effect-january-1-2024",
     "status": "publish",
     "type": "post",
