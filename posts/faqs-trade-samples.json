@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-26T19:13:30",
-    "updated_date": "2023-12-26T19:19:49",
+    "updated_date": "2023-12-30T01:20:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-26T11:13:30",
     "date_gmt": "2023-12-26T19:13:30",
     "guid": "https://api.cannabis.ca.gov/?p=16433",
-    "modified": "2023-12-26T11:19:49",
-    "modified_gmt": "2023-12-26T19:19:49",
+    "modified": "2023-12-29T17:20:42",
+    "modified_gmt": "2023-12-30T01:20:42",
     "slug": "faqs-trade-samples",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "CCTT",
       "Guidance",
       "Resources"
     ],
@@ -76,22 +75,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 887,
-        "name": "CCTT",
-        "slug": "cctt",
-        "term_group": 0,
-        "term_taxonomy_id": 887,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 799,
-        "filter": "raw",
-        "cat_ID": 887,
-        "category_description": "",
-        "cat_name": "CCTT",
-        "category_nicename": "cctt",
-        "category_parent": 799
-      },
       {
         "term_id": 859,
         "name": "Guidance",
