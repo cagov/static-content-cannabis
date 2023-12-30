@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-29T23:02:27",
-    "updated_date": "2023-12-29T23:02:33",
+    "updated_date": "2023-12-30T00:30:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-12-29T15:02:27",
     "date_gmt": "2023-12-29T23:02:27",
     "guid": "https://api.cannabis.ca.gov/?page_id=16558",
-    "modified": "2023-12-29T15:02:33",
-    "modified_gmt": "2023-12-29T23:02:33",
-    "slug": "laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method",
+    "modified": "2023-12-29T16:30:12",
+    "modified_gmt": "2023-12-30T00:30:12",
+    "slug": "laboratories-that-can-test-for-flower",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method/",
+    "link": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/laboratories-that-can-test-for-flower/",
     "title": "Laboratories in compliance with the DCC standard cannabinoid test method",
     "excerpt": "<p>Beginning January 1, 2024, state licensed laboratories are required to use the Department of Cannabis Control’s (DCC) standardized cannabinoids test method and standardized operating procedures for testing dried flower, including non-infused pre-rolls. The licensed laboratories below are in compliance with state law and can conduct state mandated compliance testing for dried flower, including non-infused pre-rolls. [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/laboratories-that-can-test-for-flower/",
       "page_title": "Laboratories in compliance with the DCC standard cannabinoid test method",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Laboratories in compliance with the DCC standard cannabinoid test method",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/laboratories-that-can-test-for-flower/",
       "open_graph_title": "Laboratories in compliance with the DCC standard cannabinoid test method",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Laboratories in compliance with the DCC standard cannabinoid test method",
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/laboratories-that-can-test-for-flower/"
   }
 }
