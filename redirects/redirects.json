@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 110,
+      "redirects": 111,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3335,6 +3335,32 @@
       "regex": false,
       "group_id": 1,
       "position": 109,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 361,
+      "url": "/licensees/cannaconnect-compliance-hub/laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method/",
+      "match_url": "/licensees/cannaconnect-compliance-hub/laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cannaconnect-compliance-hub/laboratories-that-can-test-for-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 110,
       "last_access": "-",
       "enabled": true
     }
