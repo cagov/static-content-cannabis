@@ -13,72 +13,107 @@
     <thead>
                 <tr>
             <th>Legal Business Name</th>
-            <th>Doing Business As</th>
             <th>License Number</th>
         </tr>
     </thead>
  <tbody>
-    <tr>
-      <td>ILS Lab Inc.</td>
-      <td>Quality Cannabis Laboratory</td>
-      <td>C8-0000133-LIC</td>
-    </tr>
-    <tr>
-      <td>SC Laboratories California LLC</td>
-      <td></td>
-      <td>C8-0000013-LIC</td>
-    </tr>
-    <tr>
-      <td>Bel Costa Labs Long Beach LLC</td>
-      <td></td>
-      <td>C8-0000008-LIC</td>
-    </tr>
-    <tr>
-      <td>Pure Cannalyst Lab Inc.</td>
-      <td></td>
-      <td>C8-0000175-LIC</td>
-    </tr>
-    <tr>
-      <td>Harrens Lab Inc.</td>
-      <td></td>
-      <td>C8-0000021-LIC</td>
-    </tr>
-    <tr>
-      <td>HK Holding LLC</td>
-      <td>SQRD Lab</td>
-      <td>C8-0000122-LIC</td>
-    </tr>
-    <tr>
-      <td>CaliGreen Laboratory</td>
-      <td></td>
-      <td>C8-0000104-LIC</td>
-    </tr>
-    <tr>
-      <td>Certified Ag Labs</td>
-      <td> California AG Labs</td>
-      <td>C8-0000001-LIC</td>
-    </tr>
-    <tr>
-      <td>Purity Medical Laboratories</td>
-      <td></td>
-      <td>C8-0000143-LIC</td>
-    </tr>
-    <tr>
-      <td>California Cannabis Testing Labs</td>
-      <td></td>
-      <td>C8-0000068-LIC</td>
-    </tr>
-    <tr>
-      <td>Infinite Chemical Analysis Labs</td>
-      <td></td>
-      <td>C8-0000047-LIC</td>
-    </tr>
-    <tr>
-      <td>2 Rivers Labs</td>
-      <td></td>
-      <td>C8-0000072-LIC</td>
-    </tr>
-  </tbody>
+<tr>
+<td>
+2 Rivers Labs
+</td>
+<td>
+C8-0000072-LIC
+</td>
+</tr>
+<tr>
+<td>
+Bel Costa Labs Long Beach LLC
+</td>
+<td>
+C8-0000008-LIC
+</td>
+</tr>
+<tr>
+<td>
+California Cannabis Testing Labs
+</td>
+<td>
+C8-0000068-LIC
+</td>
+</tr>
+<tr>
+<td>
+CaliGreen Laboratory
+</td>
+<td>
+C8-0000104-LIC
+</td>
+</tr>
+<tr>
+<td>
+Certified Ag Labs
+</td>
+<td>
+C8-0000001-LIC
+</td>
+</tr>
+<tr>
+<td>
+Harrens Lab Inc.
+</td>
+<td>
+C8-0000021-LIC
+</td>
+</tr>
+<tr>
+<td>
+HK Holding LLC
+</td>
+<td>
+C8-0000122-LIC
+</td>
+</tr>
+<tr>
+<td>
+ILS Lab Inc.
+</td>
+<td>
+C8-0000133-LIC
+</td>
+</tr>
+<tr>
+<td>
+Infinite Chemical Analysis Labs
+</td>
+<td>
+C8-0000047-LIC
+</td>
+</tr>
+<tr>
+<td>
+Pure Cannalyst Lab Inc.
+</td>
+<td>
+C8-0000175-LIC
+</td>
+</tr>
+<tr>
+<td>
+Purity Medical Laboratories
+</td>
+<td>
+C8-0000143-LIC
+</td>
+</tr>
+<tr>
+<td>
+SC Laboratories California LLC
+</td>
+<td>
+C8-0000013-LIC
+</td>
+</tr>
+</tbody>
 </table>
 <script>
     $(document).ready(function () {
@@ -86,14 +121,13 @@
             columns: [
                 
                 { data: 'business' },
-                { data: 'dba' },
                 { data: 'license' },
             ],
             responsive: true,
             colReorder: true,
             order: [[0, 'asc']]
         });
-        const newColumnOrder = [0, 1, 2]
+        const newColumnOrder = [0, 1]
         enf_table.colReorder.order(newColumnOrder).draw();
     });
 </script>
