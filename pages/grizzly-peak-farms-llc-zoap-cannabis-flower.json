@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-07T23:09:25",
-    "updated_date": "2024-01-02T21:26:53",
+    "updated_date": "2024-01-02T21:30:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-07T15:09:25",
     "date_gmt": "2023-12-07T23:09:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=16309",
-    "modified": "2024-01-02T13:26:53",
-    "modified_gmt": "2024-01-02T21:26:53",
+    "modified": "2024-01-02T13:30:40",
+    "modified_gmt": "2024-01-02T21:30:40",
     "slug": "grizzly-peak-farms-llc-zoap-cannabis-flower",
     "status": "publish",
     "type": "page",
