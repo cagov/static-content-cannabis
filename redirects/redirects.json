@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 114,
+      "redirects": 115,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3439,6 +3439,32 @@
       "regex": false,
       "group_id": 1,
       "position": 113,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 365,
+      "url": "/2023/12/form-commercial-cannabis-licensee-bond/",
+      "match_url": "/2023/12/form-commercial-cannabis-licensee-bond",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/01/form-commercial-cannabis-licensee-bond/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 114,
       "last_access": "-",
       "enabled": true
     }
