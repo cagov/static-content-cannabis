@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-07T23:55:47",
-    "updated_date": "2023-12-13T20:13:14",
+    "updated_date": "2024-01-03T17:48:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,19 +18,19 @@
     "date": "2023-12-07T15:55:47",
     "date_gmt": "2023-12-07T23:55:47",
     "guid": "https://api.cannabis.ca.gov/?p=16316",
-    "modified": "2023-12-13T12:13:14",
-    "modified_gmt": "2023-12-13T20:13:14",
+    "modified": "2024-01-03T09:48:00",
+    "modified_gmt": "2024-01-03T17:48:00",
     "slug": "form-commercial-cannabis-licensee-bond",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/12/form-commercial-cannabis-licensee-bond/",
     "title": "Form 8113: Commercial Cannabis Licensee Bond ",
-    "excerpt": "<p>Per Section 15002 of the regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises. All bonds required under this section shall be issued by a corporate surety licensed to transact surety business in the State [&hellip;]</p>\n",
+    "excerpt": "<p>Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "sticky": false,
+    "sticky": true,
     "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms"
+      "Forms",
+      "Notifications and requests"
     ],
     "tags": [],
     "design_system_fields": {
@@ -58,18 +59,18 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/12/form-commercial-cannabis-licensee-bond/",
       "page_title": "Form 8113: Commercial Cannabis Licensee Bond ",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Form 8113: Commercial Cannabis Licensee Bond ",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/12/form-commercial-cannabis-licensee-bond/",
       "open_graph_title": "Form 8113: Commercial Cannabis Licensee Bond ",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises",
       "twitter_title": "Form 8113: Commercial Cannabis Licensee Bond ",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises"
     },
     "headless_categories": [
       {
@@ -87,6 +88,22 @@
         "cat_name": "Forms",
         "category_nicename": "forms",
         "category_parent": 2
+      },
+      {
+        "term_id": 846,
+        "name": "Notifications and requests",
+        "slug": "notifications-and-requests",
+        "term_group": 0,
+        "term_taxonomy_id": 846,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 806,
+        "filter": "raw",
+        "cat_ID": 846,
+        "category_description": "",
+        "cat_name": "Notifications and requests",
+        "category_nicename": "notifications-and-requests",
+        "category_parent": 806
       }
     ],
     "headless_tags": [],
