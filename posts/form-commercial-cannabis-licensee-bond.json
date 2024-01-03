@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2023-12-07T23:55:47",
-    "updated_date": "2024-01-03T17:57:38",
+    "created_date": "2024-01-03T11:55:00",
+    "updated_date": "2024-01-03T17:59:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,15 +15,15 @@
   },
   "data": {
     "id": 16316,
-    "date": "2023-12-07T15:55:47",
-    "date_gmt": "2023-12-07T23:55:47",
+    "date": "2024-01-03T03:55:00",
+    "date_gmt": "2024-01-03T11:55:00",
     "guid": "https://api.cannabis.ca.gov/?p=16316",
-    "modified": "2024-01-03T09:57:38",
-    "modified_gmt": "2024-01-03T17:57:38",
+    "modified": "2024-01-03T09:59:00",
+    "modified_gmt": "2024-01-03T17:59:00",
     "slug": "form-commercial-cannabis-licensee-bond",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/12/form-commercial-cannabis-licensee-bond/",
+    "link": "https://api.cannabis.ca.gov/2024/01/form-commercial-cannabis-licensee-bond/",
     "title": "Form 8113: Commercial Cannabis Licensee Bond ",
     "excerpt": "<p>Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises</p>\n",
     "author": 32,
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/12/form-commercial-cannabis-licensee-bond/",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/01/form-commercial-cannabis-licensee-bond/",
       "page_title": "Form 8113: Commercial Cannabis Licensee Bond ",
       "page_description": "Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "Form 8113: Commercial Cannabis Licensee Bond ",
       "meta_description": "Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/12/form-commercial-cannabis-licensee-bond/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/01/form-commercial-cannabis-licensee-bond/",
       "open_graph_title": "Form 8113: Commercial Cannabis Licensee Bond ",
       "open_graph_description": "Per §15002 (22) of DCC Regulations, an application for an annual cannabis license must include proof of a surety bond of at least $5,000 payable to the State of California for each licensed premises",
       "twitter_title": "Form 8113: Commercial Cannabis Licensee Bond ",
@@ -117,6 +117,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/12/form-commercial-cannabis-licensee-bond/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/01/form-commercial-cannabis-licensee-bond/"
   }
 }
