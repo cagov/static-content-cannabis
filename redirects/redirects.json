@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 111,
+      "redirects": 114,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3361,6 +3361,84 @@
       "regex": false,
       "group_id": 1,
       "position": 110,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 362,
+      "url": "/2023/08/notifications-and-requests-to-modify-a-license/",
+      "match_url": "/2023/08/notifications-and-requests-to-modify-a-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/01/notifications-and-requests-to-modify-a-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 111,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 363,
+      "url": "/2023/08/notifications-and-requests-regarding-regulatory-compliance/",
+      "match_url": "/2023/08/notifications-and-requests-regarding-regulatory-compliance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/01/notifications-and-requests-regarding-regulatory-compliance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 112,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 364,
+      "url": "/2023/08/notifications-and-requests-regarding-testing-laboratories/",
+      "match_url": "/2023/08/notifications-and-requests-regarding-testing-laboratories",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/01/notifications-and-requests-regarding-testing-laboratories/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 113,
       "last_access": "-",
       "enabled": true
     }
