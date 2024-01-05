@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-11T22:22:43",
-    "updated_date": "2023-12-11T22:22:49",
+    "updated_date": "2024-01-05T21:45:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-11T14:22:43",
     "date_gmt": "2023-12-11T22:22:43",
     "guid": "https://api.cannabis.ca.gov/?p=16337",
-    "modified": "2023-12-11T14:22:49",
-    "modified_gmt": "2023-12-11T22:22:49",
+    "modified": "2024-01-05T13:45:45",
+    "modified_gmt": "2024-01-05T21:45:45",
     "slug": "checklist-closed-loop-extraction-systems",
     "status": "publish",
     "type": "post",
@@ -30,7 +30,7 @@
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "sticky": false,
+    "sticky": true,
     "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
@@ -39,8 +39,10 @@
       "footnotes": ""
     },
     "categories": [
+      "Checklist",
       "Closed-loop",
-      "Guidance"
+      "Guidance",
+      "Manufacturing"
     ],
     "tags": [
       "staging"
@@ -76,6 +78,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
+      },
+      {
         "term_id": 892,
         "name": "Closed-loop",
         "slug": "closed-loop",
@@ -106,6 +124,22 @@
         "cat_name": "Guidance",
         "category_nicename": "guidance",
         "category_parent": 809
+      },
+      {
+        "term_id": 800,
+        "name": "Manufacturing",
+        "slug": "manufacturing",
+        "term_group": 0,
+        "term_taxonomy_id": 800,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 800,
+        "category_description": "",
+        "cat_name": "Manufacturing",
+        "category_nicename": "manufacturing",
+        "category_parent": 799
       }
     ],
     "headless_tags": [
