@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-08T21:00:34",
-    "updated_date": "2024-01-08T21:28:29",
+    "updated_date": "2024-01-09T00:42:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-08T13:00:34",
     "date_gmt": "2024-01-08T21:00:34",
     "guid": "https://api.cannabis.ca.gov/?page_id=16683",
-    "modified": "2024-01-08T13:28:29",
-    "modified_gmt": "2024-01-08T21:28:29",
+    "modified": "2024-01-08T16:42:32",
+    "modified_gmt": "2024-01-09T00:42:32",
     "slug": "echsen-industries-llc-shark-bite-pre-rolls",
     "status": "publish",
     "type": "page",
