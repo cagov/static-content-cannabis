@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-21T18:03:29",
-    "updated_date": "2024-01-03T22:52:12",
+    "updated_date": "2024-01-09T19:47:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2023-11-21T10:03:29",
     "date_gmt": "2023-11-21T18:03:29",
     "guid": "https://api.cannabis.ca.gov/?page_id=16124",
-    "modified": "2024-01-03T14:52:12",
-    "modified_gmt": "2024-01-03T22:52:12",
+    "modified": "2024-01-09T11:47:17",
+    "modified_gmt": "2024-01-09T19:47:17",
     "slug": "introducing-real-california-cannabis",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/introducing-real-california-cannabis/",
+    "link": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/introducing-real-california-cannabis/",
     "title": "Introducing Real California Cannabis",
     "excerpt": "<p>Protecting consumers Whether consumers are using cannabis for medical reasons or purely for recreational purposes, it is important that they purchase their cannabis products from a licensed retailer. Buying cannabis products from licensed retailers provides consumers with peace of mind knowing that their products have been tested. &nbsp; Individuals Communities State Why Real California Cannabis? [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 700,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -54,7 +54,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/introducing-real-california-cannabis/",
+      "canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/introducing-real-california-cannabis/",
       "page_title": "Introducing Real California Cannabis",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "Introducing Real California Cannabis",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/introducing-real-california-cannabis/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/introducing-real-california-cannabis/",
       "open_graph_title": "Introducing Real California Cannabis",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Introducing Real California Cannabis",
@@ -73,6 +73,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/introducing-real-california-cannabis/"
+    "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/introducing-real-california-cannabis/"
   }
 }
