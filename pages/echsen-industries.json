@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-08T21:00:34",
-    "updated_date": "2024-01-10T20:43:54",
+    "updated_date": "2024-01-10T20:48:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-01-08T13:00:34",
     "date_gmt": "2024-01-08T21:00:34",
     "guid": "https://api.cannabis.ca.gov/?page_id=16683",
-    "modified": "2024-01-10T12:43:54",
-    "modified_gmt": "2024-01-10T20:43:54",
-    "slug": "echsen-industries-llc-shark-bite-pre-rolls",
+    "modified": "2024-01-10T12:48:07",
+    "modified_gmt": "2024-01-10T20:48:07",
+    "slug": "echsen-industries",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries-llc-shark-bite-pre-rolls/",
-    "title": "Echsen Industries, LLC (Shark Bite pre-rolls)",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries/",
+    "title": "Echsen Industries, LLC",
     "excerpt": "<p>Recall overview Echsen Industries, LLC, issued a voluntary recall for Shark Bite infused pre-rolls after testing of the samples by the Department identified the presence of spiromesifen. Two additional pesticides for which the Department does not require testing, cadusafos and cyphenothrin, were also identified in the sample results. Affected product information Recall date January 10, [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -58,19 +58,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries-llc-shark-bite-pre-rolls/",
-      "page_title": "Echsen Industries, LLC (Shark Bite pre-rolls)",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries/",
+      "page_title": "Echsen Industries, LLC",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Echsen Industries, LLC (Shark Bite pre-rolls)",
+      "meta_title": "Echsen Industries, LLC",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries-llc-shark-bite-pre-rolls/",
-      "open_graph_title": "Echsen Industries, LLC (Shark Bite pre-rolls)",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries/",
+      "open_graph_title": "Echsen Industries, LLC",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Echsen Industries, LLC (Shark Bite pre-rolls)",
+      "twitter_title": "Echsen Industries, LLC",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries-llc-shark-bite-pre-rolls/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries/"
   }
 }
