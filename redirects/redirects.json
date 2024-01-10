@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 117,
+      "redirects": 118,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3517,6 +3517,32 @@
       "regex": false,
       "group_id": 1,
       "position": 116,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 368,
+      "url": "/resources/cannabis-recalls-and-safety-notices/echsen-industries-llc-shark-bite-pre-rolls/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/echsen-industries-llc-shark-bite-pre-rolls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/echsen-industries/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 117,
       "last_access": "-",
       "enabled": true
     }
