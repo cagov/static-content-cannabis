@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-13T19:29:03",
-    "updated_date": "2023-12-13T20:05:05",
+    "updated_date": "2024-01-11T22:54:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-13T11:29:03",
     "date_gmt": "2023-12-13T19:29:03",
     "guid": "https://api.cannabis.ca.gov/?p=16366",
-    "modified": "2023-12-13T12:05:05",
-    "modified_gmt": "2023-12-13T20:05:05",
+    "modified": "2024-01-11T14:54:37",
+    "modified_gmt": "2024-01-11T22:54:37",
     "slug": "cannabis-licensee-bond-form",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
     "categories": [
       "Recently Approved Actions"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,19 +89,7 @@
         "category_parent": 802
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
