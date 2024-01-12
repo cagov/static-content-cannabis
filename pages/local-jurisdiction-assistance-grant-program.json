@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-10-01T05:36:57",
-    "updated_date": "2023-10-24T18:44:42",
+    "updated_date": "2024-01-12T23:47:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-09-30T22:36:57",
     "date_gmt": "2021-10-01T05:36:57",
     "guid": "https://cannabis.ca.gov/?page_id=8843",
-    "modified": "2023-10-24T11:44:42",
-    "modified_gmt": "2023-10-24T18:44:42",
+    "modified": "2024-01-12T15:47:58",
+    "modified_gmt": "2024-01-12T23:47:58",
     "slug": "local-jurisdiction-assistance-grant-program",
     "status": "publish",
     "type": "page",
