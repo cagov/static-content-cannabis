@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-16T17:14:51",
-    "updated_date": "2024-01-16T17:14:57",
+    "updated_date": "2024-01-16T17:20:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-16T09:14:51",
     "date_gmt": "2024-01-16T17:14:51",
     "guid": "https://api.cannabis.ca.gov/?p=16800",
-    "modified": "2024-01-16T09:14:57",
-    "modified_gmt": "2024-01-16T17:14:57",
+    "modified": "2024-01-16T09:20:53",
+    "modified_gmt": "2024-01-16T17:20:53",
     "slug": "california-seizes-over-312m-in-unlicensed-cannabis-during-task-forces-first-calendar-year-of-operation",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "2024 announcements",
       "Announcements",
       "UCETF"
     ],
@@ -75,6 +76,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 914,
+        "name": "2024 announcements",
+        "slug": "2024-announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 914,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 914,
+        "category_description": "",
+        "cat_name": "2024 announcements",
+        "category_nicename": "2024-announcements",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",
