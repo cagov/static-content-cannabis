@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-16T17:14:51",
-    "updated_date": "2024-01-16T17:52:27",
+    "updated_date": "2024-01-16T19:31:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-16T09:14:51",
     "date_gmt": "2024-01-16T17:14:51",
     "guid": "https://api.cannabis.ca.gov/?p=16800",
-    "modified": "2024-01-16T09:52:27",
-    "modified_gmt": "2024-01-16T17:52:27",
+    "modified": "2024-01-16T11:31:07",
+    "modified_gmt": "2024-01-16T19:31:07",
     "slug": "california-seizes-over-312m-in-unlicensed-cannabis-during-task-forces-first-calendar-year-of-operation",
     "status": "publish",
     "type": "post",
@@ -43,9 +43,7 @@
       "Announcements",
       "UCETF"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single"
     },
@@ -125,19 +123,7 @@
         "category_parent": 14
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
