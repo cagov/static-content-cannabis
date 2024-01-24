@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-23T22:07:15",
-    "updated_date": "2024-01-24T23:07:05",
+    "updated_date": "2024-01-24T23:10:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-23T14:07:15",
     "date_gmt": "2024-01-23T22:07:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=16840",
-    "modified": "2024-01-24T15:07:05",
-    "modified_gmt": "2024-01-24T23:07:05",
+    "modified": "2024-01-24T15:10:59",
+    "modified_gmt": "2024-01-24T23:10:59",
     "slug": "cultivation-license-changes-at-the-time-of-renewal",
     "status": "publish",
     "type": "page",
