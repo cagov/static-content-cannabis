@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T19:54:39",
-    "updated_date": "2024-01-24T23:34:23",
+    "updated_date": "2024-01-24T23:35:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-11-03T12:54:39",
     "date_gmt": "2023-11-03T19:54:39",
     "guid": "https://api.cannabis.ca.gov/?p=15848",
-    "modified": "2024-01-24T15:34:23",
-    "modified_gmt": "2024-01-24T23:34:23",
-    "slug": "how-to-complete-online-app",
+    "modified": "2024-01-24T15:35:38",
+    "modified_gmt": "2024-01-24T23:35:38",
+    "slug": "how-to-complete-online-application",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/11/how-to-complete-online-app/",
+    "link": "https://api.cannabis.ca.gov/2023/11/how-to-complete-online-application/",
     "title": "How to complete the online application",
     "excerpt": "<p>This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint.</p>\n",
     "author": 32,
@@ -43,9 +43,7 @@
       "Licensing system guides",
       "User guides"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -60,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/11/how-to-complete-online-app/",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/11/how-to-complete-online-application/",
       "page_title": "How to complete the online application",
       "page_description": "This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -69,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "How to complete the online application",
       "meta_description": "This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/how-to-complete-online-app/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/how-to-complete-online-application/",
       "open_graph_title": "How to complete the online application",
       "open_graph_description": "This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint.",
       "twitter_title": "How to complete the online application",
@@ -125,19 +123,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -148,6 +134,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/11/how-to-complete-online-app/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/11/how-to-complete-online-application/"
   }
 }
