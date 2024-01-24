@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T19:54:39",
-    "updated_date": "2023-11-14T23:56:21",
+    "updated_date": "2024-01-24T22:18:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2023-11-03T12:54:39",
     "date_gmt": "2023-11-03T19:54:39",
     "guid": "https://api.cannabis.ca.gov/?p=15848",
-    "modified": "2023-11-14T15:56:21",
-    "modified_gmt": "2023-11-14T23:56:21",
+    "modified": "2024-01-24T14:18:18",
+    "modified_gmt": "2024-01-24T22:18:18",
     "slug": "overview-of-the-licensing-system",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/11/overview-of-the-licensing-system/",
-    "title": "Guide: overview of the licensing system",
+    "title": "Licensing system guides",
     "excerpt": "<p>This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint.</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -43,7 +43,9 @@
       "Licensing system guides",
       "User guides"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -59,18 +61,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/11/overview-of-the-licensing-system/",
-      "page_title": "Guide: overview of the licensing system",
+      "page_title": "Licensing system guides",
       "page_description": "This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Guide: overview of the licensing system",
+      "meta_title": "Licensing system guides",
       "meta_description": "This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/overview-of-the-licensing-system/",
-      "open_graph_title": "Guide: overview of the licensing system",
+      "open_graph_title": "Licensing system guides",
       "open_graph_description": "This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint.",
-      "twitter_title": "Guide: overview of the licensing system",
+      "twitter_title": "Licensing system guides",
       "twitter_description": "This guide covers the following topics: registration and creating an account, logging in, password help, searching for a business license, applying for a business license, and filing a complaint."
     },
     "headless_categories": [
@@ -123,7 +125,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
