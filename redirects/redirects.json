@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 119,
+      "redirects": 121,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3569,6 +3569,58 @@
       "regex": false,
       "group_id": 1,
       "position": 118,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 370,
+      "url": "/2023/11/overview-of-the-licensing-system/",
+      "match_url": "/2023/11/overview-of-the-licensing-system",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/11/how-to-complete-online-app-cultivation/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 119,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 371,
+      "url": "/2023/11/how-to-complete-online-app-cultivation/",
+      "match_url": "/2023/11/how-to-complete-online-app-cultivation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/11/how-to-complete-online-app/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 120,
       "last_access": "-",
       "enabled": true
     }
