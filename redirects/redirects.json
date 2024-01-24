@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 121,
+      "redirects": 122,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3621,6 +3621,32 @@
       "regex": false,
       "group_id": 1,
       "position": 120,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 372,
+      "url": "/2023/11/how-to-complete-online-app/",
+      "match_url": "/2023/11/how-to-complete-online-app",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/11/how-to-complete-online-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 121,
       "last_access": "-",
       "enabled": true
     }
