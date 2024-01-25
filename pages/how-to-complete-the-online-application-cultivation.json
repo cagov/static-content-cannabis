@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-24T23:50:43",
-    "updated_date": "2024-01-25T19:10:38",
+    "updated_date": "2024-01-25T19:14:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-24T15:50:43",
     "date_gmt": "2024-01-24T23:50:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=16888",
-    "modified": "2024-01-25T11:10:38",
-    "modified_gmt": "2024-01-25T19:10:38",
+    "modified": "2024-01-25T11:14:32",
+    "modified_gmt": "2024-01-25T19:14:32",
     "slug": "how-to-complete-the-online-application-cultivation",
     "status": "publish",
     "type": "page",
