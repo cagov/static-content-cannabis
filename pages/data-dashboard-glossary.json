@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-24T17:33:31",
-    "updated_date": "2024-01-30T20:16:17",
+    "updated_date": "2024-01-30T20:18:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-01-24T09:33:31",
     "date_gmt": "2024-01-24T17:33:31",
     "guid": "https://api.cannabis.ca.gov/?page_id=16856",
-    "modified": "2024-01-30T12:16:17",
-    "modified_gmt": "2024-01-30T20:16:17",
+    "modified": "2024-01-30T12:18:33",
+    "modified_gmt": "2024-01-30T20:18:33",
     "slug": "data-dashboard-glossary",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/data-dashboard-glossary/",
+    "link": "https://api.cannabis.ca.gov/resources/data-dashboard/data-dashboard-glossary/",
     "title": "Data Dashboard Glossary and Notes",
     "excerpt": "<p>Sales Reports Data Sources The information contained in the accompanying tabs was derived from data entered into the California Cannabis Track-and-Trace system by licensed cannabis businesses. The Department does not make any warranties or guarantees regarding the accuracy of the source data. The Report consists of data from 2020 – 2022 with partial year data [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 16980,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/data-dashboard-glossary/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/data-dashboard/data-dashboard-glossary/",
       "page_title": "Data Dashboard Glossary and Notes",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Data Dashboard Glossary and Notes",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/data-dashboard-glossary/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/data-dashboard/data-dashboard-glossary/",
       "open_graph_title": "Data Dashboard Glossary and Notes",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Data Dashboard Glossary and Notes",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/data-dashboard-glossary/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/data-dashboard/data-dashboard-glossary/"
   }
 }
