@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 122,
+      "redirects": 127,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3647,6 +3647,136 @@
       "regex": false,
       "group_id": 1,
       "position": 121,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 373,
+      "url": "/data-dashboard-glossary/",
+      "match_url": "/data-dashboard-glossary",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/data-dashboard-glossary/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 122,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 374,
+      "url": "/daily-sales-customer-type-item-category-report/",
+      "match_url": "/daily-sales-customer-type-item-category-report",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/daily-sales-customer-type-item-category-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 123,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 375,
+      "url": "/daily-sales-units-by-item-category-report/",
+      "match_url": "/daily-sales-units-by-item-category-report",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/daily-sales-units-by-item-category-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 124,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 376,
+      "url": "/harvest-report/",
+      "match_url": "/harvest-report",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/harvest-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 125,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 377,
+      "url": "/license-report/",
+      "match_url": "/license-report",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/license-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 126,
       "last_access": "-",
       "enabled": true
     }
