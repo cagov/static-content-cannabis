@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-31T21:17:02",
-    "updated_date": "2024-01-31T21:19:43",
+    "updated_date": "2024-01-31T21:26:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-31T13:17:02",
     "date_gmt": "2024-01-31T21:17:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=16996",
-    "modified": "2024-01-31T13:19:43",
-    "modified_gmt": "2024-01-31T21:19:43",
+    "modified": "2024-01-31T13:26:34",
+    "modified_gmt": "2024-01-31T21:26:34",
     "slug": "faq-standard-cannabinoid-test-methods-sb544",
     "status": "publish",
     "type": "page",
