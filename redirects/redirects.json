@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 127,
+      "redirects": 128,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3777,6 +3777,32 @@
       "regex": false,
       "group_id": 1,
       "position": 126,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 378,
+      "url": "/licensees/testing-laboratories/faq-standard-cannabinoid-test-methods-sb544/",
+      "match_url": "/licensees/testing-laboratories/faq-standard-cannabinoid-test-methods-sb544",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/testing-laboratories/faq-standard-cannabinoid-test-method/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 127,
       "last_access": "-",
       "enabled": true
     }
