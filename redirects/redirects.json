@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 128,
+      "redirects": 130,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3803,6 +3803,58 @@
       "regex": false,
       "group_id": 1,
       "position": 127,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 379,
+      "url": "/about-us/cannabis-advisory-committee/cac-past-meetings/",
+      "match_url": "/about-us/cannabis-advisory-committee/cac-past-meetings",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/cannabis-advisory-committee/cac-meeting-archives/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 128,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 380,
+      "url": "/2024/02/cannabis-advisory-committee-5-7-2024/",
+      "match_url": "/2024/02/cannabis-advisory-committee-5-7-2024",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/02/cannabis-advisory-committee-3-7-2024/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 129,
       "last_access": "-",
       "enabled": true
     }
