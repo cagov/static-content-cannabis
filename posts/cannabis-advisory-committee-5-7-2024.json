@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-02T23:05:36",
-    "updated_date": "2024-02-02T23:10:37",
+    "updated_date": "2024-02-02T23:20:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-02T15:05:36",
     "date_gmt": "2024-02-02T23:05:36",
     "guid": "https://api.cannabis.ca.gov/?p=17033",
-    "modified": "2024-02-02T15:10:37",
-    "modified_gmt": "2024-02-02T23:10:37",
+    "modified": "2024-02-02T15:20:50",
+    "modified_gmt": "2024-02-02T23:20:50",
     "slug": "cannabis-advisory-committee-5-7-2024",
     "status": "publish",
     "type": "post",
@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Cannabis Advisory Committee",
-      "Upcoming CAC"
+      "Cannabis Advisory Committee"
     ],
     "tags": [
       "staging"
@@ -90,22 +89,6 @@
         "cat_name": "Cannabis Advisory Committee",
         "category_nicename": "cac",
         "category_parent": 0
-      },
-      {
-        "term_id": 848,
-        "name": "Upcoming CAC",
-        "slug": "upcoming-cac",
-        "term_group": 0,
-        "term_taxonomy_id": 848,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 831,
-        "filter": "raw",
-        "cat_ID": 848,
-        "category_description": "",
-        "cat_name": "Upcoming CAC",
-        "category_nicename": "upcoming-cac",
-        "category_parent": 831
       }
     ],
     "headless_tags": [
