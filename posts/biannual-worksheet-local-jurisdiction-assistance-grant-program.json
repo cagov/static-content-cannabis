@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-02T22:11:10",
-    "updated_date": "2024-02-02T22:11:15",
+    "updated_date": "2024-02-02T22:32:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-02-02T14:11:10",
     "date_gmt": "2024-02-02T22:11:10",
     "guid": "https://api.cannabis.ca.gov/?p=17014",
-    "modified": "2024-02-02T14:11:15",
-    "modified_gmt": "2024-02-02T22:11:15",
+    "modified": "2024-02-02T14:32:46",
+    "modified_gmt": "2024-02-02T22:32:46",
     "slug": "biannual-worksheet-local-jurisdiction-assistance-grant-program",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2024/02/biannual-worksheet-local-jurisdiction-assistance-grant-program/",
     "title": "Biannual worksheet: Local Jurisdiction Assistance Grant Program",
-    "excerpt": "<p>The biannual worksheet is used to&#8230;. Download the worksheet Program background California is committed to quickly transition cannabis businesses from provisional to annual licenses. In January 2022, DCC awarded one-time grant funding totaling almost $100 million to help 17 cities and counties with the highest numbers of provisional licenses in transitioning businesses to annual licenses.  Extra [&hellip;]</p>\n",
+    "excerpt": "<p>The biannual worksheet is used to&#8230;. Download the worksheet Program background California is committed to quickly transition cannabis businesses from provisional to annual licenses. In January 2022, DCC awarded one-time grant funding totaling almost $100 million to help 17 cities and counties with the highest numbers of provisional licenses in transitioning businesses to annual licenses.&nbsp;&nbsp;Extra [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "Grants"
     ],
     "tags": [
       "staging"
@@ -75,19 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 841,
+        "name": "Grants",
+        "slug": "grants",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 841,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 841,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Grants",
+        "category_nicename": "grants",
         "category_parent": 0
       }
     ],
