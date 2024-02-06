@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "created_date": "2024-02-02T23:13:46",
+    "updated_date": "2024-02-06T18:20:54",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/17040",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 17040,
+    "date": "2024-02-02T15:13:46",
+    "date_gmt": "2024-02-02T23:13:46",
+    "guid": "https://api.cannabis.ca.gov/?p=17040",
+    "modified": "2024-02-06T10:20:54",
+    "modified_gmt": "2024-02-06T18:20:54",
+    "slug": "cannabis-advisory-committee-6-6-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/02/cannabis-advisory-committee-6-6-2024/",
+    "title": "Cannabis Advisory Committee: 6/6/2024",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\"></div>\n<p></p>\n<div class=\"event-time\"> </div>\n<p></p>\n<div class=\"event-location\"></div>\n</div>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-event.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Cannabis Advisory Committee",
+      "Events",
+      "Upcoming CAC"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single-event"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/02/cannabis-advisory-committee-6-6-2024/",
+      "page_title": "Cannabis Advisory Committee: 6/6/2024",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis Advisory Committee: 6/6/2024",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/02/cannabis-advisory-committee-6-6-2024/",
+      "open_graph_title": "Cannabis Advisory Committee: 6/6/2024",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cannabis Advisory Committee: 6/6/2024",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 831,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
+        "term_group": 0,
+        "term_taxonomy_id": 831,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 831,
+        "category_description": "",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
+        "category_parent": 0
+      },
+      {
+        "term_id": 4,
+        "name": "Events",
+        "slug": "events",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 4,
+        "category_description": "",
+        "cat_name": "Events",
+        "category_nicename": "events",
+        "category_parent": 2
+      },
+      {
+        "term_id": 848,
+        "name": "Upcoming CAC",
+        "slug": "upcoming-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 848,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 848,
+        "category_description": "",
+        "cat_name": "Upcoming CAC",
+        "category_nicename": "upcoming-cac",
+        "category_parent": 831
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/02/cannabis-advisory-committee-6-6-2024/"
+  }
+}
