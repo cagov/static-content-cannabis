@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-01T01:47:50",
-    "updated_date": "2023-11-15T19:06:50",
+    "updated_date": "2024-02-07T22:10:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-12-31T17:47:50",
     "date_gmt": "2022-01-01T01:47:50",
     "guid": "https://cannabis.ca.gov/?page_id=9301",
-    "modified": "2023-11-15T11:06:50",
-    "modified_gmt": "2023-11-15T19:06:50",
+    "modified": "2024-02-07T14:10:44",
+    "modified_gmt": "2024-02-07T22:10:44",
     "slug": "compliance-with-state-law",
     "status": "publish",
     "type": "page",
