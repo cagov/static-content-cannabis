@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-07T18:03:30",
-    "updated_date": "2024-02-07T18:17:14",
+    "updated_date": "2024-02-07T18:29:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-07T10:03:30",
     "date_gmt": "2024-02-07T18:03:30",
     "guid": "https://api.cannabis.ca.gov/?page_id=17117",
-    "modified": "2024-02-07T10:17:14",
-    "modified_gmt": "2024-02-07T18:17:14",
+    "modified": "2024-02-07T10:29:14",
+    "modified_gmt": "2024-02-07T18:29:14",
     "slug": "faq-embargos",
     "status": "publish",
     "type": "page",
@@ -67,7 +67,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "FAQ: Embargos",
-      "meta_description": "The Department of Cannabis Control (DCC) may embargo cannabis or cannabis products to prevent their sale, distribution, disposal, or removal from the location when the DCC has probable cause to believe the cannabis or cannabis products are adulterated or mislabeled, or that the sale of the cannabis or cannabis products would otherwise be in violation of the Medicinal and Adult&#x2d;Use Cannabis Regulation and Safety Act (MAUCRSA) or the DCC’s regulations contained in California Code of Regulations Title 4, Division 19.",
+      "meta_description": "The Department of Cannabis Control (DCC) is responsible for enforcing state laws regulating cannabis businesses, including laws to protect the health and safety of patients and consumers. One important tool in this effort is the embargo.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/compliance-with-state-law/faq-embargos/",
       "open_graph_title": "FAQ: Embargos",
       "open_graph_description": "Learn about California cannabis laws and licenses",
