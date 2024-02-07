@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-07T18:03:30",
-    "updated_date": "2024-02-07T18:32:49",
+    "updated_date": "2024-02-07T18:33:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-07T10:03:30",
     "date_gmt": "2024-02-07T18:03:30",
     "guid": "https://api.cannabis.ca.gov/?page_id=17117",
-    "modified": "2024-02-07T10:32:49",
-    "modified_gmt": "2024-02-07T18:32:49",
+    "modified": "2024-02-07T10:33:32",
+    "modified_gmt": "2024-02-07T18:33:32",
     "slug": "faq-embargos",
     "status": "publish",
     "type": "page",
