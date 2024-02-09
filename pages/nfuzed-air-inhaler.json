@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-12-07T23:09:25",
-    "updated_date": "2024-02-09T18:17:40",
+    "created_date": "2024-02-09T18:18:10",
+    "updated_date": "2024-02-09T18:18:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/16309",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/17166",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 16309,
-    "date": "2023-12-07T15:09:25",
-    "date_gmt": "2023-12-07T23:09:25",
-    "guid": "https://api.cannabis.ca.gov/?page_id=16309",
-    "modified": "2024-02-09T10:17:40",
-    "modified_gmt": "2024-02-09T18:17:40",
-    "slug": "grizzly-peak-farms-llc-zoap-cannabis-flower",
+    "id": 17166,
+    "date": "2024-02-09T10:18:10",
+    "date_gmt": "2024-02-09T18:18:10",
+    "guid": "https://api.cannabis.ca.gov/?page_id=17166",
+    "modified": "2024-02-09T10:18:10",
+    "modified_gmt": "2024-02-09T18:18:10",
+    "slug": "nfuzed-air-inhaler",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/",
-    "title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
-    "excerpt": "",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/nfuzed-air-inhaler/",
+    "title": "NFuzed AIR Inhaler",
+    "excerpt": "<p>Info</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 9345,
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Voluntary recalls"
+      "Recalls and safety notices"
     ],
     "tags": [
       "staging"
@@ -58,37 +58,37 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/",
-      "page_title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/nfuzed-air-inhaler/",
+      "page_title": "NFuzed AIR Inhaler",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
+      "meta_title": "NFuzed AIR Inhaler",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/",
-      "open_graph_title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/nfuzed-air-inhaler/",
+      "open_graph_title": "NFuzed AIR Inhaler",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
+      "twitter_title": "NFuzed AIR Inhaler",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 814,
-        "name": "Voluntary recalls",
-        "slug": "voluntary-recalls",
+        "term_id": 812,
+        "name": "Recalls and safety notices",
+        "slug": "recalls-and-safety-notices",
         "term_group": 0,
-        "term_taxonomy_id": 814,
+        "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
-        "parent": 812,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 814,
+        "cat_ID": 812,
         "category_description": "",
-        "cat_name": "Voluntary recalls",
-        "category_nicename": "voluntary-recalls",
-        "category_parent": 812
+        "cat_name": "Recalls and safety notices",
+        "category_nicename": "recalls-and-safety-notices",
+        "category_parent": 0
       }
     ],
     "headless_tags": [
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/nfuzed-air-inhaler/"
   }
 }
