@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-13T20:03:36",
-    "updated_date": "2024-02-13T20:28:47",
+    "updated_date": "2024-02-13T20:28:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-13T12:03:36",
     "date_gmt": "2024-02-13T20:03:36",
     "guid": "https://api.cannabis.ca.gov/?page_id=17210",
-    "modified": "2024-02-13T12:28:47",
-    "modified_gmt": "2024-02-13T20:28:47",
+    "modified": "2024-02-13T12:28:52",
+    "modified_gmt": "2024-02-13T20:28:52",
     "slug": "renewal-options-for-cultivation-license-types",
     "status": "publish",
     "type": "page",
