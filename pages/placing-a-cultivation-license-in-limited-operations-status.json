@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-02-13T21:04:40",
-    "updated_date": "2024-02-13T21:09:04",
+    "created_date": "2024-02-13T21:09:41",
+    "updated_date": "2024-02-13T21:09:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/17223",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/17217",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 17223,
-    "date": "2024-02-13T13:04:40",
-    "date_gmt": "2024-02-13T21:04:40",
-    "guid": "https://api.cannabis.ca.gov/?page_id=17223",
-    "modified": "2024-02-13T13:09:04",
-    "modified_gmt": "2024-02-13T21:09:04",
-    "slug": "make-a-one-time-change-to-the-renewal-date",
+    "id": 17217,
+    "date": "2024-02-13T13:09:41",
+    "date_gmt": "2024-02-13T21:09:41",
+    "guid": "https://api.cannabis.ca.gov/?page_id=17217",
+    "modified": "2024-02-13T13:09:41",
+    "modified_gmt": "2024-02-13T21:09:41",
+    "slug": "placing-a-cultivation-license-in-limited-operations-status",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/make-a-one-time-change-to-the-renewal-date/",
-    "title": "Make a one-time change to the renewal date",
-    "excerpt": "<p>Selecting this option allows the cultivator to permanently modify the renewal date one time to provide more flexibility for when fees are due. Definition Eligibility Fees Formula- (Existing Annual Fee / 365)&nbsp; x Number of Days = New Annual Fee Example- Small Outdoor license type = $4,820 annual fee Current Expiration Date = March 1, [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/placing-a-cultivation-license-in-limited-operations-status/",
+    "title": "Placing a cultivation license in limited operations status",
+    "excerpt": "<p>Selecting this option allows cultivators the opportunity to temporarily pause cultivation commercial cannabis activity, including cultivation on their canopy, at a reduced cost until the next renewal. Definition Limited Operations Status means an inactive status. Permitted Not permitted Overview Eligibility</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 17210,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -43,7 +43,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -56,19 +56,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/make-a-one-time-change-to-the-renewal-date/",
-      "page_title": "Make a one-time change to the renewal date",
+      "canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/placing-a-cultivation-license-in-limited-operations-status/",
+      "page_title": "Placing a cultivation license in limited operations status",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Make a one-time change to the renewal date",
+      "meta_title": "Placing a cultivation license in limited operations status",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/make-a-one-time-change-to-the-renewal-date/",
-      "open_graph_title": "Make a one-time change to the renewal date",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/placing-a-cultivation-license-in-limited-operations-status/",
+      "open_graph_title": "Placing a cultivation license in limited operations status",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Make a one-time change to the renewal date",
+      "twitter_title": "Placing a cultivation license in limited operations status",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/make-a-one-time-change-to-the-renewal-date/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/placing-a-cultivation-license-in-limited-operations-status/"
   }
 }
