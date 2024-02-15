@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-09T18:18:10",
-    "updated_date": "2024-02-14T19:06:05",
+    "updated_date": "2024-02-15T19:45:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-02-09T10:18:10",
     "date_gmt": "2024-02-09T18:18:10",
     "guid": "https://api.cannabis.ca.gov/?page_id=17166",
-    "modified": "2024-02-14T11:06:05",
-    "modified_gmt": "2024-02-14T19:06:05",
+    "modified": "2024-02-15T11:45:56",
+    "modified_gmt": "2024-02-15T19:45:56",
     "slug": "nfuzed-air-inhaler",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/nfuzed-air-inhaler/",
     "title": "NFuzed AIR metered-dose inhalers",
-    "excerpt": "<p>Recall overview 90nine Bridge Co Holdings, LLC, issued a recall for NFuzed AIR metered-dose inhalers. &nbsp;&nbsp;&nbsp; Business Recall Date tbd DCC Recall Publication Date tbd Package Date tbd Product Description Nfuzed Air metered-dose inhalers​ Product Type Inhaler Batch Number See table below Batch Source UID See table below Business DBA 90nine Bridge Co Holdings, LLC [&hellip;]</p>\n",
+    "excerpt": "<p>Recall overview The Department of Cannabis Control is issuing a mandatory recall of NFuzed AIR metered-dose inhalers.  Business Recall Date 2/15/2024 Recall Type Mandatory DCC Recall Publication Date 2/15/2024 Package Date All package dates Product Description Nfuzed Air metered-dose inhalers​ Product Type Inhaler UID Number See table below Batch Number See table below Business DBA [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 9345,
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Mandatory recalls",
       "Recalls and safety notices"
     ],
     "tags": [
@@ -74,6 +75,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 813,
+        "name": "Mandatory recalls",
+        "slug": "mandatory-recalls",
+        "term_group": 0,
+        "term_taxonomy_id": 813,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 812,
+        "filter": "raw",
+        "cat_ID": 813,
+        "category_description": "",
+        "cat_name": "Mandatory recalls",
+        "category_nicename": "mandatory-recalls",
+        "category_parent": 812
+      },
       {
         "term_id": 812,
         "name": "Recalls and safety notices",
