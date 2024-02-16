@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-09T18:18:10",
-    "updated_date": "2024-02-16T00:09:17",
+    "updated_date": "2024-02-16T00:38:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-09T10:18:10",
     "date_gmt": "2024-02-09T18:18:10",
     "guid": "https://api.cannabis.ca.gov/?page_id=17166",
-    "modified": "2024-02-15T16:09:17",
-    "modified_gmt": "2024-02-16T00:09:17",
+    "modified": "2024-02-15T16:38:03",
+    "modified_gmt": "2024-02-16T00:38:03",
     "slug": "nfuzed-inhaler",
     "status": "publish",
     "type": "page",
