@@ -7,54 +7,7 @@
 
 <h2 class="wp-block-heading">Locations where the recalled product was sold</h2>
 
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
-<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
-<script src="https://cdn.datatables.net/colreorder/1.5.4/js/dataTables.colReorder.min.js"></script>
-<div id="breakpoint"></div>
-<table id="kind-op" class="display compact" width="100%">
-    <thead>
-                <tr>
-            <th class="all">County</th>
-            <th class="desktop tablet">Legal Business Name</th>
-<th class="all">DBA</th>
-            <th class="desktop tablet">License or App Number</th>
-        </tr>
-    </thead>
-<tbody>
-<tr>
-<td>Los Angeles</td>
-<td>EVENT HORIZON TECHNOLOGIES CULVER CITY INC.&nbsp;</td>
-<td>Amuse&nbsp;</td>
-<td>C9-0000460-LIC </td>
-</tr>
-<tr>
-<td>San Mateo&nbsp;</td>
-<td>NCC BRISBANE LLC </td>
-<td>Amuse&nbsp;</td>
-<td>C9-0000263-LIC </td>
-</tr>
-</tbody>
-</table>
-<script>
-    $(document).ready(function () {
-        const enf_table = new DataTable('#kind-op', {
-            columns: [
-                { data: 'county' },
-                { data: 'business' },
-{ data: 'dba' },
-                { data: 'license' },
-            ],
-            responsive: true,
-            colReorder: true,
-            order: [[0, 'asc']]
-        });
-        const newColumnOrder = [0,1,2]
-        enf_table.colReorder.order(newColumnOrder).draw();
-    });
-</script>
+<figure class="wp-block-table"><table><thead><tr><th><strong>County</strong> </th><th><strong>Legal Business Name</strong>  </th><th><strong>DBA</strong> </th><th><strong>License or App Number</strong>  </th></tr></thead><tbody><tr><td>San Mateo&nbsp;</td><td>NCC BRISBANE LLC&nbsp;&nbsp;</td><td>Amuse&nbsp;</td><td>C9-0000263-LIC&nbsp;&nbsp;&nbsp;</td></tr><tr><td>Los Angeles&nbsp;&nbsp;</td><td>EVENT HORIZON TECHNOLOGIES CULVER CITY INC.&nbsp;&nbsp;</td><td>Amuse&nbsp;&nbsp;</td><td>C9-0000460-LIC&nbsp;&nbsp;</td></tr></tbody></table></figure>
 
 <h2 class="wp-block-heading">What consumers need to know</h2>
 
