@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-21T21:32:56",
-    "updated_date": "2024-02-21T22:16:38",
+    "updated_date": "2024-02-21T22:26:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-02-21T13:32:56",
     "date_gmt": "2024-02-21T21:32:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=17321",
-    "modified": "2024-02-21T14:16:38",
-    "modified_gmt": "2024-02-21T22:16:38",
-    "slug": "lowell-big-buds-blueberry-kush-indica",
+    "modified": "2024-02-21T14:26:30",
+    "modified_gmt": "2024-02-21T22:26:30",
+    "slug": "lowell-big-buds",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lowell-big-buds-blueberry-kush-indica/",
-    "title": "LOWELL BIG BUDS Blueberry Kush indica ",
-    "excerpt": "",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lowell-big-buds/",
+    "title": "LOWELL BIG BUDS Blueberry Kush Indica ",
+    "excerpt": "<p>Recall overview The Department of Cannabis Control is issuing a mandatory recall for LOWELL BIG BUDS Blueberry Kush Indica packaged flower due to the presence of Aspergillus sp.    Recall type&nbsp; Mandatory&nbsp; DCC Recall Publication Date&nbsp; 2/21/2024&nbsp; Product Type&nbsp; Flower&nbsp; Product Description&nbsp; LOWELL BIG BUDS Blueberry Kush Indica&nbsp; UID Number&nbsp; 1A4060300004F4E000345442&nbsp; &nbsp; Batch Number&nbsp; 101223H004-A&nbsp; &nbsp; Packaged [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 9345,
@@ -59,19 +59,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lowell-big-buds-blueberry-kush-indica/",
-      "page_title": "LOWELL BIG BUDS Blueberry Kush indica ",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lowell-big-buds/",
+      "page_title": "LOWELL BIG BUDS Blueberry Kush Indica ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "LOWELL BIG BUDS Blueberry Kush indica ",
+      "meta_title": "LOWELL BIG BUDS Blueberry Kush Indica ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lowell-big-buds-blueberry-kush-indica/",
-      "open_graph_title": "LOWELL BIG BUDS Blueberry Kush indica ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lowell-big-buds/",
+      "open_graph_title": "LOWELL BIG BUDS Blueberry Kush Indica ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "LOWELL BIG BUDS Blueberry Kush indica ",
+      "twitter_title": "LOWELL BIG BUDS Blueberry Kush Indica ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -123,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lowell-big-buds-blueberry-kush-indica/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lowell-big-buds/"
   }
 }
