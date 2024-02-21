@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-21T21:29:44",
-    "updated_date": "2024-02-21T22:57:44",
+    "updated_date": "2024-02-21T23:11:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-21T13:29:44",
     "date_gmt": "2024-02-21T21:29:44",
     "guid": "https://api.cannabis.ca.gov/?page_id=17319",
-    "modified": "2024-02-21T14:57:44",
-    "modified_gmt": "2024-02-21T22:57:44",
+    "modified": "2024-02-21T15:11:13",
+    "modified_gmt": "2024-02-21T23:11:13",
     "slug": "roundtrip-pistachio-flower",
     "status": "publish",
     "type": "page",
