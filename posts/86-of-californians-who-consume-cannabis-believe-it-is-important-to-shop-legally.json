@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-26T18:47:16",
-    "updated_date": "2024-02-26T18:49:27",
+    "updated_date": "2024-02-26T18:52:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-26T10:47:16",
     "date_gmt": "2024-02-26T18:47:16",
     "guid": "https://api.cannabis.ca.gov/?p=17389",
-    "modified": "2024-02-26T10:49:27",
-    "modified_gmt": "2024-02-26T18:49:27",
+    "modified": "2024-02-26T10:52:27",
+    "modified_gmt": "2024-02-26T18:52:27",
     "slug": "86-of-californians-who-consume-cannabis-believe-it-is-important-to-shop-legally",
     "status": "publish",
     "type": "post",
