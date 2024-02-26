@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-02T22:56:23",
-    "updated_date": "2024-02-26T20:09:34",
+    "updated_date": "2024-02-26T20:23:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-02T14:56:23",
     "date_gmt": "2024-02-02T22:56:23",
     "guid": "https://api.cannabis.ca.gov/?p=17024",
-    "modified": "2024-02-26T12:09:34",
-    "modified_gmt": "2024-02-26T20:09:34",
+    "modified": "2024-02-26T12:23:53",
+    "modified_gmt": "2024-02-26T20:23:53",
     "slug": "cannabis-advisory-committee-laboratory-subcommittee-2-21-2024",
     "status": "publish",
     "type": "post",
@@ -39,8 +39,10 @@
       "footnotes": ""
     },
     "categories": [
+      "2024 Meetings",
       "Cannabis Advisory Committee",
-      "Labs subcommittee"
+      "Labs subcommittee",
+      "Past meetings"
     ],
     "tags": [],
     "design_system_fields": {
@@ -74,6 +76,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 916,
+        "name": "2024 Meetings",
+        "slug": "2024-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 916,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 916,
+        "category_description": "",
+        "cat_name": "2024 Meetings",
+        "category_nicename": "2024-meetings",
+        "category_parent": 833
+      },
+      {
         "term_id": 831,
         "name": "Cannabis Advisory Committee",
         "slug": "cac",
@@ -103,6 +121,22 @@
         "category_description": "",
         "cat_name": "Labs subcommittee",
         "category_nicename": "labs-subcommittee",
+        "category_parent": 831
+      },
+      {
+        "term_id": 833,
+        "name": "Past meetings",
+        "slug": "past-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 833,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 833,
+        "category_description": "",
+        "cat_name": "Past meetings",
+        "category_nicename": "past-meetings",
         "category_parent": 831
       }
     ],
