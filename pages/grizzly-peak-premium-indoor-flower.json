@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-29T19:42:51",
-    "updated_date": "2024-03-01T17:43:54",
+    "updated_date": "2024-03-01T18:23:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2024-02-29T11:42:51",
     "date_gmt": "2024-02-29T19:42:51",
     "guid": "https://api.cannabis.ca.gov/?page_id=17452",
-    "modified": "2024-03-01T09:43:54",
-    "modified_gmt": "2024-03-01T17:43:54",
+    "modified": "2024-03-01T10:23:00",
+    "modified_gmt": "2024-03-01T18:23:00",
     "slug": "grizzly-peak-premium-indoor-flower",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-premium-indoor-flower/",
     "title": "Grizzly Peak Premium Indoor Flower Citrus Boost, RS11, and Zoap",
     "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this consumer advisory due to the presence of Aspergillus sp., in Grizzly Peak Premium Indoor Flower products. DCC Recall Publication Date 3/1/2024&nbsp; Recall Type Mandatory Product Type Flower&nbsp; Product Description Grizzly Peak Premium Indoor Flower Legal Business Name Grizzly Peak Farms, LLC Packaged By Grizzly [&hellip;]</p>\n",
-    "author": 32,
+    "author": 33,
     "featured_media": 0,
     "parent": 9345,
     "menu_order": 0,
@@ -41,9 +41,7 @@
     "categories": [
       "Mandatory recalls"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
     },
@@ -91,19 +89,7 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-premium-indoor-flower/"
