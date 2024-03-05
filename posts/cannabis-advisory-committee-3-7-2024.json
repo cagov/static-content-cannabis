@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-02T23:05:36",
-    "updated_date": "2024-02-27T01:10:54",
+    "updated_date": "2024-03-05T17:27:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-02T15:05:36",
     "date_gmt": "2024-02-02T23:05:36",
     "guid": "https://api.cannabis.ca.gov/?p=17033",
-    "modified": "2024-02-26T17:10:54",
-    "modified_gmt": "2024-02-27T01:10:54",
+    "modified": "2024-03-05T09:27:59",
+    "modified_gmt": "2024-03-05T17:27:59",
     "slug": "cannabis-advisory-committee-3-7-2024",
     "status": "publish",
     "type": "post",
@@ -43,7 +43,9 @@
       "Events",
       "Upcoming CAC"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-single-event"
     },
@@ -123,7 +125,19 @@
         "category_parent": 831
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
