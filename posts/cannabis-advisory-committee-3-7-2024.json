@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-02T23:05:36",
-    "updated_date": "2024-03-07T00:55:27",
+    "updated_date": "2024-03-07T22:54:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-02T15:05:36",
     "date_gmt": "2024-02-02T23:05:36",
     "guid": "https://api.cannabis.ca.gov/?p=17033",
-    "modified": "2024-03-06T16:55:27",
-    "modified_gmt": "2024-03-07T00:55:27",
+    "modified": "2024-03-07T14:54:16",
+    "modified_gmt": "2024-03-07T22:54:16",
     "slug": "cannabis-advisory-committee-3-7-2024",
     "status": "publish",
     "type": "post",
@@ -39,9 +39,9 @@
       "footnotes": ""
     },
     "categories": [
+      "2024 Meetings",
       "Cannabis Advisory Committee",
-      "Events",
-      "Upcoming CAC"
+      "Events"
     ],
     "tags": [],
     "design_system_fields": {
@@ -75,6 +75,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 916,
+        "name": "2024 Meetings",
+        "slug": "2024-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 916,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 916,
+        "category_description": "",
+        "cat_name": "2024 Meetings",
+        "category_nicename": "2024-meetings",
+        "category_parent": 833
+      },
+      {
         "term_id": 831,
         "name": "Cannabis Advisory Committee",
         "slug": "cac",
@@ -105,22 +121,6 @@
         "cat_name": "Events",
         "category_nicename": "events",
         "category_parent": 2
-      },
-      {
-        "term_id": 848,
-        "name": "Upcoming CAC",
-        "slug": "upcoming-cac",
-        "term_group": 0,
-        "term_taxonomy_id": 848,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 831,
-        "filter": "raw",
-        "cat_ID": 848,
-        "category_description": "",
-        "cat_name": "Upcoming CAC",
-        "category_nicename": "upcoming-cac",
-        "category_parent": 831
       }
     ],
     "headless_tags": [],
