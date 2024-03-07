@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T20:39:18",
-    "updated_date": "2024-03-07T23:07:59",
+    "updated_date": "2024-03-07T23:13:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-07T12:39:18",
     "date_gmt": "2024-03-07T20:39:18",
     "guid": "https://api.cannabis.ca.gov/?page_id=17543",
-    "modified": "2024-03-07T15:07:59",
-    "modified_gmt": "2024-03-07T23:07:59",
+    "modified": "2024-03-07T15:13:18",
+    "modified_gmt": "2024-03-07T23:13:18",
     "slug": "how-to-make-cultivation-license-changes-using-the-cls",
     "status": "publish",
     "type": "page",
