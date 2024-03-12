@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 134,
+      "redirects": 135,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3959,6 +3959,32 @@
       "regex": false,
       "group_id": 1,
       "position": 133,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 385,
+      "url": "/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls/",
+      "match_url": "/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/using-the-cls/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 134,
       "last_access": "-",
       "enabled": true
     }
