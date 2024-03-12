@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-11T18:45:21",
-    "updated_date": "2024-03-12T21:25:32",
+    "updated_date": "2024-03-12T21:27:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-03-11T11:45:21",
     "date_gmt": "2024-03-11T18:45:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=17570",
-    "modified": "2024-03-12T14:25:32",
-    "modified_gmt": "2024-03-12T21:25:32",
+    "modified": "2024-03-12T14:27:54",
+    "modified_gmt": "2024-03-12T21:27:54",
     "slug": "cultivation-license-change-options",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/",
     "title": "Cultivation license change options",
-    "excerpt": "<p>New license change options are now available for certain types of cultivation licenses. On March 12, 2024, the Department of Cannabis Control (DCC) adopted emergency regulations to implement Senate Bill 833.&nbsp; Under the new regulations, eligible cultivation licensees can make certain changes to their license including:&nbsp;&nbsp;</p>\n",
+    "excerpt": "<p>New license change options are now available for certain types of cultivation licenses. On March 11, 2024, the Department of Cannabis Control (DCC) adopted emergency regulations to implement Senate Bill 833.  Under the new regulations, eligible cultivation licensees can make certain changes to their license including:  </p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 718,
@@ -41,9 +41,7 @@
     "categories": [
       "Cultivation license changes"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 801
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/"
