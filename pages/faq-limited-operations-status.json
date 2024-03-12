@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-11T18:53:42",
-    "updated_date": "2024-03-12T21:31:29",
+    "updated_date": "2024-03-12T22:57:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-03-11T11:53:42",
     "date_gmt": "2024-03-11T18:53:42",
     "guid": "https://api.cannabis.ca.gov/?page_id=17576",
-    "modified": "2024-03-12T14:31:29",
-    "modified_gmt": "2024-03-12T21:31:29",
-    "slug": "faq-limited-operations-status-for-cultivation-licenses",
+    "modified": "2024-03-12T15:57:44",
+    "modified_gmt": "2024-03-12T22:57:44",
+    "slug": "faq-limited-operations-status",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status-for-cultivation-licenses/",
+    "link": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status/",
     "title": "FAQ: Placing a cultivation license in limited operations status",
-    "excerpt": "<p>Cultivation licensees may now place a cultivation license in limited operations status.&nbsp;Nursery licenses and processor licensees are not eligible for limited operations status.</p>\n",
+    "excerpt": "<p>Cultivation licensees may now place a valid cultivation license in limited operations status. Nursery licenses and processor licensees are not eligible for limited operations status.</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 17570,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status-for-cultivation-licenses/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status/",
       "page_title": "FAQ: Placing a cultivation license in limited operations status",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "FAQ: Placing a cultivation license in limited operations status",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status-for-cultivation-licenses/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status/",
       "open_graph_title": "FAQ: Placing a cultivation license in limited operations status",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "FAQ: Placing a cultivation license in limited operations status",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status-for-cultivation-licenses/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status/"
   }
 }
