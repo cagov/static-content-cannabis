@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 135,
+      "redirects": 139,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3985,6 +3985,110 @@
       "regex": false,
       "group_id": 1,
       "position": 134,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 386,
+      "url": "/licensees/cultivation/cultivation-license-change-options/faq-reduced-size-cultivation-license/",
+      "match_url": "/licensees/cultivation/cultivation-license-change-options/faq-reduced-size-cultivation-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/reducing-canopy-size/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 135,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 387,
+      "url": "/faq-one-time-changes-to-license-expiration-dates/",
+      "match_url": "/faq-one-time-changes-to-license-expiration-dates",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/faq-one-time-changes-to-license-expiration-dates/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 136,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 388,
+      "url": "/licensees/cultivation/cultivation-license-change-options/faq-one-time-changes-to-license-expiration-dates/",
+      "match_url": "/licensees/cultivation/cultivation-license-change-options/faq-one-time-changes-to-license-expiration-dates",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/faq-one-time-changes/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 137,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 389,
+      "url": "/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status-for-cultivation-licenses/",
+      "match_url": "/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status-for-cultivation-licenses",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 138,
       "last_access": "-",
       "enabled": true
     }
