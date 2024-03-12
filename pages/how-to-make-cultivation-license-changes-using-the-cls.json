@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T20:39:18",
-    "updated_date": "2024-03-12T21:35:40",
+    "updated_date": "2024-03-12T22:23:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-03-07T12:39:18",
     "date_gmt": "2024-03-07T20:39:18",
     "guid": "https://api.cannabis.ca.gov/?page_id=17543",
-    "modified": "2024-03-12T14:35:40",
-    "modified_gmt": "2024-03-12T21:35:40",
+    "modified": "2024-03-12T15:23:00",
+    "modified_gmt": "2024-03-12T22:23:00",
     "slug": "how-to-make-cultivation-license-changes-using-the-cls",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/how-to-make-cultivation-license-changes-using-the-cls/",
+    "link": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls/",
     "title": "How to make cultivation license changes using the CLS",
     "excerpt": "<p>Eligible processor, nursery, and cultivation licensees can now use DCC’s Cultivation Licensing System (CLS) to make a one-time change their license expiration date. Additionally, eligible cultivation licensees can use the DCC’s Cultivation Licensing System (CLS) to place their license in Limited Operations Status or request a Reduced-Size Cultivation License, during renewal or when making the [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 17570,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/how-to-make-cultivation-license-changes-using-the-cls/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls/",
       "page_title": "How to make cultivation license changes using the CLS",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "How to make cultivation license changes using the CLS",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-make-cultivation-license-changes-using-the-cls/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls/",
       "open_graph_title": "How to make cultivation license changes using the CLS",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "How to make cultivation license changes using the CLS",
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/how-to-make-cultivation-license-changes-using-the-cls/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls/"
   }
 }
