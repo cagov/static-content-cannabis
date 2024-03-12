@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-11T18:52:00",
-    "updated_date": "2024-03-12T21:33:37",
+    "updated_date": "2024-03-12T22:47:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-11T11:52:00",
     "date_gmt": "2024-03-11T18:52:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=17574",
-    "modified": "2024-03-12T14:33:37",
-    "modified_gmt": "2024-03-12T21:33:37",
+    "modified": "2024-03-12T15:47:15",
+    "modified_gmt": "2024-03-12T22:47:15",
     "slug": "faq-reduced-size-cultivation-license",
     "status": "publish",
     "type": "page",
