@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-22T17:48:11",
-    "updated_date": "2024-03-22T18:09:30",
+    "updated_date": "2024-03-22T22:57:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,21 +18,21 @@
     "date": "2024-03-22T10:48:11",
     "date_gmt": "2024-03-22T17:48:11",
     "guid": "https://api.cannabis.ca.gov/?page_id=17754",
-    "modified": "2024-03-22T11:09:30",
-    "modified_gmt": "2024-03-22T18:09:30",
+    "modified": "2024-03-22T15:57:02",
+    "modified_gmt": "2024-03-22T22:57:02",
     "slug": "upnorth-maui-wowie",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/upnorth-maui-wowie/",
     "title": "UpNorth Maui Wowie",
-    "excerpt": "<p>Landing page info Recall Date Recall Type Product Product Type Recall Reason Legal Business Name: Additional Details 3/25/24 Mandatory UpNorth Maui Wowie Cannabis Flower Adulterant: Microbial Contamination (Aspergillus terreus) UpNorth Distribution View details about the UpNorth recall 2/21/24 Mandatory LOWELL BIG BUDS Blueberry Kush Indica Cannabis Flower Adulterant: Microbial Contamination (Aspergillus terreus) Cypress Manufacturing Company [&hellip;]</p>\n",
+    "excerpt": "<p>Landing page info Recall overview The Department of Cannabis Control (DCC) is issuing a mandatory recall due to the presence of Aspergillus terreus in a single UpNorth Maui Wowie product. DCC Recall Publication Date 3/25/24 Recall Type Mandatory Product Type Cannabis Flower Product Description UpNorth Maui-Wowie 3.5g or 1/8th jars UID Number 1A4060300003B66000224398&nbsp; Batch Number [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
