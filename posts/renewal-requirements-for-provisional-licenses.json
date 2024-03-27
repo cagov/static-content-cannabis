@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-11T19:25:39",
-    "updated_date": "2024-03-27T23:03:56",
+    "updated_date": "2024-03-27T23:05:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-11T12:25:39",
     "date_gmt": "2023-09-11T19:25:39",
     "guid": "https://api.cannabis.ca.gov/?p=14817",
-    "modified": "2024-03-27T16:03:56",
-    "modified_gmt": "2024-03-27T23:03:56",
+    "modified": "2024-03-27T16:05:01",
+    "modified_gmt": "2024-03-27T23:05:01",
     "slug": "renewal-requirements-for-provisional-licenses",
     "status": "publish",
     "type": "post",
