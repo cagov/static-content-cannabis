@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-27T17:52:02",
-    "updated_date": "2024-03-27T18:15:26",
+    "updated_date": "2024-03-27T18:32:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-03-27T10:52:02",
     "date_gmt": "2024-03-27T17:52:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=17776",
-    "modified": "2024-03-27T11:15:26",
-    "modified_gmt": "2024-03-27T18:15:26",
-    "slug": "blem-unruly",
+    "modified": "2024-03-27T11:32:01",
+    "modified_gmt": "2024-03-27T18:32:01",
+    "slug": "blem-cannabis-flower",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/blem-unruly/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/blem-cannabis-flower/",
     "title": "Blem 3.5 Gram Flower",
     "excerpt": "<p>Landing page info Recall Date Recall Type Product Product Type Recall Reason Legal Business Name: Additional Details 3/27/24 Voluntary Blem Cannabis Flower Misbranded: Labeling (inaccurate THC content) Malibu Gold, LLC&nbsp; Voluntary recall due to inaccurate THC content labeling in multiple Blem packaged cannabis flower product. Recall overview The Department of Cannabis Control (DCC) is issuing [&hellip;]</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/blem-unruly/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/blem-cannabis-flower/",
       "page_title": "Blem 3.5 Gram Flower",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Blem 3.5 Gram Flower",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/blem-unruly/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/blem-cannabis-flower/",
       "open_graph_title": "Blem 3.5 Gram Flower",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Blem 3.5 Gram Flower",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/blem-unruly/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/blem-cannabis-flower/"
   }
 }
