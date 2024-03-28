@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-11T18:45:21",
-    "updated_date": "2024-03-13T16:16:57",
+    "updated_date": "2024-03-28T17:37:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-11T11:45:21",
     "date_gmt": "2024-03-11T18:45:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=17570",
-    "modified": "2024-03-13T09:16:57",
-    "modified_gmt": "2024-03-13T16:16:57",
+    "modified": "2024-03-28T10:37:55",
+    "modified_gmt": "2024-03-28T17:37:55",
     "slug": "cultivation-license-change-options",
     "status": "publish",
     "type": "page",
@@ -41,7 +41,9 @@
     "categories": [
       "Cultivation license changes"
     ],
-    "tags": [],
+    "tags": [
+      "latest updates"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -89,7 +91,19 @@
         "category_parent": 801
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 922,
+        "name": "latest updates",
+        "slug": "latest-updates",
+        "term_group": 0,
+        "term_taxonomy_id": 922,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensees/cultivation/cultivation-license-change-options/"
