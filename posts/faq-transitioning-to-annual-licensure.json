@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-27T22:09:35",
-    "updated_date": "2024-03-28T16:53:03",
+    "updated_date": "2024-03-28T17:11:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-27T15:09:35",
     "date_gmt": "2024-03-27T22:09:35",
     "guid": "https://api.cannabis.ca.gov/?p=17803",
-    "modified": "2024-03-28T09:53:03",
-    "modified_gmt": "2024-03-28T16:53:03",
+    "modified": "2024-03-28T10:11:51",
+    "modified_gmt": "2024-03-28T17:11:51",
     "slug": "faq-transitioning-to-annual-licensure",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "All",
       "FAQs",
       "Provisional licenses"
     ],
@@ -74,22 +73,6 @@
       "twitter_description": "Provisional licensees must actively and diligently pursue all requirements for annual licensure and comply with applicable laws. To help you successfully transition to annual licensure, DCC sends notifications identifying the outstanding information that DCC needs to complete its review of the annual application.  "
     },
     "headless_categories": [
-      {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
-        "term_group": 0,
-        "term_taxonomy_id": 1,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1,
-        "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
-      },
       {
         "term_id": 6,
         "name": "FAQs",
