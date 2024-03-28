@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-27T17:52:02",
-    "updated_date": "2024-03-28T23:18:02",
+    "updated_date": "2024-03-28T23:18:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-27T10:52:02",
     "date_gmt": "2024-03-27T17:52:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=17776",
-    "modified": "2024-03-28T16:18:02",
-    "modified_gmt": "2024-03-28T23:18:02",
+    "modified": "2024-03-28T16:18:08",
+    "modified_gmt": "2024-03-28T23:18:08",
     "slug": "blem-cannabis-flower",
     "status": "publish",
     "type": "page",
