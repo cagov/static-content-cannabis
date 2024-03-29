@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:39:08",
-    "updated_date": "2023-10-20T00:08:12",
+    "updated_date": "2024-03-29T17:10:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2023-09-21T16:39:08",
     "date_gmt": "2023-09-21T23:39:08",
     "guid": "https://api.cannabis.ca.gov/?page_id=14979",
-    "modified": "2023-10-19T17:08:12",
-    "modified_gmt": "2023-10-20T00:08:12",
-    "slug": "licensing-forms",
+    "modified": "2024-03-29T10:10:18",
+    "modified_gmt": "2024-03-29T17:10:18",
+    "slug": "dcc-forms",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-forms/",
+    "link": "https://api.cannabis.ca.gov/dcc-forms/",
     "title": "DCC Forms",
     "excerpt": "<p>Licensing forms Other forms</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-forms/",
+      "canonical_url": "https://api.cannabis.ca.gov/dcc-forms/",
       "page_title": "DCC Forms",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "DCC Forms",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-forms/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/dcc-forms/",
       "open_graph_title": "DCC Forms",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "DCC Forms",
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-forms/"
+    "wordpress_url": "https://api.cannabis.ca.gov/dcc-forms/"
   }
 }
