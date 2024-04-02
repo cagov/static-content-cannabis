@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-08-30T18:25:37",
-    "updated_date": "2024-03-29T19:23:44",
+    "updated_date": "2024-04-02T16:25:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-08-30T11:25:37",
     "date_gmt": "2022-08-30T18:25:37",
     "guid": "https://cannabis.ca.gov/?page_id=11368",
-    "modified": "2024-03-29T12:23:44",
-    "modified_gmt": "2024-03-29T19:23:44",
+    "modified": "2024-04-02T09:25:22",
+    "modified_gmt": "2024-04-02T16:25:22",
     "slug": "labor-peace-agreements-for-cannabis-businesses",
     "status": "publish",
     "type": "page",
@@ -64,7 +64,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Labor peace agreements for cannabis businesses",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "State law requires many commercial cannabis licensees to enter into, and abide by, labor peace agreements. Recent changes to state law have strengthened these requirements, by expanding the number of licensees that are subject to these requirements. This FAQ page is intended to help educate cannabis licensees and workers about state&#x2d;law requirements related to labor peace agreements in the cannabis industry. This FAQ page is for informational purposes only and is not intended to implement, interpret, or make specific any laws or regulations enforced by DCC.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/labor-peace-agreements-for-cannabis-businesses/",
       "open_graph_title": "Labor peace agreements for cannabis businesses",
       "open_graph_description": "Learn about California cannabis laws and licenses",
