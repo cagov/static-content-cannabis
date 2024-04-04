@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-26T21:00:50",
-    "updated_date": "2023-10-25T23:28:38",
+    "updated_date": "2024-04-04T20:54:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-10-26T14:00:50",
     "date_gmt": "2022-10-26T21:00:50",
     "guid": "https://api.cannabis.ca.gov/?p=12240",
-    "modified": "2023-10-25T16:28:38",
-    "modified_gmt": "2023-10-25T23:28:38",
+    "modified": "2024-04-04T13:54:03",
+    "modified_gmt": "2024-04-04T20:54:03",
     "slug": "unified-cannabis-enforcement-taskforce-targets-illegal-indoor-cultivation-in-industrial-warehouses-in-southern-california-in-second-operation",
     "status": "publish",
     "type": "post",
@@ -41,7 +41,8 @@
     "categories": [
       "2022 announcements",
       "Announcements",
-      "Press Releases"
+      "Press Releases",
+      "UCETF"
     ],
     "tags": [],
     "design_system_fields": {
@@ -121,6 +122,22 @@
         "cat_name": "Press Releases",
         "category_nicename": "press-releases",
         "category_parent": 0
+      },
+      {
+        "term_id": 884,
+        "name": "UCETF",
+        "slug": "ucetf",
+        "term_group": 0,
+        "term_taxonomy_id": 884,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 884,
+        "category_description": "",
+        "cat_name": "UCETF",
+        "category_nicename": "ucetf",
+        "category_parent": 14
       }
     ],
     "headless_tags": [],
