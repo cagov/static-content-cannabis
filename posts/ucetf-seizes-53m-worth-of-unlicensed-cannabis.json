@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2024-04-11T16:41:39",
+    "updated_date": "2024-04-11T16:41:45",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/17889",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 17889,
+    "date": "2024-04-11T09:41:39",
+    "date_gmt": "2024-04-11T16:41:39",
+    "guid": "https://api.cannabis.ca.gov/?p=17889",
+    "modified": "2024-04-11T09:41:45",
+    "modified_gmt": "2024-04-11T16:41:45",
+    "slug": "ucetf-seizes-53m-worth-of-unlicensed-cannabis",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/04/ucetf-seizes-53m-worth-of-unlicensed-cannabis/",
+    "title": "California’s Unified Cannabis Enforcement Taskforce  Seizes $53M Worth of Unlicensed Cannabis ",
+    "excerpt": "<p>CALIFORNIA &#8211; Reinforcing California’s commitment to supporting legal cannabis operators and dismantling the illegal market, the Governor’s Unified Cannabis Enforcement Taskforce (UCETF) seized more than $53,620,600 million in illegal cannabis in the first quarter of this calendar year.&nbsp; Other enforcement highlights from the period of January 1, 2024, through March 31, 2024, includes: “California is [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "UCETF"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-single"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/04/ucetf-seizes-53m-worth-of-unlicensed-cannabis/",
+      "page_title": "California’s Unified Cannabis Enforcement Taskforce  Seizes $53M Worth of Unlicensed Cannabis ",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "California’s Unified Cannabis Enforcement Taskforce  Seizes $53M Worth of Unlicensed Cannabis ",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/04/ucetf-seizes-53m-worth-of-unlicensed-cannabis/",
+      "open_graph_title": "California’s Unified Cannabis Enforcement Taskforce  Seizes $53M Worth of Unlicensed Cannabis ",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "California’s Unified Cannabis Enforcement Taskforce  Seizes $53M Worth of Unlicensed Cannabis ",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 884,
+        "name": "UCETF",
+        "slug": "ucetf",
+        "term_group": 0,
+        "term_taxonomy_id": 884,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 884,
+        "category_description": "",
+        "cat_name": "UCETF",
+        "category_nicename": "ucetf",
+        "category_parent": 14
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/04/ucetf-seizes-53m-worth-of-unlicensed-cannabis/"
+  }
+}
