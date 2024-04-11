@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 142,
+      "redirects": 143,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4167,6 +4167,32 @@
       "regex": false,
       "group_id": 1,
       "position": 141,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 393,
+      "url": "/2024/04/californias-unified-cannabis-enforcement-taskforce-continues-strategic-approach-to-disrupting-unlicensed-cannabis-market/",
+      "match_url": "/2024/04/californias-unified-cannabis-enforcement-taskforce-continues-strategic-approach-to-disrupting-unlicensed-cannabis-market",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/04/ucetf-seizes-53m-worth-of-unlicensed-cannabis/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 142,
       "last_access": "-",
       "enabled": true
     }
