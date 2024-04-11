@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-11T16:41:39",
-    "updated_date": "2024-04-11T17:19:19",
+    "updated_date": "2024-04-11T17:26:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-11T09:41:39",
     "date_gmt": "2024-04-11T16:41:39",
     "guid": "https://api.cannabis.ca.gov/?p=17889",
-    "modified": "2024-04-11T10:19:19",
-    "modified_gmt": "2024-04-11T17:19:19",
+    "modified": "2024-04-11T10:26:47",
+    "modified_gmt": "2024-04-11T17:26:47",
     "slug": "ucetf-seizes-53m-worth-of-unlicensed-cannabis",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,8 @@
       "footnotes": ""
     },
     "categories": [
+      "2024 announcements",
+      "Announcements",
       "UCETF"
     ],
     "tags": [],
@@ -72,6 +74,38 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 914,
+        "name": "2024 announcements",
+        "slug": "2024-announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 914,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 914,
+        "category_description": "",
+        "cat_name": "2024 announcements",
+        "category_nicename": "2024-announcements",
+        "category_parent": 14
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      },
       {
         "term_id": 884,
         "name": "UCETF",
