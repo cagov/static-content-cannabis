@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 143,
+      "redirects": 144,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4193,6 +4193,32 @@
       "regex": false,
       "group_id": 1,
       "position": 142,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 394,
+      "url": "/unified-cannabis-enforcement-taskforce-ucetf/",
+      "match_url": "/unified-cannabis-enforcement-taskforce-ucetf",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/unified-cannabis-enforcement-taskforce-ucetf/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 143,
       "last_access": "-",
       "enabled": true
     }
