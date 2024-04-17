@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-16T17:14:51",
-    "updated_date": "2024-04-17T22:16:30",
+    "updated_date": "2024-04-17T22:16:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-16T09:14:51",
     "date_gmt": "2024-01-16T17:14:51",
     "guid": "https://api.cannabis.ca.gov/?p=16800",
-    "modified": "2024-04-17T15:16:30",
-    "modified_gmt": "2024-04-17T22:16:30",
+    "modified": "2024-04-17T15:16:36",
+    "modified_gmt": "2024-04-17T22:16:36",
     "slug": "california-seizes-over-312m-in-unlicensed-cannabis-during-task-forces-first-calendar-year-of-operation",
     "status": "publish",
     "type": "post",
