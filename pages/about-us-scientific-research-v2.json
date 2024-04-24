@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-23T22:11:22",
-    "updated_date": "2024-04-24T02:39:36",
+    "updated_date": "2024-04-24T02:42:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-23T15:11:22",
     "date_gmt": "2024-04-23T22:11:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=18038",
-    "modified": "2024-04-23T19:39:36",
-    "modified_gmt": "2024-04-24T02:39:36",
+    "modified": "2024-04-23T19:42:48",
+    "modified_gmt": "2024-04-24T02:42:48",
     "slug": "about-us-scientific-research-v2",
     "status": "publish",
     "type": "page",
