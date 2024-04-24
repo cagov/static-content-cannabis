@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-23T22:11:22",
-    "updated_date": "2024-04-24T02:31:37",
+    "updated_date": "2024-04-24T02:39:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-04-23T15:11:22",
     "date_gmt": "2024-04-23T22:11:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=18038",
-    "modified": "2024-04-23T19:31:37",
-    "modified_gmt": "2024-04-24T02:31:37",
-    "slug": "scientific-research-v2",
+    "modified": "2024-04-23T19:39:36",
+    "modified_gmt": "2024-04-24T02:39:36",
+    "slug": "about-us-scientific-research-v2",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/scientific-research-v2/",
+    "link": "https://api.cannabis.ca.gov/about-us-scientific-research-v2/",
     "title": "Scientific research",
     "excerpt": "<p>What we are studying Year Status Public University Funding Awarded Category Research focus: Summary: Topics: Year Status Public University Funding Awarded Category Research Focus Summary Topics 2023 In progress UC Davis $856,881 Other Chemistry, toxicology, and brain disposition of cannabinoids, novel cannabinoids, and mixtures in electronic cigarettes. Studying the chemistry, toxicology, and health impacts of [&hellip;]</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/scientific-research-v2/",
+      "canonical_url": "https://api.cannabis.ca.gov/about-us-scientific-research-v2/",
       "page_title": "Scientific research",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Scientific research",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/scientific-research-v2/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us-scientific-research-v2/",
       "open_graph_title": "Scientific research",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Scientific research",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/scientific-research-v2/"
+    "wordpress_url": "https://api.cannabis.ca.gov/about-us-scientific-research-v2/"
   }
 }
