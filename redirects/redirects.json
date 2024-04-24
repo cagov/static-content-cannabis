@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 149,
+      "redirects": 150,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4323,6 +4323,32 @@
       "regex": false,
       "group_id": 1,
       "position": 148,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 400,
+      "url": "/about-us-scientific-research-v2/",
+      "match_url": "/about-us-scientific-research-v2",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/scientific-research-v2/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 149,
       "last_access": "-",
       "enabled": true
     }
