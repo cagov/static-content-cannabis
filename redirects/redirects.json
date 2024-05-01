@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 152,
+      "redirects": 153,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4401,6 +4401,32 @@
       "regex": false,
       "group_id": 1,
       "position": 151,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 403,
+      "url": "/2024/05/draft-environmental-impact-report-mendocino-county-project/",
+      "match_url": "/2024/05/draft-environmental-impact-report-mendocino-county-project",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/05/notice-of-availability-draft-environmental-impact-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 152,
       "last_access": "-",
       "enabled": true
     }
