@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-31T17:08:05",
-    "updated_date": "2024-04-29T23:38:08",
+    "updated_date": "2024-05-01T17:43:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-31T10:08:05",
     "date_gmt": "2023-07-31T17:08:05",
     "guid": "https://api.cannabis.ca.gov/?p=14203",
-    "modified": "2024-04-29T16:38:08",
-    "modified_gmt": "2024-04-29T23:38:08",
+    "modified": "2024-05-01T10:43:11",
+    "modified_gmt": "2024-05-01T17:43:11",
     "slug": "mendocino-county-environmental-impact-report",
     "status": "publish",
     "type": "post",
