@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-01T16:25:09",
-    "updated_date": "2024-05-01T17:45:52",
+    "updated_date": "2024-05-01T17:53:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-05-01T09:25:09",
     "date_gmt": "2024-05-01T16:25:09",
     "guid": "https://api.cannabis.ca.gov/?p=18094",
-    "modified": "2024-05-01T10:45:52",
-    "modified_gmt": "2024-05-01T17:45:52",
-    "slug": "draft-environmental-impact-report-mendocino-county-project",
+    "modified": "2024-05-01T10:53:03",
+    "modified_gmt": "2024-05-01T17:53:03",
+    "slug": "notice-of-availability-draft-environmental-impact-report",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/05/draft-environmental-impact-report-mendocino-county-project/",
+    "link": "https://api.cannabis.ca.gov/2024/05/notice-of-availability-draft-environmental-impact-report/",
     "title": "Notice of Availability and Virtual Meeting for a Draft Environmental Impact Report for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
     "excerpt": "<p>The Department of Cannabis Control (DCC), as Lead Agency has prepared a Draft Environmental Impact Report (EIR) for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project (Project). The Project consists of the DCC actions to approve annual licensing of commercial cannabis cultivation sites and related distribution transport-only operations that have satisfied annual licensing [&hellip;]</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/05/draft-environmental-impact-report-mendocino-county-project/",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/05/notice-of-availability-draft-environmental-impact-report/",
       "page_title": "Notice of Availability and Virtual Meeting for a Draft Environmental Impact Report for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Notice of Availability and Virtual Meeting for a Draft Environmental Impact Report for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/05/draft-environmental-impact-report-mendocino-county-project/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/05/notice-of-availability-draft-environmental-impact-report/",
       "open_graph_title": "Notice of Availability and Virtual Meeting for a Draft Environmental Impact Report for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Notice of Availability and Virtual Meeting for a Draft Environmental Impact Report for the Licensing of Commercial Cannabis Cultivation in Mendocino County Project",
@@ -114,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/05/draft-environmental-impact-report-mendocino-county-project/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/05/notice-of-availability-draft-environmental-impact-report/"
   }
 }
