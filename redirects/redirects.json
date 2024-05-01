@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 151,
+      "redirects": 152,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4375,6 +4375,32 @@
       "regex": false,
       "group_id": 1,
       "position": 150,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 402,
+      "url": "/2024/04/notice-of-availability-and-virtual-meeting-for-a-draft-environmental-impact-report-for-the-licensing-of-commercial-cannabis-cultivation-in-mendocino-county-project/",
+      "match_url": "/2024/04/notice-of-availability-and-virtual-meeting-for-a-draft-environmental-impact-report-for-the-licensing-of-commercial-cannabis-cultivation-in-mendocino-county-project",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/05/draft-environmental-impact-report-mendocino-county-project/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 151,
       "last_access": "-",
       "enabled": true
     }
