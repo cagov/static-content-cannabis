@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-03T18:14:33",
-    "updated_date": "2024-05-03T19:08:26",
+    "updated_date": "2024-05-03T19:16:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-03T11:14:33",
     "date_gmt": "2024-05-03T18:14:33",
     "guid": "https://api.cannabis.ca.gov/?p=18094",
-    "modified": "2024-05-03T12:08:26",
-    "modified_gmt": "2024-05-03T19:08:26",
+    "modified": "2024-05-03T12:16:17",
+    "modified_gmt": "2024-05-03T19:16:17",
     "slug": "notice-of-availability-draft-environmental-impact-report",
     "status": "publish",
     "type": "post",
@@ -39,11 +39,11 @@
       "footnotes": ""
     },
     "categories": [
+      "2024 announcements",
+      "Announcements",
       "Environmental impact reports"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single"
     },
@@ -75,6 +75,38 @@
     },
     "headless_categories": [
       {
+        "term_id": 914,
+        "name": "2024 announcements",
+        "slug": "2024-announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 914,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 914,
+        "category_description": "",
+        "cat_name": "2024 announcements",
+        "category_nicename": "2024-announcements",
+        "category_parent": 14
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
         "term_id": 818,
         "name": "Environmental impact reports",
         "slug": "environmental-impact-reports",
@@ -91,19 +123,7 @@
         "category_parent": 817
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
