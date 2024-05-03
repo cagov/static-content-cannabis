@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-02T20:56:47",
-    "updated_date": "2023-12-14T00:17:46",
+    "updated_date": "2024-05-03T22:34:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-02T13:56:47",
     "date_gmt": "2023-06-02T20:56:47",
     "guid": "https://api.cannabis.ca.gov/?p=13740",
-    "modified": "2023-12-13T16:17:46",
-    "modified_gmt": "2023-12-14T00:17:46",
+    "modified": "2024-05-03T15:34:57",
+    "modified_gmt": "2024-05-03T22:34:57",
     "slug": "cannabis-cultivator-self-inspection-checklist",
     "status": "publish",
     "type": "post",
