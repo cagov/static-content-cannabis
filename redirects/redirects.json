@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 153,
+      "redirects": 154,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4427,6 +4427,32 @@
       "regex": false,
       "group_id": 1,
       "position": 152,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 404,
+      "url": "/canndescent-california-100-whole-flower-pre-rolls/",
+      "match_url": "/canndescent-california-100-whole-flower-pre-rolls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/canndescent-california-100-whole-flower-pre-rolls/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 153,
       "last_access": "-",
       "enabled": true
     }
