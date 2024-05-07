@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-24T17:33:31",
-    "updated_date": "2024-02-21T16:02:40",
+    "updated_date": "2024-05-07T16:02:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-24T09:33:31",
     "date_gmt": "2024-01-24T17:33:31",
     "guid": "https://api.cannabis.ca.gov/?page_id=16856",
-    "modified": "2024-02-21T08:02:40",
-    "modified_gmt": "2024-02-21T16:02:40",
+    "modified": "2024-05-07T09:02:07",
+    "modified_gmt": "2024-05-07T16:02:07",
     "slug": "data-dashboard-glossary",
     "status": "publish",
     "type": "page",
@@ -64,7 +64,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Data Dashboard Glossary and Notes",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "Notes and definitions for the following reports: Sales Report, Harvest Report, Cannabis License Summary, Data Dashboard Change Log.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/resources/data-dashboard/data-dashboard-glossary/",
       "open_graph_title": "Data Dashboard Glossary and Notes",
       "open_graph_description": "Learn about California cannabis laws and licenses",
