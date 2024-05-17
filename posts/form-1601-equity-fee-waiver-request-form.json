@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:20:44",
-    "updated_date": "2024-05-17T22:24:29",
+    "updated_date": "2024-05-17T23:00:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-03T11:20:44",
     "date_gmt": "2023-10-03T18:20:44",
     "guid": "https://api.cannabis.ca.gov/?p=15054",
-    "modified": "2024-05-17T15:24:29",
-    "modified_gmt": "2024-05-17T22:24:29",
+    "modified": "2024-05-17T16:00:14",
+    "modified_gmt": "2024-05-17T23:00:14",
     "slug": "form-1601-equity-fee-waiver-request-form",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "Equity fee relief",
-      "Forms-Other"
+      "Forms"
     ],
     "tags": [],
     "design_system_fields": {
@@ -90,19 +90,19 @@
         "category_parent": 0
       },
       {
-        "term_id": 861,
-        "name": "Forms-Other",
-        "slug": "forms-other",
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
         "term_group": 0,
-        "term_taxonomy_id": 861,
+        "term_taxonomy_id": 845,
         "taxonomy": "category",
-        "description": "",
+        "description": "View all forms for DCC.",
         "parent": 2,
         "filter": "raw",
-        "cat_ID": 861,
-        "category_description": "",
-        "cat_name": "Forms-Other",
-        "category_nicename": "forms-other",
+        "cat_ID": 845,
+        "category_description": "View all forms for DCC.",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
         "category_parent": 2
       }
     ],
