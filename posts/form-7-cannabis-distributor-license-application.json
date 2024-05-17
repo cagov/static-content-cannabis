@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T21:51:34",
-    "updated_date": "2024-05-17T23:05:47",
+    "updated_date": "2024-05-17T23:05:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-17T14:51:34",
     "date_gmt": "2024-05-17T21:51:34",
     "guid": "https://api.cannabis.ca.gov/?p=18253",
-    "modified": "2024-05-17T16:05:47",
-    "modified_gmt": "2024-05-17T23:05:47",
+    "modified": "2024-05-17T16:05:52",
+    "modified_gmt": "2024-05-17T23:05:52",
     "slug": "form-7-cannabis-distributor-license-application",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      null
+      "Application forms"
     ],
     "tags": [
       "staging"
