@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T19:44:29",
-    "updated_date": "2024-05-17T22:48:52",
+    "updated_date": "2024-05-17T22:59:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-03T12:44:29",
     "date_gmt": "2023-11-03T19:44:29",
     "guid": "https://api.cannabis.ca.gov/?p=15845",
-    "modified": "2024-05-17T15:48:52",
-    "modified_gmt": "2024-05-17T22:48:52",
+    "modified": "2024-05-17T15:59:33",
+    "modified_gmt": "2024-05-17T22:59:33",
     "slug": "landowner-approval-consent-form-dcc-9206",
     "status": "publish",
     "type": "post",
@@ -40,8 +40,7 @@
     },
     "categories": [
       "Application resources",
-      "Forms",
-      "Forms-Other"
+      "Forms"
     ],
     "tags": [],
     "design_system_fields": {
@@ -104,22 +103,6 @@
         "category_description": "View all forms for DCC.",
         "cat_name": "Forms",
         "category_nicename": "forms",
-        "category_parent": 2
-      },
-      {
-        "term_id": 861,
-        "name": "Forms-Other",
-        "slug": "forms-other",
-        "term_group": 0,
-        "term_taxonomy_id": 861,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 2,
-        "filter": "raw",
-        "cat_ID": 861,
-        "category_description": "",
-        "cat_name": "Forms-Other",
-        "category_nicename": "forms-other",
         "category_parent": 2
       }
     ],
