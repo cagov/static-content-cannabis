@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:48:50",
-    "updated_date": "2023-12-28T20:00:39",
+    "updated_date": "2024-05-17T22:08:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-21T16:48:50",
     "date_gmt": "2023-09-21T23:48:50",
     "guid": "https://api.cannabis.ca.gov/?p=14988",
-    "modified": "2023-12-28T12:00:39",
-    "modified_gmt": "2023-12-28T20:00:39",
+    "modified": "2024-05-17T15:08:54",
+    "modified_gmt": "2024-05-17T22:08:54",
     "slug": "sample-preparation-standard-operating-procedures-dcc-lic-022",
     "status": "publish",
     "type": "post",
