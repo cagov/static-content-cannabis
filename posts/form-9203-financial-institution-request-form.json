@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2024-05-17T22:43:56",
+    "updated_date": "2024-05-17T22:44:02",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/18298",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 18298,
+    "date": "2024-05-17T15:43:56",
+    "date_gmt": "2024-05-17T22:43:56",
+    "guid": "https://api.cannabis.ca.gov/?p=18298",
+    "modified": "2024-05-17T15:44:02",
+    "modified_gmt": "2024-05-17T22:44:02",
+    "slug": "form-9203-financial-institution-request-form",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/05/form-9203-financial-institution-request-form/",
+    "title": "Form 9203: Financial Institution Request Form",
+    "excerpt": "<p>Business and Professions Code section 26260 allows the Department of Cannabis Control to release non-public licensee information to financial institutions to help licensees access financial services. Financial institutions must use this form to request licensee information under these provisions. This form must be completed and signed by a representative of the financial institution and submitted [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Forms"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/05/form-9203-financial-institution-request-form/",
+      "page_title": "Form 9203: Financial Institution Request Form",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Form 9203: Financial Institution Request Form",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/05/form-9203-financial-institution-request-form/",
+      "open_graph_title": "Form 9203: Financial Institution Request Form",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Form 9203: Financial Institution Request Form",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
+        "term_group": 0,
+        "term_taxonomy_id": 845,
+        "taxonomy": "category",
+        "description": "View all forms for DCC.",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 845,
+        "category_description": "View all forms for DCC.",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
+        "category_parent": 2
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/05/form-9203-financial-institution-request-form/"
+  }
+}
