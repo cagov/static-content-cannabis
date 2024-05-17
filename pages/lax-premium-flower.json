@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-16T22:53:34",
-    "updated_date": "2024-05-17T00:01:40",
+    "updated_date": "2024-05-17T17:11:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-05-16T15:53:34",
     "date_gmt": "2024-05-16T22:53:34",
     "guid": "https://api.cannabis.ca.gov/?page_id=18220",
-    "modified": "2024-05-16T17:01:40",
-    "modified_gmt": "2024-05-17T00:01:40",
-    "slug": "lax-packs-premium-flower",
+    "modified": "2024-05-17T10:11:32",
+    "modified_gmt": "2024-05-17T17:11:32",
+    "slug": "lax-premium-flower",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lax-packs-premium-flower/",
-    "title": "LAX PACKS PREMIUM FLOWER",
-    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall for multiple LAX PACKS PREMIUM FLOWER cannabis flower products due to the potential presence of Aspergillus fumigatus, and due to inaccurate labeling that reports more THC than the product contains. DCC Recall Publication Date 5/16/2024 Recall Type Mandatory Product Type Cannabis Flower [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lax-premium-flower/",
+    "title": "LAX PREMIUM FLOWER",
+    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall for multiple LAX PREMIUM FLOWER products due to the presence of Aspergillus fumigatus, and due to inaccurate labeling, that reports more cannabinoid content than the product contains. DCC Recall Publication Date 5/17/2024 Recall Type Mandatory Product Type Flower Product Description LAX PREMIUM [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 9345,
@@ -59,19 +59,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lax-packs-premium-flower/",
-      "page_title": "LAX PACKS PREMIUM FLOWER",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lax-premium-flower/",
+      "page_title": "LAX PREMIUM FLOWER",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "LAX PACKS PREMIUM FLOWER",
+      "meta_title": "LAX PREMIUM FLOWER",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lax-packs-premium-flower/",
-      "open_graph_title": "LAX PACKS PREMIUM FLOWER",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lax-premium-flower/",
+      "open_graph_title": "LAX PREMIUM FLOWER",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "LAX PACKS PREMIUM FLOWER",
+      "twitter_title": "LAX PREMIUM FLOWER",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -123,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lax-packs-premium-flower/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lax-premium-flower/"
   }
 }
