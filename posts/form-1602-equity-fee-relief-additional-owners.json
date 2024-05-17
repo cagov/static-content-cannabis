@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:09:16",
-    "updated_date": "2023-12-06T00:42:10",
+    "updated_date": "2024-05-17T22:25:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-03T11:09:16",
     "date_gmt": "2023-10-03T18:09:16",
     "guid": "https://api.cannabis.ca.gov/?p=15044",
-    "modified": "2023-12-05T16:42:10",
-    "modified_gmt": "2023-12-06T00:42:10",
+    "modified": "2024-05-17T15:25:36",
+    "modified_gmt": "2024-05-17T22:25:36",
     "slug": "form-1602-equity-fee-relief-additional-owners",
     "status": "publish",
     "type": "post",
@@ -40,6 +40,7 @@
     },
     "categories": [
       "Equity fee relief",
+      "Forms",
       "Forms-Other"
     ],
     "tags": [],
@@ -88,6 +89,22 @@
         "cat_name": "Equity fee relief",
         "category_nicename": "equity-fee-relief",
         "category_parent": 0
+      },
+      {
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
+        "term_group": 0,
+        "term_taxonomy_id": 845,
+        "taxonomy": "category",
+        "description": "View all forms for DCC.",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 845,
+        "category_description": "View all forms for DCC.",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
+        "category_parent": 2
       },
       {
         "term_id": 861,
