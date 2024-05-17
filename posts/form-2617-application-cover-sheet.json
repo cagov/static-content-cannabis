@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T22:26:46",
-    "updated_date": "2024-05-17T22:26:52",
+    "updated_date": "2024-05-17T22:55:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-17T15:26:46",
     "date_gmt": "2024-05-17T22:26:46",
     "guid": "https://api.cannabis.ca.gov/?p=18284",
-    "modified": "2024-05-17T15:26:52",
-    "modified_gmt": "2024-05-17T22:26:52",
+    "modified": "2024-05-17T15:55:25",
+    "modified_gmt": "2024-05-17T22:55:25",
     "slug": "form-2617-application-cover-sheet",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms"
+      "Grant forms"
     ],
     "tags": [
       "staging"
@@ -75,19 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 845,
-        "name": "Forms",
-        "slug": "forms",
+        "term_id": 923,
+        "name": "Grant forms",
+        "slug": "grant-forms",
         "term_group": 0,
-        "term_taxonomy_id": 845,
+        "term_taxonomy_id": 923,
         "taxonomy": "category",
-        "description": "View all forms for DCC.",
+        "description": "",
         "parent": 2,
         "filter": "raw",
-        "cat_ID": 845,
-        "category_description": "View all forms for DCC.",
-        "cat_name": "Forms",
-        "category_nicename": "forms",
+        "cat_ID": 923,
+        "category_description": "",
+        "cat_name": "Grant forms",
+        "category_nicename": "grant-forms",
         "category_parent": 2
       }
     ],
