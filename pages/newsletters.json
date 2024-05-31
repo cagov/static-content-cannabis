@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-31T17:26:50",
-    "updated_date": "2024-05-31T18:12:08",
+    "updated_date": "2024-05-31T18:31:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-31T10:26:50",
     "date_gmt": "2024-05-31T17:26:50",
     "guid": "https://api.cannabis.ca.gov/?page_id=18356",
-    "modified": "2024-05-31T11:12:08",
-    "modified_gmt": "2024-05-31T18:12:08",
+    "modified": "2024-05-31T11:31:18",
+    "modified_gmt": "2024-05-31T18:31:18",
     "slug": "newsletters",
     "status": "publish",
     "type": "page",
