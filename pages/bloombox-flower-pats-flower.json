@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-03T19:10:01",
-    "updated_date": "2024-06-03T21:15:20",
+    "updated_date": "2024-06-03T21:18:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-06-03T12:10:01",
     "date_gmt": "2024-06-03T19:10:01",
     "guid": "https://api.cannabis.ca.gov/?page_id=18374",
-    "modified": "2024-06-03T14:15:20",
-    "modified_gmt": "2024-06-03T21:15:20",
-    "slug": "la-pop-rocks-x-purple-push-pop-flower",
+    "modified": "2024-06-03T14:18:23",
+    "modified_gmt": "2024-06-03T21:18:23",
+    "slug": "bloombox-flower-pats-flower",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower/",
-    "title": "LA Pop Rocks x Purple Push Pop Flower ",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/bloombox-flower-pats-flower/",
+    "title": "BloomBox Flower and Pat’s Flower ",
     "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall for a single BloomBox Flower product and a single Pat’s Flower product due to the presence of Aspergillus niger, and due to inaccurate labeling, that reports more cannabinoid content than the product contains. DCC Recall Publication Date June 3, 2024 Recall Type [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -59,19 +59,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower/",
-      "page_title": "LA Pop Rocks x Purple Push Pop Flower ",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/bloombox-flower-pats-flower/",
+      "page_title": "BloomBox Flower and Pat’s Flower ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "LA Pop Rocks x Purple Push Pop Flower ",
+      "meta_title": "BloomBox Flower and Pat’s Flower ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower/",
-      "open_graph_title": "LA Pop Rocks x Purple Push Pop Flower ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/bloombox-flower-pats-flower/",
+      "open_graph_title": "BloomBox Flower and Pat’s Flower ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "LA Pop Rocks x Purple Push Pop Flower ",
+      "twitter_title": "BloomBox Flower and Pat’s Flower ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -123,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/bloombox-flower-pats-flower/"
   }
 }
