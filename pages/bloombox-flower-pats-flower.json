@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-03T19:10:01",
-    "updated_date": "2024-06-03T22:22:21",
+    "updated_date": "2024-06-03T22:50:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-03T12:10:01",
     "date_gmt": "2024-06-03T19:10:01",
     "guid": "https://api.cannabis.ca.gov/?page_id=18374",
-    "modified": "2024-06-03T15:22:21",
-    "modified_gmt": "2024-06-03T22:22:21",
+    "modified": "2024-06-03T15:50:55",
+    "modified_gmt": "2024-06-03T22:50:55",
     "slug": "bloombox-flower-pats-flower",
     "status": "publish",
     "type": "page",
