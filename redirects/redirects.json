@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 157,
+      "redirects": 159,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4505,6 +4505,58 @@
       "regex": false,
       "group_id": 1,
       "position": 156,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 408,
+      "url": "/la-pop-rocks-x-purple-push-pop-flower/",
+      "match_url": "/la-pop-rocks-x-purple-push-pop-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 157,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 409,
+      "url": "/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/bloombox-flower-pats-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 158,
       "last_access": "-",
       "enabled": true
     }
