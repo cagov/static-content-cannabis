@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-31T17:26:50",
-    "updated_date": "2024-06-08T17:25:58",
+    "updated_date": "2024-06-08T18:38:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-05-31T10:26:50",
     "date_gmt": "2024-05-31T17:26:50",
     "guid": "https://api.cannabis.ca.gov/?page_id=18356",
-    "modified": "2024-06-08T10:25:58",
-    "modified_gmt": "2024-06-08T17:25:58",
+    "modified": "2024-06-08T11:38:38",
+    "modified_gmt": "2024-06-08T18:38:38",
     "slug": "newsletters",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/newsletters/",
-    "title": "Read News and Announcements from DCC",
+    "title": "News and announcements",
     "excerpt": "<p>Browse this page to find public service announcements, news releases and other information about department. Sign up for news and announcements * indicates required Email Address * First Name Last Name</p>\n",
     "author": 33,
     "featured_media": 0,
@@ -41,9 +41,7 @@
     "categories": [
       "Resources"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -59,18 +57,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/resources/newsletters/",
-      "page_title": "Read News and Announcements from DCC",
+      "page_title": "News and announcements",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Read News and Announcements from DCC",
+      "meta_title": "News and announcements",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/resources/newsletters/",
-      "open_graph_title": "Read News and Announcements from DCC",
+      "open_graph_title": "News and announcements",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Read News and Announcements from DCC",
+      "twitter_title": "News and announcements",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/newsletters/"
