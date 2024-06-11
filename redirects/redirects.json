@@ -1,4 +1,8 @@
 {
+  "plugin": {
+    "version": "5.4.2",
+    "date": "Wed, 05 Jun 2024 17:20:34 +0000"
+  },
   "groups": [
     {
       "id": 1,
