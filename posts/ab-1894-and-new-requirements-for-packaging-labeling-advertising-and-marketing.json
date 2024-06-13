@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-13T16:28:15",
-    "updated_date": "2024-06-13T18:46:41",
+    "updated_date": "2024-06-13T19:15:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-13T09:28:15",
     "date_gmt": "2024-06-13T16:28:15",
     "guid": "https://api.cannabis.ca.gov/?p=18461",
-    "modified": "2024-06-13T11:46:41",
-    "modified_gmt": "2024-06-13T18:46:41",
+    "modified": "2024-06-13T12:15:17",
+    "modified_gmt": "2024-06-13T19:15:17",
     "slug": "ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing",
     "status": "publish",
     "type": "post",
@@ -39,9 +39,13 @@
       "footnotes": ""
     },
     "categories": [
-      "CannaConnect"
+      "CannaConnect",
+      "Labeling",
+      "Packaging"
     ],
-    "tags": [],
+    "tags": [
+      "latest updates"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -87,9 +91,53 @@
         "cat_name": "CannaConnect",
         "category_nicename": "cannaconnect",
         "category_parent": 0
+      },
+      {
+        "term_id": 863,
+        "name": "Labeling",
+        "slug": "labeling",
+        "term_group": 0,
+        "term_taxonomy_id": 863,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 863,
+        "category_description": "",
+        "cat_name": "Labeling",
+        "category_nicename": "labeling",
+        "category_parent": 800
+      },
+      {
+        "term_id": 864,
+        "name": "Packaging",
+        "slug": "packaging",
+        "term_group": 0,
+        "term_taxonomy_id": 864,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 864,
+        "category_description": "",
+        "cat_name": "Packaging",
+        "category_nicename": "packaging",
+        "category_parent": 800
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 922,
+        "name": "latest updates",
+        "slug": "latest-updates",
+        "term_group": 0,
+        "term_taxonomy_id": 922,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
