@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T22:22:37",
-    "updated_date": "2024-05-17T22:58:27",
+    "updated_date": "2024-06-17T16:40:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-17T15:22:37",
     "date_gmt": "2024-05-17T22:22:37",
     "guid": "https://api.cannabis.ca.gov/?p=18279",
-    "modified": "2024-05-17T15:58:27",
-    "modified_gmt": "2024-05-17T22:58:27",
+    "modified": "2024-06-17T09:40:50",
+    "modified_gmt": "2024-06-17T16:40:50",
     "slug": "form-1102-cannabis-advisory-committee-application",
     "status": "publish",
     "type": "post",
