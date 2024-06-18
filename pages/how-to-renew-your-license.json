@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T21:09:04",
-    "updated_date": "2024-06-18T17:09:24",
+    "updated_date": "2024-06-18T19:09:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T14:09:04",
     "date_gmt": "2023-10-30T21:09:04",
     "guid": "https://api.cannabis.ca.gov/?page_id=15678",
-    "modified": "2024-06-18T10:09:24",
-    "modified_gmt": "2024-06-18T17:09:24",
+    "modified": "2024-06-18T12:09:42",
+    "modified_gmt": "2024-06-18T19:09:42",
     "slug": "how-to-renew-your-license",
     "status": "publish",
     "type": "page",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "FAQs",
       "Renewal"
     ],
     "tags": [],
@@ -72,6 +73,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 6,
+        "name": "FAQs",
+        "slug": "faqs",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 6,
+        "category_description": "",
+        "cat_name": "FAQs",
+        "category_nicename": "faqs",
+        "category_parent": 2
+      },
       {
         "term_id": 875,
         "name": "Renewal",
