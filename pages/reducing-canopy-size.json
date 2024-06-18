@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-11T18:52:00",
-    "updated_date": "2024-03-13T17:29:03",
+    "updated_date": "2024-06-18T19:08:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-11T11:52:00",
     "date_gmt": "2024-03-11T18:52:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=17574",
-    "modified": "2024-03-13T10:29:03",
-    "modified_gmt": "2024-03-13T17:29:03",
+    "modified": "2024-06-18T12:08:20",
+    "modified_gmt": "2024-06-18T19:08:20",
     "slug": "reducing-canopy-size",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Cultivation license changes"
+      "Cultivation license changes",
+      "FAQs"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "Cultivation license changes",
         "category_nicename": "cultivation-license-changes",
         "category_parent": 801
+      },
+      {
+        "term_id": 6,
+        "name": "FAQs",
+        "slug": "faqs",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 6,
+        "category_description": "",
+        "cat_name": "FAQs",
+        "category_nicename": "faqs",
+        "category_parent": 2
       }
     ],
     "headless_tags": [],
