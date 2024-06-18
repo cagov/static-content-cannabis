@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T19:40:47",
-    "updated_date": "2024-06-18T22:34:28",
+    "updated_date": "2024-06-18T23:30:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-11-03T12:40:47",
     "date_gmt": "2023-11-03T19:40:47",
     "guid": "https://api.cannabis.ca.gov/?p=15843",
-    "modified": "2024-06-18T15:34:28",
-    "modified_gmt": "2024-06-18T22:34:28",
+    "modified": "2024-06-18T16:30:33",
+    "modified_gmt": "2024-06-18T23:30:33",
     "slug": "labor-peace-agreement-notarized-statement-dcc-9205",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/11/labor-peace-agreement-notarized-statement-dcc-9205/",
     "title": "Form 9205: Labor Peace Agreement Notarized Statement",
-    "excerpt": "<p>An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement required by Business and Professions Code section 26051.5 and Department regulations sections 15002(c)(19) and 15023(b). This statement must be signed by an owner who is identified and disclosed on the license application.</p>\n",
+    "excerpt": "<p>An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement. This must be submitted along with form DCC-LIC-027. </p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,10 +39,13 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms-Other",
+      "Forms",
       "Labor peace"
     ],
-    "tags": [],
+    "tags": [
+      "form",
+      "labor peace"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -59,34 +62,34 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/11/labor-peace-agreement-notarized-statement-dcc-9205/",
       "page_title": "Form 9205: Labor Peace Agreement Notarized Statement",
-      "page_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement required by Business and Professions Code section 26051.5 and Department regulations sections 15002(c)(19) and 15023(b). This statement must be signed by an owner who is identified and disclosed on the license application.",
+      "page_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement. This must be submitted along with form DCC-LIC-027. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Form 9205: Labor Peace Agreement Notarized Statement",
-      "meta_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement required by Business and Professions Code section 26051.5 and Department regulations sections 15002(c)(19) and 15023(b). This statement must be signed by an owner who is identified and disclosed on the license application.",
+      "meta_description": "Labor peace agreement notarized statement (form 9205).",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/labor-peace-agreement-notarized-statement-dcc-9205/",
       "open_graph_title": "Form 9205: Labor Peace Agreement Notarized Statement",
-      "open_graph_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement required by Business and Professions Code section 26051.5 and Department regulations sections 15002(c)(19) and 15023(b). This statement must be signed by an owner who is identified and disclosed on the license application.",
+      "open_graph_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement. This must be submitted along with form DCC-LIC-027. ",
       "twitter_title": "Form 9205: Labor Peace Agreement Notarized Statement",
-      "twitter_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement required by Business and Professions Code section 26051.5 and Department regulations sections 15002(c)(19) and 15023(b). This statement must be signed by an owner who is identified and disclosed on the license application."
+      "twitter_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement. This must be submitted along with form DCC-LIC-027. "
     },
     "headless_categories": [
       {
-        "term_id": 861,
-        "name": "Forms-Other",
-        "slug": "forms-other",
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
         "term_group": 0,
-        "term_taxonomy_id": 861,
+        "term_taxonomy_id": 845,
         "taxonomy": "category",
-        "description": "",
+        "description": "View all forms for DCC.",
         "parent": 2,
         "filter": "raw",
-        "cat_ID": 861,
-        "category_description": "",
-        "cat_name": "Forms-Other",
-        "category_nicename": "forms-other",
+        "cat_ID": 845,
+        "category_description": "View all forms for DCC.",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
         "category_parent": 2
       },
       {
@@ -106,7 +109,30 @@
         "category_parent": 820
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 927,
+        "name": "form",
+        "slug": "form",
+        "term_group": 0,
+        "term_taxonomy_id": 927,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 926,
+        "name": "labor peace",
+        "slug": "labor-peace",
+        "term_group": 0,
+        "term_taxonomy_id": 926,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
