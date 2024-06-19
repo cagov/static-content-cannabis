@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-03T11:55:00",
-    "updated_date": "2024-05-17T23:09:33",
+    "updated_date": "2024-06-19T21:48:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-03T03:55:00",
     "date_gmt": "2024-01-03T11:55:00",
     "guid": "https://api.cannabis.ca.gov/?p=16316",
-    "modified": "2024-05-17T16:09:33",
-    "modified_gmt": "2024-05-17T23:09:33",
+    "modified": "2024-06-19T14:48:13",
+    "modified_gmt": "2024-06-19T21:48:13",
     "slug": "form-commercial-cannabis-licensee-bond",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms-Other",
+      "Forms",
       "Notifications and requests"
     ],
     "tags": [],
@@ -74,19 +74,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 861,
-        "name": "Forms-Other",
-        "slug": "forms-other",
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
         "term_group": 0,
-        "term_taxonomy_id": 861,
+        "term_taxonomy_id": 845,
         "taxonomy": "category",
-        "description": "",
+        "description": "View all forms for DCC.",
         "parent": 2,
         "filter": "raw",
-        "cat_ID": 861,
-        "category_description": "",
-        "cat_name": "Forms-Other",
-        "category_nicename": "forms-other",
+        "cat_ID": 845,
+        "category_description": "View all forms for DCC.",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
         "category_parent": 2
       },
       {
