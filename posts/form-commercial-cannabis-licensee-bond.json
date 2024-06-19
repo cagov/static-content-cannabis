@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-03T11:55:00",
-    "updated_date": "2024-06-19T21:48:13",
+    "updated_date": "2024-06-19T21:48:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-03T03:55:00",
     "date_gmt": "2024-01-03T11:55:00",
     "guid": "https://api.cannabis.ca.gov/?p=16316",
-    "modified": "2024-06-19T14:48:13",
-    "modified_gmt": "2024-06-19T21:48:13",
+    "modified": "2024-06-19T14:48:19",
+    "modified_gmt": "2024-06-19T21:48:19",
     "slug": "form-commercial-cannabis-licensee-bond",
     "status": "publish",
     "type": "post",
