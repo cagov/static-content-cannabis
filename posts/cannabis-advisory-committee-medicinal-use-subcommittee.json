@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-03T23:28:52",
-    "updated_date": "2023-08-25T17:56:35",
+    "updated_date": "2024-06-28T17:52:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-03T15:28:52",
     "date_gmt": "2023-02-03T23:28:52",
     "guid": "https://api.cannabis.ca.gov/?p=13096",
-    "modified": "2023-08-25T10:56:35",
-    "modified_gmt": "2023-08-25T17:56:35",
+    "modified": "2024-06-28T10:52:50",
+    "modified_gmt": "2024-06-28T17:52:50",
     "slug": "cannabis-advisory-committee-medicinal-use-subcommittee",
     "status": "publish",
     "type": "post",
@@ -41,6 +41,7 @@
     "categories": [
       "2023 meetings",
       "Events",
+      "Medicinal use subcommittee",
       "Past meetings"
     ],
     "tags": [],
@@ -105,6 +106,22 @@
         "cat_name": "Events",
         "category_nicename": "events",
         "category_parent": 2
+      },
+      {
+        "term_id": 840,
+        "name": "Medicinal use subcommittee",
+        "slug": "medicinal-use-subcommittee",
+        "term_group": 0,
+        "term_taxonomy_id": 840,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 840,
+        "category_description": "",
+        "cat_name": "Medicinal use subcommittee",
+        "category_nicename": "medicinal-use-subcommittee",
+        "category_parent": 831
       },
       {
         "term_id": 833,
