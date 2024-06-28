@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-26T20:12:48",
-    "updated_date": "2024-06-28T17:03:22",
+    "updated_date": "2024-06-28T17:03:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2024-06-26T13:12:48",
     "date_gmt": "2024-06-26T20:12:48",
     "guid": "https://api.cannabis.ca.gov/?p=18592",
-    "modified": "2024-06-28T10:03:22",
-    "modified_gmt": "2024-06-28T17:03:22",
+    "modified": "2024-06-28T10:03:46",
+    "modified_gmt": "2024-06-28T17:03:46",
     "slug": "cannabis-advisory-committee-medical-use-subcommittee-7-21-2024",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2024/06/cannabis-advisory-committee-medical-use-subcommittee-7-21-2024/",
     "title": "Cannabis Advisory Committee – Medical-Use Subcommittee: 7/10/2024",
-    "excerpt": "<p>Event overview The Cannabis Advisory Committee’s (CAC) Medical Use Subcommittee will hold a virtual meeting on July 10, 2024. Meeting materials Materials will be posted as they are available. Agenda Draft: Medical Use Subcommittee, July 2024 Public comments No comments at this time.</p>\n",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\"></div>\n<p></p>\n<div class=\"event-time\"> </div>\n<p></p>\n<div class=\"event-location\"></div>\n</div>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-event.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-single-event"
     },
     "og_meta": {
       "editor": {
