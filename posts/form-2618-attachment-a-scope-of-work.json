@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-05-17T22:32:33",
-    "updated_date": "2024-07-02T17:52:05",
+    "created_date": "2024-05-17T22:29:54",
+    "updated_date": "2024-07-02T17:52:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/18290",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/18287",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 18290,
-    "date": "2024-05-17T15:32:33",
-    "date_gmt": "2024-05-17T22:32:33",
-    "guid": "https://api.cannabis.ca.gov/?p=18290",
-    "modified": "2024-07-02T10:52:05",
-    "modified_gmt": "2024-07-02T17:52:05",
-    "slug": "form-2619-attachment-b-deliverables-and-data-usage",
+    "id": 18287,
+    "date": "2024-05-17T15:29:54",
+    "date_gmt": "2024-05-17T22:29:54",
+    "guid": "https://api.cannabis.ca.gov/?p=18287",
+    "modified": "2024-07-02T10:52:07",
+    "modified_gmt": "2024-07-02T17:52:07",
+    "slug": "form-2618-attachment-a-scope-of-work",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/05/form-2619-attachment-b-deliverables-and-data-usage/",
-    "title": "Form 2619: Attachment B: Deliverables and Data Usage",
-    "excerpt": "<p>List all items that will be delivered to DCC under the proposed Scope of Work. At a minimum, the list must include progress reports, the close-out report, delivery of the draft research manuscript and any anticipated publications that are known.</p>\n",
+    "link": "https://api.cannabis.ca.gov/2024/05/form-2618-attachment-a-scope-of-work/",
+    "title": "Form 2618: Attachment A: Scope of Work",
+    "excerpt": "<p>The Scope of Work is a detailed narrative that describes the proposed research project, methodology, timeline and metrics for success. The Scope of Work is a maximum of 4 pages, using no smaller than 12-point font.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -56,19 +56,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/05/form-2619-attachment-b-deliverables-and-data-usage/",
-      "page_title": "Form 2619: Attachment B: Deliverables and Data Usage",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/05/form-2618-attachment-a-scope-of-work/",
+      "page_title": "Form 2618: Attachment A: Scope of Work",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Form 2619: Attachment B: Deliverables and Data Usage",
+      "meta_title": "Form 2618: Attachment A: Scope of Work",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/05/form-2619-attachment-b-deliverables-and-data-usage/",
-      "open_graph_title": "Form 2619: Attachment B: Deliverables and Data Usage",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/05/form-2618-attachment-a-scope-of-work/",
+      "open_graph_title": "Form 2618: Attachment A: Scope of Work",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Form 2619: Attachment B: Deliverables and Data Usage",
+      "twitter_title": "Form 2618: Attachment A: Scope of Work",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -100,6 +100,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/05/form-2619-attachment-b-deliverables-and-data-usage/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/05/form-2618-attachment-a-scope-of-work/"
   }
 }
