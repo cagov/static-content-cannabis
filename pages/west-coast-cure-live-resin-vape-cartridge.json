@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-02T19:52:43",
-    "updated_date": "2024-07-02T22:07:29",
+    "updated_date": "2024-07-02T22:17:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-07-02T12:52:43",
     "date_gmt": "2024-07-02T19:52:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=18625",
-    "modified": "2024-07-02T15:07:29",
-    "modified_gmt": "2024-07-02T22:07:29",
+    "modified": "2024-07-02T15:17:43",
+    "modified_gmt": "2024-07-02T22:17:43",
     "slug": "west-coast-cure-live-resin-vape-cartridge",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/west-coast-cure-live-resin-vape-cartridge/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/",
     "title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
     "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall of a single WEST COAST CURE LIVE RESIN Vape Cartridge product due to the presence of the pesticide chlorfenapyr. DCC Recall Publication Date July 2, 2024 Recall Type Mandatory Product Type Vape Cartridge Product Description WEST COAST CURE LIVE RESIN Vape Cartridge [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/west-coast-cure-live-resin-vape-cartridge/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/",
       "page_title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/west-coast-cure-live-resin-vape-cartridge/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/",
       "open_graph_title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
@@ -123,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/west-coast-cure-live-resin-vape-cartridge/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/"
   }
 }
