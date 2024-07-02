@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:23:14",
-    "updated_date": "2024-05-17T23:08:18",
+    "updated_date": "2024-07-02T16:24:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-03T11:23:14",
     "date_gmt": "2023-10-03T18:23:14",
     "guid": "https://api.cannabis.ca.gov/?p=15058",
-    "modified": "2024-05-17T16:08:18",
-    "modified_gmt": "2024-05-17T23:08:18",
+    "modified": "2024-07-02T09:24:10",
+    "modified_gmt": "2024-07-02T16:24:10",
     "slug": "form-8-cannabis-microbusiness-license-application",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
     "categories": [
       "Application forms"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,19 +89,7 @@
         "category_parent": 2
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
