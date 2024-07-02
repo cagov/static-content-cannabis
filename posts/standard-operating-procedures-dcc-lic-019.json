@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:46:05",
-    "updated_date": "2024-06-17T17:00:30",
+    "updated_date": "2024-07-02T16:26:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-21T16:46:05",
     "date_gmt": "2023-09-21T23:46:05",
     "guid": "https://api.cannabis.ca.gov/?p=14985",
-    "modified": "2024-06-17T10:00:30",
-    "modified_gmt": "2024-06-17T17:00:30",
+    "modified": "2024-07-02T09:26:00",
+    "modified_gmt": "2024-07-02T16:26:00",
     "slug": "standard-operating-procedures-dcc-lic-019",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -44,7 +44,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
