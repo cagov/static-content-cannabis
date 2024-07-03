@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T21:51:34",
-    "updated_date": "2024-07-02T16:24:01",
+    "updated_date": "2024-07-03T22:38:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-05-17T14:51:34",
     "date_gmt": "2024-05-17T21:51:34",
     "guid": "https://api.cannabis.ca.gov/?p=18253",
-    "modified": "2024-07-02T09:24:01",
-    "modified_gmt": "2024-07-02T16:24:01",
+    "modified": "2024-07-03T15:38:34",
+    "modified_gmt": "2024-07-03T22:38:34",
     "slug": "form-7-cannabis-distributor-license-application",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2024/05/form-7-cannabis-distributor-license-application/",
     "title": "Form 7: Cannabis Distributor License Application",
-    "excerpt": "",
+    "excerpt": "<p>Related resources</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,9 +39,13 @@
       "footnotes": ""
     },
     "categories": [
-      "Application forms"
+      "Application forms",
+      "Distribution"
     ],
-    "tags": [],
+    "tags": [
+      "Distributor",
+      "Distributors"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -87,9 +91,48 @@
         "cat_name": "Application forms",
         "category_nicename": "application-forms",
         "category_parent": 2
+      },
+      {
+        "term_id": 897,
+        "name": "Distribution",
+        "slug": "distribution",
+        "term_group": 0,
+        "term_taxonomy_id": 897,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 897,
+        "category_description": "",
+        "cat_name": "Distribution",
+        "category_nicename": "distribution",
+        "category_parent": 799
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 259,
+        "name": "Distributor",
+        "slug": "distributor",
+        "term_group": 0,
+        "term_taxonomy_id": 259,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 260,
+        "name": "Distributors",
+        "slug": "distributors",
+        "term_group": 0,
+        "term_taxonomy_id": 260,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
