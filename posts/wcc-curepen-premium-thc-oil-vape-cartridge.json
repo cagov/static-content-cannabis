@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-03T16:49:00",
-    "updated_date": "2024-07-03T16:49:06",
+    "updated_date": "2024-07-03T17:04:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-03T09:49:00",
     "date_gmt": "2024-07-03T16:49:00",
     "guid": "https://api.cannabis.ca.gov/?p=18673",
-    "modified": "2024-07-03T09:49:06",
-    "modified_gmt": "2024-07-03T16:49:06",
+    "modified": "2024-07-03T10:04:23",
+    "modified_gmt": "2024-07-03T17:04:23",
     "slug": "wcc-curepen-premium-thc-oil-vape-cartridge",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,9 @@
       "Mandatory recalls"
     ],
     "tags": [
-      "staging"
+      "cannabis flower",
+      "staging",
+      "west coast cure"
     ],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -93,6 +95,17 @@
     ],
     "headless_tags": [
       {
+        "term_id": 778,
+        "name": "cannabis flower",
+        "slug": "cannabis-flower",
+        "term_group": 0,
+        "term_taxonomy_id": 778,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
         "term_id": 797,
         "name": "staging",
         "slug": "staging",
@@ -102,16 +115,27 @@
         "description": "",
         "parent": 0,
         "filter": "raw"
+      },
+      {
+        "term_id": 928,
+        "name": "west coast cure",
+        "slug": "west-coast-cure",
+        "term_group": 0,
+        "term_taxonomy_id": 928,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
       }
     ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
-    "custom_post_date": "",
+    "custom_post_date": "2024-07-02",
     "meta_": {
-      "0": "",
+      "0": "2024-07-02",
       "custom_post_link": "",
-      "custom_post_date": "",
+      "custom_post_date": "2024-07-02",
       "custom_post_location": ""
     },
     "wordpress_url": "https://api.cannabis.ca.gov/2024/07/wcc-curepen-premium-thc-oil-vape-cartridge/"
