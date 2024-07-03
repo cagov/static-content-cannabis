@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T22:00:20",
-    "updated_date": "2024-07-02T16:24:50",
+    "updated_date": "2024-07-03T22:44:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-05-17T15:00:20",
     "date_gmt": "2024-05-17T22:00:20",
     "guid": "https://api.cannabis.ca.gov/?p=18260",
-    "modified": "2024-07-02T09:24:50",
-    "modified_gmt": "2024-07-02T16:24:50",
+    "modified": "2024-07-03T15:44:13",
+    "modified_gmt": "2024-07-03T22:44:13",
     "slug": "form-16-inventory-procedures",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2024/05/form-16-inventory-procedures/",
     "title": "Form 16: Inventory Procedures",
-    "excerpt": "<p>Microbusinesses must complete this form for each commercial cannabis activity they intend to engage in.</p>\n",
+    "excerpt": "<p>Microbusinesses must complete this form for each commercial cannabis activity they intend to engage in. Related resources</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms"
+      "Forms",
+      "Microbusiness"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "Forms",
         "category_nicename": "forms",
         "category_parent": 2
+      },
+      {
+        "term_id": 896,
+        "name": "Microbusiness",
+        "slug": "microbusiness",
+        "term_group": 0,
+        "term_taxonomy_id": 896,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 896,
+        "category_description": "",
+        "cat_name": "Microbusiness",
+        "category_nicename": "microbusiness",
+        "category_parent": 799
       }
     ],
     "headless_tags": [],
