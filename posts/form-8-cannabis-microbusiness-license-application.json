@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:23:14",
-    "updated_date": "2024-07-02T16:24:15",
+    "updated_date": "2024-07-03T22:39:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-10-03T11:23:14",
     "date_gmt": "2023-10-03T18:23:14",
     "guid": "https://api.cannabis.ca.gov/?p=15058",
-    "modified": "2024-07-02T09:24:15",
-    "modified_gmt": "2024-07-02T16:24:15",
+    "modified": "2024-07-03T15:39:56",
+    "modified_gmt": "2024-07-03T22:39:56",
     "slug": "form-8-cannabis-microbusiness-license-application",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/10/form-8-cannabis-microbusiness-license-application/",
     "title": "Form 8: Cannabis Microbusiness License Application",
-    "excerpt": "",
+    "excerpt": "<p>Related resources</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Application forms"
+      "Application forms",
+      "Microbusiness"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "Application forms",
         "category_nicename": "application-forms",
         "category_parent": 2
+      },
+      {
+        "term_id": 896,
+        "name": "Microbusiness",
+        "slug": "microbusiness",
+        "term_group": 0,
+        "term_taxonomy_id": 896,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 896,
+        "category_description": "",
+        "cat_name": "Microbusiness",
+        "category_nicename": "microbusiness",
+        "category_parent": 799
       }
     ],
     "headless_tags": [],
