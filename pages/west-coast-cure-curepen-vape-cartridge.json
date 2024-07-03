@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-02T19:51:52",
-    "updated_date": "2024-07-02T23:40:42",
+    "updated_date": "2024-07-03T16:12:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-02T12:51:52",
     "date_gmt": "2024-07-02T19:51:52",
     "guid": "https://api.cannabis.ca.gov/?page_id=18623",
-    "modified": "2024-07-02T16:40:42",
-    "modified_gmt": "2024-07-02T23:40:42",
+    "modified": "2024-07-03T09:12:40",
+    "modified_gmt": "2024-07-03T16:12:40",
     "slug": "west-coast-cure-curepen-vape-cartridge",
     "status": "publish",
     "type": "page",
