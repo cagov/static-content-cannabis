@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2024-07-03T17:20:32",
-    "updated_date": "2024-07-03T17:24:38",
+    "created_date": "2024-06-25T17:20:32",
+    "updated_date": "2024-07-03T17:25:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,15 +15,15 @@
   },
   "data": {
     "id": 18691,
-    "date": "2024-07-03T10:20:32",
-    "date_gmt": "2024-07-03T17:20:32",
+    "date": "2024-06-25T10:20:32",
+    "date_gmt": "2024-06-25T17:20:32",
     "guid": "https://api.cannabis.ca.gov/?p=18691",
-    "modified": "2024-07-03T10:24:38",
-    "modified_gmt": "2024-07-03T17:24:38",
+    "modified": "2024-07-03T10:25:07",
+    "modified_gmt": "2024-07-03T17:25:07",
     "slug": "curepen-premium-thc-oil-vape-cartridge",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/07/curepen-premium-thc-oil-vape-cartridge/",
+    "link": "https://api.cannabis.ca.gov/2024/06/curepen-premium-thc-oil-vape-cartridge/",
     "title": "CUREpen PREMIUM THC OIL Vape Cartridge",
     "excerpt": "<p>June 25, 2024: Mandatory recall of a single CUREpen PREMIUM THC OIL Vape Cartridge product due to the presence of the pesticide chlorfenapyr.</p>\n",
     "author": 32,
@@ -60,7 +60,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/07/curepen-premium-thc-oil-vape-cartridge/",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/06/curepen-premium-thc-oil-vape-cartridge/",
       "page_title": "CUREpen PREMIUM THC OIL Vape Cartridge",
       "page_description": "June 25, 2024: Mandatory recall of a single CUREpen PREMIUM THC OIL Vape Cartridge product due to the presence of the pesticide chlorfenapyr.",
       "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2024/06/West-Coast-Cure-Orange-Cookies-scaled.jpg",
@@ -69,7 +69,7 @@
       "page_social_image_alt": "",
       "meta_title": "CUREpen PREMIUM THC OIL Vape Cartridge",
       "meta_description": "June 25, 2024: Mandatory recall of a single CUREpen PREMIUM THC OIL Vape Cartridge product due to the presence of the pesticide chlorfenapyr.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/07/curepen-premium-thc-oil-vape-cartridge/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/06/curepen-premium-thc-oil-vape-cartridge/",
       "open_graph_title": "CUREpen PREMIUM THC OIL Vape Cartridge",
       "open_graph_description": "June 25, 2024: Mandatory recall of a single CUREpen PREMIUM THC OIL Vape Cartridge product due to the presence of the pesticide chlorfenapyr.",
       "twitter_title": "CUREpen PREMIUM THC OIL Vape Cartridge",
@@ -138,6 +138,6 @@
       "custom_post_date": "2024-06-25",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/07/curepen-premium-thc-oil-vape-cartridge/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/06/curepen-premium-thc-oil-vape-cartridge/"
   }
 }
