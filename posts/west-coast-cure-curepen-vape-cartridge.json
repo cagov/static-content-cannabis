@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-03T16:47:13",
-    "updated_date": "2024-07-03T16:47:19",
+    "updated_date": "2024-07-03T17:12:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-03T09:47:13",
     "date_gmt": "2024-07-03T16:47:13",
     "guid": "https://api.cannabis.ca.gov/?p=18671",
-    "modified": "2024-07-03T09:47:19",
-    "modified_gmt": "2024-07-03T16:47:19",
+    "modified": "2024-07-03T10:12:32",
+    "modified_gmt": "2024-07-03T17:12:32",
     "slug": "west-coast-cure-curepen-vape-cartridge",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,9 @@
       "Mandatory recalls"
     ],
     "tags": [
-      "staging"
+      "Cartridges",
+      "staging",
+      "west coast cure"
     ],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -93,11 +95,33 @@
     ],
     "headless_tags": [
       {
+        "term_id": 177,
+        "name": "Cartridges",
+        "slug": "cartridges",
+        "term_group": 0,
+        "term_taxonomy_id": 177,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
         "term_id": 797,
         "name": "staging",
         "slug": "staging",
         "term_group": 0,
         "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 928,
+        "name": "west coast cure",
+        "slug": "west-coast-cure",
+        "term_group": 0,
+        "term_taxonomy_id": 928,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
