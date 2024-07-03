@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2024-07-02T16:51:15",
-    "updated_date": "2024-07-03T17:58:35",
+    "created_date": "2024-06-12T16:51:00",
+    "updated_date": "2024-07-03T18:00:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,15 +15,15 @@
   },
   "data": {
     "id": 18675,
-    "date": "2024-07-02T09:51:15",
-    "date_gmt": "2024-07-02T16:51:15",
+    "date": "2024-06-12T09:51:00",
+    "date_gmt": "2024-06-12T16:51:00",
     "guid": "https://api.cannabis.ca.gov/?p=18675",
-    "modified": "2024-07-03T10:58:35",
-    "modified_gmt": "2024-07-03T17:58:35",
+    "modified": "2024-07-03T11:00:37",
+    "modified_gmt": "2024-07-03T18:00:37",
     "slug": "west-coast-cure-premium-cure-flower",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/07/west-coast-cure-premium-cure-flower/",
+    "link": "https://api.cannabis.ca.gov/2024/06/west-coast-cure-premium-cure-flower/",
     "title": "WEST COAST CURE PREMIUM CURE Flower",
     "excerpt": "<p>Voluntary recall for a single WEST COAST CURE PREMIUM CURE Flower product due to inaccurate labeling, that reports more cannabinoid content than the product contains.</p>\n",
     "author": 32,
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/07/west-coast-cure-premium-cure-flower/",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/06/west-coast-cure-premium-cure-flower/",
       "page_title": "WEST COAST CURE PREMIUM CURE Flower",
       "page_description": "Voluntary recall for a single WEST COAST CURE PREMIUM CURE Flower product due to inaccurate labeling, that reports more cannabinoid content than the product contains.",
       "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2024/07/Product-Recall-2.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "WEST COAST CURE PREMIUM CURE Flower",
       "meta_description": "Voluntary recall for a single WEST COAST CURE PREMIUM CURE Flower product due to inaccurate labeling, that reports more cannabinoid content than the product contains.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/07/west-coast-cure-premium-cure-flower/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/06/west-coast-cure-premium-cure-flower/",
       "open_graph_title": "WEST COAST CURE PREMIUM CURE Flower",
       "open_graph_description": "Voluntary recall for a single WEST COAST CURE PREMIUM CURE Flower product due to inaccurate labeling, that reports more cannabinoid content than the product contains.",
       "twitter_title": "WEST COAST CURE PREMIUM CURE Flower",
@@ -119,13 +119,13 @@
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
-    "custom_post_date": "",
+    "custom_post_date": "2024-06-12",
     "meta_": {
-      "0": "",
+      "0": "2024-06-12",
       "custom_post_link": "",
-      "custom_post_date": "",
+      "custom_post_date": "2024-06-12",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/07/west-coast-cure-premium-cure-flower/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/06/west-coast-cure-premium-cure-flower/"
   }
 }
