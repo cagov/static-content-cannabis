@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 161,
+      "redirects": 167,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4609,6 +4609,162 @@
       "regex": false,
       "group_id": 1,
       "position": 160,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 413,
+      "url": "/west-coast-cure-curepen-vape-cartridge/",
+      "match_url": "/west-coast-cure-curepen-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/west-coast-cure-curepen-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 161,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 414,
+      "url": "/west-coast-cure-live-resin-vape-cartridge/",
+      "match_url": "/west-coast-cure-live-resin-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 162,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 415,
+      "url": "/curepen-premium-thc-oil-vape-cartridge/",
+      "match_url": "/curepen-premium-thc-oil-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge-2/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 163,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 416,
+      "url": "/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge-2/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge-2",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/wcc-curepen-premium-thc-oil-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 164,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 417,
+      "url": "/2024/07/curepen-premium-thc-oil-vape-cartridge/",
+      "match_url": "/2024/07/curepen-premium-thc-oil-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/06/curepen-premium-thc-oil-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 165,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 418,
+      "url": "/2024/07/west-coast-cure-premium-cure-flower/",
+      "match_url": "/2024/07/west-coast-cure-premium-cure-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/06/west-coast-cure-premium-cure-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 166,
       "last_access": "-",
       "enabled": true
     }
