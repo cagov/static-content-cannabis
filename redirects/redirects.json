@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 167,
+      "redirects": 168,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4765,6 +4765,32 @@
       "regex": false,
       "group_id": 1,
       "position": 166,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 419,
+      "url": "/wp-content/uploads/sites/2/2021/12/DCC-1102_CAC-Application.pdf",
+      "match_url": "/wp-content/uploads/sites/2/2021/12/dcc-1102_cac-application.pdf",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 0,
+      "action_type": "pass",
+      "action_data": {
+        "url": "/about-us/cannabis-advisory-committee/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 167,
       "last_access": "-",
       "enabled": true
     }
