@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T22:17:53",
-    "updated_date": "2024-07-02T16:31:53",
+    "updated_date": "2024-07-15T19:57:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-17T15:17:53",
     "date_gmt": "2024-05-17T22:17:53",
     "guid": "https://api.cannabis.ca.gov/?p=18275",
-    "modified": "2024-07-02T09:31:53",
-    "modified_gmt": "2024-07-02T16:31:53",
+    "modified": "2024-07-15T12:57:22",
+    "modified_gmt": "2024-07-15T19:57:22",
     "slug": "form-26-ceqa-exemption-petition-form",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "CEQA",
       "Forms"
     ],
     "tags": [],
@@ -72,6 +73,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 932,
+        "name": "CEQA",
+        "slug": "ceqa",
+        "term_group": 0,
+        "term_taxonomy_id": 932,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 817,
+        "filter": "raw",
+        "cat_ID": 932,
+        "category_description": "",
+        "cat_name": "CEQA",
+        "category_nicename": "ceqa",
+        "category_parent": 817
+      },
       {
         "term_id": 845,
         "name": "Forms",
