@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-15T19:32:24",
-    "updated_date": "2024-07-15T20:06:02",
+    "updated_date": "2024-07-15T20:06:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-15T12:32:24",
     "date_gmt": "2024-07-15T19:32:24",
     "guid": "https://api.cannabis.ca.gov/?p=18814",
-    "modified": "2024-07-15T13:06:02",
-    "modified_gmt": "2024-07-15T20:06:02",
+    "modified": "2024-07-15T13:06:07",
+    "modified_gmt": "2024-07-15T20:06:07",
     "slug": "annual-license-application-checklist-2",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "All"
+    ],
     "tags": [
       "staging"
     ],
@@ -71,7 +73,24 @@
       "twitter_title": "Annual License Application Checklist",
       "twitter_description": "Use this checklist to make sure that you have all the necessary information prior to starting\nyour online annual license application. "
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [
       {
         "term_id": 797,
