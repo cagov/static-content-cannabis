@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-15T19:37:32",
-    "updated_date": "2024-07-15T20:27:54",
+    "updated_date": "2024-07-15T21:37:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-15T12:37:32",
     "date_gmt": "2024-07-15T19:37:32",
     "guid": "https://api.cannabis.ca.gov/?p=18818",
-    "modified": "2024-07-15T13:27:54",
-    "modified_gmt": "2024-07-15T20:27:54",
+    "modified": "2024-07-15T14:37:54",
+    "modified_gmt": "2024-07-15T21:37:54",
     "slug": "application-checklist-manufacturers",
     "status": "publish",
     "type": "post",
