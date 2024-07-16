@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-16T23:24:54",
-    "updated_date": "2024-07-16T23:36:59",
+    "updated_date": "2024-07-16T23:41:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-16T16:24:54",
     "date_gmt": "2024-07-16T23:24:54",
     "guid": "https://api.cannabis.ca.gov/?page_id=18856",
-    "modified": "2024-07-16T16:36:59",
-    "modified_gmt": "2024-07-16T23:36:59",
+    "modified": "2024-07-16T16:41:41",
+    "modified_gmt": "2024-07-16T23:41:41",
     "slug": "backpackboyz-premium-vape",
     "status": "publish",
     "type": "page",
