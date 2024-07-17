@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:12:14",
-    "updated_date": "2024-07-17T17:41:04",
+    "updated_date": "2024-07-17T17:45:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:12:14",
     "date_gmt": "2021-06-19T15:12:14",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/equity/",
-    "modified": "2024-07-17T10:41:04",
-    "modified_gmt": "2024-07-17T17:41:04",
+    "modified": "2024-07-17T10:45:49",
+    "modified_gmt": "2024-07-17T17:45:49",
     "slug": "equity",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 3,
     "comment_status": "open",
     "ping_status": "open",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page-single-column-wide"
     },
     "og_meta": {
       "editor": {
