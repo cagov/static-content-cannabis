@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-05T17:19:28",
-    "updated_date": "2024-07-17T17:06:26",
+    "updated_date": "2024-07-17T17:16:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-07-05T10:19:28",
     "date_gmt": "2024-07-05T17:19:28",
     "guid": "https://api.cannabis.ca.gov/?p=18771",
-    "modified": "2024-07-17T10:06:26",
-    "modified_gmt": "2024-07-17T17:06:26",
+    "modified": "2024-07-17T10:16:59",
+    "modified_gmt": "2024-07-17T17:16:59",
     "slug": "promising-practice-direct-grants",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2024/07/promising-practice-direct-grants/",
     "title": "Promising Practice: Direct Grants",
-    "excerpt": "<p>Reese Benton is sole owner of Posh Green Cannabis Boutique in San Francisco,  a well-loved community business. As the first Black woman to open a dispensary in San Francisco, Benton worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses.</p>\n",
+    "excerpt": "<p>Reese Benton, owner of Posh Green Cannabis Boutique, worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses.</p>\n",
     "author": 32,
     "featured_media": 12438,
     "comment_status": "closed",
@@ -60,7 +60,7 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2024/07/promising-practice-direct-grants/",
       "page_title": "Promising Practice: Direct Grants",
-      "page_description": "Reese Benton is sole owner of Posh Green Cannabis Boutique in San Francisco,  a well-loved community business. As the first Black woman to open a dispensary in San Francisco, Benton worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses.",
+      "page_description": "Reese Benton, owner of Posh Green Cannabis Boutique, worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses.",
       "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2022/12/photo_reese_benton_sq-2.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
@@ -69,9 +69,9 @@
       "meta_description": "Reese Benton is sole owner of Posh Green Cannabis Boutique in San Francisco, a well&#x2d;loved community business. As the first Black woman to open a dispensary in San Francisco, Benton worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2024/07/promising-practice-direct-grants/",
       "open_graph_title": "Promising Practice: Direct Grants",
-      "open_graph_description": "Reese Benton is sole owner of Posh Green Cannabis Boutique in San Francisco,  a well-loved community business. As the first Black woman to open a dispensary in San Francisco, Benton worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses.",
+      "open_graph_description": "Reese Benton, owner of Posh Green Cannabis Boutique, worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses.",
       "twitter_title": "Promising Practice: Direct Grants",
-      "twitter_description": "Reese Benton is sole owner of Posh Green Cannabis Boutique in San Francisco,  a well-loved community business. As the first Black woman to open a dispensary in San Francisco, Benton worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses."
+      "twitter_description": "Reese Benton, owner of Posh Green Cannabis Boutique, worked with the City of San Francisco Office of Cannabis’ equity program to obtain a license and open her boutique. As an advocate for cannabis equity, Benton has turned Posh Green Cannabis Boutique into a hub for knowledge and products from other equity businesses."
     },
     "headless_categories": [
       {
