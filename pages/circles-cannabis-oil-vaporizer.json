@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-17T19:42:56",
-    "updated_date": "2024-07-17T19:43:01",
+    "updated_date": "2024-07-17T19:43:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-07-17T12:42:56",
     "date_gmt": "2024-07-17T19:42:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=18913",
-    "modified": "2024-07-17T12:43:01",
-    "modified_gmt": "2024-07-17T19:43:01",
-    "slug": "circles-cannabis-oil-vaporizer-vape-cartridge",
+    "modified": "2024-07-17T12:43:37",
+    "modified_gmt": "2024-07-17T19:43:37",
+    "slug": "circles-cannabis-oil-vaporizer",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer/",
     "title": "CIRCLES CANNABIS OIL VAPORIZER Vape Cartridge",
     "excerpt": "",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer/",
       "page_title": "CIRCLES CANNABIS OIL VAPORIZER Vape Cartridge",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CIRCLES CANNABIS OIL VAPORIZER Vape Cartridge",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer/",
       "open_graph_title": "CIRCLES CANNABIS OIL VAPORIZER Vape Cartridge",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CIRCLES CANNABIS OIL VAPORIZER Vape Cartridge",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer/"
   }
 }
