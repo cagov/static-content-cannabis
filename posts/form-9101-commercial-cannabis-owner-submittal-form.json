@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-16T22:00:10",
-    "updated_date": "2024-07-18T20:11:51",
+    "updated_date": "2024-07-18T20:16:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-16T15:00:10",
     "date_gmt": "2024-07-16T22:00:10",
     "guid": "https://api.cannabis.ca.gov/?p=18854",
-    "modified": "2024-07-18T13:11:51",
-    "modified_gmt": "2024-07-18T20:11:51",
+    "modified": "2024-07-18T13:16:26",
+    "modified_gmt": "2024-07-18T20:16:26",
     "slug": "form-9101-commercial-cannabis-owner-submittal-form",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "All",
+      "Application forms"
     ],
     "tags": [
       "staging"
@@ -89,6 +90,22 @@
         "cat_name": "All",
         "category_nicename": "all",
         "category_parent": 0
+      },
+      {
+        "term_id": 925,
+        "name": "Application forms",
+        "slug": "application-forms",
+        "term_group": 0,
+        "term_taxonomy_id": 925,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 925,
+        "category_description": "",
+        "cat_name": "Application forms",
+        "category_nicename": "application-forms",
+        "category_parent": 2
       }
     ],
     "headless_tags": [
