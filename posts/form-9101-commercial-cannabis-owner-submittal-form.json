@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-16T22:00:10",
-    "updated_date": "2024-07-18T20:16:26",
+    "updated_date": "2024-07-18T20:17:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-16T15:00:10",
     "date_gmt": "2024-07-16T22:00:10",
     "guid": "https://api.cannabis.ca.gov/?p=18854",
-    "modified": "2024-07-18T13:16:26",
-    "modified_gmt": "2024-07-18T20:16:26",
+    "modified": "2024-07-18T13:17:43",
+    "modified_gmt": "2024-07-18T20:17:43",
     "slug": "form-9101-commercial-cannabis-owner-submittal-form",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "All",
       "Application forms"
     ],
     "tags": [
@@ -75,22 +74,6 @@
       "twitter_description": "The Department of Cannabis Control  requires each owner identified in a commercial cannabis license application to provide ownership information. The Department will use the information provided to determine the owner’s qualification for licensure. "
     },
     "headless_categories": [
-      {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
-        "term_group": 0,
-        "term_taxonomy_id": 1,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1,
-        "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
-      },
       {
         "term_id": 925,
         "name": "Application forms",
