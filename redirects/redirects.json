@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 168,
+      "redirects": 169,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4791,6 +4791,32 @@
       "regex": false,
       "group_id": 1,
       "position": 167,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 420,
+      "url": "/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 168,
       "last_access": "-",
       "enabled": true
     }
