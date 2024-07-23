@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-23T17:52:25",
-    "updated_date": "2024-07-23T17:52:30",
+    "updated_date": "2024-07-23T18:36:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,32 +18,35 @@
     "date": "2024-07-23T10:52:25",
     "date_gmt": "2024-07-23T17:52:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=18956",
-    "modified": "2024-07-23T10:52:30",
-    "modified_gmt": "2024-07-23T17:52:30",
+    "modified": "2024-07-23T11:36:51",
+    "modified_gmt": "2024-07-23T18:36:51",
     "slug": "thc-design-estate-grown-premium",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/thc-design-estate-grown-premium/",
     "title": "thc design ESTATE GROWN PREMIUM CANNABIS Pre-Roll",
-    "excerpt": "",
+    "excerpt": "<p>Landing page &nbsp; &nbsp; Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall for a single thc design ESTATE GROWN PREMIUM CANNABIS Pre-Roll product due to the presence of Aspergillus flavus. DCC Recall Publication Date July 23, 2024 Recall Type Mandatory Product Type Pre-Roll Product Description thc design ESTATE GROWN PREMIUM [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
     "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "Mandatory recalls",
+      "Recalls and safety notices"
+    ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -71,7 +74,40 @@
       "twitter_title": "thc design ESTATE GROWN PREMIUM CANNABIS Pre-Roll",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 813,
+        "name": "Mandatory recalls",
+        "slug": "mandatory-recalls",
+        "term_group": 0,
+        "term_taxonomy_id": 813,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 812,
+        "filter": "raw",
+        "cat_ID": 813,
+        "category_description": "",
+        "cat_name": "Mandatory recalls",
+        "category_nicename": "mandatory-recalls",
+        "category_parent": 812
+      },
+      {
+        "term_id": 812,
+        "name": "Recalls and safety notices",
+        "slug": "recalls-and-safety-notices",
+        "term_group": 0,
+        "term_taxonomy_id": 812,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 812,
+        "category_description": "",
+        "cat_name": "Recalls and safety notices",
+        "category_nicename": "recalls-and-safety-notices",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [
       {
         "term_id": 797,
