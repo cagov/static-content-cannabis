@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2024-07-23T19:04:28",
+    "updated_date": "2024-07-23T19:04:33",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/18953",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 18953,
+    "date": "2024-07-23T12:04:28",
+    "date_gmt": "2024-07-23T19:04:28",
+    "guid": "https://api.cannabis.ca.gov/?p=18953",
+    "modified": "2024-07-23T12:04:33",
+    "modified_gmt": "2024-07-23T19:04:33",
+    "slug": "yens-test-post",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/07/yens-test-post/",
+    "title": "Yen&#8217;s test post",
+    "excerpt": "<p>Testing the locations sold code County Legal Business Name&nbsp; License Number LOS ANGELES THE GREEN GODDESS, INC. C10-0000056-LIC SAN DIEGO VALLEY GREENS RETAIL OUTLET, INC. C10-0000076-LIC LOS ANGELES DELTA 9 THC, LLC C10-0000081-LIC ORANGE WCW ORGANIZATION INC. C10-0000145-LIC LOS ANGELES 420 FOR THE PEOPLE COOPERATIVE INC. C10-0000146-LIC ORANGE PEOPLE&#8217;S FIRST CHOICE, LLC C10-0000212-LIC LOS ANGELES [&hellip;]</p>\n",
+    "author": 36,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Mandatory recalls"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/07/yens-test-post/",
+      "page_title": "Yen's test post",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Yen's test post",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/07/yens-test-post/",
+      "open_graph_title": "Yen's test post",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Yen's test post",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 813,
+        "name": "Mandatory recalls",
+        "slug": "mandatory-recalls",
+        "term_group": 0,
+        "term_taxonomy_id": 813,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 812,
+        "filter": "raw",
+        "cat_ID": 813,
+        "category_description": "",
+        "cat_name": "Mandatory recalls",
+        "category_nicename": "mandatory-recalls",
+        "category_parent": 812
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/07/yens-test-post/"
+  }
+}
