@@ -1,67 +1,6 @@
 <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
 <h2 class="wp-block-heading">Landing page</h2>
 
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
-<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
-<script src="https://cdn.datatables.net/colreorder/1.5.4/js/dataTables.colReorder.min.js"></script>
-<div id="breakpoint"></div>
-<table id="recall_table" class="display compact" width="100%">
-    <thead>
-                <tr>
- <th class="min-phone-l">Recall Date</th>  
- <th class="none">Recall Type:</th>           
-<th class="all">Product Description</th>
-<th class="desktop tablet">Product Type</th>
-<th class="desktop">Recall Reason</th>
-<th class="none">Legal Business Name:</th>
-<th class="all">Recall Overview</th>
-        </tr>
-    </thead>
-  <tbody>
-
-<tr>
-<td>7/24/24</td>
-<td>Mandatory</td>
-<td><a href="/resources/cannabis-recalls-and-safety-notices/thc-design-estate-grown-premium">thc design ESTATE GROWN PREMIUM CANNABIS Pre-Roll</a></td>
-<td>Pre-Roll</td>
-<td>Adulterated: Microbial Contamination (Aspergillus flavus)</td>
-<td>The Bake Shop LA</td>
-<td>Mandatory recall for a single thc design ESTATE GROWN PREMIUM CANNABIS Pre-Roll product due to the presence of Aspergillus flavus.</td>
-</tr>
-</tbody>
-</table>
-<script>
-    $(document).ready(function () {
-        const vol_table = new DataTable('#recall_table', {
-            columns: [
-               {
-                    data: 'date',
-                    type: 'date'
-                },
-                { data: 'recall' },
-                { data: 'product' },
-                { data: 'type' },
-                { data: 'reason' },
-               { data: 'business' },
-                { data: 'details' }
-            ],
-            responsive: true,
-            colReorder: true,
-            order: [[0, 'des']]
-        });
-        const newColumnOrder = [0, 2, 6, 1, 3, 4, 5]
-        vol_table.colReorder.order(newColumnOrder).draw();
-if (vol_table.page.info().recordsTotal <= 10) {
-  $('.dataTables_paginate').hide();
-  $('.dataTables_info').hide();
-  $('.dataTables_length').hide();
-}
-    });
-</script>
-
 <h2 class="wp-block-heading">Recall overview</h2>
 
 <p>The Department of Cannabis Control (DCC) is issuing this mandatory recall for a single thc design ESTATE GROWN PREMIUM CANNABIS Pre-Roll product due to the presence of Aspergillus flavus.</p>
@@ -96,80 +35,174 @@ if (vol_table.page.info().recordsTotal <= 10) {
 <th class="min-tablet">County</th>
 <th class="min-phone-l">Legal Business Name&nbsp;</th>
 <th class="all">License Number</th>
-<th class="all">Products</th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>ALAMEDA</td>
-<td>BLUM SAN LEANDRO</td>
-<td>C10-0000027-LIC</td>
-<td>Product</td>
+<tbody><tr>
+<td>LOS ANGELES</td>
+<td>THE GREEN GODDESS, INC.</td>
+<td>C10-0000056-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>BLUNT &amp; MOORE, LLC</td>
-<td>C10-0000579-LIC</td>
-<td>Product</td>
+<td>SAN DIEGO</td>
+<td>VALLEY GREENS RETAIL OUTLET, INC.</td>
+<td>C10-0000076-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>Hayward Station, LLC</td>
-<td>C10-0000743-LIC</td>
-<td>Product</td>
+<td>LOS ANGELES</td>
+<td>DELTA 9 THC, LLC</td>
+<td>C10-0000081-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>PROPER RX COLLECTIVE</td>
-<td>C12-0000190-LIC</td>
-<td>Product</td>
+<td>ORANGE</td>
+<td>WCW ORGANIZATION INC.</td>
+<td>C10-0000145-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>S.T. CONSULTING AND SERVICES, INC.</td>
-<td>C12-0000359-LIC</td>
-<td>Product</td>
+<td>LOS ANGELES</td>
+<td>420 FOR THE PEOPLE COOPERATIVE INC.</td>
+<td>C10-0000146-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>AMERICAN HOLDINGS INC</td>
-<td>C12-0000401-LIC</td>
-<td>Product</td>
+<td>ORANGE</td>
+<td>PEOPLE&#8217;S FIRST CHOICE, LLC</td>
+<td>C10-0000212-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>QUE CHARAS INCORPORATED</td>
-<td>C12-0000431-LIC</td>
-<td>Product</td>
+<td>LOS ANGELES</td>
+<td>Herbal Remedies Caregivers, Inc.</td>
+<td>C10-0000252-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>Dash Management LLC</td>
-<td>C12-0000559-LIC</td>
-<td>Product</td>
+<td>LOS ANGELES</td>
+<td>THE RELIEF COLLECTIVE, INC.</td>
+<td>C10-0000336-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>FRESH MINT LLC</td>
-<td>C9-0000259-LIC</td>
-<td>Product</td>
+<td>LOS ANGELES</td>
+<td>CANNATOPIA GARDENS</td>
+<td>C10-0000397-LIC</td>
 </tr>
 <tr>
-<td>ALAMEDA</td>
-<td>ALTRUISM FOR ALL</td>
-<td>C9-0000278-LIC</td>
-<td>Product</td>
+<td>LOS ANGELES</td>
+<td>California Herbal Remedies, Inc.</td>
+<td>C10-0000399-LIC</td>
 </tr>
+<tr>
+<td>LOS ANGELES</td>
+<td>Cana Roots</td>
+<td>C10-0000444-LIC</td>
+</tr>
+<tr>
+<td>RIVERSIDE</td>
+<td>SO-CAL MM PATIENTS ASSOCIATION</td>
+<td>C10-0000462-LIC</td>
+</tr>
+<tr>
+<td>RIVERSIDE</td>
+<td>REEFER MADNESS LLC</td>
+<td>C10-0000589-LIC</td>
+</tr>
+<tr>
+<td>LOS ANGELES</td>
+<td>BUDS &#038; ROSES COLLECTIVE, INC.</td>
+<td>C10-0000603-LIC</td>
+</tr>
+<tr>
+<td>SAN DIEGO</td>
+<td>SAN DIEGROWN, INC.</td>
+<td>C10-0000669-LIC</td>
+</tr>
+<tr>
+<td>RIVERSIDE</td>
+<td>ASH&#8217;S FIRST LLC</td>
+<td>C10-0000701-LIC</td>
+</tr>
+<tr>
+<td>ORANGE</td>
+<td>NEWTONIAN PRINCIPLES, INC.</td>
+<td>C10-0000702-LIC</td>
+</tr>
+<tr>
+<td>ORANGE</td>
+<td>DBO INVESTMENTS SA, LLC</td>
+<td>C10-0000725-LIC</td>
+</tr>
+<tr>
+<td>LOS ANGELES</td>
+<td>GE GRANADA HILLS, INC</td>
+<td>C10-0000791-LIC</td>
+</tr>
+<tr>
+<td>RIVERSIDE</td>
+<td>Excel Riverside, Inc.</td>
+<td>C10-0000876-LIC</td>
+</tr>
+<tr>
+<td>LOS ANGELES</td>
+<td>LIBRA HOLLYWOOD LLC</td>
+<td>C10-0000975-LIC</td>
+</tr>
+<tr>
+<td>LOS ANGELES</td>
+<td>TIGRANLEVONANDLAV, LLC</td>
+<td>C10-0000980-LIC</td>
+</tr>
+<tr>
+<td>SAN DIEGO</td>
+<td>SOUTHERN ERUDITE VENTURES</td>
+<td>C10-0001048-LIC</td>
+</tr>
+<tr>
+<td>RIVERSIDE</td>
+<td>RD MEDIGROUP INC</td>
+<td>C10-0001169-LIC</td>
+</tr>
+<tr>
+<td>ORANGE</td>
+<td>1921 HARBOR LLC</td>
+<td>C10-0001208-LIC</td>
+</tr>
+<tr>
+<td>LOS ANGELES</td>
+<td>PEACE AND LOVE LLC</td>
+<td>C10-0001286-LIC</td>
+</tr>
+<tr>
+<td>ORANGE</td>
+<td>PACKS OC Opco LLC</td>
+<td>C10-0001448-LIC</td>
+</tr>
+<tr>
+<td>LOS ANGELES</td>
+<td>HERBAL RELIEF CAREGIVERS, INC</td>
+<td>C12-0000250-LIC</td>
+</tr>
+<tr>
+<td>SAN DIEGO</td>
+<td>2018HMPF LLC</td>
+<td>C12-0000332-LIC</td>
+</tr>
+<tr>
+<td>LOS ANGELES</td>
+<td>HARBOR CAREGIVERS, INC.</td>
+<td>C12-0000361-LIC</td>
+</tr>
+<tr>
+<td>MARIN</td>
+<td>THE BJORK GROUP</td>
+<td>C9-0000807-LIC</td>
+</tr>
+
 </tbody>
 </table>
 <script>
   $(document).ready(function () {
     const recall_table = new DataTable("#recall_details_tbl", {
-      columns: [{ data: "county" }, { data: "license" }, { data: "business" }, { data: "product" }],
+      columns: [{ data: "county" }, { data: "license" }, { data: "business" }, ],
       colReorder: true,
       responsive: true,
     });
-    const newColumnOrder = [0, 1, 2, 3];
+    const newColumnOrder = [0, 1, 2];
     recall_table.colReorder.order(newColumnOrder).draw();
   });
 </script>
