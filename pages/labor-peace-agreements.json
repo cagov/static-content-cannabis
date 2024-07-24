@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-24T23:17:32",
-    "updated_date": "2024-07-24T23:18:39",
+    "updated_date": "2024-07-24T23:20:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-07-24T16:17:32",
     "date_gmt": "2024-07-24T23:17:32",
     "guid": "https://api.cannabis.ca.gov/?page_id=19021",
-    "modified": "2024-07-24T16:18:39",
-    "modified_gmt": "2024-07-24T23:18:39",
+    "modified": "2024-07-24T16:20:34",
+    "modified_gmt": "2024-07-24T23:20:34",
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/labor-peace-agreements/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/labor-peace-agreements/",
     "title": "Labor Peace Agreements",
     "excerpt": "<p>Type:  Change without Regulatory Effect pursuant to 1 CCR§100 Status: Approved and filed with the Secretary of State on July 11, 2024. Effective July 11, 2024. Summary: The Office of Administrative Law has approved the Department of Cannabis Control’s non-substantive amendments to align existing regulations regarding labor peace agreements with recently amended provisions of Business and Professions [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 710,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/labor-peace-agreements/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/labor-peace-agreements/",
       "page_title": "Labor Peace Agreements",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Labor Peace Agreements",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/labor-peace-agreements/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/labor-peace-agreements/",
       "open_graph_title": "Labor Peace Agreements",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Labor Peace Agreements",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/labor-peace-agreements/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/labor-peace-agreements/"
   }
 }
