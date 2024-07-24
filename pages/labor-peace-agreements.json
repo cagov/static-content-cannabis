@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-10-30T21:09:04",
-    "updated_date": "2024-06-18T19:09:42",
+    "created_date": "2024-07-24T23:17:32",
+    "updated_date": "2024-07-24T23:17:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/15678",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19021",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15678,
-    "date": "2023-10-30T14:09:04",
-    "date_gmt": "2023-10-30T21:09:04",
-    "guid": "https://api.cannabis.ca.gov/?page_id=15678",
-    "modified": "2024-06-18T12:09:42",
-    "modified_gmt": "2024-06-18T19:09:42",
-    "slug": "how-to-renew-your-license",
+    "id": 19021,
+    "date": "2024-07-24T16:17:32",
+    "date_gmt": "2024-07-24T23:17:32",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19021",
+    "modified": "2024-07-24T16:17:38",
+    "modified_gmt": "2024-07-24T23:17:38",
+    "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/",
-    "title": "How to renew your license",
-    "excerpt": "<p>Related content How to apply for a license Follow these steps and access resources needed to apply for a license. Cultivation license change options On March 11, 2024, the Department of Cannabis Control (DCC)&nbsp;adopted emergency regulations&nbsp;to implement Senate Bill 833.&nbsp; Under the new regulations, eligible cultivation licensees can make certain changes &nbsp;to their license. Access [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/labor-peace-agreements/",
+    "title": "Labor Peace Agreements",
+    "excerpt": "<p>Type:  Change without Regulatory Effect pursuant to 1 CCR§100 Status: Approved and filed with the Secretary of State on July 11, 2024. Effective July 11, 2024. Summary: The Office of Administrative Law has approved the Department of Cannabis Control’s non-substantive amendments to align existing regulations regarding labor peace agreements with recently amended provisions of Business and Professions [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 758,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,10 +39,11 @@
       "footnotes": ""
     },
     "categories": [
-      "FAQs",
-      null
+      "Rulemaking"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -57,58 +58,54 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/",
-      "page_title": "How to renew your license",
+      "canonical_url": "https://api.cannabis.ca.gov/labor-peace-agreements/",
+      "page_title": "Labor Peace Agreements",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "How to renew your license",
+      "meta_title": "Labor Peace Agreements",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/",
-      "open_graph_title": "How to renew your license",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/labor-peace-agreements/",
+      "open_graph_title": "Labor Peace Agreements",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "How to renew your license",
+      "twitter_title": "Labor Peace Agreements",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 6,
-        "name": "FAQs",
-        "slug": "faqs",
+        "term_id": 802,
+        "name": "Rulemaking",
+        "slug": "rulemaking",
         "term_group": 0,
-        "term_taxonomy_id": 6,
+        "term_taxonomy_id": 802,
         "taxonomy": "category",
         "description": "",
-        "parent": 2,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 6,
+        "cat_ID": 802,
         "category_description": "",
-        "cat_name": "FAQs",
-        "category_nicename": "faqs",
-        "category_parent": 2
-      },
-      {
-        "term_id": 875,
-        "name": "Renewal",
-        "slug": "renewal",
-        "term_group": 0,
-        "term_taxonomy_id": 875,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 806,
-        "filter": "raw",
-        "cat_ID": 875,
-        "category_description": "",
-        "cat_name": "Renewal",
-        "category_nicename": "renewal",
-        "category_parent": 806
+        "cat_name": "Rulemaking",
+        "category_nicename": "rulemaking",
+        "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/"
+    "wordpress_url": "https://api.cannabis.ca.gov/labor-peace-agreements/"
   }
 }
