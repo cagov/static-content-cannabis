@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-23T17:52:25",
-    "updated_date": "2024-07-24T18:29:08",
+    "updated_date": "2024-07-24T19:02:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-23T10:52:25",
     "date_gmt": "2024-07-23T17:52:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=18956",
-    "modified": "2024-07-24T11:29:08",
-    "modified_gmt": "2024-07-24T18:29:08",
+    "modified": "2024-07-24T12:02:09",
+    "modified_gmt": "2024-07-24T19:02:09",
     "slug": "thc-design-estate-grown-premium",
     "status": "publish",
     "type": "page",
