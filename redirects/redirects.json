@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 169,
+      "redirects": 171,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4817,6 +4817,58 @@
       "regex": false,
       "group_id": 1,
       "position": 168,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 421,
+      "url": "/labor-peace-agreements/",
+      "match_url": "/labor-peace-agreements",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/labor-peace-agreements/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 169,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 422,
+      "url": "/cannabis-laws/rulemaking/labor-peace-agreements/",
+      "match_url": "/cannabis-laws/rulemaking/labor-peace-agreements",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/labor-peace-amendments/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 170,
       "last_access": "-",
       "enabled": true
     }
