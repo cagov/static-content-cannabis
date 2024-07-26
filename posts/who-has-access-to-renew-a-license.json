@@ -82,13 +82,13 @@
         "term_taxonomy_id": 905,
         "taxonomy": "category",
         "description": "",
-        "parent": 904,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 905,
         "category_description": "",
         "cat_name": "Renewal FAQs",
         "category_nicename": "renewal-faqs",
-        "category_parent": 904
+        "category_parent": 0
       }
     ],
     "headless_tags": [
