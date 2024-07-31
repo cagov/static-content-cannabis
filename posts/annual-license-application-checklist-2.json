@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-15T19:32:24",
-    "updated_date": "2024-07-31T22:18:27",
+    "updated_date": "2024-07-31T22:19:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-15T12:32:24",
     "date_gmt": "2024-07-15T19:32:24",
     "guid": "https://api.cannabis.ca.gov/?p=18814",
-    "modified": "2024-07-31T15:18:27",
-    "modified_gmt": "2024-07-31T22:18:27",
+    "modified": "2024-07-31T15:19:26",
+    "modified_gmt": "2024-07-31T22:19:26",
     "slug": "annual-license-application-checklist-2",
     "status": "publish",
     "type": "post",
