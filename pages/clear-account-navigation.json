@@ -23,7 +23,7 @@
     "slug": "clear-account-navigation",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-account-navigation/",
+    "link": "https://api.cannabis.ca.gov/clear-user-guides/clear-account-navigation/",
     "title": "CLEaR: Account navigation",
     "excerpt": "<p>Once you are registered and logged into your account, you can begin the process of applying for a cannabis business license. Choose to apply for one of these license types to begin your application. In addition to Home (this screen), there is Owner Submittal, My Records, and License Search. The Owner Submittal link is only used to file an Owner application, part [&hellip;]</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-account-navigation/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-account-navigation/",
       "page_title": "CLEaR: Account navigation",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: Account navigation",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-account-navigation/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-account-navigation/",
       "open_graph_title": "CLEaR: Account navigation",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: Account navigation",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-account-navigation/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-account-navigation/"
   }
 }

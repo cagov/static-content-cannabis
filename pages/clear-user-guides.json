@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-05T20:39:24",
-    "updated_date": "2024-08-05T20:39:30",
+    "updated_date": "2024-08-05T21:25:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-05T13:39:24",
     "date_gmt": "2024-08-05T20:39:24",
     "guid": "https://api.cannabis.ca.gov/?page_id=19141",
-    "modified": "2024-08-05T13:39:30",
-    "modified_gmt": "2024-08-05T20:39:30",
-    "slug": "cannabis-licensing-enforcement-and-reporting-clear-user-guides",
+    "modified": "2024-08-05T14:25:56",
+    "modified_gmt": "2024-08-05T21:25:56",
+    "slug": "clear-user-guides",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-licensing-enforcement-and-reporting-clear-user-guides/",
+    "link": "https://api.cannabis.ca.gov/clear-user-guides/",
     "title": "Cannabis Licensing Enforcement and Reporting (CLEaR) User Guides",
     "excerpt": "<p>Overview: How to complete the online application</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-licensing-enforcement-and-reporting-clear-user-guides/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/",
       "page_title": "Cannabis Licensing Enforcement and Reporting (CLEaR) User Guides",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cannabis Licensing Enforcement and Reporting (CLEaR) User Guides",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-licensing-enforcement-and-reporting-clear-user-guides/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/",
       "open_graph_title": "Cannabis Licensing Enforcement and Reporting (CLEaR) User Guides",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Cannabis Licensing Enforcement and Reporting (CLEaR) User Guides",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-licensing-enforcement-and-reporting-clear-user-guides/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-user-guides/"
   }
 }
