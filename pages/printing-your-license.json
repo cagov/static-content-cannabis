@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-05T21:29:03",
-    "updated_date": "2024-08-05T21:29:08",
+    "updated_date": "2024-08-05T21:30:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-08-05T14:29:03",
     "date_gmt": "2024-08-05T21:29:03",
     "guid": "https://api.cannabis.ca.gov/?page_id=19200",
-    "modified": "2024-08-05T14:29:08",
-    "modified_gmt": "2024-08-05T21:29:08",
-    "slug": "clear-finalizing-and-printing-your-license",
+    "modified": "2024-08-05T14:30:58",
+    "modified_gmt": "2024-08-05T21:30:58",
+    "slug": "printing-your-license",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-user-guides/clear-finalizing-and-printing-your-license/",
+    "link": "https://api.cannabis.ca.gov/clear-user-guides/printing-your-license/",
     "title": "CLEaR: Finalizing and printing your license",
-    "excerpt": "<p>If your application is approved, you must pay the license fee before your license can be issued. On the home screen, Click on the link&nbsp;Pay Fees Due. Refer to the How to Pay Fees section for steps on how to pay License Fee. Failure to pay initial licensing fees within 60 days of approval will result in [&hellip;]</p>\n",
+    "excerpt": "<p>If your application is approved, you must pay the license fee before your license can be issued. On the home screen, Click on the link&nbsp;Pay Fees Due. Refer to the&nbsp;How to Pay Fees section&nbsp;for steps on how to pay License Fee. Failure to pay initial licensing fees within 60 days of approval will result in [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19141,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-finalizing-and-printing-your-license/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/printing-your-license/",
       "page_title": "CLEaR: Finalizing and printing your license",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: Finalizing and printing your license",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-finalizing-and-printing-your-license/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/printing-your-license/",
       "open_graph_title": "CLEaR: Finalizing and printing your license",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: Finalizing and printing your license",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-finalizing-and-printing-your-license/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-user-guides/printing-your-license/"
   }
 }
