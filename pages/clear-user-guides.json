@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-05T20:39:24",
-    "updated_date": "2024-08-05T21:25:56",
+    "updated_date": "2024-08-05T21:32:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-05T13:39:24",
     "date_gmt": "2024-08-05T20:39:24",
     "guid": "https://api.cannabis.ca.gov/?page_id=19141",
-    "modified": "2024-08-05T14:25:56",
-    "modified_gmt": "2024-08-05T21:25:56",
+    "modified": "2024-08-05T14:32:41",
+    "modified_gmt": "2024-08-05T21:32:41",
     "slug": "clear-user-guides",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CLEAR System Guides"
+      "Licensing system guides"
     ],
     "tags": [
       "staging"
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 934,
-        "name": "CLEAR System Guides",
-        "slug": "clear-system-guides",
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
         "term_group": 0,
-        "term_taxonomy_id": 934,
+        "term_taxonomy_id": 911,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 934,
+        "cat_ID": 911,
         "category_description": "",
-        "cat_name": "CLEAR System Guides",
-        "category_nicename": "clear-system-guides",
-        "category_parent": 911
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
       }
     ],
     "headless_tags": [
