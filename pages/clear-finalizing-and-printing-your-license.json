@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "created_date": "2024-08-05T21:29:03",
+    "updated_date": "2024-08-05T21:29:08",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19200",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19200,
+    "date": "2024-08-05T14:29:03",
+    "date_gmt": "2024-08-05T21:29:03",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19200",
+    "modified": "2024-08-05T14:29:08",
+    "modified_gmt": "2024-08-05T21:29:08",
+    "slug": "clear-finalizing-and-printing-your-license",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/clear-user-guides/clear-finalizing-and-printing-your-license/",
+    "title": "CLEaR: Finalizing and printing your license",
+    "excerpt": "<p>If your application is approved, you must pay the license fee before your license can be issued. On the home screen, Click on the link&nbsp;Pay Fees Due. Refer to the How to Pay Fees section for steps on how to pay License Fee. Failure to pay initial licensing fees within 60 days of approval will result in [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 19141,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "CLEAR System Guides"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-finalizing-and-printing-your-license/",
+      "page_title": "CLEaR: Finalizing and printing your license",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CLEaR: Finalizing and printing your license",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-finalizing-and-printing-your-license/",
+      "open_graph_title": "CLEaR: Finalizing and printing your license",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "CLEaR: Finalizing and printing your license",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 934,
+        "name": "CLEAR System Guides",
+        "slug": "clear-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 934,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 934,
+        "category_description": "",
+        "cat_name": "CLEAR System Guides",
+        "category_nicename": "clear-system-guides",
+        "category_parent": 911
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-finalizing-and-printing-your-license/"
+  }
+}
