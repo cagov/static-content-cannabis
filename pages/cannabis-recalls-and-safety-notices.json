@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-26T16:54:19",
-    "updated_date": "2024-08-01T19:32:34",
+    "updated_date": "2024-08-07T20:37:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-01-26T08:54:19",
     "date_gmt": "2022-01-26T16:54:19",
     "guid": "https://cannabis.ca.gov/?page_id=9345",
-    "modified": "2024-08-01T12:32:34",
-    "modified_gmt": "2024-08-01T19:32:34",
+    "modified": "2024-08-07T13:37:33",
+    "modified_gmt": "2024-08-07T20:37:33",
     "slug": "cannabis-recalls-and-safety-notices",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "Product safety"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
@@ -69,7 +71,24 @@
       "twitter_title": "Cannabis recalls and safety notices",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 938,
+        "name": "Product safety",
+        "slug": "product-safety",
+        "term_group": 0,
+        "term_taxonomy_id": 938,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 938,
+        "category_description": "",
+        "cat_name": "Product safety",
+        "category_nicename": "product-safety",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
