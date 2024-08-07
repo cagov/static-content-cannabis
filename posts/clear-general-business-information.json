@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-07T22:24:56",
-    "updated_date": "2024-08-07T22:25:02",
+    "updated_date": "2024-08-07T22:45:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-08-07T15:24:56",
     "date_gmt": "2024-08-07T22:24:56",
     "guid": "https://api.cannabis.ca.gov/?p=19299",
-    "modified": "2024-08-07T15:25:02",
-    "modified_gmt": "2024-08-07T22:25:02",
+    "modified": "2024-08-07T15:45:42",
+    "modified_gmt": "2024-08-07T22:45:42",
     "slug": "clear-general-business-information",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2024/08/clear-general-business-information/",
     "title": "CLEaR: General business information",
-    "excerpt": "<p>Follow these steps to apply for a license using the CLEaR system.</p>\n",
+    "excerpt": "<p>In this first part of the application, you will cover the following sections: General disclaimer, License Designation, Business Activities, Business, Contact/Business Information, Contact Person and Agent for Service of Process, and Declarations.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "CLEAR: How to apply"
     ],
     "tags": [
       "staging"
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 939,
+        "name": "CLEAR: How to apply",
+        "slug": "clear-how-to-apply",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 939,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 934,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 939,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
+        "cat_name": "CLEAR: How to apply",
+        "category_nicename": "clear-how-to-apply",
+        "category_parent": 934
       }
     ],
     "headless_tags": [
