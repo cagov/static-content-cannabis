@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-31T00:29:35",
-    "updated_date": "2024-02-29T18:03:05",
+    "updated_date": "2024-08-07T17:09:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2021-12-30T16:29:35",
     "date_gmt": "2021-12-31T00:29:35",
     "guid": "https://cannabis.ca.gov/?page_id=9225",
-    "modified": "2024-02-29T10:03:05",
-    "modified_gmt": "2024-02-29T18:03:05",
+    "modified": "2024-08-07T10:09:33",
+    "modified_gmt": "2024-08-07T17:09:33",
     "slug": "apply-for-equity-fee-relief",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/applicants/apply-for-equity-fee-relief/",
     "title": "Apply for equity fee relief",
-    "excerpt": "<p>Apply for equity fee relief If you were negatively affected by the criminalization of cannabis, you can apply to have your license fee waived or deferred. Check if you’re eligible for equity fee relief before applying.</p>\n",
-    "author": 2,
+    "excerpt": "<p>Currently, fee waiver funding for all applicants—including those enrolled in their local jurisdiction’s equity program—is exhausted. Although funding is exhausted, the DCC will continue to review fee waiver requests for Retailers (storefront and non-storefront) and Microbusinesses with retail activities that are submitted during issuance or renewal of that Retailer license to apply for vendor compensation [&hellip;]</p>\n",
+    "author": 32,
     "featured_media": 0,
     "parent": 756,
     "menu_order": 4,
@@ -42,7 +42,9 @@
       "Equity fee relief",
       "Payments"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -106,7 +108,19 @@
         "category_parent": 893
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/applicants/apply-for-equity-fee-relief/"
