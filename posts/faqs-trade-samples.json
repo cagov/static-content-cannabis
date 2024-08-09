@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-26T19:13:30",
-    "updated_date": "2024-08-09T22:12:57",
+    "updated_date": "2024-08-09T23:25:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-26T11:13:30",
     "date_gmt": "2023-12-26T19:13:30",
     "guid": "https://api.cannabis.ca.gov/?p=16433",
-    "modified": "2024-08-09T15:12:57",
-    "modified_gmt": "2024-08-09T22:12:57",
+    "modified": "2024-08-09T16:25:25",
+    "modified_gmt": "2024-08-09T23:25:25",
     "slug": "faqs-trade-samples",
     "status": "publish",
     "type": "post",
