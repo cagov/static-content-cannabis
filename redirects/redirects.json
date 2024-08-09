@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 171,
+      "redirects": 181,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -4869,6 +4869,266 @@
       "regex": false,
       "group_id": 1,
       "position": 170,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 423,
+      "url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-paying-the-application-fees/",
+      "match_url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-paying-the-application-fees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-fees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 171,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 424,
+      "url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides/",
+      "match_url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 172,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 425,
+      "url": "/clear-user-guides/clear-creating-an-account/",
+      "match_url": "/clear-user-guides/clear-creating-an-account",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/clear-create-account/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 173,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 426,
+      "url": "/clear-user-guides/clear-how-to-apply-for-a-license/",
+      "match_url": "/clear-user-guides/clear-how-to-apply-for-a-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/how-to-apply/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 174,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 427,
+      "url": "/clear-user-guides/clear-finalizing-and-printing-your-license/",
+      "match_url": "/clear-user-guides/clear-finalizing-and-printing-your-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/printing-your-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 175,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 428,
+      "url": "/clear-user-guides/clear-how-to-complete-an-owner-submittal/",
+      "match_url": "/clear-user-guides/clear-how-to-complete-an-owner-submittal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/owner-submittal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 176,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 429,
+      "url": "/clear-user-guides/clear-account-navigation/",
+      "match_url": "/clear-user-guides/clear-account-navigation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/account-navigation/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 177,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 430,
+      "url": "/clear-user-guides/clear-fees/",
+      "match_url": "/clear-user-guides/clear-fees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/paying-fees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 178,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 431,
+      "url": "/cultivation-licensing-system-cls-user-guides/cls-email-address-guidelines/",
+      "match_url": "/cultivation-licensing-system-cls-user-guides/cls-email-address-guidelines",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system-cls-user-guides/email-address-guidelines/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 179,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 432,
+      "url": "/cultivation-licensing-system-cls-user-guides/",
+      "match_url": "/cultivation-licensing-system-cls-user-guides",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-user-guides/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 180,
       "last_access": "-",
       "enabled": true
     }
