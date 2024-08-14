@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-14T16:23:33",
-    "updated_date": "2024-08-14T16:23:38",
+    "updated_date": "2024-08-14T16:48:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-14T09:23:33",
     "date_gmt": "2024-08-14T16:23:33",
     "guid": "https://api.cannabis.ca.gov/?page_id=19462",
-    "modified": "2024-08-14T09:23:38",
-    "modified_gmt": "2024-08-14T16:23:38",
+    "modified": "2024-08-14T09:48:02",
+    "modified_gmt": "2024-08-14T16:48:02",
     "slug": "glass-house-farms-cannabis-flower-pre-rolls",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/glass-house-farms-cannabis-flower-pre-rolls/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/glass-house-farms-cannabis-flower-pre-rolls/",
     "title": "Glass House Farms Cannabis Flower Pre-Rolls",
     "excerpt": "<p>Recall overview Mandatory recall for a single “Glass House Farms Cannabis Flower Pre-Rolls&#8221; pre-roll product(s) due to the presence of Aspergillus flavus.&nbsp; DCC Recall Publication Date 8/14/2024&nbsp; Business Recall Publication Date n/a Recall Type Mandatory Product Type Pre-Roll&nbsp; Product Description Glass House Farms Cannabis Flower Pre-Rolls&nbsp; Legal Business Name Alkhemist DM LLC Legal Business License [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/glass-house-farms-cannabis-flower-pre-rolls/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/glass-house-farms-cannabis-flower-pre-rolls/",
       "page_title": "Glass House Farms Cannabis Flower Pre-Rolls",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "Glass House Farms Cannabis Flower Pre-Rolls",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/glass-house-farms-cannabis-flower-pre-rolls/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/glass-house-farms-cannabis-flower-pre-rolls/",
       "open_graph_title": "Glass House Farms Cannabis Flower Pre-Rolls",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Glass House Farms Cannabis Flower Pre-Rolls",
@@ -123,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/glass-house-farms-cannabis-flower-pre-rolls/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/glass-house-farms-cannabis-flower-pre-rolls/"
   }
 }
