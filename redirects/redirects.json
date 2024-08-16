@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 181,
+      "redirects": 183,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -5129,6 +5129,58 @@
       "regex": false,
       "group_id": 1,
       "position": 180,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 433,
+      "url": "/manufacturing-licensing-renewal/",
+      "match_url": "/manufacturing-licensing-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/manufacturing-renewal-guide/manufacturing-licensing-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 181,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 434,
+      "url": "/glass-house-farms-cannabis-flower-pre-rolls/",
+      "match_url": "/glass-house-farms-cannabis-flower-pre-rolls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/glass-house-farms-cannabis-flower-pre-rolls/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 182,
       "last_access": "-",
       "enabled": true
     }
