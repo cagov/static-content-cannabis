@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-23T22:07:15",
-    "updated_date": "2024-08-16T18:01:39",
+    "updated_date": "2024-08-23T21:46:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-01-23T14:07:15",
     "date_gmt": "2024-01-23T22:07:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=16840",
-    "modified": "2024-08-16T11:01:39",
-    "modified_gmt": "2024-08-16T18:01:39",
+    "modified": "2024-08-23T14:46:04",
+    "modified_gmt": "2024-08-23T21:46:04",
     "slug": "cultivation-license-changes",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes/",
     "title": "Cultivation License Changes Pursuant to Business and Professions Code section 26061.5",
-    "excerpt": "<p>Type:  Emergency rulemaking&nbsp; Status: Approved and filed with Secretary of State on March 11, 2024. Effective March 11, 2024. Summary: The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) emergency regulations implementing Senate Bill 833, codified in Business and Professions Code section 26061.5, which requires the DCC to allow cultivation licensees to [&hellip;]</p>\n",
+    "excerpt": "<p>Type:  Emergency rulemaking Status: Approved and filed with Secretary of State on March 11, 2024. Effective March 11, 2024.Summary: The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) emergency regulations implementing Senate Bill 833, codified in Business and Professions Code section 26061.5, which requires the DCC to allow cultivation licensees to make certain [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 710,
@@ -40,6 +40,7 @@
     },
     "categories": [
       "Cultivation license changes",
+      "Recently Approved Actions",
       "Rulemaking"
     ],
     "tags": [
@@ -90,6 +91,22 @@
         "cat_name": "Cultivation license changes",
         "category_nicename": "cultivation-license-changes",
         "category_parent": 801
+      },
+      {
+        "term_id": 804,
+        "name": "Recently Approved Actions",
+        "slug": "recently-approved",
+        "term_group": 0,
+        "term_taxonomy_id": 804,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 802,
+        "filter": "raw",
+        "cat_ID": 804,
+        "category_description": "",
+        "cat_name": "Recently Approved Actions",
+        "category_nicename": "recently-approved",
+        "category_parent": 802
       },
       {
         "term_id": 802,
