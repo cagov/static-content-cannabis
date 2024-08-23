@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 183,
+      "redirects": 184,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -5181,6 +5181,32 @@
       "regex": false,
       "group_id": 1,
       "position": 182,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 435,
+      "url": "/resources/cannabis-recalls-and-safety-notices/nhpr-trix-flower/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/nhpr-trix-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/nhpr-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 183,
       "last_access": "-",
       "enabled": true
     }
