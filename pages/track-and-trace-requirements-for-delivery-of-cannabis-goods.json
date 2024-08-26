@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-29T00:15:26",
-    "updated_date": "2024-08-26T21:43:28",
+    "updated_date": "2024-08-26T21:43:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-28T16:15:26",
     "date_gmt": "2023-11-29T00:15:26",
     "guid": "https://api.cannabis.ca.gov/?page_id=16210",
-    "modified": "2024-08-26T14:43:28",
-    "modified_gmt": "2024-08-26T21:43:28",
+    "modified": "2024-08-26T14:43:34",
+    "modified_gmt": "2024-08-26T21:43:34",
     "slug": "track-and-trace-requirements-for-delivery-of-cannabis-goods",
     "status": "publish",
     "type": "page",
