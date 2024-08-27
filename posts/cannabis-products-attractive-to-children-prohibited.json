@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "created_date": "2024-08-27T22:52:00",
+    "updated_date": "2024-08-27T23:07:21",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/19630",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19630,
+    "date": "2024-08-27T15:52:00",
+    "date_gmt": "2024-08-27T22:52:00",
+    "guid": "https://api.cannabis.ca.gov/?p=19630",
+    "modified": "2024-08-27T16:07:21",
+    "modified_gmt": "2024-08-27T23:07:21",
+    "slug": "cannabis-products-attractive-to-children-prohibited",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/08/cannabis-products-attractive-to-children-prohibited/",
+    "title": "Cannabis products that could be attractive to children are prohibited",
+    "excerpt": "<p>If you&#8217;re a licensee involved in advertising, marketing, manufacturing, packaging, or labeling cannabis products in a way that is attractive to children, you could face penalties including citations and fines, license suspension, license denial, or license revocation. For both businesses and consumers, understanding these regulations is crucial to preventing unintended exposure. This webpage provides clear guidelines on what to avoid, how to report violations, and tips for safely storing cannabis products to keep them out of children&#8217;s reach.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "FAQs",
+      "Labeling",
+      "Packaging"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/08/cannabis-products-attractive-to-children-prohibited/",
+      "page_title": "Cannabis products that could be attractive to children are prohibited",
+      "page_description": "If you're a licensee involved in advertising, marketing, manufacturing, packaging, or labeling cannabis products in a way that is attractive to children, you could face penalties including citations and fines, license suspension, license denial, or license revocation. For both businesses and consumers, understanding these regulations is crucial to preventing unintended exposure. This webpage provides clear guidelines on what to avoid, how to report violations, and tips for safely storing cannabis products to keep them out of children's reach.",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis products that could be attractive to children are prohibited",
+      "meta_description": "If you're a licensee involved in advertising, marketing, manufacturing, packaging, or labeling cannabis products in a way that is attractive to children, you could face penalties including citations and fines, license suspension, license denial, or license revocation. For both businesses and consumers, understanding these regulations is crucial to preventing unintended exposure. This webpage provides clear guidelines on what to avoid, how to report violations, and tips for safely storing cannabis products to keep them out of children's reach.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/08/cannabis-products-attractive-to-children-prohibited/",
+      "open_graph_title": "Cannabis products that could be attractive to children are prohibited",
+      "open_graph_description": "If you're a licensee involved in advertising, marketing, manufacturing, packaging, or labeling cannabis products in a way that is attractive to children, you could face penalties including citations and fines, license suspension, license denial, or license revocation. For both businesses and consumers, understanding these regulations is crucial to preventing unintended exposure. This webpage provides clear guidelines on what to avoid, how to report violations, and tips for safely storing cannabis products to keep them out of children's reach.",
+      "twitter_title": "Cannabis products that could be attractive to children are prohibited",
+      "twitter_description": "If you're a licensee involved in advertising, marketing, manufacturing, packaging, or labeling cannabis products in a way that is attractive to children, you could face penalties including citations and fines, license suspension, license denial, or license revocation. For both businesses and consumers, understanding these regulations is crucial to preventing unintended exposure. This webpage provides clear guidelines on what to avoid, how to report violations, and tips for safely storing cannabis products to keep them out of children's reach."
+    },
+    "headless_categories": [
+      {
+        "term_id": 6,
+        "name": "FAQs",
+        "slug": "faqs",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 6,
+        "category_description": "",
+        "cat_name": "FAQs",
+        "category_nicename": "faqs",
+        "category_parent": 2
+      },
+      {
+        "term_id": 863,
+        "name": "Labeling",
+        "slug": "labeling",
+        "term_group": 0,
+        "term_taxonomy_id": 863,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 863,
+        "category_description": "",
+        "cat_name": "Labeling",
+        "category_nicename": "labeling",
+        "category_parent": 800
+      },
+      {
+        "term_id": 864,
+        "name": "Packaging",
+        "slug": "packaging",
+        "term_group": 0,
+        "term_taxonomy_id": 864,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 864,
+        "category_description": "",
+        "cat_name": "Packaging",
+        "category_nicename": "packaging",
+        "category_parent": 800
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/08/cannabis-products-attractive-to-children-prohibited/"
+  }
+}
