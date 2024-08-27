@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-20T20:26:16",
-    "updated_date": "2024-08-27T19:59:52",
+    "updated_date": "2024-08-27T20:06:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-20T13:26:16",
     "date_gmt": "2023-09-20T20:26:16",
     "guid": "https://api.cannabis.ca.gov/?p=14955",
-    "modified": "2024-08-27T12:59:52",
-    "modified_gmt": "2024-08-27T19:59:52",
+    "modified": "2024-08-27T13:06:46",
+    "modified_gmt": "2024-08-27T20:06:46",
     "slug": "dcc-conflict-of-interest-code-2",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -44,7 +44,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-single"
+      "template": "post"
     },
     "og_meta": {
       "editor": {
