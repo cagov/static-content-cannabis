@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T19:04:21",
-    "updated_date": "2024-08-29T22:37:00",
+    "updated_date": "2024-08-29T22:47:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-08-16T12:04:21",
     "date_gmt": "2024-08-16T19:04:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=19483",
-    "modified": "2024-08-29T15:37:00",
-    "modified_gmt": "2024-08-29T22:37:00",
+    "modified": "2024-08-29T15:47:46",
+    "modified_gmt": "2024-08-29T22:47:46",
     "slug": "cultivation-license-changes-at-time-of-renewal",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/",
     "title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
-    "excerpt": "<p>Type:  Emergency rulemaking Status: Filed with OAL on August 23, 2024 and currently under review. Summary: The Department of Cannabis Control (DCC) has filed an action with the Office of Administrative Law (OAL) to readopt its emergency regulations implementing Senate Bill 833, codified in Business and Professions Code section 26061.5, which requires the DCC to allow cultivation [&hellip;]</p>\n",
+    "excerpt": "<p>Type:  Emergency rulemaking Status: Filed with OAL on August 23, 2024 and currently under review. Public comments accepted through August 28, 2024. Summary: The Department of Cannabis Control (DCC) has filed an action with the Office of Administrative Law (OAL) to readopt its emergency regulations implementing Senate Bill 833, codified in Business and Professions Code section 26061.5, [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 710,
@@ -41,9 +41,7 @@
     "categories": [
       "Regulatory notices"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,19 +89,7 @@
         "category_parent": 802
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/"
