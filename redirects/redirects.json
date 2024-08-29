@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 184,
+      "redirects": 186,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -5207,6 +5207,58 @@
       "regex": false,
       "group_id": 1,
       "position": 183,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 436,
+      "url": "/2024/08/cannabis-products-that-could-be-attractive-to-children-are-prohibited/",
+      "match_url": "/2024/08/cannabis-products-that-could-be-attractive-to-children-are-prohibited",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/08/cannabis-products-be-attractive-to-children-prohibited/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 184,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 437,
+      "url": "/2024/08/cannabis-products-be-attractive-to-children-prohibited/",
+      "match_url": "/2024/08/cannabis-products-be-attractive-to-children-prohibited",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/08/cannabis-products-attractive-to-children-prohibited/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 185,
       "last_access": "-",
       "enabled": true
     }
