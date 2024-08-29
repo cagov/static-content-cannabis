@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-29T20:31:02",
-    "updated_date": "2024-08-29T20:53:51",
+    "updated_date": "2024-08-29T22:13:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-29T13:31:02",
     "date_gmt": "2024-08-29T20:31:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=19656",
-    "modified": "2024-08-29T13:53:51",
-    "modified_gmt": "2024-08-29T20:53:51",
+    "modified": "2024-08-29T15:13:51",
+    "modified_gmt": "2024-08-29T22:13:51",
     "slug": "8-29-24-curepen-premium-thc-oil-vape-cartridge",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/8-29-24-curepen-premium-thc-oil-vape-cartridge/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-29-24-curepen-premium-thc-oil-vape-cartridge/",
     "title": "CUREpen Premium THC Oil vape cartridge",
     "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this notice of mandatory recall for a single “CUREpen Premium THC Oil” vape cartridge product(s) due to the presence of pesticide chlorfenapyr. DCC Recall Publication Date August 29, 2024 Recall Type Mandatory Product Type Vape Cartridge Product Description CUREpen Premium THC Oil vape cartridge Legal [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/8-29-24-curepen-premium-thc-oil-vape-cartridge/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-29-24-curepen-premium-thc-oil-vape-cartridge/",
       "page_title": "CUREpen Premium THC Oil vape cartridge",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "CUREpen Premium THC Oil vape cartridge",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/8-29-24-curepen-premium-thc-oil-vape-cartridge/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-29-24-curepen-premium-thc-oil-vape-cartridge/",
       "open_graph_title": "CUREpen Premium THC Oil vape cartridge",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CUREpen Premium THC Oil vape cartridge",
@@ -123,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/8-29-24-curepen-premium-thc-oil-vape-cartridge/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-29-24-curepen-premium-thc-oil-vape-cartridge/"
   }
 }
