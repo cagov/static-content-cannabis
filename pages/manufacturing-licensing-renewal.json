@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T19:33:14",
-    "updated_date": "2024-09-03T23:04:54",
+    "updated_date": "2024-09-03T23:13:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-09T12:33:14",
     "date_gmt": "2024-08-09T19:33:14",
     "guid": "https://api.cannabis.ca.gov/?page_id=19368",
-    "modified": "2024-09-03T16:04:54",
-    "modified_gmt": "2024-09-03T23:04:54",
+    "modified": "2024-09-03T16:13:51",
+    "modified_gmt": "2024-09-03T23:13:51",
     "slug": "manufacturing-licensing-renewal",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Renewals-Manufacturing"
+      "Clear Renewal Manufacturing"
     ],
     "tags": [
       "staging"
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 901,
-        "name": "Renewals-Manufacturing",
-        "slug": "renewals-manufacturing",
+        "term_id": 948,
+        "name": "Clear Renewal Manufacturing",
+        "slug": "clear-renewal-manufacturing",
         "term_group": 0,
-        "term_taxonomy_id": 901,
+        "term_taxonomy_id": 948,
         "taxonomy": "category",
         "description": "",
-        "parent": 800,
+        "parent": 934,
         "filter": "raw",
-        "cat_ID": 901,
+        "cat_ID": 948,
         "category_description": "",
-        "cat_name": "Renewals-Manufacturing",
-        "category_nicename": "renewals-manufacturing",
-        "category_parent": 800
+        "cat_name": "Clear Renewal Manufacturing",
+        "category_nicename": "clear-renewal-manufacturing",
+        "category_parent": 934
       }
     ],
     "headless_tags": [

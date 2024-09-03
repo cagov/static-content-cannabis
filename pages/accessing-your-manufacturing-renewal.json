@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T18:15:42",
-    "updated_date": "2024-09-03T23:10:53",
+    "updated_date": "2024-09-03T23:13:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-09T11:15:42",
     "date_gmt": "2024-08-09T18:15:42",
     "guid": "https://api.cannabis.ca.gov/?page_id=19360",
-    "modified": "2024-09-03T16:10:53",
-    "modified_gmt": "2024-09-03T23:10:53",
+    "modified": "2024-09-03T16:13:50",
+    "modified_gmt": "2024-09-03T23:13:50",
     "slug": "accessing-your-manufacturing-renewal",
     "status": "publish",
     "type": "page",
@@ -39,8 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "CLEAR System Guides",
-      "Renewals-Manufacturing"
+      "Clear Renewal Manufacturing",
+      "CLEAR System Guides"
     ],
     "tags": [
       "staging"
@@ -76,6 +76,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 948,
+        "name": "Clear Renewal Manufacturing",
+        "slug": "clear-renewal-manufacturing",
+        "term_group": 0,
+        "term_taxonomy_id": 948,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 934,
+        "filter": "raw",
+        "cat_ID": 948,
+        "category_description": "",
+        "cat_name": "Clear Renewal Manufacturing",
+        "category_nicename": "clear-renewal-manufacturing",
+        "category_parent": 934
+      },
+      {
         "term_id": 934,
         "name": "CLEAR System Guides",
         "slug": "clear-system-guides",
@@ -90,22 +106,6 @@
         "cat_name": "CLEAR System Guides",
         "category_nicename": "clear-system-guides",
         "category_parent": 911
-      },
-      {
-        "term_id": 901,
-        "name": "Renewals-Manufacturing",
-        "slug": "renewals-manufacturing",
-        "term_group": 0,
-        "term_taxonomy_id": 901,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 800,
-        "filter": "raw",
-        "cat_ID": 901,
-        "category_description": "",
-        "cat_name": "Renewals-Manufacturing",
-        "category_nicename": "renewals-manufacturing",
-        "category_parent": 800
       }
     ],
     "headless_tags": [
