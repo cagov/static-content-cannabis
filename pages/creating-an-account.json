@@ -23,7 +23,7 @@
     "slug": "creating-an-account",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-how-to-complete-the-online-application/creating-an-account/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/creating-an-account/",
     "title": "CLEaR: Creating an account",
     "excerpt": "<p>The first item you’ll need to complete in when applying for a cannabis business license with the Department of Cannabis Control (DCC) is to register on the website and create your own account. All business owners applying for a cannabis business license must be registered and have an active account with the online licensing system.</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-how-to-complete-the-online-application/creating-an-account/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/creating-an-account/",
       "page_title": "CLEaR: Creating an account",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: Creating an account",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-how-to-complete-the-online-application/creating-an-account/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/creating-an-account/",
       "open_graph_title": "CLEaR: Creating an account",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: Creating an account",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-how-to-complete-the-online-application/creating-an-account/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/creating-an-account/"
   }
 }
