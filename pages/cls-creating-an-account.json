@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T00:02:22",
-    "updated_date": "2024-09-03T23:23:16",
+    "updated_date": "2024-09-03T23:27:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-05T17:02:22",
     "date_gmt": "2024-08-06T00:02:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=19233",
-    "modified": "2024-09-03T16:23:16",
-    "modified_gmt": "2024-09-03T23:23:16",
+    "modified": "2024-09-03T16:27:35",
+    "modified_gmt": "2024-09-03T23:27:35",
     "slug": "cls-creating-an-account",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "CLS Main User Guide"
+    ],
     "tags": [
       "staging"
     ],
@@ -71,7 +73,24 @@
       "twitter_title": "CLS: Creating an account",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 949,
+        "name": "CLS Main User Guide",
+        "slug": "cls-main-user-guide",
+        "term_group": 0,
+        "term_taxonomy_id": 949,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 935,
+        "filter": "raw",
+        "cat_ID": 949,
+        "category_description": "",
+        "cat_name": "CLS Main User Guide",
+        "category_nicename": "cls-main-user-guide",
+        "category_parent": 935
+      }
+    ],
     "headless_tags": [
       {
         "term_id": 797,

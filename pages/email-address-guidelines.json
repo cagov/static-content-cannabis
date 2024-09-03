@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-05T22:21:17",
-    "updated_date": "2024-08-05T22:26:55",
+    "updated_date": "2024-09-03T23:27:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-05T15:21:17",
     "date_gmt": "2024-08-05T22:21:17",
     "guid": "https://api.cannabis.ca.gov/?page_id=19230",
-    "modified": "2024-08-05T15:26:55",
-    "modified_gmt": "2024-08-05T22:26:55",
+    "modified": "2024-09-03T16:27:14",
+    "modified_gmt": "2024-09-03T23:27:14",
     "slug": "email-address-guidelines",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cls-user-guides/email-address-guidelines/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/email-address-guidelines/",
     "title": "CLS email address guidelines",
     "excerpt": "<p>Each person is uniquely identified by a name and an email address in the licensing system. Follow these email guidelines to ensure that email addresses are correctly associated with your account.</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 19228,
+    "parent": 19791,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CLS User Guides"
+      "CLS Main User Guide"
     ],
     "tags": [
       "staging"
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cls-user-guides/email-address-guidelines/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/email-address-guidelines/",
       "page_title": "CLS email address guidelines",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS email address guidelines",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cls-user-guides/email-address-guidelines/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/email-address-guidelines/",
       "open_graph_title": "CLS email address guidelines",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS email address guidelines",
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 935,
-        "name": "CLS User Guides",
-        "slug": "cls-user-guides",
+        "term_id": 949,
+        "name": "CLS Main User Guide",
+        "slug": "cls-main-user-guide",
         "term_group": 0,
-        "term_taxonomy_id": 935,
+        "term_taxonomy_id": 949,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 935,
         "filter": "raw",
-        "cat_ID": 935,
+        "cat_ID": 949,
         "category_description": "",
-        "cat_name": "CLS User Guides",
-        "category_nicename": "cls-user-guides",
-        "category_parent": 911
+        "cat_name": "CLS Main User Guide",
+        "category_nicename": "cls-main-user-guide",
+        "category_parent": 935
       }
     ],
     "headless_tags": [
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cls-user-guides/email-address-guidelines/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/email-address-guidelines/"
   }
 }
