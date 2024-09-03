@@ -23,7 +23,7 @@
     "slug": "clear-renewal-renewal-steps",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-renewal-labs-distribution-retail-events/clear-renewal-renewal-steps/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/clear-renewal-renewal-steps/",
     "title": "CLEaR renewal: Renewal steps",
     "excerpt": "<p>This guide details the complete renewal process for CLEaR, including all essential steps to ensure a smooth renewal experience.</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-renewal-labs-distribution-retail-events/clear-renewal-renewal-steps/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/clear-renewal-renewal-steps/",
       "page_title": "CLEaR renewal: Renewal steps",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR renewal: Renewal steps",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-renewal-labs-distribution-retail-events/clear-renewal-renewal-steps/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/clear-renewal-renewal-steps/",
       "open_graph_title": "CLEaR renewal: Renewal steps",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR renewal: Renewal steps",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-renewal-labs-distribution-retail-events/clear-renewal-renewal-steps/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/clear-renewal-renewal-steps/"
   }
 }

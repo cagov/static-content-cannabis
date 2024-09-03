@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:10:00",
-    "updated_date": "2024-09-03T22:10:06",
+    "updated_date": "2024-09-03T22:50:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-03T15:10:00",
     "date_gmt": "2024-09-03T22:10:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=19754",
-    "modified": "2024-09-03T15:10:06",
-    "modified_gmt": "2024-09-03T22:10:06",
-    "slug": "clear-renewal-labs-distribution-retail-events",
+    "modified": "2024-09-03T15:50:22",
+    "modified_gmt": "2024-09-03T22:50:22",
+    "slug": "clear-renewal",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-renewal-labs-distribution-retail-events/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/",
     "title": "CLEaR renewal: Labs, distribution, retail, events",
     "excerpt": "",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 19750,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-renewal-labs-distribution-retail-events/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/",
       "page_title": "CLEaR renewal: Labs, distribution, retail, events",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR renewal: Labs, distribution, retail, events",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-renewal-labs-distribution-retail-events/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/",
       "open_graph_title": "CLEaR renewal: Labs, distribution, retail, events",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR renewal: Labs, distribution, retail, events",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-renewal-labs-distribution-retail-events/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/"
   }
 }
