@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:36:08",
-    "updated_date": "2024-09-03T22:36:13",
+    "updated_date": "2024-09-03T22:48:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-03T15:36:08",
     "date_gmt": "2024-09-03T22:36:08",
     "guid": "https://api.cannabis.ca.gov/?page_id=19776",
-    "modified": "2024-09-03T15:36:13",
-    "modified_gmt": "2024-09-03T22:36:13",
-    "slug": "clear-finalizing-and-printing-your-license",
+    "modified": "2024-09-03T15:48:07",
+    "modified_gmt": "2024-09-03T22:48:07",
+    "slug": "printing-license",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/how-to-apply/clear-finalizing-and-printing-your-license/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/printing-license/",
     "title": "CLEaR: Finalizing and printing your license",
     "excerpt": "<p>Easily access your license record, view attachments, and print your license certificate with this detailed guide. Manage your license documents effectively with our step-by-step instructions.</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 19770,
+    "parent": 19766,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/how-to-apply/clear-finalizing-and-printing-your-license/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/printing-license/",
       "page_title": "CLEaR: Finalizing and printing your license",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: Finalizing and printing your license",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/how-to-apply/clear-finalizing-and-printing-your-license/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/printing-license/",
       "open_graph_title": "CLEaR: Finalizing and printing your license",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: Finalizing and printing your license",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/how-to-apply/clear-finalizing-and-printing-your-license/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/printing-license/"
   }
 }
