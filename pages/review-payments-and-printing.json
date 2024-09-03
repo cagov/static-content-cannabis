@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T19:52:37",
-    "updated_date": "2024-08-09T19:52:43",
+    "updated_date": "2024-09-03T23:09:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-09T12:52:37",
     "date_gmt": "2024-08-09T19:52:37",
     "guid": "https://api.cannabis.ca.gov/?page_id=19420",
-    "modified": "2024-08-09T12:52:43",
-    "modified_gmt": "2024-08-09T19:52:43",
-    "slug": "manufacturing-renewal-review-payments-and-printing-your-certificate",
+    "modified": "2024-09-03T16:09:22",
+    "modified_gmt": "2024-09-03T23:09:22",
+    "slug": "review-payments-and-printing",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/manufacturing-renewal-review-payments-and-printing-your-certificate/",
+    "link": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/review-payments-and-printing/",
     "title": "Manufacturing renewal: Review, payments, and printing your certificate",
     "excerpt": "<p>Once you have finished your application in the system, you will need to review the information you have provided and pay your fees, and then print your certificate.</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/manufacturing-renewal-review-payments-and-printing-your-certificate/",
+      "canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/review-payments-and-printing/",
       "page_title": "Manufacturing renewal: Review, payments, and printing your certificate",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Manufacturing renewal: Review, payments, and printing your certificate",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/manufacturing-renewal-review-payments-and-printing-your-certificate/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/review-payments-and-printing/",
       "open_graph_title": "Manufacturing renewal: Review, payments, and printing your certificate",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Manufacturing renewal: Review, payments, and printing your certificate",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/manufacturing-renewal-review-payments-and-printing-your-certificate/"
+    "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/review-payments-and-printing/"
   }
 }
