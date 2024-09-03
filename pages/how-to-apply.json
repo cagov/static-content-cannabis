@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-05T21:07:21",
-    "updated_date": "2024-08-05T21:55:31",
+    "created_date": "2021-06-19T15:07:40",
+    "updated_date": "2024-08-12T19:15:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19153",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/7783",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19153,
-    "date": "2024-08-05T14:07:21",
-    "date_gmt": "2024-08-05T21:07:21",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19153",
-    "modified": "2024-08-05T14:55:31",
-    "modified_gmt": "2024-08-05T21:55:31",
+    "id": 7783,
+    "date": "2021-06-19T15:07:40",
+    "date_gmt": "2021-06-19T15:07:40",
+    "guid": "https://dev-cagov-dcc.pantheonsite.io/applicants/applicants/how-to-apply-renew/",
+    "modified": "2024-08-12T12:15:22",
+    "modified_gmt": "2024-08-12T19:15:22",
     "slug": "how-to-apply",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-user-guides/how-to-apply/",
-    "title": "CLEaR: How to apply for a license",
-    "excerpt": "<p>Follow these steps to apply for a license using the CLEaR system.</p>\n",
-    "author": 32,
+    "link": "https://api.cannabis.ca.gov/applicants/how-to-apply/",
+    "title": "How to apply for a license",
+    "excerpt": "<p>Learn the steps needed to apply for or renew a cannabis license.</p>\n",
+    "author": 2,
     "featured_media": 0,
-    "parent": 19141,
+    "parent": 756,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,11 +39,11 @@
       "footnotes": ""
     },
     "categories": [
-      "CLEAR System Guides"
+      "Application resources",
+      "FAQs",
+      "Getting started"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -58,54 +58,74 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/how-to-apply/",
-      "page_title": "CLEaR: How to apply for a license",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/how-to-apply/",
+      "page_title": "How to apply for a license",
+      "page_description": "Learn the steps needed to apply for or renew a cannabis license.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLEaR: How to apply for a license",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/how-to-apply/",
-      "open_graph_title": "CLEaR: How to apply for a license",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLEaR: How to apply for a license",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "meta_title": "How to apply for a license",
+      "meta_description": "Learn the steps needed to apply for or renew a cannabis license.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/how-to-apply/",
+      "open_graph_title": "How to apply for a license",
+      "open_graph_description": "Learn the steps needed to apply for or renew a cannabis license.",
+      "twitter_title": "How to apply for a license",
+      "twitter_description": "Learn the steps needed to apply for or renew a cannabis license."
     },
     "headless_categories": [
       {
-        "term_id": 934,
-        "name": "CLEAR System Guides",
-        "slug": "clear-system-guides",
+        "term_id": 806,
+        "name": "Application resources",
+        "slug": "application-resources",
         "term_group": 0,
-        "term_taxonomy_id": 934,
+        "term_taxonomy_id": 806,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
-        "filter": "raw",
-        "cat_ID": 934,
-        "category_description": "",
-        "cat_name": "CLEAR System Guides",
-        "category_nicename": "clear-system-guides",
-        "category_parent": 911
-      }
-    ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
         "parent": 0,
-        "filter": "raw"
+        "filter": "raw",
+        "cat_ID": 806,
+        "category_description": "",
+        "cat_name": "Application resources",
+        "category_nicename": "application-resources",
+        "category_parent": 0
+      },
+      {
+        "term_id": 6,
+        "name": "FAQs",
+        "slug": "faqs",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 6,
+        "category_description": "",
+        "cat_name": "FAQs",
+        "category_nicename": "faqs",
+        "category_parent": 2
+      },
+      {
+        "term_id": 883,
+        "name": "Getting started",
+        "slug": "getting-started",
+        "term_group": 0,
+        "term_taxonomy_id": 883,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 883,
+        "category_description": "",
+        "cat_name": "Getting started",
+        "category_nicename": "getting-started",
+        "category_parent": 799
       }
     ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-user-guides/how-to-apply/"
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/how-to-apply/"
   }
 }
