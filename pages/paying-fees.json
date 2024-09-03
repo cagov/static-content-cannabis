@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-05T21:23:03",
-    "updated_date": "2024-08-05T21:42:44",
+    "updated_date": "2024-09-03T23:22:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-05T14:23:03",
     "date_gmt": "2024-08-05T21:23:03",
     "guid": "https://api.cannabis.ca.gov/?page_id=19192",
-    "modified": "2024-08-05T14:42:44",
-    "modified_gmt": "2024-08-05T21:42:44",
+    "modified": "2024-09-03T16:22:12",
+    "modified_gmt": "2024-09-03T23:22:12",
     "slug": "paying-fees",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CLEAR System Guides"
+      "CLEaR Renewal"
     ],
     "tags": [
       "staging"
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 934,
-        "name": "CLEAR System Guides",
-        "slug": "clear-system-guides",
+        "term_id": 947,
+        "name": "CLEaR Renewal",
+        "slug": "clear-renewal",
         "term_group": 0,
-        "term_taxonomy_id": 934,
+        "term_taxonomy_id": 947,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 934,
         "filter": "raw",
-        "cat_ID": 934,
+        "cat_ID": 947,
         "category_description": "",
-        "cat_name": "CLEAR System Guides",
-        "category_nicename": "clear-system-guides",
-        "category_parent": 911
+        "cat_name": "CLEaR Renewal",
+        "category_nicename": "clear-renewal",
+        "category_parent": 934
       }
     ],
     "headless_tags": [
