@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "created_date": "2024-09-03T22:34:47",
+    "updated_date": "2024-09-03T22:34:52",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19774",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19774,
+    "date": "2024-09-03T15:34:47",
+    "date_gmt": "2024-09-03T22:34:47",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19774",
+    "modified": "2024-09-03T15:34:52",
+    "modified_gmt": "2024-09-03T22:34:52",
+    "slug": "clear-paying-the-application-fee",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/clear-user-guides/how-to-apply/clear-how-to-apply-for-a-license/clear-paying-the-application-fee/",
+    "title": "CLEaR: Paying the application fee",
+    "excerpt": "<p>The next step is to pay the application fee for the annual license. You can either pay online by credit/debit or E-check. You also have the option to pay Cash by scheduling an appointment at the Department of Cannabis Control office or you can mail in a check.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 19770,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "CLEAR: How to apply"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/how-to-apply/clear-how-to-apply-for-a-license/clear-paying-the-application-fee/",
+      "page_title": "CLEaR: Paying the application fee",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CLEaR: Paying the application fee",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/how-to-apply/clear-how-to-apply-for-a-license/clear-paying-the-application-fee/",
+      "open_graph_title": "CLEaR: Paying the application fee",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "CLEaR: Paying the application fee",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 939,
+        "name": "CLEAR: How to apply",
+        "slug": "clear-how-to-apply",
+        "term_group": 0,
+        "term_taxonomy_id": 939,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 934,
+        "filter": "raw",
+        "cat_ID": 939,
+        "category_description": "",
+        "cat_name": "CLEAR: How to apply",
+        "category_nicename": "clear-how-to-apply",
+        "category_parent": 934
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-user-guides/how-to-apply/clear-how-to-apply-for-a-license/clear-paying-the-application-fee/"
+  }
+}
