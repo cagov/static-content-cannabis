@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-21T19:04:12",
-    "updated_date": "2024-09-03T15:28:50",
+    "updated_date": "2024-09-03T19:09:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-21T12:04:12",
     "date_gmt": "2024-08-21T19:04:12",
     "guid": "https://api.cannabis.ca.gov/?page_id=19518",
-    "modified": "2024-09-03T08:28:50",
-    "modified_gmt": "2024-09-03T15:28:50",
+    "modified": "2024-09-03T12:09:23",
+    "modified_gmt": "2024-09-03T19:09:23",
     "slug": "discussions-with-equity-entrepreneurs",
     "status": "publish",
     "type": "page",
