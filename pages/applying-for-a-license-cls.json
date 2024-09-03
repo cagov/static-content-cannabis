@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-05T20:41:52",
-    "updated_date": "2024-08-05T21:34:35",
+    "created_date": "2024-09-03T23:35:25",
+    "updated_date": "2024-09-03T23:35:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19143",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19797",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,38 +14,38 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19143,
-    "date": "2024-08-05T13:41:52",
-    "date_gmt": "2024-08-05T20:41:52",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19143",
-    "modified": "2024-08-05T14:34:35",
-    "modified_gmt": "2024-08-05T21:34:35",
-    "slug": "clear-create-account",
+    "id": 19797,
+    "date": "2024-09-03T16:35:25",
+    "date_gmt": "2024-09-03T23:35:25",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19797",
+    "modified": "2024-09-03T16:35:30",
+    "modified_gmt": "2024-09-03T23:35:30",
+    "slug": "applying-for-a-license-cls",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-user-guides/clear-create-account/",
-    "title": "CLEaR: Creating an account",
-    "excerpt": "<p>The first item you’ll need to complete in when applying for a cannabis business license with the Department of Cannabis Control (DCC) is to register on the website and create your own account. All business owners applying for a cannabis business license must be registered and have an active account with the online licensing system.</p>\n",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/applying-for-a-license-cls/",
+    "title": "Applying for a license in the CLS system",
+    "excerpt": "<p>This guide provides a comprehensive overview of the steps and requirements for starting an annual license application. It covers general terms, application type, and license type options, including cooperatives. Key sections include saving and resuming later, business structure details, foreign corporation information, Doing Business As (DBA) details, and relevant numbers such as Employer Identification Number [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 19141,
+    "parent": 19791,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
       "footnotes": ""
     },
     "categories": [
-      "CLEAR System Guides"
+      "CLS Main User Guide"
     ],
     "tags": [
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -58,37 +58,37 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-create-account/",
-      "page_title": "CLEaR: Creating an account",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/applying-for-a-license-cls/",
+      "page_title": "Applying for a license in the CLS system",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLEaR: Creating an account",
+      "meta_title": "Applying for a license in the CLS system",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-create-account/",
-      "open_graph_title": "CLEaR: Creating an account",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/applying-for-a-license-cls/",
+      "open_graph_title": "Applying for a license in the CLS system",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLEaR: Creating an account",
+      "twitter_title": "Applying for a license in the CLS system",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 934,
-        "name": "CLEAR System Guides",
-        "slug": "clear-system-guides",
+        "term_id": 949,
+        "name": "CLS Main User Guide",
+        "slug": "cls-main-user-guide",
         "term_group": 0,
-        "term_taxonomy_id": 934,
+        "term_taxonomy_id": 949,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 935,
         "filter": "raw",
-        "cat_ID": 934,
+        "cat_ID": 949,
         "category_description": "",
-        "cat_name": "CLEAR System Guides",
-        "category_nicename": "clear-system-guides",
-        "category_parent": 911
+        "cat_name": "CLS Main User Guide",
+        "category_nicename": "cls-main-user-guide",
+        "category_parent": 935
       }
     ],
     "headless_tags": [
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-user-guides/clear-create-account/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/applying-for-a-license-cls/"
   }
 }
