@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:17:53",
-    "updated_date": "2024-09-03T22:17:58",
+    "updated_date": "2024-09-03T23:02:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:17:53",
     "date_gmt": "2024-09-03T22:17:53",
     "guid": "https://api.cannabis.ca.gov/?page_id=19762",
-    "modified": "2024-09-03T15:17:58",
-    "modified_gmt": "2024-09-03T22:17:58",
+    "modified": "2024-09-03T16:02:18",
+    "modified_gmt": "2024-09-03T23:02:18",
     "slug": "clear-renewal-manufacturing",
     "status": "publish",
     "type": "page",
