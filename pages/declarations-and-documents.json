@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T19:48:06",
-    "updated_date": "2024-08-09T19:48:55",
+    "updated_date": "2024-09-03T23:08:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-08-09T12:48:06",
     "date_gmt": "2024-08-09T19:48:06",
     "guid": "https://api.cannabis.ca.gov/?page_id=19415",
-    "modified": "2024-08-09T12:48:55",
-    "modified_gmt": "2024-08-09T19:48:55",
-    "slug": "manufacturing-renewal-declarations-and-documents",
+    "modified": "2024-09-03T16:08:26",
+    "modified_gmt": "2024-09-03T23:08:26",
+    "slug": "declarations-and-documents",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/manufacturing-renewal-declarations-and-documents/",
+    "link": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/declarations-and-documents/",
     "title": "Manufacturing renewal: Declarations and documents",
-    "excerpt": "<p>Review step by step instructions for agreeing to the declarations and uploading any necessary documentation for renewal.</p>\n",
+    "excerpt": "<p>Review step by step instructions for agreeing to the declarations and uploading any necessary documentation for renewal. Declarations Select &#8220;Yes&#8221; or &#8220;No&#8221; in the Declarations section then click &#8220;Continue.&#8221; If you select &#8220;No&#8221; to the under penalty of perjury section, an error message will display, and you will not be able to complete the renewal. [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19357,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/manufacturing-renewal-declarations-and-documents/",
+      "canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/declarations-and-documents/",
       "page_title": "Manufacturing renewal: Declarations and documents",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Manufacturing renewal: Declarations and documents",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/manufacturing-renewal-declarations-and-documents/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/declarations-and-documents/",
       "open_graph_title": "Manufacturing renewal: Declarations and documents",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Manufacturing renewal: Declarations and documents",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/manufacturing-renewal-declarations-and-documents/"
+    "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/declarations-and-documents/"
   }
 }
