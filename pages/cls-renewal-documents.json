@@ -23,7 +23,7 @@
     "slug": "cls-renewal-documents",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cls-renewal-guide/cls-renewal-documents/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/cls-renewal-documents/",
     "title": "CLS renewal documents",
     "excerpt": "<p>You may be be required to upload several documents into the licensing system during the renewal process, including electricity usage reporting documentation, a premises diagram, and documentation related to labor peace agreements.</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cls-renewal-guide/cls-renewal-documents/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/cls-renewal-documents/",
       "page_title": "CLS renewal documents",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS renewal documents",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cls-renewal-guide/cls-renewal-documents/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/cls-renewal-documents/",
       "open_graph_title": "CLS renewal documents",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS renewal documents",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cls-renewal-guide/cls-renewal-documents/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/cls-renewal-documents/"
   }
 }
