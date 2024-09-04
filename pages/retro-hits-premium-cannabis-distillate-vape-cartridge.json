@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:53:15",
-    "updated_date": "2024-09-04T20:12:39",
+    "updated_date": "2024-09-04T20:20:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-04T10:53:15",
     "date_gmt": "2024-09-04T17:53:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=19809",
-    "modified": "2024-09-04T13:12:39",
-    "modified_gmt": "2024-09-04T20:12:39",
-    "slug": "retro-hits-vape-cartridge",
+    "modified": "2024-09-04T13:20:21",
+    "modified_gmt": "2024-09-04T20:20:21",
+    "slug": "retro-hits-premium-cannabis-distillate-vape-cartridge",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/retro-hits-vape-cartridge/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/retro-hits-premium-cannabis-distillate-vape-cartridge/",
     "title": "Retro Hits Premium Cannabis Distillate vape cartridge",
     "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple “Retro Hits Premium Cannabis Distillate” vape cartridge products due to labeling that is attractive to children. DCC Recall Publication Date September 4, 2024 Business Recall Publication Date September 4, 2024 Recall Type Voluntary Product Type Vape Cartridge Product [&hellip;]</p>\n",
     "author": 36,
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/retro-hits-vape-cartridge/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/retro-hits-premium-cannabis-distillate-vape-cartridge/",
       "page_title": "Retro Hits Premium Cannabis Distillate vape cartridge",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "Retro Hits Premium Cannabis Distillate vape cartridge",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/retro-hits-vape-cartridge/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/retro-hits-premium-cannabis-distillate-vape-cartridge/",
       "open_graph_title": "Retro Hits Premium Cannabis Distillate vape cartridge",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Retro Hits Premium Cannabis Distillate vape cartridge",
@@ -123,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/retro-hits-vape-cartridge/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/retro-hits-premium-cannabis-distillate-vape-cartridge/"
   }
 }
