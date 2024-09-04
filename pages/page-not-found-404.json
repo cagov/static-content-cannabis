@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-09T03:48:52",
-    "updated_date": "2024-09-04T21:34:07",
+    "updated_date": "2024-09-04T22:53:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2022-10-08T20:48:52",
     "date_gmt": "2022-10-09T03:48:52",
     "guid": "https://api.cannabis.ca.gov/?page_id=12074",
-    "modified": "2024-09-04T14:34:07",
-    "modified_gmt": "2024-09-04T21:34:07",
-    "slug": "page-not-found",
+    "modified": "2024-09-04T15:53:44",
+    "modified_gmt": "2024-09-04T22:53:44",
+    "slug": "page-not-found-404",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/page-not-found/",
+    "link": "https://api.cannabis.ca.gov/page-not-found-404/",
     "title": "Page Not Found",
     "excerpt": "<p>The page you requested was not found.</p>\n",
     "author": 12,
@@ -54,7 +54,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/page-not-found/",
+      "canonical_url": "https://api.cannabis.ca.gov/page-not-found-404/",
       "page_title": "Page Not Found",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "Page Not Found",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/page-not-found/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/page-not-found-404/",
       "open_graph_title": "Page Not Found",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Page Not Found",
@@ -73,6 +73,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/page-not-found/"
+    "wordpress_url": "https://api.cannabis.ca.gov/page-not-found-404/"
   }
 }
