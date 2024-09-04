@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:52:44",
-    "updated_date": "2024-09-04T19:52:49",
+    "updated_date": "2024-09-04T19:59:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T12:52:44",
     "date_gmt": "2024-09-04T19:52:44",
     "guid": "https://api.cannabis.ca.gov/?page_id=19852",
-    "modified": "2024-09-04T12:52:49",
-    "modified_gmt": "2024-09-04T19:52:49",
+    "modified": "2024-09-04T12:59:41",
+    "modified_gmt": "2024-09-04T19:59:41",
     "slug": "cls-how-to-pay-the-application-fee",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/applicants/access-license-portals/how-to-complete-the-online-application/cls-how-to-pay-the-application-fee/"
