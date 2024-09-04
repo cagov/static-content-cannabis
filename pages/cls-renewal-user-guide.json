@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T17:03:46",
-    "updated_date": "2024-09-04T20:50:40",
+    "updated_date": "2024-09-04T23:29:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-08-06T10:03:46",
     "date_gmt": "2024-08-06T17:03:46",
     "guid": "https://api.cannabis.ca.gov/?page_id=19257",
-    "modified": "2024-09-04T13:50:40",
-    "modified_gmt": "2024-09-04T20:50:40",
-    "slug": "cls-renewal-guide",
+    "modified": "2024-09-04T16:29:01",
+    "modified_gmt": "2024-09-04T23:29:01",
+    "slug": "cls-renewal-user-guide",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/",
-    "title": "CLS renewal guide",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/",
+    "title": "CLS renewal user guide",
     "excerpt": "<p>How to renew your cannabis cultivation license</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -58,19 +58,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/",
-      "page_title": "CLS renewal guide",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/",
+      "page_title": "CLS renewal user guide",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLS renewal guide",
+      "meta_title": "CLS renewal user guide",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/",
-      "open_graph_title": "CLS renewal guide",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/",
+      "open_graph_title": "CLS renewal user guide",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLS renewal guide",
+      "twitter_title": "CLS renewal user guide",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/"
   }
 }

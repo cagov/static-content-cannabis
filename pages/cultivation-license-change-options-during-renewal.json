@@ -23,7 +23,7 @@
     "slug": "cultivation-license-change-options-during-renewal",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/cultivation-license-change-options-during-renewal/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/cultivation-license-change-options-during-renewal/",
     "title": "Cultivation license change options during renewal",
     "excerpt": "<p>On March 11, 2024, DCC adopted emergency regulations to implement Senate Bill 833.  Under the new regulations, eligible cultivation licensees can make certain changes to their license. Learn more about making these changes during renewal through the licensing system.</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/cultivation-license-change-options-during-renewal/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/cultivation-license-change-options-during-renewal/",
       "page_title": "Cultivation license change options during renewal",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cultivation license change options during renewal",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/cultivation-license-change-options-during-renewal/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/cultivation-license-change-options-during-renewal/",
       "open_graph_title": "Cultivation license change options during renewal",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Cultivation license change options during renewal",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-guide/cultivation-license-change-options-during-renewal/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/cultivation-license-change-options-during-renewal/"
   }
 }
