@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "created_date": "2024-02-21T21:29:44",
+    "updated_date": "2024-02-22T17:56:08",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/17319",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 17319,
+    "date": "2024-02-21T13:29:44",
+    "date_gmt": "2024-02-21T21:29:44",
+    "guid": "https://api.cannabis.ca.gov/?page_id=17319",
+    "modified": "2024-02-22T09:56:08",
+    "modified_gmt": "2024-02-22T17:56:08",
+    "slug": "roundtrip-pistachio-flower",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/roundtrip-pistachio-flower/",
+    "title": "Roundtrip Pistachio flower  ",
+    "excerpt": "<p>Recall overview The Department of Cannabis Control is issuing a mandatory recall for Roundtrip Pistachio&nbsp;cannabis flower due to the presence of Aspergillus sp. Recall type&nbsp; Mandatory&nbsp; DCC Recall Publication Date&nbsp; 2/21/2024&nbsp; Product Type&nbsp; Flower&nbsp; Product Description&nbsp; Roundtrip Pistachio&nbsp; &nbsp; UID Number&nbsp; 1A4060300005143000006910 &nbsp; Batch Number&nbsp; 0040-AMU&nbsp; Packaged By&nbsp; Kind Op Corp&nbsp; License Number&nbsp; C11-0000556&nbsp; Date Packaged [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 9345,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Mandatory recalls",
+      "Recalls and safety notices"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/roundtrip-pistachio-flower/",
+      "page_title": "Roundtrip Pistachio flower  ",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Roundtrip Pistachio flower  ",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/roundtrip-pistachio-flower/",
+      "open_graph_title": "Roundtrip Pistachio flower  ",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Roundtrip Pistachio flower  ",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 813,
+        "name": "Mandatory recalls",
+        "slug": "mandatory-recalls",
+        "term_group": 0,
+        "term_taxonomy_id": 813,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 812,
+        "filter": "raw",
+        "cat_ID": 813,
+        "category_description": "",
+        "cat_name": "Mandatory recalls",
+        "category_nicename": "mandatory-recalls",
+        "category_parent": 812
+      },
+      {
+        "term_id": 812,
+        "name": "Recalls and safety notices",
+        "slug": "recalls-and-safety-notices",
+        "term_group": 0,
+        "term_taxonomy_id": 812,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 812,
+        "category_description": "",
+        "cat_name": "Recalls and safety notices",
+        "category_nicename": "recalls-and-safety-notices",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/roundtrip-pistachio-flower/"
+  }
+}
