@@ -28,7 +28,7 @@
 <th class="min-tablet">County</th>
 <th class="min-phone-l">Legal Business Name&nbsp;</th>
 <th class="all">License Number</th>
-<th class="all">Products Sold</th>
+<th class="all">Products</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -229,7 +229,7 @@
 <script>
   $(document).ready(function () {
     const recall_table = new DataTable("#recall_details_tbl", {
-      columns: [{ data: "county" }, { data: "license" }, { data: "business" }, { data: "products" }, ],
+        columns: [{ data: "county" }, { data: "license" }, { data: "business" }, { data: "product" }],
       colReorder: true,
       responsive: true,
     });
