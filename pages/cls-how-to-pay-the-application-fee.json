@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "created_date": "2024-09-04T19:52:44",
+    "updated_date": "2024-09-04T19:52:49",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19852",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19852,
+    "date": "2024-09-04T12:52:44",
+    "date_gmt": "2024-09-04T19:52:44",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19852",
+    "modified": "2024-09-04T12:52:49",
+    "modified_gmt": "2024-09-04T19:52:49",
+    "slug": "cls-how-to-pay-the-application-fee",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/applicants/access-license-portals/how-to-complete-the-online-application/cls-how-to-pay-the-application-fee/",
+    "title": "CLS: How to pay the application fee",
+    "excerpt": "<p>Once all Owner Applications and the DRP’s Declarations and Final Affidavit are submitted, you can pay the application fee. Correspondence After the Declaration and Final Affidavit is submitted, the system sends an email to the DRP and displays an announcement with information to log in, find the application record, then open the attachments section found [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 16902,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/access-license-portals/how-to-complete-the-online-application/cls-how-to-pay-the-application-fee/",
+      "page_title": "CLS: How to pay the application fee",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CLS: How to pay the application fee",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/access-license-portals/how-to-complete-the-online-application/cls-how-to-pay-the-application-fee/",
+      "open_graph_title": "CLS: How to pay the application fee",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "CLS: How to pay the application fee",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/access-license-portals/how-to-complete-the-online-application/cls-how-to-pay-the-application-fee/"
+  }
+}
