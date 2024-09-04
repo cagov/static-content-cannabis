@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-05T23:07:46",
-    "updated_date": "2024-08-05T23:09:44",
+    "created_date": "2024-09-04T17:21:56",
+    "updated_date": "2024-09-04T17:22:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19241",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19453",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19241,
-    "date": "2024-08-05T16:07:46",
-    "date_gmt": "2024-08-05T23:07:46",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19241",
-    "modified": "2024-08-05T16:09:44",
-    "modified_gmt": "2024-08-05T23:09:44",
+    "id": 19453,
+    "date": "2024-09-04T10:21:56",
+    "date_gmt": "2024-09-04T17:21:56",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19453",
+    "modified": "2024-09-04T10:22:20",
+    "modified_gmt": "2024-09-04T17:22:20",
     "slug": "designated-responsible-party",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/designated-responsible-party/",
-    "title": "Designated Responsible Party",
-    "excerpt": "<p>Intro&#8230; The Attachment section is the Designated Responsible Party section with your personal information (assuming this deficiency notification was sent to you as the DRP for the business). Do not change anything in this section. Click Continue Application. Complete the DRP info The next screen lets you review your entries and asks you to certify [&hellip;]</p>\n",
-    "author": 32,
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/designated-responsible-party/",
+    "title": "Deficiencies: Designated responsible party",
+    "excerpt": "<p>Intro to this section Below the Attachment section is the Designated Responsible Party section with your personal information (assuming this deficiency notification was sent to you as the DRP for the business). Do not change anything in this section. Click Continue Application. The next screen lets you review your entries and asks you to certify [&hellip;]</p>\n",
+    "author": 36,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 19810,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "CLS Application Deficiencies"
-    ],
+    "categories": [],
     "tags": [
       "staging"
     ],
@@ -58,39 +56,22 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/designated-responsible-party/",
-      "page_title": "Designated Responsible Party",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/designated-responsible-party/",
+      "page_title": "Deficiencies: Designated responsible party",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Designated Responsible Party",
+      "meta_title": "Deficiencies: Designated responsible party",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/designated-responsible-party/",
-      "open_graph_title": "Designated Responsible Party",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/designated-responsible-party/",
+      "open_graph_title": "Deficiencies: Designated responsible party",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Designated Responsible Party",
+      "twitter_title": "Deficiencies: Designated responsible party",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 936,
-        "name": "CLS Application Deficiencies",
-        "slug": "cls-application-deficiencies",
-        "term_group": 0,
-        "term_taxonomy_id": 936,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 935,
-        "filter": "raw",
-        "cat_ID": 936,
-        "category_description": "",
-        "cat_name": "CLS Application Deficiencies",
-        "category_nicename": "cls-application-deficiencies",
-        "category_parent": 935
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [
       {
         "term_id": 797,
@@ -106,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/designated-responsible-party/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/designated-responsible-party/"
   }
 }
