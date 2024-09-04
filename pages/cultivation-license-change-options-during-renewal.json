@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T17:13:43",
-    "updated_date": "2024-09-04T20:47:37",
+    "updated_date": "2024-09-04T23:13:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-06T10:13:43",
     "date_gmt": "2024-08-06T17:13:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=19261",
-    "modified": "2024-09-04T13:47:37",
-    "modified_gmt": "2024-09-04T20:47:37",
+    "modified": "2024-09-04T16:13:53",
+    "modified_gmt": "2024-09-04T23:13:53",
     "slug": "cultivation-license-change-options-during-renewal",
     "status": "publish",
     "type": "page",
