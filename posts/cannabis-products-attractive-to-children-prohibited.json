@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-27T22:52:00",
-    "updated_date": "2024-09-05T17:00:28",
+    "updated_date": "2024-09-05T17:06:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-27T15:52:00",
     "date_gmt": "2024-08-27T22:52:00",
     "guid": "https://api.cannabis.ca.gov/?p=19630",
-    "modified": "2024-09-05T10:00:28",
-    "modified_gmt": "2024-09-05T17:00:28",
+    "modified": "2024-09-05T10:06:15",
+    "modified_gmt": "2024-09-05T17:06:15",
     "slug": "cannabis-products-attractive-to-children-prohibited",
     "status": "publish",
     "type": "post",
@@ -40,6 +40,8 @@
     },
     "categories": [
       "FAQs",
+      "Labeling",
+      "Packaging",
       "Product safety"
     ],
     "tags": [
@@ -90,6 +92,38 @@
         "cat_name": "FAQs",
         "category_nicename": "faqs",
         "category_parent": 2
+      },
+      {
+        "term_id": 863,
+        "name": "Labeling",
+        "slug": "labeling",
+        "term_group": 0,
+        "term_taxonomy_id": 863,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 863,
+        "category_description": "",
+        "cat_name": "Labeling",
+        "category_nicename": "labeling",
+        "category_parent": 800
+      },
+      {
+        "term_id": 864,
+        "name": "Packaging",
+        "slug": "packaging",
+        "term_group": 0,
+        "term_taxonomy_id": 864,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 864,
+        "category_description": "",
+        "cat_name": "Packaging",
+        "category_nicename": "packaging",
+        "category_parent": 800
       },
       {
         "term_id": 938,
