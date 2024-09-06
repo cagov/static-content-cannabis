@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-05T22:24:36",
-    "updated_date": "2024-09-06T15:19:00",
+    "updated_date": "2024-09-06T15:37:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-05T15:24:36",
     "date_gmt": "2024-09-05T22:24:36",
     "guid": "https://api.cannabis.ca.gov/?page_id=19930",
-    "modified": "2024-09-06T08:19:00",
-    "modified_gmt": "2024-09-06T15:19:00",
-    "slug": "9-5-24-circles-cannabis-oil-vaporizer",
+    "modified": "2024-09-06T08:37:05",
+    "modified_gmt": "2024-09-06T15:37:05",
+    "slug": "9-6-24-circles-cannabis-oil-vaporizer",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/9-5-24-circles-cannabis-oil-vaporizer/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/9-6-24-circles-cannabis-oil-vaporizer/",
     "title": "Circles Cannabis Oil Vaporizer vape cartridge",
     "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this notice of mandatory recall for multiple “Circles Cannabis Oil Vaporizer” vape cartridge products due to the presence of the pesticide chlorfenapyr. DCC Recall Publication Date September 6, 2024 Recall Type Mandatory Product Type Vape Cartridge Product Description Circles Cannabis Oil Vaporizer vape cartridge Legal [&hellip;]</p>\n",
     "author": 36,
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/9-5-24-circles-cannabis-oil-vaporizer/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/9-6-24-circles-cannabis-oil-vaporizer/",
       "page_title": "Circles Cannabis Oil Vaporizer vape cartridge",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "Circles Cannabis Oil Vaporizer vape cartridge",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/9-5-24-circles-cannabis-oil-vaporizer/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/9-6-24-circles-cannabis-oil-vaporizer/",
       "open_graph_title": "Circles Cannabis Oil Vaporizer vape cartridge",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Circles Cannabis Oil Vaporizer vape cartridge",
@@ -123,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/9-5-24-circles-cannabis-oil-vaporizer/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/9-6-24-circles-cannabis-oil-vaporizer/"
   }
 }
