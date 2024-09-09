@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-29T00:13:32",
-    "updated_date": "2024-08-26T21:58:47",
+    "updated_date": "2024-09-09T17:46:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-28T16:13:32",
     "date_gmt": "2023-11-29T00:13:32",
     "guid": "https://api.cannabis.ca.gov/?page_id=16208",
-    "modified": "2024-08-26T14:58:47",
-    "modified_gmt": "2024-08-26T21:58:47",
+    "modified": "2024-09-09T10:46:02",
+    "modified_gmt": "2024-09-09T17:46:02",
     "slug": "standard-cannabinoids-test-method-and-standardized-operating-procedures",
     "status": "publish",
     "type": "page",
