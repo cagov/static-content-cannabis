@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T21:45:47",
-    "updated_date": "2024-08-09T22:21:20",
+    "updated_date": "2024-09-11T21:58:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-17T14:45:47",
     "date_gmt": "2024-05-17T21:45:47",
     "guid": "https://api.cannabis.ca.gov/?p=18248",
-    "modified": "2024-08-09T15:21:20",
-    "modified_gmt": "2024-08-09T22:21:20",
+    "modified": "2024-09-11T14:58:16",
+    "modified_gmt": "2024-09-11T21:58:16",
     "slug": "form-15-transportation-procedures",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms",
       "Microbusiness"
     ],
     "tags": [],
@@ -73,22 +72,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 845,
-        "name": "Forms",
-        "slug": "forms",
-        "term_group": 0,
-        "term_taxonomy_id": 845,
-        "taxonomy": "category",
-        "description": "View all forms for DCC.",
-        "parent": 2,
-        "filter": "raw",
-        "cat_ID": 845,
-        "category_description": "View all forms for DCC.",
-        "cat_name": "Forms",
-        "category_nicename": "forms",
-        "category_parent": 2
-      },
       {
         "term_id": 896,
         "name": "Microbusiness",
