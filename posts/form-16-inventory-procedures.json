@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T22:00:20",
-    "updated_date": "2024-09-11T21:56:27",
+    "updated_date": "2024-09-11T21:57:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-17T15:00:20",
     "date_gmt": "2024-05-17T22:00:20",
     "guid": "https://api.cannabis.ca.gov/?p=18260",
-    "modified": "2024-09-11T14:56:27",
-    "modified_gmt": "2024-09-11T21:56:27",
+    "modified": "2024-09-11T14:57:30",
+    "modified_gmt": "2024-09-11T21:57:30",
     "slug": "form-16-inventory-procedures",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms",
       "Microbusiness"
     ],
     "tags": [],
@@ -73,22 +72,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 845,
-        "name": "Forms",
-        "slug": "forms",
-        "term_group": 0,
-        "term_taxonomy_id": 845,
-        "taxonomy": "category",
-        "description": "View all forms for DCC.",
-        "parent": 2,
-        "filter": "raw",
-        "cat_ID": 845,
-        "category_description": "View all forms for DCC.",
-        "cat_name": "Forms",
-        "category_nicename": "forms",
-        "category_parent": 2
-      },
       {
         "term_id": 896,
         "name": "Microbusiness",
