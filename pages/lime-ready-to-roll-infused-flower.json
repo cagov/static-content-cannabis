@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-11T22:03:42",
-    "updated_date": "2024-09-11T22:10:11",
+    "updated_date": "2024-09-11T22:19:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-11T15:03:42",
     "date_gmt": "2024-09-11T22:03:42",
     "guid": "https://api.cannabis.ca.gov/?page_id=20026",
-    "modified": "2024-09-11T15:10:11",
-    "modified_gmt": "2024-09-11T22:10:11",
+    "modified": "2024-09-11T15:19:28",
+    "modified_gmt": "2024-09-11T22:19:28",
     "slug": "lime-ready-to-roll-infused-flower",
     "status": "publish",
     "type": "page",
