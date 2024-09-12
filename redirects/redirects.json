@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 219,
+      "redirects": 222,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6117,6 +6117,84 @@
       "regex": false,
       "group_id": 1,
       "position": 218,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 471,
+      "url": "/licensing-system-guides/cls-renewal-guide/",
+      "match_url": "/licensing-system-guides/cls-renewal-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-renewal-user-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 219,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 472,
+      "url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-getting-started/",
+      "match_url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-getting-started",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-getting-started-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 220,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 473,
+      "url": "/resources/cannabis-recalls-and-safety-notices/9-5-24-circles-cannabis-oil-vaporizer/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/9-5-24-circles-cannabis-oil-vaporizer",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/9-6-24-circles-cannabis-oil-vaporizer/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 221,
       "last_access": "-",
       "enabled": true
     }
