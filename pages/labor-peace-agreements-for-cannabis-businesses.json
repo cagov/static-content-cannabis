@@ -80,13 +80,13 @@
         "term_taxonomy_id": 821,
         "taxonomy": "category",
         "description": "",
-        "parent": 820,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 821,
         "category_description": "",
         "cat_name": "Labor peace",
         "category_nicename": "labor-peace",
-        "category_parent": 820
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
