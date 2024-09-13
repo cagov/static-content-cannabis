@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2024-06-19T21:29:48",
+    "updated_date": "2024-09-13T21:12:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/grants/",
-    "modified": "2024-06-19T14:29:48",
-    "modified_gmt": "2024-06-19T21:29:48",
+    "modified": "2024-09-13T14:12:41",
+    "modified_gmt": "2024-09-13T21:12:41",
     "slug": "grant-funding",
     "status": "publish",
     "type": "page",
