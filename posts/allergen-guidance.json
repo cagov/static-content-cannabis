@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-11T16:40:00",
-    "updated_date": "2024-09-05T17:10:26",
+    "updated_date": "2024-09-13T17:45:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-11T09:40:00",
     "date_gmt": "2023-10-11T16:40:00",
     "guid": "https://api.cannabis.ca.gov/?p=14940",
-    "modified": "2024-09-05T10:10:26",
-    "modified_gmt": "2024-09-05T17:10:26",
+    "modified": "2024-09-13T10:45:08",
+    "modified_gmt": "2024-09-13T17:45:08",
     "slug": "allergen-guidance",
     "status": "publish",
     "type": "post",
@@ -42,8 +42,7 @@
       "Allergens",
       "CannaConnect",
       "Fact Sheet",
-      "Product safety",
-      "Safety"
+      "Product safety"
     ],
     "tags": [],
     "design_system_fields": {
@@ -132,29 +131,13 @@
         "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 950,
         "filter": "raw",
         "cat_ID": 938,
         "category_description": "",
         "cat_name": "Product safety",
         "category_nicename": "product-safety",
-        "category_parent": 0
-      },
-      {
-        "term_id": 805,
-        "name": "Safety",
-        "slug": "safety",
-        "term_group": 0,
-        "term_taxonomy_id": 805,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 805,
-        "category_description": "",
-        "cat_name": "Safety",
-        "category_nicename": "safety",
-        "category_parent": 0
+        "category_parent": 950
       }
     ],
     "headless_tags": [],

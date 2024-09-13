@@ -41,8 +41,7 @@
     "categories": [
       "Checklist",
       "Labeling",
-      "Manufacturing",
-      "Safety"
+      "Manufacturing"
     ],
     "tags": [],
     "design_system_fields": {
@@ -122,22 +121,6 @@
         "cat_name": "Manufacturing",
         "category_nicename": "manufacturing",
         "category_parent": 799
-      },
-      {
-        "term_id": 805,
-        "name": "Safety",
-        "slug": "safety",
-        "term_group": 0,
-        "term_taxonomy_id": 805,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 805,
-        "category_description": "",
-        "cat_name": "Safety",
-        "category_nicename": "safety",
-        "category_parent": 0
       }
     ],
     "headless_tags": [],
