@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "Licensing systems",
       "Manufacturing Licensing System",
       "User guides"
     ],
@@ -75,22 +74,6 @@
     },
     "headless_categories": [
       {
-        "term_id": 885,
-        "name": "Licensing systems",
-        "slug": "licensing-systems",
-        "term_group": 0,
-        "term_taxonomy_id": 885,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 885,
-        "category_description": "",
-        "cat_name": "Licensing systems",
-        "category_nicename": "licensing-systems",
-        "category_parent": 0
-      },
-      {
         "term_id": 908,
         "name": "Manufacturing Licensing System",
         "slug": "manufacturing-licensing-system",
@@ -98,13 +81,13 @@
         "term_taxonomy_id": 908,
         "taxonomy": "category",
         "description": "",
-        "parent": 885,
+        "parent": 911,
         "filter": "raw",
         "cat_ID": 908,
         "category_description": "",
         "cat_name": "Manufacturing Licensing System",
         "category_nicename": "manufacturing-licensing-system",
-        "category_parent": 885
+        "category_parent": 911
       },
       {
         "term_id": 851,
@@ -114,13 +97,13 @@
         "term_taxonomy_id": 851,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 911,
         "filter": "raw",
         "cat_ID": 851,
         "category_description": "",
         "cat_name": "User guides",
         "category_nicename": "user-guides",
-        "category_parent": 0
+        "category_parent": 911
       }
     ],
     "headless_tags": [],

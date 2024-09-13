@@ -99,13 +99,13 @@
         "term_taxonomy_id": 800,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 890,
         "filter": "raw",
         "cat_ID": 800,
         "category_description": "",
         "cat_name": "Manufacturing",
         "category_nicename": "manufacturing",
-        "category_parent": 799
+        "category_parent": 890
       },
       {
         "term_id": 864,
@@ -115,13 +115,13 @@
         "term_taxonomy_id": 864,
         "taxonomy": "category",
         "description": "",
-        "parent": 800,
+        "parent": 886,
         "filter": "raw",
         "cat_ID": 864,
         "category_description": "",
         "cat_name": "Packaging",
         "category_nicename": "packaging",
-        "category_parent": 800
+        "category_parent": 886
       },
       {
         "term_id": 938,
@@ -131,13 +131,13 @@
         "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
-        "parent": 950,
+        "parent": 886,
         "filter": "raw",
         "cat_ID": 938,
         "category_description": "",
         "cat_name": "Product safety",
         "category_nicename": "product-safety",
-        "category_parent": 950
+        "category_parent": 886
       }
     ],
     "headless_tags": [],

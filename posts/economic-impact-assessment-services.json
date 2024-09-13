@@ -40,8 +40,7 @@
     },
     "categories": [
       "2023 announcements",
-      "Announcements",
-      "Notice of intent"
+      "Announcements"
     ],
     "tags": [],
     "design_system_fields": {
@@ -105,22 +104,6 @@
         "cat_name": "Announcements",
         "category_nicename": "announcements",
         "category_parent": 0
-      },
-      {
-        "term_id": 811,
-        "name": "Notice of intent",
-        "slug": "notice-of-intent",
-        "term_group": 0,
-        "term_taxonomy_id": 811,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 14,
-        "filter": "raw",
-        "cat_ID": 811,
-        "category_description": "",
-        "cat_name": "Notice of intent",
-        "category_nicename": "notice-of-intent",
-        "category_parent": 14
       }
     ],
     "headless_tags": [],

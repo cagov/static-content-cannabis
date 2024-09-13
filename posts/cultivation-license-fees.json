@@ -40,7 +40,7 @@
     },
     "categories": [
       "Cultivation",
-      "License fees"
+      "Fees and payments"
     ],
     "tags": [],
     "design_system_fields": {
@@ -81,29 +81,29 @@
         "term_taxonomy_id": 801,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 890,
         "filter": "raw",
         "cat_ID": 801,
         "category_description": "",
         "cat_name": "Cultivation",
         "category_nicename": "cultivation",
-        "category_parent": 0
+        "category_parent": 890
       },
       {
         "term_id": 893,
-        "name": "License fees",
-        "slug": "license-fees",
+        "name": "Fees and payments",
+        "slug": "fees-and-payments",
         "term_group": 0,
         "term_taxonomy_id": 893,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 893,
         "category_description": "",
-        "cat_name": "License fees",
-        "category_nicename": "license-fees",
-        "category_parent": 799
+        "cat_name": "Fees and payments",
+        "category_nicename": "fees-and-payments",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

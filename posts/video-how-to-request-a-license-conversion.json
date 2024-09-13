@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Conversion",
-      "Video"
+      "Conversion"
     ],
     "tags": [],
     "design_system_fields": {
@@ -81,29 +80,13 @@
         "term_taxonomy_id": 871,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 871,
         "category_description": "",
         "cat_name": "Conversion",
         "category_nicename": "conversion",
-        "category_parent": 799
-      },
-      {
-        "term_id": 872,
-        "name": "Video",
-        "slug": "video",
-        "term_group": 0,
-        "term_taxonomy_id": 872,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 2,
-        "filter": "raw",
-        "cat_ID": 872,
-        "category_description": "",
-        "cat_name": "Video",
-        "category_nicename": "video",
-        "category_parent": 2
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

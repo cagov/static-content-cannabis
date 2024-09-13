@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Content Types",
-      "Event Materials"
+      "All"
     ],
     "tags": [
       "Cannabis",
@@ -82,35 +81,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 2,
-        "name": "Content Types",
-        "slug": "content-types",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 2,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 2,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Content Types",
-        "category_nicename": "content-types",
-        "category_parent": 0
-      },
-      {
-        "term_id": 15,
-        "name": "Event Materials",
-        "slug": "event-materials",
-        "term_group": 0,
-        "term_taxonomy_id": 15,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 15,
-        "category_description": "",
-        "cat_name": "Event Materials",
-        "category_nicename": "event-materials",
+        "cat_name": "All",
+        "category_nicename": "all",
         "category_parent": 0
       }
     ],

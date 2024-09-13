@@ -41,7 +41,7 @@
     "categories": [
       "2024 Meetings",
       "Cannabis Advisory Committee",
-      "Events",
+      "Event Resources",
       "Past meetings"
     ],
     "tags": [
@@ -111,8 +111,8 @@
       },
       {
         "term_id": 4,
-        "name": "Events",
-        "slug": "events",
+        "name": "Event Resources",
+        "slug": "event-resources",
         "term_group": 0,
         "term_taxonomy_id": 4,
         "taxonomy": "category",
@@ -121,8 +121,8 @@
         "filter": "raw",
         "cat_ID": 4,
         "category_description": "",
-        "cat_name": "Events",
-        "category_nicename": "events",
+        "cat_name": "Event Resources",
+        "category_nicename": "event-resources",
         "category_parent": 0
       },
       {

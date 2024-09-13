@@ -40,8 +40,7 @@
     },
     "categories": [
       "2024 announcements",
-      "Announcements",
-      "Environmental impact reports"
+      "Announcements"
     ],
     "tags": [],
     "design_system_fields": {
@@ -105,22 +104,6 @@
         "cat_name": "Announcements",
         "category_nicename": "announcements",
         "category_parent": 0
-      },
-      {
-        "term_id": 818,
-        "name": "Environmental impact reports",
-        "slug": "environmental-impact-reports",
-        "term_group": 0,
-        "term_taxonomy_id": 818,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 817,
-        "filter": "raw",
-        "cat_ID": 818,
-        "category_description": "",
-        "cat_name": "Environmental impact reports",
-        "category_nicename": "environmental-impact-reports",
-        "category_parent": 817
       }
     ],
     "headless_tags": [],

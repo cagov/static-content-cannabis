@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Environmental",
-      "Environmental impact reports"
+      "Environmental"
     ],
     "tags": [],
     "design_system_fields": {
@@ -88,22 +87,6 @@
         "cat_name": "Environmental",
         "category_nicename": "environmental-2",
         "category_parent": 0
-      },
-      {
-        "term_id": 818,
-        "name": "Environmental impact reports",
-        "slug": "environmental-impact-reports",
-        "term_group": 0,
-        "term_taxonomy_id": 818,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 817,
-        "filter": "raw",
-        "cat_ID": 818,
-        "category_description": "",
-        "cat_name": "Environmental impact reports",
-        "category_nicename": "environmental-impact-reports",
-        "category_parent": 817
       }
     ],
     "headless_tags": [],

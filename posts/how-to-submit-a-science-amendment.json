@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Notifications and requests",
-      "Updates-Cultivation"
+      "Notifications and requests"
     ],
     "tags": [],
     "design_system_fields": {
@@ -81,29 +80,13 @@
         "term_taxonomy_id": 846,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 846,
         "category_description": "",
         "cat_name": "Notifications and requests",
         "category_nicename": "notifications-and-requests",
-        "category_parent": 799
-      },
-      {
-        "term_id": 898,
-        "name": "Updates-Cultivation",
-        "slug": "updates-cultivation",
-        "term_group": 0,
-        "term_taxonomy_id": 898,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 801,
-        "filter": "raw",
-        "cat_ID": 898,
-        "category_description": "",
-        "cat_name": "Updates-Cultivation",
-        "category_nicename": "updates-cultivation",
-        "category_parent": 801
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

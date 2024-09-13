@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-11T16:45:39",
-    "updated_date": "2024-09-13T17:44:45",
+    "updated_date": "2024-09-13T18:08:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-11T09:45:39",
     "date_gmt": "2023-10-11T16:45:39",
     "guid": "https://api.cannabis.ca.gov/?p=14942",
-    "modified": "2024-09-13T10:44:45",
-    "modified_gmt": "2024-09-13T17:44:45",
+    "modified": "2024-09-13T11:08:45",
+    "modified_gmt": "2024-09-13T18:08:45",
     "slug": "allergen-control-program-checklist",
     "status": "publish",
     "type": "post",
@@ -40,8 +40,8 @@
     },
     "categories": [
       "Allergens",
-      "CannaConnect",
-      "Checklist"
+      "Checklist",
+      "Product safety"
     ],
     "tags": [],
     "design_system_fields": {
@@ -82,29 +82,13 @@
         "term_taxonomy_id": 866,
         "taxonomy": "category",
         "description": "",
-        "parent": 800,
+        "parent": 938,
         "filter": "raw",
         "cat_ID": 866,
         "category_description": "",
         "cat_name": "Allergens",
         "category_nicename": "allergens",
-        "category_parent": 800
-      },
-      {
-        "term_id": 810,
-        "name": "CannaConnect",
-        "slug": "cannaconnect",
-        "term_group": 0,
-        "term_taxonomy_id": 810,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 810,
-        "category_description": "",
-        "cat_name": "CannaConnect",
-        "category_nicename": "cannaconnect",
-        "category_parent": 0
+        "category_parent": 938
       },
       {
         "term_id": 808,
@@ -121,6 +105,22 @@
         "cat_name": "Checklist",
         "category_nicename": "checklist",
         "category_parent": 809
+      },
+      {
+        "term_id": 938,
+        "name": "Product safety",
+        "slug": "product-safety",
+        "term_group": 0,
+        "term_taxonomy_id": 938,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 886,
+        "filter": "raw",
+        "cat_ID": 938,
+        "category_description": "",
+        "cat_name": "Product safety",
+        "category_nicename": "product-safety",
+        "category_parent": 886
       }
     ],
     "headless_tags": [],
