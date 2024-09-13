@@ -80,13 +80,13 @@
         "term_taxonomy_id": 806,
         "taxonomy": "category",
         "description": "",
-        "parent": 953,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 806,
         "category_description": "",
         "cat_name": "Application resources",
         "category_nicename": "application-resources",
-        "category_parent": 953
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

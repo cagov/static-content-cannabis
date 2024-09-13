@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Licensing systems"
+      "All"
     ],
     "tags": [
       "staging"
@@ -75,19 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 885,
-        "name": "Licensing systems",
-        "slug": "licensing-systems",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 885,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 885,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Licensing systems",
-        "category_nicename": "licensing-systems",
+        "cat_name": "All",
+        "category_nicename": "all",
         "category_parent": 0
       }
     ],

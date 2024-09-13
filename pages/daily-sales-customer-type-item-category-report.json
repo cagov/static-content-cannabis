@@ -80,13 +80,13 @@
         "term_taxonomy_id": 794,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 809,
         "filter": "raw",
         "cat_ID": 794,
         "category_description": "",
         "cat_name": "Data visualizations",
         "category_nicename": "data-visualizations",
-        "category_parent": 0
+        "category_parent": 809
       }
     ],
     "headless_tags": [],

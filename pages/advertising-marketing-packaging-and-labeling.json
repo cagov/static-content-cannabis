@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-13T17:20:39",
-    "updated_date": "2024-09-13T17:20:45",
+    "updated_date": "2024-09-13T18:20:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-13T10:20:39",
     "date_gmt": "2024-09-13T17:20:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=20054",
-    "modified": "2024-09-13T10:20:45",
-    "modified_gmt": "2024-09-13T17:20:45",
+    "modified": "2024-09-13T11:20:38",
+    "modified_gmt": "2024-09-13T18:20:38",
     "slug": "advertising-marketing-packaging-and-labeling",
     "status": "publish",
     "type": "page",
@@ -83,13 +83,13 @@
         "term_taxonomy_id": 863,
         "taxonomy": "category",
         "description": "",
-        "parent": 800,
+        "parent": 886,
         "filter": "raw",
         "cat_ID": 863,
         "category_description": "",
         "cat_name": "Labeling",
         "category_nicename": "labeling",
-        "category_parent": 800
+        "category_parent": 886
       },
       {
         "term_id": 864,
@@ -99,13 +99,13 @@
         "term_taxonomy_id": 864,
         "taxonomy": "category",
         "description": "",
-        "parent": 800,
+        "parent": 886,
         "filter": "raw",
         "cat_ID": 864,
         "category_description": "",
         "cat_name": "Packaging",
         "category_nicename": "packaging",
-        "category_parent": 800
+        "category_parent": 886
       }
     ],
     "headless_tags": [

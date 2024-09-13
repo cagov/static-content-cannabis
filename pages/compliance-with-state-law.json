@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-01T01:47:50",
-    "updated_date": "2024-02-07T22:10:44",
+    "updated_date": "2024-09-13T18:41:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-12-31T17:47:50",
     "date_gmt": "2022-01-01T01:47:50",
     "guid": "https://cannabis.ca.gov/?page_id=9301",
-    "modified": "2024-02-07T14:10:44",
-    "modified_gmt": "2024-02-07T22:10:44",
+    "modified": "2024-09-13T11:41:13",
+    "modified_gmt": "2024-09-13T18:41:13",
     "slug": "compliance-with-state-law",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Compliance"
+      "Compliance",
+      "Laws and Regulations"
     ],
     "tags": [],
     "design_system_fields": {
@@ -86,6 +87,22 @@
         "category_description": "",
         "cat_name": "Compliance",
         "category_nicename": "compliance",
+        "category_parent": 0
+      },
+      {
+        "term_id": 983,
+        "name": "Laws and Regulations",
+        "slug": "laws-and-regulations",
+        "term_group": 0,
+        "term_taxonomy_id": 983,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 983,
+        "category_description": "",
+        "cat_name": "Laws and Regulations",
+        "category_nicename": "laws-and-regulations",
         "category_parent": 0
       }
     ],

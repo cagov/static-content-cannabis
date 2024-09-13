@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Equity fee relief",
-      "Payments"
+      "Equity fee relief"
     ],
     "tags": [],
     "design_system_fields": {
@@ -81,29 +80,13 @@
         "term_taxonomy_id": 855,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 874,
         "filter": "raw",
         "cat_ID": 855,
         "category_description": "",
         "cat_name": "Equity fee relief",
         "category_nicename": "equity-fee-relief",
-        "category_parent": 0
-      },
-      {
-        "term_id": 906,
-        "name": "Payments",
-        "slug": "payments",
-        "term_group": 0,
-        "term_taxonomy_id": 906,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 893,
-        "filter": "raw",
-        "cat_ID": 906,
-        "category_description": "",
-        "cat_name": "Payments",
-        "category_nicename": "payments",
-        "category_parent": 893
+        "category_parent": 874
       }
     ],
     "headless_tags": [],
