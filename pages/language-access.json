@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-01-30T19:21:54",
-    "updated_date": "2024-02-21T15:52:38",
+    "created_date": "2024-09-12T15:50:02",
+    "updated_date": "2024-09-13T20:20:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/16970",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/20039",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,36 +14,34 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 16970,
-    "date": "2024-01-30T11:21:54",
-    "date_gmt": "2024-01-30T19:21:54",
-    "guid": "https://api.cannabis.ca.gov/?page_id=16970",
-    "modified": "2024-02-21T07:52:38",
-    "modified_gmt": "2024-02-21T15:52:38",
-    "slug": "license-report",
+    "id": 20039,
+    "date": "2024-09-12T08:50:02",
+    "date_gmt": "2024-09-12T15:50:02",
+    "guid": "https://api.cannabis.ca.gov/?page_id=20039",
+    "modified": "2024-09-13T13:20:12",
+    "modified_gmt": "2024-09-13T20:20:12",
+    "slug": "language-access",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/data-dashboard/license-report/",
-    "title": "Cannabis License Summary Report",
-    "excerpt": "",
+    "link": "https://api.cannabis.ca.gov/language-access/",
+    "title": "Language Access",
+    "excerpt": "<p>Access DCC’s site content in languages other than English Ver en Español Voir en Français Auf Deutsch anzeigen 查看简体中文 Посмотреть на русском 日本語で見る عرض باللغة العربية Ver em Português हिंदी में देखें Xem bằng Tiếng Việt 한국어로 보기 Tingnan sa Tagalog Other Language Access Complaints Members of the public or recipients of services should direct [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
-    "parent": 16980,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Data visualizations"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column-wide"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -56,42 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/data-dashboard/license-report/",
-      "page_title": "Cannabis License Summary Report",
+      "canonical_url": "https://api.cannabis.ca.gov/language-access/",
+      "page_title": "Language Access",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cannabis License Summary Report",
+      "meta_title": "Language Access",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/data-dashboard/license-report/",
-      "open_graph_title": "Cannabis License Summary Report",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/language-access/",
+      "open_graph_title": "Language Access",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cannabis License Summary Report",
+      "twitter_title": "Language Access",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 794,
-        "name": "Data visualizations",
-        "slug": "data-visualizations",
-        "term_group": 0,
-        "term_taxonomy_id": 794,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 809,
-        "filter": "raw",
-        "cat_ID": 794,
-        "category_description": "",
-        "cat_name": "Data visualizations",
-        "category_nicename": "data-visualizations",
-        "category_parent": 809
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/data-dashboard/license-report/"
+    "wordpress_url": "https://api.cannabis.ca.gov/language-access/"
   }
 }

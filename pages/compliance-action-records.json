@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-27T21:25:39",
-    "updated_date": "2024-09-05T22:53:12",
+    "updated_date": "2024-09-13T18:43:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-27T14:25:39",
     "date_gmt": "2023-10-27T21:25:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=15622",
-    "modified": "2024-09-05T15:53:12",
-    "modified_gmt": "2024-09-05T22:53:12",
+    "modified": "2024-09-13T11:43:51",
+    "modified_gmt": "2024-09-13T18:43:51",
     "slug": "compliance-action-records",
     "status": "publish",
     "type": "page",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "Compliance",
-      "Product safety"
+      "Licensing Actions"
     ],
     "tags": [],
     "design_system_fields": {
@@ -90,20 +90,20 @@
         "category_parent": 0
       },
       {
-        "term_id": 938,
-        "name": "Product safety",
-        "slug": "product-safety",
+        "term_id": 984,
+        "name": "Licensing Actions",
+        "slug": "licensing-actions",
         "term_group": 0,
-        "term_taxonomy_id": 938,
+        "term_taxonomy_id": 984,
         "taxonomy": "category",
         "description": "",
-        "parent": 950,
+        "parent": 983,
         "filter": "raw",
-        "cat_ID": 938,
+        "cat_ID": 984,
         "category_description": "",
-        "cat_name": "Product safety",
-        "category_nicename": "product-safety",
-        "category_parent": 950
+        "cat_name": "Licensing Actions",
+        "category_nicename": "licensing-actions",
+        "category_parent": 983
       }
     ],
     "headless_tags": [],

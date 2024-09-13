@@ -97,13 +97,13 @@
         "term_taxonomy_id": 6,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 809,
         "filter": "raw",
         "cat_ID": 6,
         "category_description": "",
         "cat_name": "FAQs",
         "category_nicename": "faqs",
-        "category_parent": 0
+        "category_parent": 809
       }
     ],
     "headless_tags": [],

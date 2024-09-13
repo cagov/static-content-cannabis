@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-03T10:00:22",
-    "updated_date": "2024-08-21T20:36:42",
+    "updated_date": "2024-09-13T18:34:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-03T02:00:22",
     "date_gmt": "2022-03-03T10:00:22",
     "guid": "https://cannabis.ca.gov/?page_id=9437",
-    "modified": "2024-08-21T13:36:42",
-    "modified_gmt": "2024-08-21T20:36:42",
+    "modified": "2024-09-13T11:34:09",
+    "modified_gmt": "2024-09-13T18:34:09",
     "slug": "dcc-regulations",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "Laws and Regulations"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -69,7 +71,24 @@
       "twitter_title": "DCC regulations",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 983,
+        "name": "Laws and Regulations",
+        "slug": "laws-and-regulations",
+        "term_group": 0,
+        "term_taxonomy_id": 983,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 983,
+        "category_description": "",
+        "cat_name": "Laws and Regulations",
+        "category_nicename": "laws-and-regulations",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
