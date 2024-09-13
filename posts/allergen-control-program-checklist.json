@@ -41,8 +41,7 @@
     "categories": [
       "Allergens",
       "CannaConnect",
-      "Checklist",
-      "Safety"
+      "Checklist"
     ],
     "tags": [],
     "design_system_fields": {
@@ -122,22 +121,6 @@
         "cat_name": "Checklist",
         "category_nicename": "checklist",
         "category_parent": 809
-      },
-      {
-        "term_id": 805,
-        "name": "Safety",
-        "slug": "safety",
-        "term_group": 0,
-        "term_taxonomy_id": 805,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 805,
-        "category_description": "",
-        "cat_name": "Safety",
-        "category_nicename": "safety",
-        "category_parent": 0
       }
     ],
     "headless_tags": [],
