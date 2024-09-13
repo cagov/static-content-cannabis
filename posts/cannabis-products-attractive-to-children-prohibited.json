@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-27T22:52:00",
-    "updated_date": "2024-09-05T17:06:15",
+    "updated_date": "2024-09-13T23:14:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-27T15:52:00",
     "date_gmt": "2024-08-27T22:52:00",
     "guid": "https://api.cannabis.ca.gov/?p=19630",
-    "modified": "2024-09-05T10:06:15",
-    "modified_gmt": "2024-09-05T17:06:15",
+    "modified": "2024-09-13T16:14:57",
+    "modified_gmt": "2024-09-13T23:14:57",
     "slug": "cannabis-products-attractive-to-children-prohibited",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Advertising",
       "FAQs",
       "Labeling",
       "Packaging",
@@ -77,6 +78,22 @@
       "twitter_description": "Licensees that engage in advertising, marketing, manufacturing, packaging, or labeling cannabis or cannabis products in a manner that is determined to be attractive to children may be subject to citations and fines, license suspension, license denial, and license revocation. The following FAQs outline what to avoid, how to report violations, and tips for safely storing cannabis products at home."
     },
     "headless_categories": [
+      {
+        "term_id": 951,
+        "name": "Advertising",
+        "slug": "advertising",
+        "term_group": 0,
+        "term_taxonomy_id": 951,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 886,
+        "filter": "raw",
+        "cat_ID": 951,
+        "category_description": "",
+        "cat_name": "Advertising",
+        "category_nicename": "advertising",
+        "category_parent": 886
+      },
       {
         "term_id": 6,
         "name": "FAQs",
