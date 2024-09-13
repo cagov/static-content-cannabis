@@ -41,9 +41,8 @@
     "categories": [
       "2024 Meetings",
       "CAC Subcommittee",
-      "Events",
-      "Medicinal use subcommittee",
-      "Upcoming subcommittee meetings"
+      "Event Resources",
+      "Medicinal use subcommittee"
     ],
     "tags": [
       "Event"
@@ -112,8 +111,8 @@
       },
       {
         "term_id": 4,
-        "name": "Events",
-        "slug": "events",
+        "name": "Event Resources",
+        "slug": "event-resources",
         "term_group": 0,
         "term_taxonomy_id": 4,
         "taxonomy": "category",
@@ -122,8 +121,8 @@
         "filter": "raw",
         "cat_ID": 4,
         "category_description": "",
-        "cat_name": "Events",
-        "category_nicename": "events",
+        "cat_name": "Event Resources",
+        "category_nicename": "event-resources",
         "category_parent": 0
       },
       {
@@ -140,22 +139,6 @@
         "category_description": "",
         "cat_name": "Medicinal use subcommittee",
         "category_nicename": "medicinal-use-subcommittee",
-        "category_parent": 831
-      },
-      {
-        "term_id": 849,
-        "name": "Upcoming subcommittee meetings",
-        "slug": "upcoming-subcommittee-meetings",
-        "term_group": 0,
-        "term_taxonomy_id": 849,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 831,
-        "filter": "raw",
-        "cat_ID": 849,
-        "category_description": "",
-        "cat_name": "Upcoming subcommittee meetings",
-        "category_nicename": "upcoming-subcommittee-meetings",
         "category_parent": 831
       }
     ],

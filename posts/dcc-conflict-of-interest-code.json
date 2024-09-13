@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Proposed Changes"
+      "All"
     ],
     "tags": [
       "staging"
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 803,
-        "name": "Proposed Changes",
-        "slug": "proposed-changes",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 803,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
-        "parent": 802,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 803,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Proposed Changes",
-        "category_nicename": "proposed-changes",
-        "category_parent": 802
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
       }
     ],
     "headless_tags": [

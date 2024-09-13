@@ -82,13 +82,13 @@
         "term_taxonomy_id": 907,
         "taxonomy": "category",
         "description": "",
-        "parent": 953,
+        "parent": 806,
         "filter": "raw",
         "cat_ID": 907,
         "category_description": "",
         "cat_name": "Application FAQs",
         "category_nicename": "application-faqs",
-        "category_parent": 953
+        "category_parent": 806
       }
     ],
     "headless_tags": [

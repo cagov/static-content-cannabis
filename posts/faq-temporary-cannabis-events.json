@@ -81,13 +81,13 @@
         "term_taxonomy_id": 6,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 809,
         "filter": "raw",
         "cat_ID": 6,
         "category_description": "",
         "cat_name": "FAQs",
         "category_nicename": "faqs",
-        "category_parent": 0
+        "category_parent": 809
       },
       {
         "term_id": 873,
@@ -97,13 +97,13 @@
         "term_taxonomy_id": 873,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 4,
         "filter": "raw",
         "cat_ID": 873,
         "category_description": "",
         "cat_name": "Temporary events",
         "category_nicename": "temporary-events",
-        "category_parent": 799
+        "category_parent": 4
       }
     ],
     "headless_tags": [],

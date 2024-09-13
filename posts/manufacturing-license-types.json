@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "License types",
-      "Manufacturing overview"
+      "License types"
     ],
     "tags": [],
     "design_system_fields": {
@@ -81,29 +80,13 @@
         "term_taxonomy_id": 890,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 890,
         "category_description": "",
         "cat_name": "License types",
         "category_nicename": "license-types",
-        "category_parent": 799
-      },
-      {
-        "term_id": 891,
-        "name": "Manufacturing overview",
-        "slug": "manufacturing-overview",
-        "term_group": 0,
-        "term_taxonomy_id": 891,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 800,
-        "filter": "raw",
-        "cat_ID": 891,
-        "category_description": "",
-        "cat_name": "Manufacturing overview",
-        "category_nicename": "manufacturing-overview",
-        "category_parent": 800
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

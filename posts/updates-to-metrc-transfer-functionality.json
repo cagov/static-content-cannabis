@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Metrc"
+      "All"
     ],
     "tags": [
       "staging"
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 868,
-        "name": "Metrc",
-        "slug": "metrc",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 868,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 868,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Metrc",
-        "category_nicename": "metrc",
-        "category_parent": 799
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
       }
     ],
     "headless_tags": [

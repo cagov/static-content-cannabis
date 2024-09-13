@@ -41,7 +41,6 @@
     "categories": [
       "CCTT",
       "Guidance",
-      "Metrc",
       "Resources"
     ],
     "tags": [],
@@ -83,13 +82,13 @@
         "term_taxonomy_id": 887,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 887,
         "category_description": "",
         "cat_name": "CCTT",
         "category_nicename": "cctt",
-        "category_parent": 799
+        "category_parent": 0
       },
       {
         "term_id": 859,
@@ -106,22 +105,6 @@
         "cat_name": "Guidance",
         "category_nicename": "guidance",
         "category_parent": 809
-      },
-      {
-        "term_id": 868,
-        "name": "Metrc",
-        "slug": "metrc",
-        "term_group": 0,
-        "term_taxonomy_id": 868,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 799,
-        "filter": "raw",
-        "cat_ID": 868,
-        "category_description": "",
-        "cat_name": "Metrc",
-        "category_nicename": "metrc",
-        "category_parent": 799
       },
       {
         "term_id": 809,

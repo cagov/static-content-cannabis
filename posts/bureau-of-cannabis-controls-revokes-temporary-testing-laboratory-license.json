@@ -90,13 +90,13 @@
         "term_taxonomy_id": 16,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 14,
         "filter": "raw",
         "cat_ID": 16,
         "category_description": "",
         "cat_name": "Press Releases",
         "category_nicename": "press-releases",
-        "category_parent": 0
+        "category_parent": 14
       }
     ],
     "headless_tags": [

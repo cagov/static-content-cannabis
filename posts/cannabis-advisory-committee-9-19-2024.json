@@ -40,8 +40,7 @@
     },
     "categories": [
       "2024 Meetings",
-      "Cannabis Advisory Committee",
-      "Upcoming CAC"
+      "Cannabis Advisory Committee"
     ],
     "tags": [],
     "design_system_fields": {
@@ -105,22 +104,6 @@
         "cat_name": "Cannabis Advisory Committee",
         "category_nicename": "cac",
         "category_parent": 0
-      },
-      {
-        "term_id": 848,
-        "name": "Upcoming CAC",
-        "slug": "upcoming-cac",
-        "term_group": 0,
-        "term_taxonomy_id": 848,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 831,
-        "filter": "raw",
-        "cat_ID": 848,
-        "category_description": "",
-        "cat_name": "Upcoming CAC",
-        "category_nicename": "upcoming-cac",
-        "category_parent": 831
       }
     ],
     "headless_tags": [],
