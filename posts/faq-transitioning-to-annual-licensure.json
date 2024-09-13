@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-27T22:09:35",
-    "updated_date": "2024-09-03T20:51:16",
+    "updated_date": "2024-09-13T21:27:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-27T15:09:35",
     "date_gmt": "2024-03-27T22:09:35",
     "guid": "https://api.cannabis.ca.gov/?p=17803",
-    "modified": "2024-09-03T13:51:16",
-    "modified_gmt": "2024-09-03T20:51:16",
+    "modified": "2024-09-13T14:27:31",
+    "modified_gmt": "2024-09-13T21:27:31",
     "slug": "faq-transitioning-to-annual-licensure",
     "status": "publish",
     "type": "post",
