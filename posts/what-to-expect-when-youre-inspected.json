@@ -43,7 +43,6 @@
       "Compliance",
       "Inspections",
       "Licensees",
-      "Regulations",
       "Resources"
     ],
     "tags": [],
@@ -139,22 +138,6 @@
         "category_description": "",
         "cat_name": "Licensees",
         "category_nicename": "licensees",
-        "category_parent": 0
-      },
-      {
-        "term_id": 852,
-        "name": "Regulations",
-        "slug": "regulations",
-        "term_group": 0,
-        "term_taxonomy_id": 852,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 852,
-        "category_description": "",
-        "cat_name": "Regulations",
-        "category_nicename": "regulations",
         "category_parent": 0
       },
       {

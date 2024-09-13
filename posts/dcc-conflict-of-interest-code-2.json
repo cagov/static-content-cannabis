@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "Conflict of Interest",
       "Rulemaking"
     ],
     "tags": [],
@@ -73,22 +72,6 @@
       "twitter_description": "California law requires all state and local government agencies to establish and follow a Conflict of Interest Code. These codes require agency officials who routinely participate in decisions to publicly disclose personal financial information. Approved and filed with Secretary of State February 1, 2023. Effective March 3, 2023. "
     },
     "headless_categories": [
-      {
-        "term_id": 858,
-        "name": "Conflict of Interest",
-        "slug": "conflict-of-interest",
-        "term_group": 0,
-        "term_taxonomy_id": 858,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 802,
-        "filter": "raw",
-        "cat_ID": 858,
-        "category_description": "",
-        "cat_name": "Conflict of Interest",
-        "category_nicename": "conflict-of-interest",
-        "category_parent": 802
-      },
       {
         "term_id": 802,
         "name": "Rulemaking",
