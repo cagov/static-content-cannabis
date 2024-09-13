@@ -132,13 +132,13 @@
         "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 950,
         "filter": "raw",
         "cat_ID": 938,
         "category_description": "",
         "cat_name": "Product safety",
         "category_nicename": "product-safety",
-        "category_parent": 0
+        "category_parent": 950
       },
       {
         "term_id": 805,

@@ -116,13 +116,13 @@
         "term_taxonomy_id": 4,
         "taxonomy": "category",
         "description": "",
-        "parent": 2,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 4,
         "category_description": "",
         "cat_name": "Events",
         "category_nicename": "events",
-        "category_parent": 2
+        "category_parent": 0
       },
       {
         "term_id": 833,

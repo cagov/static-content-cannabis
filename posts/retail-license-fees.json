@@ -97,13 +97,13 @@
         "term_taxonomy_id": 895,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 895,
         "category_description": "",
         "cat_name": "Retail",
         "category_nicename": "retail",
-        "category_parent": 799
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
