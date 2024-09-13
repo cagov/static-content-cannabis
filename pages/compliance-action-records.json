@@ -81,13 +81,13 @@
         "term_taxonomy_id": 886,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 886,
         "category_description": "",
         "cat_name": "Compliance",
         "category_nicename": "compliance",
-        "category_parent": 799
+        "category_parent": 0
       },
       {
         "term_id": 938,
@@ -97,13 +97,13 @@
         "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 950,
         "filter": "raw",
         "cat_ID": 938,
         "category_description": "",
         "cat_name": "Product safety",
         "category_nicename": "product-safety",
-        "category_parent": 0
+        "category_parent": 950
       }
     ],
     "headless_tags": [],

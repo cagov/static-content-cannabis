@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Product safety",
-      "Safety"
+      "Product safety"
     ],
     "tags": [],
     "design_system_fields": {
@@ -81,29 +80,13 @@
         "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 950,
         "filter": "raw",
         "cat_ID": 938,
         "category_description": "",
         "cat_name": "Product safety",
         "category_nicename": "product-safety",
-        "category_parent": 0
-      },
-      {
-        "term_id": 805,
-        "name": "Safety",
-        "slug": "safety",
-        "term_group": 0,
-        "term_taxonomy_id": 805,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 805,
-        "category_description": "",
-        "cat_name": "Safety",
-        "category_nicename": "safety",
-        "category_parent": 0
+        "category_parent": 950
       }
     ],
     "headless_tags": [],

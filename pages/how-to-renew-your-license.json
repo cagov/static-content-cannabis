@@ -81,13 +81,13 @@
         "term_taxonomy_id": 6,
         "taxonomy": "category",
         "description": "",
-        "parent": 2,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 6,
         "category_description": "",
         "cat_name": "FAQs",
         "category_nicename": "faqs",
-        "category_parent": 2
+        "category_parent": 0
       },
       {
         "term_id": 875,
@@ -97,13 +97,13 @@
         "term_taxonomy_id": 875,
         "taxonomy": "category",
         "description": "",
-        "parent": 806,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 875,
         "category_description": "",
         "cat_name": "Renewal",
         "category_nicename": "renewal",
-        "category_parent": 806
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
