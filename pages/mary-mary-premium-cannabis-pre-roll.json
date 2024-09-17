@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-17T21:58:33",
-    "updated_date": "2024-09-17T21:58:39",
+    "updated_date": "2024-09-17T22:05:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-17T14:58:33",
     "date_gmt": "2024-09-17T21:58:33",
     "guid": "https://api.cannabis.ca.gov/?page_id=20104",
-    "modified": "2024-09-17T14:58:39",
-    "modified_gmt": "2024-09-17T21:58:39",
+    "modified": "2024-09-17T15:05:33",
+    "modified_gmt": "2024-09-17T22:05:33",
     "slug": "mary-mary-premium-cannabis-pre-roll",
     "status": "publish",
     "type": "page",
