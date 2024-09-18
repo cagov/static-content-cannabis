@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-17T21:58:33",
-    "updated_date": "2024-09-18T16:08:10",
+    "updated_date": "2024-09-18T20:21:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-17T14:58:33",
     "date_gmt": "2024-09-17T21:58:33",
     "guid": "https://api.cannabis.ca.gov/?page_id=20104",
-    "modified": "2024-09-18T09:08:10",
-    "modified_gmt": "2024-09-18T16:08:10",
+    "modified": "2024-09-18T13:21:51",
+    "modified_gmt": "2024-09-18T20:21:51",
     "slug": "mary-mary-premium-cannabis-pre-roll",
     "status": "publish",
     "type": "page",
@@ -42,9 +42,7 @@
       "Mandatory recalls",
       "Recalls and safety notices"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -108,19 +106,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/mary-mary-premium-cannabis-pre-roll/"
