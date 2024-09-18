@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-18T16:48:45",
-    "updated_date": "2024-09-18T16:55:33",
+    "updated_date": "2024-09-18T16:57:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-18T09:48:45",
     "date_gmt": "2024-09-18T16:48:45",
     "guid": "https://api.cannabis.ca.gov/?p=20126",
-    "modified": "2024-09-18T09:55:33",
-    "modified_gmt": "2024-09-18T16:55:33",
+    "modified": "2024-09-18T09:57:43",
+    "modified_gmt": "2024-09-18T16:57:43",
     "slug": "cannabis-advisory-committee-members",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "Cannabis Advisory Committee"
     ],
     "tags": [
       "staging"
@@ -75,19 +75,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 831,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 831,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 831,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
         "category_parent": 0
       }
     ],
