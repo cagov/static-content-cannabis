@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-05T17:19:28",
-    "updated_date": "2024-07-17T17:23:11",
+    "updated_date": "2024-09-19T19:41:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-05T10:19:28",
     "date_gmt": "2024-07-05T17:19:28",
     "guid": "https://api.cannabis.ca.gov/?p=18771",
-    "modified": "2024-07-17T10:23:11",
-    "modified_gmt": "2024-07-17T17:23:11",
+    "modified": "2024-09-19T12:41:01",
+    "modified_gmt": "2024-09-19T19:41:01",
     "slug": "promising-practice-direct-grants",
     "status": "publish",
     "type": "post",
