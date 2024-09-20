@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T19:48:06",
-    "updated_date": "2024-09-20T18:35:53",
+    "updated_date": "2024-09-20T18:54:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-09T12:48:06",
     "date_gmt": "2024-08-09T19:48:06",
     "guid": "https://api.cannabis.ca.gov/?page_id=19415",
-    "modified": "2024-09-20T11:35:53",
-    "modified_gmt": "2024-09-20T18:35:53",
+    "modified": "2024-09-20T11:54:52",
+    "modified_gmt": "2024-09-20T18:54:52",
     "slug": "declarations-and-documents",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
