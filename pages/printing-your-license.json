@@ -23,7 +23,7 @@
     "slug": "printing-your-license",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/printing-your-license/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/printing-your-license/",
     "title": "CLEaR renewal: Printing your license",
     "excerpt": "<p>This guide provides comprehensive instructions on how to print your CLEaR renewal license. It covers the necessary steps to access and print your license to ensure you have the correct documentation for your records and compliance purposes. Printing your license certificate In your portal, click on &#8220;My Records&#8221; and locate your license number.&nbsp; Click on [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/printing-your-license/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/printing-your-license/",
       "page_title": "CLEaR renewal: Printing your license",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR renewal: Printing your license",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/printing-your-license/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/printing-your-license/",
       "open_graph_title": "CLEaR renewal: Printing your license",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR renewal: Printing your license",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/printing-your-license/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/printing-your-license/"
   }
 }
