@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:10:00",
-    "updated_date": "2024-09-20T22:34:07",
+    "updated_date": "2024-09-20T23:52:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-03T15:10:00",
     "date_gmt": "2024-09-03T22:10:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=19754",
-    "modified": "2024-09-20T15:34:07",
-    "modified_gmt": "2024-09-20T22:34:07",
-    "slug": "clear-renewal",
+    "modified": "2024-09-20T16:52:11",
+    "modified_gmt": "2024-09-20T23:52:11",
+    "slug": "clear-renewal-labs-distro-retail",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/",
     "title": "CLEaR renewal: Labs, distribution, retail, events",
     "excerpt": "<p>Welcome to the CLEaR license renewal guide. This resource provides a step-by-step walkthrough for renewing various license types in the CLEaR system. With detailed screenshots, you&#8217;ll easily navigate the renewal process, from accessing your renewal and updating owner information to submitting necessary documents and printing your license certificate. Follow along to ensure a smooth and [&hellip;]</p>\n",
     "author": 32,
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/",
       "page_title": "CLEaR renewal: Labs, distribution, retail, events",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,8 +65,8 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "CLEaR renewal: Labs, distribution, retail, events",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/",
+      "meta_description": "Welcome to the CLEaR license renewal guide. This resource provides a step&#x2d;by&#x2d;step walkthrough for renewing various license types in the CLEaR system. With detailed screenshots, you&#8217;ll easily navigate the renewal process, from accessing your renewal and updating owner information to submitting necessary documents and printing your license certificate. Follow along to ensure a smooth and successful renewal experience.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/",
       "open_graph_title": "CLEaR renewal: Labs, distribution, retail, events",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR renewal: Labs, distribution, retail, events",
@@ -109,6 +109,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/"
   }
 }
