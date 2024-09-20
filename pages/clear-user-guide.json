@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "created_date": "2024-09-03T22:27:52",
+    "updated_date": "2024-09-20T23:22:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19766",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19766,
+    "date": "2024-09-03T15:27:52",
+    "date_gmt": "2024-09-03T22:27:52",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19766",
+    "modified": "2024-09-20T16:22:20",
+    "modified_gmt": "2024-09-20T23:22:20",
+    "slug": "clear-user-guide",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/",
+    "title": "CLEaR: How to Complete the Online Application",
+    "excerpt": "<p>Welcome to the CLEaR Online Application Guide, your step-by-step resource for successfully applying for a cannabis business license with the Department of Cannabis Control (DCC). This page is designed to walk you through each stage of the application process, from creating your account to submitting your owner submittal, paying the application fee, and finalizing your [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 19750,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "CLEAR System Guides",
+      "Licensing system guides"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/",
+      "page_title": "CLEaR: How to Complete the Online Application",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CLEaR: How to Complete the Online Application",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/",
+      "open_graph_title": "CLEaR: How to Complete the Online Application",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "CLEaR: How to Complete the Online Application",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 934,
+        "name": "CLEAR System Guides",
+        "slug": "clear-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 934,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 934,
+        "category_description": "",
+        "cat_name": "CLEAR System Guides",
+        "category_nicename": "clear-system-guides",
+        "category_parent": 911
+      },
+      {
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 911,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 911,
+        "category_description": "",
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/"
+  }
+}
