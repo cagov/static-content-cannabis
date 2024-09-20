@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:36:08",
-    "updated_date": "2024-09-04T23:26:20",
+    "updated_date": "2024-09-20T23:15:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-09-03T15:36:08",
     "date_gmt": "2024-09-03T22:36:08",
     "guid": "https://api.cannabis.ca.gov/?page_id=19776",
-    "modified": "2024-09-04T16:26:20",
-    "modified_gmt": "2024-09-04T23:26:20",
+    "modified": "2024-09-20T16:15:22",
+    "modified_gmt": "2024-09-20T23:15:22",
     "slug": "printing-license",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/printing-license/",
     "title": "CLEaR: Finalizing and printing your license",
-    "excerpt": "<p>Easily access your license record, view attachments, and print your license certificate with this detailed guide. Manage your license documents effectively with our step-by-step instructions.</p>\n",
+    "excerpt": "<p>Finalizing and printing your license is simple with this guide. Once your application is approved and the license fee is paid, you’ll be able to access, view, and print your official license certificate. Start by paying the required license fee, as outlined in the previous guide. Once payment is complete, your license will be activated [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19766,
@@ -41,9 +41,7 @@
     "categories": [
       "CLEAR: How to apply"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -66,7 +64,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "CLEaR: Finalizing and printing your license",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "Finalizing and printing your license is simple with this guide. Once your application is approved and the license fee is paid, you’ll be able to access, view, and print your official license certificate. Start by paying the required license fee, as outlined in the previous guide. Once payment is complete, your license will be activated and valid for one year. You can then access your license record, view any attachments, and download your official certificate. Finally, print the certificate and ensure it’s posted at your licensed premises as required by law.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/printing-license/",
       "open_graph_title": "CLEaR: Finalizing and printing your license",
       "open_graph_description": "Learn about California cannabis laws and licenses",
@@ -91,19 +89,7 @@
         "category_parent": 934
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/printing-license/"
