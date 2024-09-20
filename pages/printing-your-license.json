@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:14:21",
-    "updated_date": "2024-09-20T22:22:19",
+    "updated_date": "2024-09-20T22:31:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:14:21",
     "date_gmt": "2024-09-03T22:14:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=19760",
-    "modified": "2024-09-20T15:22:19",
-    "modified_gmt": "2024-09-20T22:22:19",
+    "modified": "2024-09-20T15:31:10",
+    "modified_gmt": "2024-09-20T22:31:10",
     "slug": "printing-your-license",
     "status": "publish",
     "type": "page",
