@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:27:52",
-    "updated_date": "2024-09-20T23:27:13",
+    "updated_date": "2024-09-20T23:59:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-03T15:27:52",
     "date_gmt": "2024-09-03T22:27:52",
     "guid": "https://api.cannabis.ca.gov/?page_id=19766",
-    "modified": "2024-09-20T16:27:13",
-    "modified_gmt": "2024-09-20T23:27:13",
-    "slug": "clear-user-guide",
+    "modified": "2024-09-20T16:59:12",
+    "modified_gmt": "2024-09-20T23:59:12",
+    "slug": "clear-online-application",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-user-guide/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-online-application/",
     "title": "CLEaR: How to Complete the Online Application",
     "excerpt": "<p>Welcome to the CLEaR Online Application Guide, your step-by-step resource for successfully applying for a cannabis business license with the Department of Cannabis Control (DCC). This page is designed to walk you through each stage of the application process, from creating your account to submitting your owner submittal, paying the application fee, and finalizing your [&hellip;]</p>\n",
     "author": 32,
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-user-guide/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-online-application/",
       "page_title": "CLEaR: How to Complete the Online Application",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: How to Complete the Online Application",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-user-guide/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-online-application/",
       "open_graph_title": "CLEaR: How to Complete the Online Application",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: How to Complete the Online Application",
@@ -109,6 +109,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-user-guide/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-online-application/"
   }
 }
