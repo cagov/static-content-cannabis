@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T19:52:37",
-    "updated_date": "2024-09-03T23:13:51",
+    "updated_date": "2024-09-20T18:43:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-08-09T12:52:37",
     "date_gmt": "2024-08-09T19:52:37",
     "guid": "https://api.cannabis.ca.gov/?page_id=19420",
-    "modified": "2024-09-03T16:13:51",
-    "modified_gmt": "2024-09-03T23:13:51",
+    "modified": "2024-09-20T11:43:54",
+    "modified_gmt": "2024-09-20T18:43:54",
     "slug": "review-payments-and-printing",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/review-payments-and-printing/",
     "title": "Manufacturing renewal: Review, payments, and printing your certificate",
-    "excerpt": "<p>Once you have finished your application in the system, you will need to review the information you have provided and pay your fees, and then print your certificate.</p>\n",
+    "excerpt": "<p>Before completing your CLEaR renewal, you will need to review all the information you&#8217;ve provided to ensure its accuracy. Be sure to read the Important Notice section at the bottom of the page. Once confirmed, you will proceed to the payment step. Application fees can be paid online using a credit or debit card, or [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19357,
@@ -41,9 +41,7 @@
     "categories": [
       "Clear Renewal Manufacturing"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -66,7 +64,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Manufacturing renewal: Review, payments, and printing your certificate",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "Before completing your CLEaR renewal, you will need to review all the information you&#8217;ve provided to ensure its accuracy. Be sure to read the Important Notice section at the bottom of the page. Once confirmed, you will proceed to the payment step. Application fees can be paid online using a credit or debit card, or by mailing a physical check. Alternatively, you may schedule an appointment to pay in person with cash at one of our three office locations. After payment, you’ll be able to print your license certificate.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/review-payments-and-printing/",
       "open_graph_title": "Manufacturing renewal: Review, payments, and printing your certificate",
       "open_graph_description": "Learn about California cannabis laws and licenses",
@@ -91,19 +89,7 @@
         "category_parent": 934
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/review-payments-and-printing/"
