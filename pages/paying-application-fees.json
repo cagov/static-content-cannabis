@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:34:47",
-    "updated_date": "2024-09-04T23:25:36",
+    "updated_date": "2024-09-20T23:08:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-09-03T15:34:47",
     "date_gmt": "2024-09-03T22:34:47",
     "guid": "https://api.cannabis.ca.gov/?page_id=19774",
-    "modified": "2024-09-04T16:25:36",
-    "modified_gmt": "2024-09-04T23:25:36",
+    "modified": "2024-09-20T16:08:50",
+    "modified_gmt": "2024-09-20T23:08:50",
     "slug": "paying-application-fees",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/paying-application-fees/",
     "title": "CLEaR: Paying the application fee",
-    "excerpt": "<p>The next step is to pay the application fee for the annual license. You can either pay online by credit/debit or E-check. You also have the option to pay Cash by scheduling an appointment at the Department of Cannabis Control office or you can mail in a check.</p>\n",
+    "excerpt": "<p>The next step in completing your application is to pay the required application fee for your license. You have several payment options available, including credit/debit card or making a cash payment at an office location. You can also mail in a check if preferred. To begin, navigate to your “My Records” list and look for [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19766,
@@ -41,9 +41,7 @@
     "categories": [
       "CLEAR: How to apply"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 934
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/paying-application-fees/"
