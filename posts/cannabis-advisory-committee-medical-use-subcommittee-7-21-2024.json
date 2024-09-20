@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-26T20:12:48",
-    "updated_date": "2024-08-27T17:14:39",
+    "updated_date": "2024-09-20T17:57:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-26T13:12:48",
     "date_gmt": "2024-06-26T20:12:48",
     "guid": "https://api.cannabis.ca.gov/?p=18592",
-    "modified": "2024-08-27T10:14:39",
-    "modified_gmt": "2024-08-27T17:14:39",
+    "modified": "2024-09-20T10:57:31",
+    "modified_gmt": "2024-09-20T17:57:31",
     "slug": "cannabis-advisory-committee-medical-use-subcommittee-7-21-2024",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "2024 Meetings",
       "CAC Subcommittee",
       "Event Resources",
       "Medicinal use subcommittee"
@@ -77,22 +76,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 916,
-        "name": "2024 Meetings",
-        "slug": "2024-meetings",
-        "term_group": 0,
-        "term_taxonomy_id": 916,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 833,
-        "filter": "raw",
-        "cat_ID": 916,
-        "category_description": "",
-        "cat_name": "2024 Meetings",
-        "category_nicename": "2024-meetings",
-        "category_parent": 833
-      },
       {
         "term_id": 832,
         "name": "CAC Subcommittee",
