@@ -23,7 +23,7 @@
     "slug": "accessing-your-renewal",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/accessing-your-renewal/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/accessing-your-renewal/",
     "title": "CLEaR renewal: Accessing your renewal",
     "excerpt": "<p>The resources provides detailed instructions on how to access your renewal, print your license, manage documents, review fees and payments, and follow the renewal steps. Accessing your renewal To begin, please log in to your account on the Department&#8217;s licensing portal. Type in your Username or Email address and Password then click &#8220;Sign In.&#8221; You [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/accessing-your-renewal/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/accessing-your-renewal/",
       "page_title": "CLEaR renewal: Accessing your renewal",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR renewal: Accessing your renewal",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/accessing-your-renewal/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/accessing-your-renewal/",
       "open_graph_title": "CLEaR renewal: Accessing your renewal",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR renewal: Accessing your renewal",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/accessing-your-renewal/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/accessing-your-renewal/"
   }
 }
