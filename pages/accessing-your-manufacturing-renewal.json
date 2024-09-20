@@ -23,7 +23,7 @@
     "slug": "accessing-your-manufacturing-renewal",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/",
     "title": "Accessing your manufacturing renewal",
     "excerpt": "<p>This guide provides detailed instructions on how to access your manufacturing renewal application. It covers the steps necessary to log in, navigate the renewal portal, view and manage your renewal status, and ensure all required documents and information are up to date for a successful renewal process. To begin, log in to your account on [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/",
       "page_title": "Accessing your manufacturing renewal",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Accessing your manufacturing renewal",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/",
       "open_graph_title": "Accessing your manufacturing renewal",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Accessing your manufacturing renewal",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/"
   }
 }

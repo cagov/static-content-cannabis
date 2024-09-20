@@ -23,7 +23,7 @@
     "slug": "declarations-and-documents",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/declarations-and-documents/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/declarations-and-documents/",
     "title": "Manufacturing renewal: Submitting declarations and supporting documents",
     "excerpt": "<p>This section provides detailed, step-by-step instructions for agreeing to the required declarations and uploading any necessary documents for your CLEaR manufacturing renewal. If you indicated changes to your operational activities earlier in the renewal process, you will be directed to select the new activities before proceeding. You will also need to upload supporting documents, including [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/declarations-and-documents/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/declarations-and-documents/",
       "page_title": "Manufacturing renewal: Submitting declarations and supporting documents",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Manufacturing renewal: Submitting declarations and supporting documents",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/declarations-and-documents/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/declarations-and-documents/",
       "open_graph_title": "Manufacturing renewal: Submitting declarations and supporting documents",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Manufacturing renewal: Submitting declarations and supporting documents",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/declarations-and-documents/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/declarations-and-documents/"
   }
 }
