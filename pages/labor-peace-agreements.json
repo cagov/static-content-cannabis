@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T19:42:22",
-    "updated_date": "2024-09-03T23:13:51",
+    "updated_date": "2024-09-20T18:29:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-08-09T12:42:22",
     "date_gmt": "2024-08-09T19:42:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=19413",
-    "modified": "2024-09-03T16:13:51",
-    "modified_gmt": "2024-09-03T23:13:51",
+    "modified": "2024-09-20T11:29:56",
+    "modified_gmt": "2024-09-20T18:29:56",
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/labor-peace-agreements/",
     "title": "Manufacturing renewal: Labor peace agreements",
-    "excerpt": "<p>This section requests information on Labor Peace Agreements for manufacturing license renewals. Labor Peace Agreement (LPA) Select your answer to the questions below regarding number of employees.&nbsp;Depending on what you select, you will need to provide either a form DCC 9205 labor peace agreement notarized statement or a copy of the signature page of your [&hellip;]</p>\n",
+    "excerpt": "<p>As part of the CLEaR renewal process for manufacturing, you will need to provide details related to your Labor Peace Agreement (LPA) based on the number of employees at your business. Depending on your selection, you will be required to submit either a notarized Form DCC 9205 Labor Peace Agreement statement or a copy of [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19357,
@@ -41,9 +41,7 @@
     "categories": [
       "Clear Renewal Manufacturing"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 934
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/labor-peace-agreements/"
