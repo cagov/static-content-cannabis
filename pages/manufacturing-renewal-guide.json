@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T18:05:12",
-    "updated_date": "2024-09-20T18:47:43",
+    "updated_date": "2024-09-20T19:02:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-09T11:05:12",
     "date_gmt": "2024-08-09T18:05:12",
     "guid": "https://api.cannabis.ca.gov/?page_id=19357",
-    "modified": "2024-09-20T11:47:43",
-    "modified_gmt": "2024-09-20T18:47:43",
+    "modified": "2024-09-20T12:02:17",
+    "modified_gmt": "2024-09-20T19:02:17",
     "slug": "manufacturing-renewal-guide",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/",
     "title": "Manufacturing renewal guide",
     "excerpt": "<p>Cannabis Licensing Enforcement and Reporting (CLEaR) User Guide</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 19750,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "CLEAR System Guides",
       "Licensing system guides"
     ],
     "tags": [
@@ -58,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/",
       "page_title": "Manufacturing renewal guide",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,13 +68,29 @@
       "page_social_image_alt": "",
       "meta_title": "Manufacturing renewal guide",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/",
       "open_graph_title": "Manufacturing renewal guide",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Manufacturing renewal guide",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 934,
+        "name": "CLEAR System Guides",
+        "slug": "clear-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 934,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 934,
+        "category_description": "",
+        "cat_name": "CLEAR System Guides",
+        "category_nicename": "clear-system-guides",
+        "category_parent": 911
+      },
       {
         "term_id": 911,
         "name": "Licensing system guides",
@@ -106,6 +123,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/"
   }
 }
