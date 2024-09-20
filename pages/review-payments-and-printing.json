@@ -23,7 +23,7 @@
     "slug": "review-payments-and-printing",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/review-payments-and-printing/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/review-payments-and-printing/",
     "title": "Manufacturing renewal: Review, payments, and printing your certificate",
     "excerpt": "<p>Before completing your CLEaR renewal, you will need to review all the information you&#8217;ve provided to ensure its accuracy. Be sure to read the Important Notice section at the bottom of the page. Once confirmed, you will proceed to the payment step. Application fees can be paid online using a credit or debit card, or [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/review-payments-and-printing/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/review-payments-and-printing/",
       "page_title": "Manufacturing renewal: Review, payments, and printing your certificate",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Manufacturing renewal: Review, payments, and printing your certificate",
       "meta_description": "Before completing your CLEaR renewal, you will need to review all the information you&#8217;ve provided to ensure its accuracy. Be sure to read the Important Notice section at the bottom of the page. Once confirmed, you will proceed to the payment step. Application fees can be paid online using a credit or debit card, or by mailing a physical check. Alternatively, you may schedule an appointment to pay in person with cash at one of our three office locations. After payment, you’ll be able to print your license certificate.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/review-payments-and-printing/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/review-payments-and-printing/",
       "open_graph_title": "Manufacturing renewal: Review, payments, and printing your certificate",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Manufacturing renewal: Review, payments, and printing your certificate",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/review-payments-and-printing/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/review-payments-and-printing/"
   }
 }
