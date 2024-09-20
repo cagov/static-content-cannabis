@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:31:07",
-    "updated_date": "2024-09-04T23:23:35",
+    "updated_date": "2024-09-20T22:46:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-09-03T15:31:07",
     "date_gmt": "2024-09-03T22:31:07",
     "guid": "https://api.cannabis.ca.gov/?page_id=19768",
-    "modified": "2024-09-04T16:23:35",
-    "modified_gmt": "2024-09-04T23:23:35",
+    "modified": "2024-09-20T15:46:11",
+    "modified_gmt": "2024-09-20T22:46:11",
     "slug": "account-navigation",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/account-navigation/",
     "title": "CLEaR: Account navigation",
-    "excerpt": "<p>Once you are registered and logged into your account, you can begin the process of applying for a cannabis business license.</p>\n",
+    "excerpt": "<p>Once you are registered and logged into your account, you can begin the process of applying for a cannabis license. This guide provides an overview of selecting a license type and navigating to key sections of the system, including:</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19766,
@@ -41,9 +41,7 @@
     "categories": [
       "CLEAR: How to apply"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 934
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-user-guide/account-navigation/"
