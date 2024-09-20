@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:17:53",
-    "updated_date": "2024-09-03T23:14:39",
+    "updated_date": "2024-09-20T18:55:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-09-03T15:17:53",
     "date_gmt": "2024-09-03T22:17:53",
     "guid": "https://api.cannabis.ca.gov/?page_id=19762",
-    "modified": "2024-09-03T16:14:39",
-    "modified_gmt": "2024-09-03T23:14:39",
+    "modified": "2024-09-20T11:55:35",
+    "modified_gmt": "2024-09-20T18:55:35",
     "slug": "clear-renewal-manufacturing",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal-manufacturing/",
     "title": "CLEaR renewal: Manufacturing",
-    "excerpt": "<p>Cannabis Licensing Enforcement and Reporting (CLEaR) User Guide</p>\n",
+    "excerpt": "<p>This comprehensive guide walks you through every step of the CLEaR manufacturing renewal process. From accessing your renewal and verifying ownership details to submitting declarations, reviewing required documents, making payments, and printing your renewal certificate, this resource ensures you stay compliant and up to date. Follow the instructions for a smooth renewal process.</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19750,
@@ -41,9 +41,7 @@
     "categories": [
       "Licensing system guides"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal-manufacturing/"
