@@ -23,7 +23,7 @@
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/labor-peace-agreements/",
+    "link": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/labor-peace-agreements/",
     "title": "Manufacturing renewal: Labor peace agreements",
     "excerpt": "<p>As part of the CLEaR renewal process for manufacturing, you will need to provide details related to your Labor Peace Agreement (LPA) based on the number of employees at your business. Depending on your selection, you will be required to submit either a notarized Form DCC 9205 Labor Peace Agreement statement or a copy of [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/labor-peace-agreements/",
+      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/labor-peace-agreements/",
       "page_title": "Manufacturing renewal: Labor peace agreements",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Manufacturing renewal: Labor peace agreements",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/labor-peace-agreements/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/labor-peace-agreements/",
       "open_graph_title": "Manufacturing renewal: Labor peace agreements",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Manufacturing renewal: Labor peace agreements",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/labor-peace-agreements/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/manufacturing-renewal-guide/labor-peace-agreements/"
   }
 }
