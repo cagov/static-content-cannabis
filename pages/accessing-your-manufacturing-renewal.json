@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T18:15:42",
-    "updated_date": "2024-09-03T23:21:38",
+    "updated_date": "2024-09-20T18:19:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-09T11:15:42",
     "date_gmt": "2024-08-09T18:15:42",
     "guid": "https://api.cannabis.ca.gov/?page_id=19360",
-    "modified": "2024-09-03T16:21:38",
-    "modified_gmt": "2024-09-03T23:21:38",
+    "modified": "2024-09-20T11:19:09",
+    "modified_gmt": "2024-09-20T18:19:09",
     "slug": "accessing-your-manufacturing-renewal",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -41,11 +41,9 @@
     "categories": [
       "Clear Renewal Manufacturing"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -91,19 +89,7 @@
         "category_parent": 934
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/manufacturing-renewal-guide/accessing-your-manufacturing-renewal/"
