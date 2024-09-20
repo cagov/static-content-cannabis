@@ -23,7 +23,7 @@
     "slug": "documents-fees-and-payments",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/documents-fees-and-payments/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/documents-fees-and-payments/",
     "title": "CLEaR Renewal: Owner information, documents, and renewal steps",
     "excerpt": "<p>Comprehensive guide outlining the necessary information associated with owners, financial interest holders, labor peace agreement, declarations, fee assessment, documents, and payment for the CLEaR renewal. This resource provides step-by-step instructions to ensure a smooth renewal process. Owners Verification To begin, review that the &#8220;List of Owners&#8221; and &#8220;Entity Ownership&#8221; is current. If the list of [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/documents-fees-and-payments/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/documents-fees-and-payments/",
       "page_title": "CLEaR Renewal: Owner information, documents, and renewal steps",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR Renewal: Owner information, documents, and renewal steps",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/documents-fees-and-payments/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/documents-fees-and-payments/",
       "open_graph_title": "CLEaR Renewal: Owner information, documents, and renewal steps",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR Renewal: Owner information, documents, and renewal steps",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/documents-fees-and-payments/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal/documents-fees-and-payments/"
   }
 }
