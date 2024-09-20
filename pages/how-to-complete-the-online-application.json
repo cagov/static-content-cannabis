@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-25T17:55:24",
-    "updated_date": "2024-09-20T19:17:27",
+    "updated_date": "2024-09-20T23:25:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-01-25T09:55:24",
     "date_gmt": "2024-01-25T17:55:24",
     "guid": "https://api.cannabis.ca.gov/?page_id=16902",
-    "modified": "2024-09-20T12:17:27",
-    "modified_gmt": "2024-09-20T19:17:27",
+    "modified": "2024-09-20T16:25:34",
+    "modified_gmt": "2024-09-20T23:25:34",
     "slug": "how-to-complete-the-online-application",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/",
+    "link": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/",
     "title": "How to complete the online application",
     "excerpt": "<p>Learn how to use the online licensing system for the following license types: distributors, testing laboratories, manufacturers, retailers, microbusinesses, and events. For help with the cultivation licensing system, view the cultivation user guides. Licensing system overview This guide covers the following topics: Download the guide Registration and account management Download the guide Registration and Account [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 20223,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -54,7 +54,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/",
+      "canonical_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/",
       "page_title": "How to complete the online application",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "How to complete the online application",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/",
       "open_graph_title": "How to complete the online application",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "How to complete the online application",
@@ -73,6 +73,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/"
+    "wordpress_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/"
   }
 }
