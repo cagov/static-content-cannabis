@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T18:05:12",
-    "updated_date": "2024-09-20T23:46:32",
+    "updated_date": "2024-09-20T23:54:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-09T11:05:12",
     "date_gmt": "2024-08-09T18:05:12",
     "guid": "https://api.cannabis.ca.gov/?page_id=19357",
-    "modified": "2024-09-20T16:46:32",
-    "modified_gmt": "2024-09-20T23:46:32",
-    "slug": "manufacturing-renewal-guide",
+    "modified": "2024-09-20T16:54:37",
+    "modified_gmt": "2024-09-20T23:54:37",
+    "slug": "manufacturing-renewal-user-guide",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-user-guide/",
     "title": "Manufacturing renewal guide",
     "excerpt": "<p>This guide covers everything you need to successfully renew your manufacturing license in the CLEaR system. From accessing your renewal to verifying owner and financial interest holder details, addressing labor peace agreements, and submitting required declarations and supporting documents, each step is outlined to ensure compliance. You will also find instructions for reviewing your information, [&hellip;]</p>\n",
     "author": 32,
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-user-guide/",
       "page_title": "Manufacturing renewal guide",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,8 +65,8 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Manufacturing renewal guide",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/",
+      "meta_description": "This guide covers everything you need to successfully renew your manufacturing license in the CLEaR system. From accessing your renewal to verifying owner and financial interest holder details, addressing labor peace agreements, and submitting required declarations and supporting documents, each step is outlined to ensure compliance. You will also find instructions for reviewing your information, making payments, and printing your license certificate.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-user-guide/",
       "open_graph_title": "Manufacturing renewal guide",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Manufacturing renewal guide",
@@ -109,6 +109,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-guide/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/manufacturing-renewal-user-guide/"
   }
 }
