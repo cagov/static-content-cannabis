@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:10:00",
-    "updated_date": "2024-09-20T18:10:07",
+    "updated_date": "2024-09-20T18:50:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,21 +18,21 @@
     "date": "2024-09-03T15:10:00",
     "date_gmt": "2024-09-03T22:10:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=19754",
-    "modified": "2024-09-20T11:10:07",
-    "modified_gmt": "2024-09-20T18:10:07",
+    "modified": "2024-09-20T11:50:27",
+    "modified_gmt": "2024-09-20T18:50:27",
     "slug": "clear-renewal",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensing-system-guides/clear-renewal/",
     "title": "CLEaR renewal: Labs, distribution, retail, events",
-    "excerpt": "<p>Get started with renewing your license in the CLEaR system. This guide covers renewal steps for multiple license types with step-by-step screenshots throughout the process.</p>\n",
+    "excerpt": "<p>Getting Started with Your CLEaR License Renewal Welcome to the CLEaR license renewal guide. This resource provides a step-by-step walkthrough for renewing various license types in the CLEaR system. With detailed screenshots, you&#8217;ll easily navigate the renewal process, from accessing your renewal and updating owner information to submitting necessary documents and printing your license certificate. [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19750,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
