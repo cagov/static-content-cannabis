@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:10:00",
-    "updated_date": "2024-09-20T23:52:11",
+    "updated_date": "2024-09-21T00:10:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:10:00",
     "date_gmt": "2024-09-03T22:10:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=19754",
-    "modified": "2024-09-20T16:52:11",
-    "modified_gmt": "2024-09-20T23:52:11",
+    "modified": "2024-09-20T17:10:03",
+    "modified_gmt": "2024-09-21T00:10:03",
     "slug": "clear-renewal-labs-distro-retail",
     "status": "publish",
     "type": "page",
@@ -65,7 +65,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "CLEaR renewal: Labs, distribution, retail, events",
-      "meta_description": "Welcome to the CLEaR license renewal guide. This resource provides a step&#x2d;by&#x2d;step walkthrough for renewing various license types in the CLEaR system. With detailed screenshots, you&#8217;ll easily navigate the renewal process, from accessing your renewal and updating owner information to submitting necessary documents and printing your license certificate. Follow along to ensure a smooth and successful renewal experience.",
+      "meta_description": "Welcome to the CLEaR license renewal guide. This resource provides a step&#x2d;by&#x2d;step walkthrough for renewing various license types in the CLEaR system. With detailed screenshots, you’ll easily navigate the renewal process, from accessing your renewal and updating owner information to submitting necessary documents and printing your license certificate. Follow along to ensure a smooth and successful renewal experience.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-renewal-labs-distro-retail/",
       "open_graph_title": "CLEaR renewal: Labs, distribution, retail, events",
       "open_graph_description": "Learn about California cannabis laws and licenses",
