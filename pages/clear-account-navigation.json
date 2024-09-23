@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:31:07",
-    "updated_date": "2024-09-21T00:05:38",
+    "updated_date": "2024-09-23T23:39:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-03T15:31:07",
     "date_gmt": "2024-09-03T22:31:07",
     "guid": "https://api.cannabis.ca.gov/?page_id=19768",
-    "modified": "2024-09-20T17:05:38",
-    "modified_gmt": "2024-09-21T00:05:38",
+    "modified": "2024-09-23T16:39:30",
+    "modified_gmt": "2024-09-23T23:39:30",
     "slug": "clear-account-navigation",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/completing-clear-application/clear-account-navigation/",
+    "link": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/clear-account-navigation/",
     "title": "CLEaR: Account navigation",
     "excerpt": "<p>Once you are registered and logged into your account, you can begin the process of applying for a cannabis license. This guide provides an overview of selecting a license type and navigating to key sections of the system, including:</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 19766,
+    "parent": 16902,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/completing-clear-application/clear-account-navigation/",
+      "canonical_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/clear-account-navigation/",
       "page_title": "CLEaR: Account navigation",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: Account navigation",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/completing-clear-application/clear-account-navigation/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/clear-account-navigation/",
       "open_graph_title": "CLEaR: Account navigation",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: Account navigation",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/completing-clear-application/clear-account-navigation/"
+    "wordpress_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/clear-account-navigation/"
   }
 }
