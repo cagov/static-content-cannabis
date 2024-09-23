@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:26:12",
-    "updated_date": "2024-09-21T00:00:34",
+    "updated_date": "2024-09-23T23:33:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:26:12",
     "date_gmt": "2024-09-03T22:26:12",
     "guid": "https://api.cannabis.ca.gov/?page_id=19764",
-    "modified": "2024-09-20T17:00:34",
-    "modified_gmt": "2024-09-21T00:00:34",
+    "modified": "2024-09-23T16:33:44",
+    "modified_gmt": "2024-09-23T23:33:44",
     "slug": "creating-an-account-clear",
     "status": "publish",
     "type": "page",
