@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T18:05:12",
-    "updated_date": "2024-09-21T00:12:52",
+    "updated_date": "2024-09-23T20:18:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-09T11:05:12",
     "date_gmt": "2024-08-09T18:05:12",
     "guid": "https://api.cannabis.ca.gov/?page_id=19357",
-    "modified": "2024-09-20T17:12:52",
-    "modified_gmt": "2024-09-21T00:12:52",
+    "modified": "2024-09-23T13:18:07",
+    "modified_gmt": "2024-09-23T20:18:07",
     "slug": "manufacturing-renewal-user-guide",
     "status": "publish",
     "type": "page",
