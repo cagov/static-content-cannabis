@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:27:52",
-    "updated_date": "2024-09-20T23:59:12",
+    "updated_date": "2024-09-23T23:07:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:27:52",
     "date_gmt": "2024-09-03T22:27:52",
     "guid": "https://api.cannabis.ca.gov/?page_id=19766",
-    "modified": "2024-09-20T16:59:12",
-    "modified_gmt": "2024-09-20T23:59:12",
+    "modified": "2024-09-23T16:07:55",
+    "modified_gmt": "2024-09-23T23:07:55",
     "slug": "clear-online-application",
     "status": "publish",
     "type": "page",
