@@ -23,7 +23,7 @@
     "slug": "applying-license-clear-system",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/applying-license-clear-system/",
+    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/applying-license-clear-system/",
     "title": "Applying for a license in the CLEaR system",
     "excerpt": "<p>To apply for a license using the CLEaR system, follow the steps outlined below. Start by selecting the type of license that best suits your needs from the available options. The CLEaR system supports a total of nine license types, including Retailer, Distributor, Microbusiness, and more. You’ll be required to submit specific information, complete necessary [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/applying-license-clear-system/",
+      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/applying-license-clear-system/",
       "page_title": "Applying for a license in the CLEaR system",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Applying for a license in the CLEaR system",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/applying-license-clear-system/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/applying-license-clear-system/",
       "open_graph_title": "Applying for a license in the CLEaR system",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Applying for a license in the CLEaR system",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/how-to-complete-the-online-application/applying-license-clear-system/"
+    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/applying-license-clear-system/"
   }
 }
