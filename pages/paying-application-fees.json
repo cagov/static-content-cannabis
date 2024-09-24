@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:34:47",
-    "updated_date": "2024-09-24T21:26:48",
+    "updated_date": "2024-09-24T21:41:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:34:47",
     "date_gmt": "2024-09-03T22:34:47",
     "guid": "https://api.cannabis.ca.gov/?page_id=19774",
-    "modified": "2024-09-24T14:26:48",
-    "modified_gmt": "2024-09-24T21:26:48",
+    "modified": "2024-09-24T14:41:05",
+    "modified_gmt": "2024-09-24T21:41:05",
     "slug": "paying-application-fees",
     "status": "publish",
     "type": "page",
