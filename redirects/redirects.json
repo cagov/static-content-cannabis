@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 222,
+      "redirects": 242,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6195,6 +6195,500 @@
       "regex": false,
       "group_id": 1,
       "position": 221,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 474,
+      "url": "/manufacturing-renewal-guide/",
+      "match_url": "/manufacturing-renewal-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/manufacturing-renewal-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 222,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 475,
+      "url": "/licensing-system-guides/manufacturing-renewal-guide/",
+      "match_url": "/licensing-system-guides/manufacturing-renewal-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/manufacturing-renewal-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 223,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 476,
+      "url": "/licensing-system-guides/clear-renewal/",
+      "match_url": "/licensing-system-guides/clear-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/clear-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 224,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 477,
+      "url": "/applicants/access-license-portals/how-to-complete-the-online-application/",
+      "match_url": "/applicants/access-license-portals/how-to-complete-the-online-application",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/how-to-complete-the-online-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 225,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 479,
+      "url": "/licensing-system-guides/clear-user-guide/",
+      "match_url": "/licensing-system-guides/clear-user-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/clear-user-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 227,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 480,
+      "url": "/clear-system-user-guides/clear-renewal/",
+      "match_url": "/clear-system-user-guides/clear-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/clear-renewal-labs-distro-retail/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 228,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 481,
+      "url": "/clear-system-user-guides/manufacturing-renewal-guide/",
+      "match_url": "/clear-system-user-guides/manufacturing-renewal-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/manufacturing-renewal-user-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 229,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 482,
+      "url": "/clear-system-user-guides/clear-user-guide/",
+      "match_url": "/clear-system-user-guides/clear-user-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/clear-online-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 230,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 483,
+      "url": "/clear-system-user-guides/clear-online-application/creating-an-account/",
+      "match_url": "/clear-system-user-guides/clear-online-application/creating-an-account",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/clear-online-application/creating-an-account-clear/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 231,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 484,
+      "url": "/clear-system-user-guides/clear-online-application/how-to-apply/",
+      "match_url": "/clear-system-user-guides/clear-online-application/how-to-apply",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/clear-online-application/applying-license-clear-system/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 232,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 485,
+      "url": "/clear-system-user-guides/clear-online-application/account-navigation/",
+      "match_url": "/clear-system-user-guides/clear-online-application/account-navigation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/clear-online-application/clear-account-navigation/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 233,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 486,
+      "url": "/clear-system-user-guides/clear-online-application/",
+      "match_url": "/clear-system-user-guides/clear-online-application",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/completing-clear-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 234,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 487,
+      "url": "/clear-system-user-guides/completing-clear-application/clear-account-navigation/",
+      "match_url": "/clear-system-user-guides/completing-clear-application/clear-account-navigation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/how-to-complete-the-online-application/clear-account-navigation/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 235,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 488,
+      "url": "/clear-system-user-guides/completing-clear-application/paying-application-fees/",
+      "match_url": "/clear-system-user-guides/completing-clear-application/paying-application-fees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/how-to-complete-the-online-application/paying-application-fees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 236,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 489,
+      "url": "/clear-system-user-guides/completing-clear-application/printing-license/",
+      "match_url": "/clear-system-user-guides/completing-clear-application/printing-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/how-to-complete-the-online-application/printing-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 237,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 490,
+      "url": "/clear-system-user-guides/completing-clear-application/applying-license-clear-system/",
+      "match_url": "/clear-system-user-guides/completing-clear-application/applying-license-clear-system",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/how-to-complete-the-online-application/applying-license-clear-system/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 238,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 491,
+      "url": "/clear-system-user-guides/completing-clear-application/owner-submittal/",
+      "match_url": "/clear-system-user-guides/completing-clear-application/owner-submittal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/how-to-complete-the-online-application/owner-submittal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 239,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 492,
+      "url": "/how-to-complete-the-online-application/",
+      "match_url": "/how-to-complete-the-online-application",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/how-to-complete-the-online-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 240,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 493,
+      "url": "/clear-system-user-guides/completing-clear-application__trashed/creating-an-account-clear/",
+      "match_url": "/clear-system-user-guides/completing-clear-application__trashed/creating-an-account-clear",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-system-user-guides/how-to-complete-the-online-application/creating-an-account-clear/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 241,
       "last_access": "-",
       "enabled": true
     }
