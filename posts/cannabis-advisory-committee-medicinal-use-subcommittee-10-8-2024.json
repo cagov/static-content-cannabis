@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-27T19:37:16",
-    "updated_date": "2024-09-27T21:51:30",
+    "updated_date": "2024-09-27T22:12:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-27T12:37:16",
     "date_gmt": "2024-09-27T19:37:16",
     "guid": "https://api.cannabis.ca.gov/?p=20320",
-    "modified": "2024-09-27T14:51:30",
-    "modified_gmt": "2024-09-27T21:51:30",
+    "modified": "2024-09-27T15:12:55",
+    "modified_gmt": "2024-09-27T22:12:55",
     "slug": "cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024",
     "status": "publish",
     "type": "post",
