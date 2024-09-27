@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-27T19:37:16",
-    "updated_date": "2024-09-27T23:40:28",
+    "updated_date": "2024-09-27T23:58:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-27T12:37:16",
     "date_gmt": "2024-09-27T19:37:16",
     "guid": "https://api.cannabis.ca.gov/?p=20320",
-    "modified": "2024-09-27T16:40:28",
-    "modified_gmt": "2024-09-27T23:40:28",
-    "slug": "cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024",
+    "modified": "2024-09-27T16:58:07",
+    "modified_gmt": "2024-09-27T23:58:07",
+    "slug": "cctt-subcommittee-10-8-2024",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/09/cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024/",
+    "link": "https://api.cannabis.ca.gov/2024/09/cctt-subcommittee-10-8-2024/",
     "title": "Cannabis Advisory Committee – California Cannabis Track and Trace Subcommittee: 10/8/2024",
     "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\"></div>\n<p></p>\n<div class=\"event-time\"> </div>\n<p></p>\n<div class=\"event-location\"></div>\n</div>\n",
     "author": 36,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/09/cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024/",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/09/cctt-subcommittee-10-8-2024/",
       "page_title": "Cannabis Advisory Committee – California Cannabis Track and Trace Subcommittee: 10/8/2024",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cannabis Advisory Committee – California Cannabis Track and Trace Subcommittee: 10/8/2024",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/09/cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/09/cctt-subcommittee-10-8-2024/",
       "open_graph_title": "Cannabis Advisory Committee – California Cannabis Track and Trace Subcommittee: 10/8/2024",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Cannabis Advisory Committee – California Cannabis Track and Trace Subcommittee: 10/8/2024",
@@ -100,6 +100,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/09/cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/09/cctt-subcommittee-10-8-2024/"
   }
 }
