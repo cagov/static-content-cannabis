@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-27T19:37:16",
-    "updated_date": "2024-09-27T22:19:46",
+    "updated_date": "2024-09-27T22:28:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-27T12:37:16",
     "date_gmt": "2024-09-27T19:37:16",
     "guid": "https://api.cannabis.ca.gov/?p=20320",
-    "modified": "2024-09-27T15:19:46",
-    "modified_gmt": "2024-09-27T22:19:46",
+    "modified": "2024-09-27T15:28:02",
+    "modified_gmt": "2024-09-27T22:28:02",
     "slug": "cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
     "categories": [
       "CAC Subcommittee"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single-event"
     },
@@ -91,19 +89,7 @@
         "category_parent": 831
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
