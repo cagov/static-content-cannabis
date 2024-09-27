@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-27T19:03:47",
-    "updated_date": "2024-09-27T21:22:44",
+    "updated_date": "2024-09-27T21:39:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-27T12:03:47",
     "date_gmt": "2024-09-27T19:03:47",
     "guid": "https://api.cannabis.ca.gov/?page_id=20309",
-    "modified": "2024-09-27T14:22:44",
-    "modified_gmt": "2024-09-27T21:22:44",
+    "modified": "2024-09-27T14:39:49",
+    "modified_gmt": "2024-09-27T21:39:49",
     "slug": "flower-products-packaged-by-higher-ground-holdings-llc",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/flower-products-packaged-by-higher-ground-holdings-llc/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/flower-products-packaged-by-higher-ground-holdings-llc/",
     "title": "Flower products packaged by Higher Ground Holdings, LLC",
     "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this notice of mandatory recall for multiple flower products packaged by Higher Ground Holdings, LLC due to the presence of Aspergillus niger and due to inaccurate labeling, that reports more cannabinoid content than the products contain. Business Recall Publication Date September 27, 2024 Recall Type [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/flower-products-packaged-by-higher-ground-holdings-llc/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/flower-products-packaged-by-higher-ground-holdings-llc/",
       "page_title": "Flower products packaged by Higher Ground Holdings, LLC",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "Flower products packaged by Higher Ground Holdings, LLC",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/flower-products-packaged-by-higher-ground-holdings-llc/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/flower-products-packaged-by-higher-ground-holdings-llc/",
       "open_graph_title": "Flower products packaged by Higher Ground Holdings, LLC",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Flower products packaged by Higher Ground Holdings, LLC",
@@ -109,6 +109,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/flower-products-packaged-by-higher-ground-holdings-llc/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/flower-products-packaged-by-higher-ground-holdings-llc/"
   }
 }
