@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:12:14",
-    "updated_date": "2024-09-03T19:07:43",
+    "updated_date": "2024-09-30T19:01:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2021-06-19T15:12:14",
     "date_gmt": "2021-06-19T15:12:14",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/equity/",
-    "modified": "2024-09-03T12:07:43",
-    "modified_gmt": "2024-09-03T19:07:43",
+    "modified": "2024-09-30T12:01:56",
+    "modified_gmt": "2024-09-30T19:01:56",
     "slug": "equity",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/equity/",
     "title": "Cannabis equity",
-    "excerpt": "<p>Explore cannabis equity through real stories from entrepreneurs, the impact of criminalization, and challenges in the legal market. Discover California&#8217;s equity programs, resources, and how consumers can support equity businesses.&nbsp; Effects of cannabis criminalization&nbsp; Cannabis prohibition had a devastating impact on Californians and people across the country. The long-term consequences of cannabis criminalization continue to [&hellip;]</p>\n",
+    "excerpt": "<p>California’s cannabis equity efforts support people and communities harmed by cannabis criminalization. These efforts lower barriers to the cannabis industry for those hit hardest by the War on Drugs. Effects of cannabis criminalization&nbsp; Cannabis prohibition had a devastating impact on Californians and people across the country. The long-term consequences of cannabis criminalization continue to impact:&nbsp; [&hellip;]</p>\n",
     "author": 2,
     "featured_media": 0,
     "parent": 759,
@@ -39,9 +39,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -72,19 +70,7 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/"
