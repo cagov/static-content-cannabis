@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-21T21:23:21",
-    "updated_date": "2024-09-30T18:04:22",
+    "created_date": "2024-08-21T19:04:12",
+    "updated_date": "2024-09-30T18:18:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19532",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19518",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19532,
-    "date": "2024-08-21T14:23:21",
-    "date_gmt": "2024-08-21T21:23:21",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19532",
-    "modified": "2024-09-30T11:04:22",
-    "modified_gmt": "2024-09-30T18:04:22",
-    "slug": "promising-practices",
+    "id": 19518,
+    "date": "2024-08-21T12:04:12",
+    "date_gmt": "2024-08-21T19:04:12",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19518",
+    "modified": "2024-09-30T11:18:56",
+    "modified_gmt": "2024-09-30T18:18:56",
+    "slug": "discussions-with-equity-entrepreneurs",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/equity/promising-practices/",
-    "title": "Promising practices for equity entrepreneurs and local jurisdictions",
-    "excerpt": "<p>The DCC is committed to promoting equity for communities harmed by cannabis criminalization. We support local communities who share these values by lifting practices that are making a difference. By talking to business owners affected by the War on Drugs and asking them what policies have helped them start or grow their business, we are [&hellip;]</p>\n",
-    "author": 36,
+    "link": "https://api.cannabis.ca.gov/resources/equity/discussions-with-equity-entrepreneurs/",
+    "title": "Discussions with equity entrepreneurs",
+    "excerpt": "<p>California’s cannabis equity efforts support people and communities harmed by cannabis criminalization.  These efforts lower barriers to the cannabis industry for those hit hardest by the War on Drugs.  Listen to equity entrepreneurs talk about the investments California has made toward creating equity in the cannabis industry. Please note that the information on this website [&hellip;]</p>\n",
+    "author": 32,
     "featured_media": 0,
     "parent": 7797,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -56,19 +56,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practices/",
-      "page_title": "Promising practices for equity entrepreneurs and local jurisdictions",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/equity/discussions-with-equity-entrepreneurs/",
+      "page_title": "Discussions with equity entrepreneurs",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Promising practices for equity entrepreneurs and local jurisdictions",
-      "meta_description": "The DCC is committed to providing equity to communities harmed by cannabis criminalization. We support local communities who share these values by lifting practices that are making a difference.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practices/",
-      "open_graph_title": "Promising practices for equity entrepreneurs and local jurisdictions",
+      "meta_title": "Discussions with equity entrepreneurs",
+      "meta_description": "Listen to equity entrepreneurs from throughout the state discuss the benefits of California’s equity programs, what’s worked well at the state and local levels, and their hopes and dreams for the legal cannabis market.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/equity/discussions-with-equity-entrepreneurs/",
+      "open_graph_title": "Discussions with equity entrepreneurs",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Promising practices for equity entrepreneurs and local jurisdictions",
+      "twitter_title": "Discussions with equity entrepreneurs",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practices/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/discussions-with-equity-entrepreneurs/"
   }
 }
