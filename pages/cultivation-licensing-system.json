@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-01T20:17:02",
-    "updated_date": "2024-09-30T20:18:14",
+    "updated_date": "2024-09-30T23:26:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-01T13:17:02",
     "date_gmt": "2023-11-01T20:17:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=15813",
-    "modified": "2024-09-30T13:18:14",
-    "modified_gmt": "2024-09-30T20:18:14",
+    "modified": "2024-09-30T16:26:00",
+    "modified_gmt": "2024-09-30T23:26:00",
     "slug": "cultivation-licensing-system",
     "status": "publish",
     "type": "page",
@@ -41,9 +41,7 @@
     "categories": [
       "Online system-Cultivation"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 911
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/"
