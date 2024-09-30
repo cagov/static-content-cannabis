@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:12:14",
-    "updated_date": "2023-10-18T22:55:43",
+    "updated_date": "2024-09-30T19:01:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2021-06-19T15:12:14",
     "date_gmt": "2021-06-19T15:12:14",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/equity/",
-    "modified": "2023-10-18T15:55:43",
-    "modified_gmt": "2023-10-18T22:55:43",
+    "modified": "2024-09-30T12:01:56",
+    "modified_gmt": "2024-09-30T19:01:56",
     "slug": "equity",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/equity/",
     "title": "Cannabis equity",
-    "excerpt": "<p>California’s cannabis equity efforts support people and communities harmed by cannabis criminalization. These efforts lower barriers to the cannabis industry for those hit hardest by the War on Drugs.&nbsp; Listen to our Deputy Director of Equity and Inclusion talk to two Black female entrepreneurs&nbsp;in this video&nbsp;about the investments DCC has made toward creating equity in [&hellip;]</p>\n",
+    "excerpt": "<p>California’s cannabis equity efforts support people and communities harmed by cannabis criminalization. These efforts lower barriers to the cannabis industry for those hit hardest by the War on Drugs. Effects of cannabis criminalization&nbsp; Cannabis prohibition had a devastating impact on Californians and people across the country. The long-term consequences of cannabis criminalization continue to impact:&nbsp; [&hellip;]</p>\n",
     "author": 2,
     "featured_media": 0,
     "parent": 759,
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Equity"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -71,24 +69,7 @@
       "twitter_title": "Cannabis equity",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 874,
-        "name": "Equity",
-        "slug": "equity",
-        "term_group": 0,
-        "term_taxonomy_id": 874,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 874,
-        "category_description": "",
-        "cat_name": "Equity",
-        "category_nicename": "equity",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
