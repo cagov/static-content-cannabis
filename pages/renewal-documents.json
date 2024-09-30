@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T17:28:19",
-    "updated_date": "2024-09-04T20:54:09",
+    "updated_date": "2024-09-30T23:23:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-08-06T10:28:19",
     "date_gmt": "2024-08-06T17:28:19",
     "guid": "https://api.cannabis.ca.gov/?page_id=19267",
-    "modified": "2024-09-04T13:54:09",
-    "modified_gmt": "2024-09-04T20:54:09",
+    "modified": "2024-09-30T16:23:38",
+    "modified_gmt": "2024-09-30T23:23:38",
     "slug": "renewal-documents",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/renewal-documents/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-documents/",
     "title": "CLS renewal documents",
-    "excerpt": "<p>You may be be required to upload several documents into the licensing system during the renewal process, including electricity usage reporting documentation, a premises diagram, and documentation related to labor peace agreements.</p>\n",
+    "excerpt": "<p>Upon renewal of a license, licensees authorized to engage in cannabis cultivation are required to report total electricity use for each power source used during the previous licensed period. Documents Under the Documents page, you may upload a copy of the document utilized to prepare the Electricity Usage information. For information on Electricity Usage Reporting [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19257,
@@ -41,9 +41,7 @@
     "categories": [
       "CLS Renewal"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -58,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/renewal-documents/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-documents/",
       "page_title": "CLS renewal documents",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS renewal documents",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/renewal-documents/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-documents/",
       "open_graph_title": "CLS renewal documents",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS renewal documents",
@@ -91,21 +89,9 @@
         "category_parent": 935
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/renewal-documents/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-documents/"
   }
 }
