@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "created_date": "2024-08-21T21:23:21",
+    "updated_date": "2024-09-30T17:30:50",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19532",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19532,
+    "date": "2024-08-21T14:23:21",
+    "date_gmt": "2024-08-21T21:23:21",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19532",
+    "modified": "2024-09-30T10:30:50",
+    "modified_gmt": "2024-09-30T17:30:50",
+    "slug": "promising-practices",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/resources/equity/promising-practices/",
+    "title": "Promising practices for equity entrepreneurs and local jurisdictions",
+    "excerpt": "<p>The DCC is committed to promoting equity for communities harmed by cannabis criminalization. We support local communities who share these values by lifting practices that are making a difference. By talking to business owners affected by the War on Drugs and asking them what policies have helped them start or grow their business, we are [&hellip;]</p>\n",
+    "author": 36,
+    "featured_media": 0,
+    "parent": 7797,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Equity"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practices/",
+      "page_title": "Promising practices for equity entrepreneurs and local jurisdictions",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Promising practices for equity entrepreneurs and local jurisdictions",
+      "meta_description": "The DCC is committed to providing equity to communities harmed by cannabis criminalization. We support local communities who share these values by lifting practices that are making a difference.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practices/",
+      "open_graph_title": "Promising practices for equity entrepreneurs and local jurisdictions",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Promising practices for equity entrepreneurs and local jurisdictions",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 874,
+        "name": "Equity",
+        "slug": "equity",
+        "term_group": 0,
+        "term_taxonomy_id": 874,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 874,
+        "category_description": "",
+        "cat_name": "Equity",
+        "category_nicename": "equity",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practices/"
+  }
+}
