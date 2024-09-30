@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-09-03T22:31:07",
-    "updated_date": "2024-09-20T22:46:53",
+    "created_date": "2024-09-03T23:30:42",
+    "updated_date": "2024-09-30T20:42:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19768",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19255",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19768,
-    "date": "2024-09-03T15:31:07",
-    "date_gmt": "2024-09-03T22:31:07",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19768",
-    "modified": "2024-09-20T15:46:53",
-    "modified_gmt": "2024-09-20T22:46:53",
+    "id": 19255,
+    "date": "2024-09-03T16:30:42",
+    "date_gmt": "2024-09-03T23:30:42",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19255",
+    "modified": "2024-09-30T13:42:14",
+    "modified_gmt": "2024-09-30T20:42:14",
     "slug": "account-navigation",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-online-application/account-navigation/",
-    "title": "CLEaR: Account navigation",
-    "excerpt": "<p>Once you are registered and logged into your account, you can begin the process of applying for a cannabis license. This guide provides an overview of selecting a license type and navigating to key sections of the system, including:</p>\n",
-    "author": 32,
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/account-navigation/",
+    "title": "CLS account navigation: Login, dashboard, licenses, and more",
+    "excerpt": "<p>Unlock the full potential of your new account by learning how to log in, navigate the dashboard, view your licenses, manage your account settings, and take advantage of our eLearning resources.</p>\n",
+    "author": 36,
     "featured_media": 0,
-    "parent": 19766,
+    "parent": 19791,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CLEAR: How to apply"
+      "CLS Main User Guide"
     ],
     "tags": [],
     "design_system_fields": {
@@ -56,42 +56,42 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-online-application/account-navigation/",
-      "page_title": "CLEaR: Account navigation",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/account-navigation/",
+      "page_title": "CLS account navigation: Login, dashboard, licenses, and more",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLEaR: Account navigation",
+      "meta_title": "CLS account navigation: Login, dashboard, licenses, and more",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-online-application/account-navigation/",
-      "open_graph_title": "CLEaR: Account navigation",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/account-navigation/",
+      "open_graph_title": "CLS account navigation: Login, dashboard, licenses, and more",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLEaR: Account navigation",
+      "twitter_title": "CLS account navigation: Login, dashboard, licenses, and more",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 939,
-        "name": "CLEAR: How to apply",
-        "slug": "clear-how-to-apply",
+        "term_id": 949,
+        "name": "CLS Main User Guide",
+        "slug": "cls-main-user-guide",
         "term_group": 0,
-        "term_taxonomy_id": 939,
+        "term_taxonomy_id": 949,
         "taxonomy": "category",
         "description": "",
-        "parent": 934,
+        "parent": 935,
         "filter": "raw",
-        "cat_ID": 939,
+        "cat_ID": 949,
         "category_description": "",
-        "cat_name": "CLEAR: How to apply",
-        "category_nicename": "clear-how-to-apply",
-        "category_parent": 934
+        "cat_name": "CLS Main User Guide",
+        "category_nicename": "cls-main-user-guide",
+        "category_parent": 935
       }
     ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/clear-online-application/account-navigation/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/account-navigation/"
   }
 }

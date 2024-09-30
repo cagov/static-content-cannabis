@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-06T00:02:22",
-    "updated_date": "2024-09-30T20:41:55",
+    "created_date": "2024-09-03T23:37:06",
+    "updated_date": "2024-09-30T20:43:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19233",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19799",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19233,
-    "date": "2024-08-05T17:02:22",
-    "date_gmt": "2024-08-06T00:02:22",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19233",
-    "modified": "2024-09-30T13:41:55",
-    "modified_gmt": "2024-09-30T20:41:55",
-    "slug": "creating-an-account",
+    "id": 19799,
+    "date": "2024-09-03T16:37:06",
+    "date_gmt": "2024-09-03T23:37:06",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19799",
+    "modified": "2024-09-30T13:43:19",
+    "modified_gmt": "2024-09-30T20:43:19",
+    "slug": "cls-owners",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-    "title": "CLS: Creating an account",
-    "excerpt": "<p>Before you can apply for a cannabis cultivation license, you will need to create an account on the Cultivation Licensing System.</p>\n",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-owners/",
+    "title": "CLS: Next steps for owners",
+    "excerpt": "<p>This guide outlines the subsequent actions required in the owner application process. It covers key aspects including owner application notifications, live scan applications, and specific sections of the owner application such as contact information, birthdate, place of birth, SSN/ITIN/NIN, ownership information, acknowledgments, and history of convictions. The guide also provides instructions for reviewing and submitting [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19791,
@@ -56,19 +56,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-      "page_title": "CLS: Creating an account",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-owners/",
+      "page_title": "CLS: Next steps for owners",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLS: Creating an account",
+      "meta_title": "CLS: Next steps for owners",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-      "open_graph_title": "CLS: Creating an account",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-owners/",
+      "open_graph_title": "CLS: Next steps for owners",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLS: Creating an account",
+      "twitter_title": "CLS: Next steps for owners",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-owners/"
   }
 }

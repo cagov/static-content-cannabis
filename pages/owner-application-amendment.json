@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-06T00:02:22",
-    "updated_date": "2024-09-30T20:41:55",
+    "created_date": "2024-09-04T17:24:11",
+    "updated_date": "2024-09-30T20:43:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19233",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19817",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19233,
-    "date": "2024-08-05T17:02:22",
-    "date_gmt": "2024-08-06T00:02:22",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19233",
-    "modified": "2024-09-30T13:41:55",
-    "modified_gmt": "2024-09-30T20:41:55",
-    "slug": "creating-an-account",
+    "id": 19817,
+    "date": "2024-09-04T10:24:11",
+    "date_gmt": "2024-09-04T17:24:11",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19817",
+    "modified": "2024-09-30T13:43:56",
+    "modified_gmt": "2024-09-30T20:43:56",
+    "slug": "owner-application-amendment",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-    "title": "CLS: Creating an account",
-    "excerpt": "<p>Before you can apply for a cannabis cultivation license, you will need to create an account on the Cultivation Licensing System.</p>\n",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/",
+    "title": "Deficiencies: Owner application amendment",
+    "excerpt": "<p>Responding to Owner Application deficiencies is very similar to the process above. Any owner receiving a deficiency notification must log into the system with their own, separate account and respond to the deficiency. The related Owner Application has a status of Additional Information Needed, and the deficiency Amendment is listed below that. Click on Resume [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 19791,
+    "parent": 19810,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "CLS Main User Guide"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -56,42 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-      "page_title": "CLS: Creating an account",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/",
+      "page_title": "Deficiencies: Owner application amendment",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLS: Creating an account",
+      "meta_title": "Deficiencies: Owner application amendment",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-      "open_graph_title": "CLS: Creating an account",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/",
+      "open_graph_title": "Deficiencies: Owner application amendment",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLS: Creating an account",
+      "twitter_title": "Deficiencies: Owner application amendment",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 949,
-        "name": "CLS Main User Guide",
-        "slug": "cls-main-user-guide",
-        "term_group": 0,
-        "term_taxonomy_id": 949,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 935,
-        "filter": "raw",
-        "cat_ID": 949,
-        "category_description": "",
-        "cat_name": "CLS Main User Guide",
-        "category_nicename": "cls-main-user-guide",
-        "category_parent": 935
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/"
   }
 }

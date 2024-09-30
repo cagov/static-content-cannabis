@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-06T00:02:22",
-    "updated_date": "2024-09-30T20:41:55",
+    "created_date": "2024-09-04T20:31:30",
+    "updated_date": "2024-09-30T20:43:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19233",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19861",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19233,
-    "date": "2024-08-05T17:02:22",
-    "date_gmt": "2024-08-06T00:02:22",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19233",
-    "modified": "2024-09-30T13:41:55",
-    "modified_gmt": "2024-09-30T20:41:55",
-    "slug": "creating-an-account",
+    "id": 19861,
+    "date": "2024-09-04T13:31:30",
+    "date_gmt": "2024-09-04T20:31:30",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19861",
+    "modified": "2024-09-30T13:43:49",
+    "modified_gmt": "2024-09-30T20:43:49",
+    "slug": "cls-additional-documents",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-    "title": "CLS: Creating an account",
-    "excerpt": "<p>Before you can apply for a cannabis cultivation license, you will need to create an account on the Cultivation Licensing System.</p>\n",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-additional-documents/",
+    "title": "CLS: Submit additional documents and requirements",
+    "excerpt": "<p>This guide provides comprehensive instructions on submitting additional documents and meeting requirements for your application. It includes steps for uploading and labeling attachments, checking review status, and completing payment for the license fee. It also covers application approval procedures, managing pending payment status, printing your license certificate, and accessing additional resources. As mentioned earlier in [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19791,
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "CLS Main User Guide"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -56,42 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-      "page_title": "CLS: Creating an account",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-additional-documents/",
+      "page_title": "CLS: Submit additional documents and requirements",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLS: Creating an account",
+      "meta_title": "CLS: Submit additional documents and requirements",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
-      "open_graph_title": "CLS: Creating an account",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-additional-documents/",
+      "open_graph_title": "CLS: Submit additional documents and requirements",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLS: Creating an account",
+      "twitter_title": "CLS: Submit additional documents and requirements",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 949,
-        "name": "CLS Main User Guide",
-        "slug": "cls-main-user-guide",
-        "term_group": 0,
-        "term_taxonomy_id": 949,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 935,
-        "filter": "raw",
-        "cat_ID": 949,
-        "category_description": "",
-        "cat_name": "CLS Main User Guide",
-        "category_nicename": "cls-main-user-guide",
-        "category_parent": 935
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-additional-documents/"
   }
 }
