@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T00:02:22",
-    "updated_date": "2024-09-20T23:56:43",
+    "updated_date": "2024-09-30T20:41:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-05T17:02:22",
     "date_gmt": "2024-08-06T00:02:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=19233",
-    "modified": "2024-09-20T16:56:43",
-    "modified_gmt": "2024-09-20T23:56:43",
+    "modified": "2024-09-30T13:41:55",
+    "modified_gmt": "2024-09-30T20:41:55",
     "slug": "creating-an-account",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/creating-an-account/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
     "title": "CLS: Creating an account",
     "excerpt": "<p>Before you can apply for a cannabis cultivation license, you will need to create an account on the Cultivation Licensing System.</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/creating-an-account/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
       "page_title": "CLS: Creating an account",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: Creating an account",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/creating-an-account/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/",
       "open_graph_title": "CLS: Creating an account",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: Creating an account",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/creating-an-account/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/creating-an-account/"
   }
 }

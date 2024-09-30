@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:30:42",
-    "updated_date": "2024-09-04T23:40:55",
+    "updated_date": "2024-09-30T20:42:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-03T16:30:42",
     "date_gmt": "2024-09-03T23:30:42",
     "guid": "https://api.cannabis.ca.gov/?page_id=19255",
-    "modified": "2024-09-04T16:40:55",
-    "modified_gmt": "2024-09-04T23:40:55",
+    "modified": "2024-09-30T13:42:14",
+    "modified_gmt": "2024-09-30T20:42:14",
     "slug": "account-navigation",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/account-navigation/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/account-navigation/",
     "title": "CLS account navigation: Login, dashboard, licenses, and more",
     "excerpt": "<p>Unlock the full potential of your new account by learning how to log in, navigate the dashboard, view your licenses, manage your account settings, and take advantage of our eLearning resources.</p>\n",
     "author": 36,
@@ -41,9 +41,7 @@
     "categories": [
       "CLS Main User Guide"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -58,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/account-navigation/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/account-navigation/",
       "page_title": "CLS account navigation: Login, dashboard, licenses, and more",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS account navigation: Login, dashboard, licenses, and more",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/account-navigation/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/account-navigation/",
       "open_graph_title": "CLS account navigation: Login, dashboard, licenses, and more",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS account navigation: Login, dashboard, licenses, and more",
@@ -91,21 +89,9 @@
         "category_parent": 935
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/account-navigation/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/account-navigation/"
   }
 }

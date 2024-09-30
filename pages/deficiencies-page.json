@@ -23,7 +23,7 @@
     "slug": "deficiencies-page",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/deficiencies-page/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/deficiencies-page/",
     "title": "Deficiencies: The deficiencies page",
     "excerpt": "<p>In this example, we’ve issued deficiencies in three areas of the main application and another deficiency for one of the Owner applications. We’ll begin by selecting the deficiency – Surety Bond was not payable to State of California, and then click Edit Selected. A pop-up A pop-up window opens for you to respond to the [&hellip;]</p>\n",
     "author": 36,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/deficiencies-page/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/deficiencies-page/",
       "page_title": "Deficiencies: The deficiencies page",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Deficiencies: The deficiencies page",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/deficiencies-page/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/deficiencies-page/",
       "open_graph_title": "Deficiencies: The deficiencies page",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Deficiencies: The deficiencies page",
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/deficiencies-page/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/deficiencies-page/"
   }
 }

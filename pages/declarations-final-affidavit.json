@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:38:41",
-    "updated_date": "2024-09-03T23:38:46",
+    "updated_date": "2024-09-30T20:43:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-03T16:38:41",
     "date_gmt": "2024-09-03T23:38:41",
     "guid": "https://api.cannabis.ca.gov/?page_id=19801",
-    "modified": "2024-09-03T16:38:46",
-    "modified_gmt": "2024-09-03T23:38:46",
+    "modified": "2024-09-30T13:43:31",
+    "modified_gmt": "2024-09-30T20:43:31",
     "slug": "declarations-final-affidavit",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/declarations-final-affidavit/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/declarations-final-affidavit/",
     "title": "CLS: Declarations and final affidavit",
     "excerpt": "<p>This guide provides instructions on handling email notices related to the application process. It covers key steps including logging in, reviewing general disclaimers, selecting an application type, adding contact information, acknowledging disclosures and declarations, and finalizing the review process. It also includes information on record issuance following the completion of these steps. Email notice Once [&hellip;]</p>\n",
     "author": 32,
@@ -41,9 +41,7 @@
     "categories": [
       "CLS Main User Guide"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -58,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/declarations-final-affidavit/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/declarations-final-affidavit/",
       "page_title": "CLS: Declarations and final affidavit",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: Declarations and final affidavit",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/declarations-final-affidavit/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/declarations-final-affidavit/",
       "open_graph_title": "CLS: Declarations and final affidavit",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: Declarations and final affidavit",
@@ -91,21 +89,9 @@
         "category_parent": 935
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/declarations-final-affidavit/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/declarations-final-affidavit/"
   }
 }

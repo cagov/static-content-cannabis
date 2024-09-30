@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:32:21",
-    "updated_date": "2024-09-04T23:41:29",
+    "updated_date": "2024-09-30T20:42:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-03T16:32:21",
     "date_gmt": "2024-09-03T23:32:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=19795",
-    "modified": "2024-09-04T16:41:29",
-    "modified_gmt": "2024-09-04T23:41:29",
+    "modified": "2024-09-30T13:42:40",
+    "modified_gmt": "2024-09-30T20:42:40",
     "slug": "additional-users",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/additional-users/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/additional-users/",
     "title": "CLS: Additional users",
     "excerpt": "<p>Delegates, additional users, and other topics.</p>\n",
     "author": 32,
@@ -41,9 +41,7 @@
     "categories": [
       "CLS Main User Guide"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -58,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/additional-users/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/additional-users/",
       "page_title": "CLS: Additional users",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: Additional users",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/additional-users/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/additional-users/",
       "open_graph_title": "CLS: Additional users",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: Additional users",
@@ -91,21 +89,9 @@
         "category_parent": 935
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/additional-users/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/additional-users/"
   }
 }

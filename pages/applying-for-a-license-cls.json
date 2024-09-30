@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:35:25",
-    "updated_date": "2024-09-03T23:35:30",
+    "updated_date": "2024-09-30T20:42:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-03T16:35:25",
     "date_gmt": "2024-09-03T23:35:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=19797",
-    "modified": "2024-09-03T16:35:30",
-    "modified_gmt": "2024-09-03T23:35:30",
+    "modified": "2024-09-30T13:42:50",
+    "modified_gmt": "2024-09-30T20:42:50",
     "slug": "applying-for-a-license-cls",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/applying-for-a-license-cls/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/applying-for-a-license-cls/",
     "title": "Applying for a license in the CLS system",
     "excerpt": "<p>This guide provides a comprehensive overview of the steps and requirements for starting an annual license application. It covers general terms, application type, and license type options, including cooperatives. Key sections include saving and resuming later, business structure details, foreign corporation information, Doing Business As (DBA) details, and relevant numbers such as Employer Identification Number [&hellip;]</p>\n",
     "author": 32,
@@ -41,9 +41,7 @@
     "categories": [
       "CLS Main User Guide"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -58,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/applying-for-a-license-cls/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/applying-for-a-license-cls/",
       "page_title": "Applying for a license in the CLS system",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Applying for a license in the CLS system",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/applying-for-a-license-cls/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/applying-for-a-license-cls/",
       "open_graph_title": "Applying for a license in the CLS system",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Applying for a license in the CLS system",
@@ -91,21 +89,9 @@
         "category_parent": 935
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/applying-for-a-license-cls/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/applying-for-a-license-cls/"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:37:06",
-    "updated_date": "2024-09-04T17:32:41",
+    "updated_date": "2024-09-30T20:43:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-09-03T16:37:06",
     "date_gmt": "2024-09-03T23:37:06",
     "guid": "https://api.cannabis.ca.gov/?page_id=19799",
-    "modified": "2024-09-04T10:32:41",
-    "modified_gmt": "2024-09-04T17:32:41",
+    "modified": "2024-09-30T13:43:19",
+    "modified_gmt": "2024-09-30T20:43:19",
     "slug": "cls-owners",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/cls-owners/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-owners/",
     "title": "CLS: Next steps for owners",
-    "excerpt": "<p>Next steps This guide outlines the subsequent actions required in the owner application process. It covers key aspects including owner application notifications, live scan applications, and specific sections of the owner application such as contact information, birthdate, place of birth, SSN/ITIN/NIN, ownership information, acknowledgments, and history of convictions. The guide also provides instructions for reviewing [&hellip;]</p>\n",
+    "excerpt": "<p>This guide outlines the subsequent actions required in the owner application process. It covers key aspects including owner application notifications, live scan applications, and specific sections of the owner application such as contact information, birthdate, place of birth, SSN/ITIN/NIN, ownership information, acknowledgments, and history of convictions. The guide also provides instructions for reviewing and submitting [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19791,
@@ -41,9 +41,7 @@
     "categories": [
       "CLS Main User Guide"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -58,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/cls-owners/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-owners/",
       "page_title": "CLS: Next steps for owners",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: Next steps for owners",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/cls-owners/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-owners/",
       "open_graph_title": "CLS: Next steps for owners",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: Next steps for owners",
@@ -91,21 +89,9 @@
         "category_parent": 935
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-user-guide/cls-owners/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-application/cls-owners/"
   }
 }

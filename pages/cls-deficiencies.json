@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:15:06",
-    "updated_date": "2024-09-30T19:35:17",
+    "updated_date": "2024-09-30T20:24:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-04T10:15:06",
     "date_gmt": "2024-09-04T17:15:06",
     "guid": "https://api.cannabis.ca.gov/?page_id=19810",
-    "modified": "2024-09-30T12:35:17",
-    "modified_gmt": "2024-09-30T19:35:17",
+    "modified": "2024-09-30T13:24:21",
+    "modified_gmt": "2024-09-30T20:24:21",
     "slug": "cls-deficiencies",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/",
     "title": "CLS deficiencies",
     "excerpt": "<p>Responding to deficiencies in the CLS system.</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 19750,
+    "parent": 15813,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/",
       "page_title": "CLS deficiencies",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS deficiencies",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/",
       "open_graph_title": "CLS deficiencies",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS deficiencies",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:24:11",
-    "updated_date": "2024-09-04T17:24:17",
+    "updated_date": "2024-09-30T20:43:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-09-04T10:24:11",
     "date_gmt": "2024-09-04T17:24:11",
     "guid": "https://api.cannabis.ca.gov/?page_id=19817",
-    "modified": "2024-09-04T10:24:17",
-    "modified_gmt": "2024-09-04T17:24:17",
+    "modified": "2024-09-30T13:43:56",
+    "modified_gmt": "2024-09-30T20:43:56",
     "slug": "owner-application-amendment",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/owner-application-amendment/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/",
     "title": "Deficiencies: Owner application amendment",
     "excerpt": "<p>Responding to Owner Application deficiencies is very similar to the process above. Any owner receiving a deficiency notification must log into the system with their own, separate account and respond to the deficiency. The related Owner Application has a status of Additional Information Needed, and the deficiency Amendment is listed below that. Click on Resume [&hellip;]</p>\n",
     "author": 32,
@@ -39,9 +39,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -56,7 +54,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/owner-application-amendment/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/",
       "page_title": "Deficiencies: Owner application amendment",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,28 +63,16 @@
       "page_social_image_alt": "",
       "meta_title": "Deficiencies: Owner application amendment",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/owner-application-amendment/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/",
       "open_graph_title": "Deficiencies: Owner application amendment",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Deficiencies: Owner application amendment",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-deficiencies/owner-application-amendment/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/"
   }
 }
