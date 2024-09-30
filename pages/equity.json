@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:12:14",
-    "updated_date": "2024-09-30T19:01:56",
+    "updated_date": "2024-09-30T19:09:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:12:14",
     "date_gmt": "2021-06-19T15:12:14",
     "guid": "https://dev-cagov-dcc.pantheonsite.io/equity/",
-    "modified": "2024-09-30T12:01:56",
-    "modified_gmt": "2024-09-30T19:01:56",
+    "modified": "2024-09-30T12:09:49",
+    "modified_gmt": "2024-09-30T19:09:49",
     "slug": "equity",
     "status": "publish",
     "type": "page",
