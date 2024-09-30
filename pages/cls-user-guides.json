@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-05T22:07:39",
-    "updated_date": "2024-08-05T22:27:56",
+    "updated_date": "2024-09-30T18:39:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-05T15:07:39",
     "date_gmt": "2024-08-05T22:07:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=19228",
-    "modified": "2024-08-05T15:27:56",
-    "modified_gmt": "2024-08-05T22:27:56",
+    "modified": "2024-09-30T11:39:43",
+    "modified_gmt": "2024-09-30T18:39:43",
     "slug": "cls-user-guides",
     "status": "publish",
     "type": "page",
