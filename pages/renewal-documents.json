@@ -23,7 +23,7 @@
     "slug": "renewal-documents",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/renewal-documents/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-documents/",
     "title": "CLS renewal documents",
     "excerpt": "<p>Upon renewal of a license, licensees authorized to engage in cannabis cultivation are required to report total electricity use for each power source used during the previous licensed period. Documents Under the Documents page, you may upload a copy of the document utilized to prepare the Electricity Usage information. For information on Electricity Usage Reporting [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/renewal-documents/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-documents/",
       "page_title": "CLS renewal documents",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS renewal documents",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/renewal-documents/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-documents/",
       "open_graph_title": "CLS renewal documents",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS renewal documents",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensing-system-guides/cls-renewal-user-guide/renewal-documents/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-documents/"
   }
 }
