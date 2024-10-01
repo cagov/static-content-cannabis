@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:24:11",
-    "updated_date": "2024-09-30T20:43:56",
+    "updated_date": "2024-10-01T22:33:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,21 +18,21 @@
     "date": "2024-09-04T10:24:11",
     "date_gmt": "2024-09-04T17:24:11",
     "guid": "https://api.cannabis.ca.gov/?page_id=19817",
-    "modified": "2024-09-30T13:43:56",
-    "modified_gmt": "2024-09-30T20:43:56",
+    "modified": "2024-10-01T15:33:37",
+    "modified_gmt": "2024-10-01T22:33:37",
     "slug": "owner-application-amendment",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/owner-application-amendment/",
     "title": "Deficiencies: Owner application amendment",
-    "excerpt": "<p>Responding to Owner Application deficiencies is very similar to the process above. Any owner receiving a deficiency notification must log into the system with their own, separate account and respond to the deficiency. The related Owner Application has a status of Additional Information Needed, and the deficiency Amendment is listed below that. Click on Resume [&hellip;]</p>\n",
+    "excerpt": "<p>Responding to Owner Application deficiencies is very similar to the previous process. Any owner receiving a deficiency notification must log into the system with their own, separate account and respond to the deficiency. The related Owner Application has a status of Additional Information Needed, and the deficiency Amendment is listed below that. Click on Resume [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 19810,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -41,7 +41,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
