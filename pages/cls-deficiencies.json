@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:15:06",
-    "updated_date": "2024-09-30T23:29:06",
+    "updated_date": "2024-10-01T22:14:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T10:15:06",
     "date_gmt": "2024-09-04T17:15:06",
     "guid": "https://api.cannabis.ca.gov/?page_id=19810",
-    "modified": "2024-09-30T16:29:06",
-    "modified_gmt": "2024-09-30T23:29:06",
+    "modified": "2024-10-01T15:14:59",
+    "modified_gmt": "2024-10-01T22:14:59",
     "slug": "cls-deficiencies",
     "status": "publish",
     "type": "page",
@@ -41,9 +41,7 @@
     "categories": [
       "CLS User Guides"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 911
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/"
