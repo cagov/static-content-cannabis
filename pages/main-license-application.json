@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "created_date": "2024-09-04T17:16:42",
+    "updated_date": "2024-10-01T22:23:03",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19445",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19445,
+    "date": "2024-09-04T10:16:42",
+    "date_gmt": "2024-09-04T17:16:42",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19445",
+    "modified": "2024-10-01T15:23:03",
+    "modified_gmt": "2024-10-01T22:23:03",
+    "slug": "main-license-application",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/main-license-application/",
+    "title": "Deficiencies: Main license application amendment",
+    "excerpt": "<p>If you are the Designated Responsible Party (DRP) for the business, you’ll be sent any deficiency notifications for the main license application. Deficiencies display under Announcements when you log in. Also, your main application record now shows a Status of Additional Information Needed, and a License Application Amendment displays in your Licenses list. Note: If [&hellip;]</p>\n",
+    "author": 36,
+    "featured_media": 0,
+    "parent": 19810,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/main-license-application/",
+      "page_title": "Deficiencies: Main license application amendment",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Deficiencies: Main license application amendment",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/main-license-application/",
+      "open_graph_title": "Deficiencies: Main license application amendment",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Deficiencies: Main license application amendment",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/main-license-application/"
+  }
+}
