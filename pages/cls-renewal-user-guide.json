@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T17:03:46",
-    "updated_date": "2024-10-02T17:01:02",
+    "updated_date": "2024-10-02T19:10:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-06T10:03:46",
     "date_gmt": "2024-08-06T17:03:46",
     "guid": "https://api.cannabis.ca.gov/?page_id=19257",
-    "modified": "2024-10-02T10:01:02",
-    "modified_gmt": "2024-10-02T17:01:02",
+    "modified": "2024-10-02T12:10:52",
+    "modified_gmt": "2024-10-02T19:10:52",
     "slug": "cls-renewal-user-guide",
     "status": "publish",
     "type": "page",
