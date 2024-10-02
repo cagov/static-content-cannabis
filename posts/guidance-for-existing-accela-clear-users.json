@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-14T18:38:46",
-    "updated_date": "2024-09-20T19:16:59",
+    "updated_date": "2024-10-02T19:20:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-14T10:38:46",
     "date_gmt": "2023-11-14T18:38:46",
     "guid": "https://api.cannabis.ca.gov/?p=15983",
-    "modified": "2024-09-20T12:16:59",
-    "modified_gmt": "2024-09-20T19:16:59",
+    "modified": "2024-10-02T12:20:52",
+    "modified_gmt": "2024-10-02T19:20:52",
     "slug": "guidance-for-existing-accela-clear-users",
     "status": "publish",
     "type": "post",
