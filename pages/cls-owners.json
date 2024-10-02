@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:37:06",
-    "updated_date": "2024-09-30T20:43:19",
+    "updated_date": "2024-10-02T22:22:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T16:37:06",
     "date_gmt": "2024-09-03T23:37:06",
     "guid": "https://api.cannabis.ca.gov/?page_id=19799",
-    "modified": "2024-09-30T13:43:19",
-    "modified_gmt": "2024-09-30T20:43:19",
+    "modified": "2024-10-02T15:22:02",
+    "modified_gmt": "2024-10-02T22:22:02",
     "slug": "cls-owners",
     "status": "publish",
     "type": "page",
