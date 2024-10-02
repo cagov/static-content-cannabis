@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-25T17:55:24",
-    "updated_date": "2024-10-02T20:15:39",
+    "updated_date": "2024-10-02T20:16:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-25T09:55:24",
     "date_gmt": "2024-01-25T17:55:24",
     "guid": "https://api.cannabis.ca.gov/?page_id=16902",
-    "modified": "2024-10-02T13:15:39",
-    "modified_gmt": "2024-10-02T20:15:39",
+    "modified": "2024-10-02T13:16:47",
+    "modified_gmt": "2024-10-02T20:16:47",
     "slug": "how-to-complete-the-online-application",
     "status": "publish",
     "type": "page",
