@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:25:51",
-    "updated_date": "2024-09-30T21:58:57",
+    "updated_date": "2024-10-02T16:33:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T16:25:51",
     "date_gmt": "2024-09-03T23:25:51",
     "guid": "https://api.cannabis.ca.gov/?page_id=19791",
-    "modified": "2024-09-30T14:58:57",
-    "modified_gmt": "2024-09-30T21:58:57",
+    "modified": "2024-10-02T09:33:07",
+    "modified_gmt": "2024-10-02T16:33:07",
     "slug": "cls-application",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
