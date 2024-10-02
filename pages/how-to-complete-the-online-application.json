@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-25T17:55:24",
-    "updated_date": "2024-10-02T16:36:32",
+    "updated_date": "2024-10-02T17:04:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-25T09:55:24",
     "date_gmt": "2024-01-25T17:55:24",
     "guid": "https://api.cannabis.ca.gov/?page_id=16902",
-    "modified": "2024-10-02T09:36:32",
-    "modified_gmt": "2024-10-02T16:36:32",
+    "modified": "2024-10-02T10:04:44",
+    "modified_gmt": "2024-10-02T17:04:44",
     "slug": "how-to-complete-the-online-application",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "CLEAR System Guides"
+      "CLEAR System Guides",
+      "Manufacturing Licensing System"
     ],
     "tags": [],
     "design_system_fields": {
@@ -86,6 +87,22 @@
         "category_description": "",
         "cat_name": "CLEAR System Guides",
         "category_nicename": "clear-system-guides",
+        "category_parent": 911
+      },
+      {
+        "term_id": 908,
+        "name": "Manufacturing Licensing System",
+        "slug": "manufacturing-licensing-system",
+        "term_group": 0,
+        "term_taxonomy_id": 908,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 908,
+        "category_description": "",
+        "cat_name": "Manufacturing Licensing System",
+        "category_nicename": "manufacturing-licensing-system",
         "category_parent": 911
       }
     ],
