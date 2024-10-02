@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:15:06",
-    "updated_date": "2024-10-02T19:07:56",
+    "updated_date": "2024-10-02T19:08:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T10:15:06",
     "date_gmt": "2024-09-04T17:15:06",
     "guid": "https://api.cannabis.ca.gov/?page_id=19810",
-    "modified": "2024-10-02T12:07:56",
-    "modified_gmt": "2024-10-02T19:07:56",
+    "modified": "2024-10-02T12:08:47",
+    "modified_gmt": "2024-10-02T19:08:47",
     "slug": "cls-deficiencies",
     "status": "publish",
     "type": "page",
