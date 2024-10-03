@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:16:42",
-    "updated_date": "2024-10-01T22:24:18",
+    "updated_date": "2024-10-03T17:37:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T10:16:42",
     "date_gmt": "2024-09-04T17:16:42",
     "guid": "https://api.cannabis.ca.gov/?page_id=19445",
-    "modified": "2024-10-01T15:24:18",
-    "modified_gmt": "2024-10-01T22:24:18",
+    "modified": "2024-10-03T10:37:51",
+    "modified_gmt": "2024-10-03T17:37:51",
     "slug": "main-license-application",
     "status": "publish",
     "type": "page",
