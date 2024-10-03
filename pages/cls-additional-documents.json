@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T20:31:30",
-    "updated_date": "2024-10-02T22:57:48",
+    "updated_date": "2024-10-03T15:41:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T13:31:30",
     "date_gmt": "2024-09-04T20:31:30",
     "guid": "https://api.cannabis.ca.gov/?page_id=19861",
-    "modified": "2024-10-02T15:57:48",
-    "modified_gmt": "2024-10-02T22:57:48",
+    "modified": "2024-10-03T08:41:29",
+    "modified_gmt": "2024-10-03T15:41:29",
     "slug": "cls-additional-documents",
     "status": "publish",
     "type": "page",
