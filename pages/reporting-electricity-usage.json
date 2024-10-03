@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T17:24:57",
-    "updated_date": "2024-10-02T18:07:19",
+    "updated_date": "2024-10-03T19:50:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-06T10:24:57",
     "date_gmt": "2024-08-06T17:24:57",
     "guid": "https://api.cannabis.ca.gov/?page_id=19265",
-    "modified": "2024-10-02T11:07:19",
-    "modified_gmt": "2024-10-02T18:07:19",
+    "modified": "2024-10-03T12:50:32",
+    "modified_gmt": "2024-10-03T19:50:32",
     "slug": "reporting-electricity-usage",
     "status": "publish",
     "type": "page",
