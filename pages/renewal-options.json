@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T17:13:43",
-    "updated_date": "2024-10-01T21:27:01",
+    "updated_date": "2024-10-03T19:46:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-06T10:13:43",
     "date_gmt": "2024-08-06T17:13:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=19261",
-    "modified": "2024-10-01T14:27:01",
-    "modified_gmt": "2024-10-01T21:27:01",
+    "modified": "2024-10-03T12:46:14",
+    "modified_gmt": "2024-10-03T19:46:14",
     "slug": "renewal-options",
     "status": "publish",
     "type": "page",
