@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 242,
+      "redirects": 255,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6689,6 +6689,344 @@
       "regex": false,
       "group_id": 1,
       "position": 241,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 494,
+      "url": "/flower-products-packaged-by-higher-ground-holdings-llc/",
+      "match_url": "/flower-products-packaged-by-higher-ground-holdings-llc",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/flower-products-packaged-by-higher-ground-holdings-llc/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 242,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 495,
+      "url": "/2024/09/cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024/",
+      "match_url": "/2024/09/cannabis-advisory-committee-medicinal-use-subcommittee-10-8-2024",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/09/cctt-subcommittee-10-8-2024/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 243,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 496,
+      "url": "/licensing-system-guides/cls-deficiencies/",
+      "match_url": "/licensing-system-guides/cls-deficiencies",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-user-guides/cls-deficiencies/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 244,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 497,
+      "url": "/licensing-system-guides/cls-user-guide/",
+      "match_url": "/licensing-system-guides/cls-user-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-user-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 245,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 498,
+      "url": "/cls-user-guide/",
+      "match_url": "/cls-user-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 246,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 499,
+      "url": "/cls-application/",
+      "match_url": "/cls-application",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system/cls-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 247,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 500,
+      "url": "/cls-user-guides__trashed/cls-deficiencies/",
+      "match_url": "/cls-user-guides__trashed/cls-deficiencies",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system/cls-deficiencies/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 248,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 501,
+      "url": "/cultivation-licensing-system/cls-application/cls-how-to-pay-the-application-fee/",
+      "match_url": "/cultivation-licensing-system/cls-application/cls-how-to-pay-the-application-fee",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system/cls-application/cls-pay-fees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 249,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 502,
+      "url": "/cultivation-licensing-system/cls-application/additional-documents-and-requirements/",
+      "match_url": "/cultivation-licensing-system/cls-application/additional-documents-and-requirements",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system/cls-application/additional-documents/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 250,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 503,
+      "url": "/cultivation-licensing-system/cls-application/additional-documents/",
+      "match_url": "/cultivation-licensing-system/cls-application/additional-documents",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system/cls-application/cls-additional-documents/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 251,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 504,
+      "url": "/licensing-system-guides/cls-renewal-user-guide/cultivation-license-change-options-during-renewal/",
+      "match_url": "/licensing-system-guides/cls-renewal-user-guide/cultivation-license-change-options-during-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-renewal-user-guide/renewal-options/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 252,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 505,
+      "url": "/licensing-system-guides/cls-renewal-user-guide/",
+      "match_url": "/licensing-system-guides/cls-renewal-user-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system/cls-renewal-user-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 253,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 506,
+      "url": "/cultivation-licensing-system/cls-renewal-user-guide/cls-renewal-getting-started-guide/",
+      "match_url": "/cultivation-licensing-system/cls-renewal-user-guide/cls-renewal-getting-started-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system/cls-renewal-user-guide/cls-renewal-getting-started/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 254,
       "last_access": "-",
       "enabled": true
     }
