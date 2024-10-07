@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:21:56",
-    "updated_date": "2024-10-03T18:42:21",
+    "updated_date": "2024-10-07T21:47:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T10:21:56",
     "date_gmt": "2024-09-04T17:21:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=19453",
-    "modified": "2024-10-03T11:42:21",
-    "modified_gmt": "2024-10-03T18:42:21",
+    "modified": "2024-10-07T14:47:11",
+    "modified_gmt": "2024-10-07T21:47:11",
     "slug": "designated-responsible-party",
     "status": "publish",
     "type": "page",
@@ -38,10 +38,12 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
-    "tags": [
-      "staging"
+    "categories": [
+      "CLS Application Deficiencies",
+      "CLS User Guides",
+      "Licensing system guides"
     ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -71,20 +73,57 @@
       "twitter_title": "Deficiencies: Designated responsible party",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
-    "headless_tags": [
+    "headless_categories": [
       {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
+        "term_id": 936,
+        "name": "CLS Application Deficiencies",
+        "slug": "cls-application-deficiencies",
         "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
+        "term_taxonomy_id": 936,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 935,
+        "filter": "raw",
+        "cat_ID": 936,
+        "category_description": "",
+        "cat_name": "CLS Application Deficiencies",
+        "category_nicename": "cls-application-deficiencies",
+        "category_parent": 935
+      },
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
+      },
+      {
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 911,
+        "taxonomy": "category",
         "description": "",
         "parent": 0,
-        "filter": "raw"
+        "filter": "raw",
+        "cat_ID": 911,
+        "category_description": "",
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
       }
     ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/designated-responsible-party/"
