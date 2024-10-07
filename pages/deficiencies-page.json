@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:19:28",
-    "updated_date": "2024-10-03T17:39:58",
+    "updated_date": "2024-10-07T21:26:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T10:19:28",
     "date_gmt": "2024-09-04T17:19:28",
     "guid": "https://api.cannabis.ca.gov/?page_id=19449",
-    "modified": "2024-10-03T10:39:58",
-    "modified_gmt": "2024-10-03T17:39:58",
+    "modified": "2024-10-07T14:26:04",
+    "modified_gmt": "2024-10-07T21:26:04",
     "slug": "deficiencies-page",
     "status": "publish",
     "type": "page",
@@ -38,10 +38,11 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
-    "tags": [
-      "staging"
+    "categories": [
+      "CLS Application Deficiencies",
+      "CLS User Guides"
     ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -71,20 +72,41 @@
       "twitter_title": "Deficiencies: The deficiencies page",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
-    "headless_tags": [
+    "headless_categories": [
       {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
+        "term_id": 936,
+        "name": "CLS Application Deficiencies",
+        "slug": "cls-application-deficiencies",
         "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
+        "term_taxonomy_id": 936,
+        "taxonomy": "category",
         "description": "",
-        "parent": 0,
-        "filter": "raw"
+        "parent": 935,
+        "filter": "raw",
+        "cat_ID": 936,
+        "category_description": "",
+        "cat_name": "CLS Application Deficiencies",
+        "category_nicename": "cls-application-deficiencies",
+        "category_parent": 935
+      },
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
       }
     ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/deficiencies-page/"
