@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:37:06",
-    "updated_date": "2024-10-02T23:52:52",
+    "updated_date": "2024-10-07T21:23:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T16:37:06",
     "date_gmt": "2024-09-03T23:37:06",
     "guid": "https://api.cannabis.ca.gov/?page_id=19799",
-    "modified": "2024-10-02T16:52:52",
-    "modified_gmt": "2024-10-02T23:52:52",
+    "modified": "2024-10-07T14:23:25",
+    "modified_gmt": "2024-10-07T21:23:25",
     "slug": "cls-owners",
     "status": "publish",
     "type": "page",
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "CLS Main User Guide"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -71,24 +69,7 @@
       "twitter_title": "CLS: Next steps for owners",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 949,
-        "name": "CLS Main User Guide",
-        "slug": "cls-main-user-guide",
-        "term_group": 0,
-        "term_taxonomy_id": 949,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 935,
-        "filter": "raw",
-        "cat_ID": 949,
-        "category_description": "",
-        "cat_name": "CLS Main User Guide",
-        "category_nicename": "cls-main-user-guide",
-        "category_parent": 935
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
