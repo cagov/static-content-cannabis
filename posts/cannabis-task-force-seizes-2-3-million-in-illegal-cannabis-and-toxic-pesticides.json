@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2024-10-07T22:48:34",
-    "updated_date": "2024-10-07T22:48:41",
+    "created_date": "2024-10-01T22:48:34",
+    "updated_date": "2024-10-07T23:13:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,11 +15,11 @@
   },
   "data": {
     "id": 20592,
-    "date": "2024-10-07T15:48:34",
-    "date_gmt": "2024-10-07T22:48:34",
+    "date": "2024-10-01T15:48:34",
+    "date_gmt": "2024-10-01T22:48:34",
     "guid": "https://api.cannabis.ca.gov/?p=20592",
-    "modified": "2024-10-07T15:48:41",
-    "modified_gmt": "2024-10-07T22:48:41",
+    "modified": "2024-10-07T16:13:11",
+    "modified_gmt": "2024-10-07T23:13:11",
     "slug": "cannabis-task-force-seizes-2-3-million-in-illegal-cannabis-and-toxic-pesticides",
     "status": "publish",
     "type": "post",
