@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "created_date": "2024-09-04T17:20:45",
+    "updated_date": "2024-10-07T21:33:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19447",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19447,
+    "date": "2024-09-04T10:20:45",
+    "date_gmt": "2024-09-04T17:20:45",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19447",
+    "modified": "2024-10-07T14:33:20",
+    "modified_gmt": "2024-10-07T21:33:20",
+    "slug": "attaching-documents",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/attaching-documents/",
+    "title": "Deficiencies: Attaching documents",
+    "excerpt": "<p>Attaching Documents Now scroll down further to the Attachment section that follows the Deficiencies list. Click Add to begin attaching a document. The File Upload pop-up window displays. Click the Add button here to find a file to upload. Select the file and click Open. Now, in the Attachment section, the document you uploaded is [&hellip;]</p>\n",
+    "author": 36,
+    "featured_media": 0,
+    "parent": 19810,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "CLS Application Deficiencies",
+      "CLS User Guides",
+      "Licensing system guides"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/attaching-documents/",
+      "page_title": "Deficiencies: Attaching documents",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Deficiencies: Attaching documents",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/attaching-documents/",
+      "open_graph_title": "Deficiencies: Attaching documents",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Deficiencies: Attaching documents",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 936,
+        "name": "CLS Application Deficiencies",
+        "slug": "cls-application-deficiencies",
+        "term_group": 0,
+        "term_taxonomy_id": 936,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 935,
+        "filter": "raw",
+        "cat_ID": 936,
+        "category_description": "",
+        "cat_name": "CLS Application Deficiencies",
+        "category_nicename": "cls-application-deficiencies",
+        "category_parent": 935
+      },
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
+      },
+      {
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 911,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 911,
+        "category_description": "",
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/attaching-documents/"
+  }
+}
