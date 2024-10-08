@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-08T18:14:51",
-    "updated_date": "2024-10-08T18:15:41",
+    "updated_date": "2024-10-08T18:16:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-10-08T11:14:51",
     "date_gmt": "2024-10-08T18:14:51",
     "guid": "https://api.cannabis.ca.gov/?page_id=20618",
-    "modified": "2024-10-08T11:15:41",
-    "modified_gmt": "2024-10-08T18:15:41",
-    "slug": "cls-license-renewal-payments",
+    "modified": "2024-10-08T11:16:17",
+    "modified_gmt": "2024-10-08T18:16:17",
+    "slug": "cls-payments",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-license-renewal-payments/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-payments/",
     "title": "CLS license renewal payments",
     "excerpt": "<p>The license fee is due each year, when you renew the cannabis license. Upon completion of submitting the license renewal, providing all the required documents, acknowledging the declarations, and reviewing all the information you have entered, the license renewal fee is due Payment Cultivation license renewal fee On the &#8220;Pay Fees&#8221; page, select &#8220;Check Out&#8221; [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-license-renewal-payments/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-payments/",
       "page_title": "CLS license renewal payments",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS license renewal payments",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-license-renewal-payments/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-payments/",
       "open_graph_title": "CLS license renewal payments",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS license renewal payments",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-license-renewal-payments/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-payments/"
   }
 }
