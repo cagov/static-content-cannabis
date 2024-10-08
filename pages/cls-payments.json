@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-08T18:14:51",
-    "updated_date": "2024-10-08T18:47:44",
+    "updated_date": "2024-10-08T23:44:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-08T11:14:51",
     "date_gmt": "2024-10-08T18:14:51",
     "guid": "https://api.cannabis.ca.gov/?page_id=20618",
-    "modified": "2024-10-08T11:47:44",
-    "modified_gmt": "2024-10-08T18:47:44",
+    "modified": "2024-10-08T16:44:20",
+    "modified_gmt": "2024-10-08T23:44:20",
     "slug": "cls-payments",
     "status": "publish",
     "type": "page",
