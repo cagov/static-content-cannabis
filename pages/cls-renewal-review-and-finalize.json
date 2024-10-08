@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "created_date": "2024-10-08T18:13:07",
+    "updated_date": "2024-10-08T18:13:13",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/20620",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 20620,
+    "date": "2024-10-08T11:13:07",
+    "date_gmt": "2024-10-08T18:13:07",
+    "guid": "https://api.cannabis.ca.gov/?page_id=20620",
+    "modified": "2024-10-08T11:13:13",
+    "modified_gmt": "2024-10-08T18:13:13",
+    "slug": "cls-renewal-review-and-finalize",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-renewal-review-and-finalize/",
+    "title": "CLS renewal: Review and finalize",
+    "excerpt": "<p>Carefully review all information and changes made. You may go back and make changes to any previous section(s) using the &#8220;Edit&#8221; buttons. When ready, click &#8220;by checking this box, I agree to the above certification&#8221; if you agree with the statement and to move forward to the next step. Select &#8220;Continue Application&#8221; to move on [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 19257,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "CLS Renewal",
+      "CLS User Guides"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-renewal-review-and-finalize/",
+      "page_title": "CLS renewal: Review and finalize",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CLS renewal: Review and finalize",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-renewal-review-and-finalize/",
+      "open_graph_title": "CLS renewal: Review and finalize",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "CLS renewal: Review and finalize",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 937,
+        "name": "CLS Renewal",
+        "slug": "cls-renewal",
+        "term_group": 0,
+        "term_taxonomy_id": 937,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 935,
+        "filter": "raw",
+        "cat_ID": 937,
+        "category_description": "",
+        "cat_name": "CLS Renewal",
+        "category_nicename": "cls-renewal",
+        "category_parent": 935
+      },
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/cls-renewal-review-and-finalize/"
+  }
+}
