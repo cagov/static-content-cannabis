@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-07T19:33:21",
-    "updated_date": "2024-10-08T19:05:28",
+    "updated_date": "2024-10-08T19:43:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-10-07T12:33:21",
     "date_gmt": "2024-10-07T19:33:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=20538",
-    "modified": "2024-10-08T12:05:28",
-    "modified_gmt": "2024-10-08T19:05:28",
+    "modified": "2024-10-08T12:43:06",
+    "modified_gmt": "2024-10-08T19:43:06",
     "slug": "west-coast-cure-pre-roll-integrated-vaporizer-and-vape-cartridge-products",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/west-coast-cure-pre-roll-integrated-vaporizer-and-vape-cartridge-products/",
     "title": "West Coast Cure pre-roll, integrated vaporizer, and vape cartridge products",
-    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple products packed and manufactured by Shield Management Group, LLC or Alkhemist DM, LLC, due to potential adulteration. This recall includes products packaged under the following brand names: DCC Recall Publication Date October 4, 2024 Business Recall Publication Date [&hellip;]</p>\n",
+    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple products packaged and manufactured by Shield Management Group, LLC or Alkhemist DM, LLC, due to potential adulteration. This recall includes products packaged under the following brand names: DCC Recall Publication Date October 4, 2024 Business Recall Publication Date [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
     "parent": 9345,
@@ -42,9 +42,7 @@
       "Recalls and safety notices",
       "Voluntary recalls"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -108,19 +106,7 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/west-coast-cure-pre-roll-integrated-vaporizer-and-vape-cartridge-products/"
