@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-13T20:16:20",
-    "updated_date": "2023-10-18T18:31:41",
+    "updated_date": "2024-10-09T18:36:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-13T13:16:20",
     "date_gmt": "2023-10-13T20:16:20",
     "guid": "https://api.cannabis.ca.gov/?p=15174",
-    "modified": "2023-10-18T11:31:41",
-    "modified_gmt": "2023-10-18T18:31:41",
+    "modified": "2024-10-09T11:36:23",
+    "modified_gmt": "2024-10-09T18:36:23",
     "slug": "electricity-reporting-worksheet",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "Electricity reporting",
-      "Resources"
+      "Resources",
+      "Worksheet"
     ],
     "tags": [],
     "design_system_fields": {
@@ -104,6 +105,22 @@
         "cat_name": "Resources",
         "category_nicename": "resources",
         "category_parent": 0
+      },
+      {
+        "term_id": 870,
+        "name": "Worksheet",
+        "slug": "worksheet",
+        "term_group": 0,
+        "term_taxonomy_id": 870,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 870,
+        "category_description": "",
+        "cat_name": "Worksheet",
+        "category_nicename": "worksheet",
+        "category_parent": 809
       }
     ],
     "headless_tags": [],
