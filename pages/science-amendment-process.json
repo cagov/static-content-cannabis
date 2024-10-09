@@ -23,7 +23,7 @@
     "slug": "science-amendment-process",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/science-amendments/science-amendment-process/",
+    "link": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/science-amendment-process/",
     "title": "The science amendment process",
     "excerpt": "<p>Learn about how to get started with a science amendment, how to input your information, and more. All active license records listed on your Licenses page now have an Action link for Amendment. This is one route for submitting a Science Amendment. Select the Amendment link to begin. An alternative method for creating a Science [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/science-amendments/science-amendment-process/",
+      "canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/science-amendment-process/",
       "page_title": "The science amendment process",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "The science amendment process",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/science-amendments/science-amendment-process/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/science-amendment-process/",
       "open_graph_title": "The science amendment process",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "The science amendment process",
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/science-amendments/science-amendment-process/"
+    "wordpress_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/science-amendment-process/"
   }
 }
