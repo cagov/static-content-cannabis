@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:21:56",
-    "updated_date": "2024-10-09T18:24:25",
+    "updated_date": "2024-10-09T21:56:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T10:21:56",
     "date_gmt": "2024-09-04T17:21:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=19453",
-    "modified": "2024-10-09T11:24:25",
-    "modified_gmt": "2024-10-09T18:24:25",
+    "modified": "2024-10-09T14:56:21",
+    "modified_gmt": "2024-10-09T21:56:21",
     "slug": "designated-responsible-party",
     "status": "publish",
     "type": "page",
@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CLS Application Deficiencies",
-      "CLS User Guides"
+      "CLS Application Deficiencies"
     ],
     "tags": [],
     "design_system_fields": {
@@ -88,22 +87,6 @@
         "cat_name": "CLS Application Deficiencies",
         "category_nicename": "cls-application-deficiencies",
         "category_parent": 935
-      },
-      {
-        "term_id": 935,
-        "name": "CLS User Guides",
-        "slug": "cls-user-guides",
-        "term_group": 0,
-        "term_taxonomy_id": 935,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 911,
-        "filter": "raw",
-        "cat_ID": 935,
-        "category_description": "",
-        "cat_name": "CLS User Guides",
-        "category_nicename": "cls-user-guides",
-        "category_parent": 911
       }
     ],
     "headless_tags": [],
