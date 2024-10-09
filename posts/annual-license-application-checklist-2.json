@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-15T19:32:24",
-    "updated_date": "2024-07-31T22:19:32",
+    "updated_date": "2024-10-09T18:36:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-07-15T12:32:24",
     "date_gmt": "2024-07-15T19:32:24",
     "guid": "https://api.cannabis.ca.gov/?p=18814",
-    "modified": "2024-07-31T15:19:32",
-    "modified_gmt": "2024-07-31T22:19:32",
+    "modified": "2024-10-09T11:36:00",
+    "modified_gmt": "2024-10-09T18:36:00",
     "slug": "annual-license-application-checklist-2",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2024/07/annual-license-application-checklist-2/",
-    "title": "Guidance: Annual license application checklist",
+    "title": "Annual license application checklist",
     "excerpt": "<p>Use this checklist to make sure that you have all the necessary information prior to starting<br />\nyour online annual license application. </p>\n",
     "author": 32,
     "featured_media": 0,
@@ -39,8 +39,9 @@
       "footnotes": ""
     },
     "categories": [
-      "All",
-      "Application Checklist"
+      "Application Checklist",
+      "Application resources",
+      "Checklist"
     ],
     "tags": [],
     "design_system_fields": {
@@ -58,37 +59,21 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2024/07/annual-license-application-checklist-2/",
-      "page_title": "Guidance: Annual license application checklist",
+      "page_title": "Annual license application checklist",
       "page_description": "Use this checklist to make sure that you have all the necessary information prior to starting\nyour online annual license application. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Guidance: Annual license application checklist",
+      "meta_title": "Annual license application checklist",
       "meta_description": "Use this checklist to make sure that you have all the necessary information prior to starting\nyour online annual license application. ",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2024/07/annual-license-application-checklist-2/",
-      "open_graph_title": "Guidance: Annual license application checklist",
+      "open_graph_title": "Annual license application checklist",
       "open_graph_description": "Use this checklist to make sure that you have all the necessary information prior to starting\nyour online annual license application. ",
-      "twitter_title": "Guidance: Annual license application checklist",
+      "twitter_title": "Annual license application checklist",
       "twitter_description": "Use this checklist to make sure that you have all the necessary information prior to starting\nyour online annual license application. "
     },
     "headless_categories": [
-      {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
-        "term_group": 0,
-        "term_taxonomy_id": 1,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1,
-        "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
-      },
       {
         "term_id": 933,
         "name": "Application Checklist",
@@ -104,6 +89,38 @@
         "cat_name": "Application Checklist",
         "category_nicename": "application-checklist",
         "category_parent": 806
+      },
+      {
+        "term_id": 806,
+        "name": "Application resources",
+        "slug": "application-resources",
+        "term_group": 0,
+        "term_taxonomy_id": 806,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 806,
+        "category_description": "",
+        "cat_name": "Application resources",
+        "category_nicename": "application-resources",
+        "category_parent": 0
+      },
+      {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
       }
     ],
     "headless_tags": [],
