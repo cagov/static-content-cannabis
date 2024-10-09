@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:10:00",
-    "updated_date": "2024-10-09T18:26:50",
+    "updated_date": "2024-10-09T18:26:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:10:00",
     "date_gmt": "2024-09-03T22:10:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=19754",
-    "modified": "2024-10-09T11:26:50",
-    "modified_gmt": "2024-10-09T18:26:50",
+    "modified": "2024-10-09T11:26:57",
+    "modified_gmt": "2024-10-09T18:26:57",
     "slug": "clear-renewal-labs-distro-retail",
     "status": "publish",
     "type": "page",
