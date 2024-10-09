@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-11T18:50:00",
-    "updated_date": "2024-10-09T18:31:33",
+    "updated_date": "2024-10-09T18:31:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-11T11:50:00",
     "date_gmt": "2024-03-11T18:50:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=17572",
-    "modified": "2024-10-09T11:31:33",
-    "modified_gmt": "2024-10-09T18:31:33",
+    "modified": "2024-10-09T11:31:39",
+    "modified_gmt": "2024-10-09T18:31:39",
     "slug": "faq-one-time-changes",
     "status": "publish",
     "type": "page",
