@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-18T23:36:22",
-    "updated_date": "2024-08-01T19:21:27",
+    "updated_date": "2024-10-09T18:37:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-18T16:36:22",
     "date_gmt": "2023-10-18T23:36:22",
     "guid": "https://api.cannabis.ca.gov/?p=15351",
-    "modified": "2024-08-01T12:21:27",
-    "modified_gmt": "2024-08-01T19:21:27",
+    "modified": "2024-10-09T11:37:46",
+    "modified_gmt": "2024-10-09T18:37:46",
     "slug": "annual-license-application-checklist",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
       "footnotes": ""
     },
     "categories": [
+      "Application Checklist",
       "Application resources"
     ],
     "tags": [],
@@ -72,6 +73,22 @@
       "twitter_description": "Use this checklist to make sure that you have all the necessary information prior to starting your online annual license application. Learn more about application requirements and required documents on our Application Resources Page."
     },
     "headless_categories": [
+      {
+        "term_id": 933,
+        "name": "Application Checklist",
+        "slug": "application-checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 933,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 806,
+        "filter": "raw",
+        "cat_ID": 933,
+        "category_description": "",
+        "cat_name": "Application Checklist",
+        "category_nicename": "application-checklist",
+        "category_parent": 806
+      },
       {
         "term_id": 806,
         "name": "Application resources",
