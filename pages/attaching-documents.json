@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:20:45",
-    "updated_date": "2024-10-09T18:25:08",
+    "updated_date": "2024-10-09T21:39:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-09-04T10:20:45",
     "date_gmt": "2024-09-04T17:20:45",
     "guid": "https://api.cannabis.ca.gov/?page_id=19447",
-    "modified": "2024-10-09T11:25:08",
-    "modified_gmt": "2024-10-09T18:25:08",
+    "modified": "2024-10-09T14:39:30",
+    "modified_gmt": "2024-10-09T21:39:30",
     "slug": "attaching-documents",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/attaching-documents/",
     "title": "Deficiencies: Attaching documents",
-    "excerpt": "<p>Attaching documents Now scroll down further to the Attachment section that follows the Deficiencies list. Click Add to begin attaching a document. The File Upload pop-up window displays. Click the Add button here to find a file to upload. Select the file and click Open. Now, in the Attachment section, the document you uploaded is [&hellip;]</p>\n",
+    "excerpt": "<p>In this section, you&#8217;ll attach the necessary documents for your application. Scroll down to the Attachment section below the Deficiencies list and click &#8220;Add&#8221; to start the process. Attaching documents Now scroll down further to the Attachment section that follows the Deficiencies list. Click Add to begin attaching a document. The File Upload pop-up window [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
     "parent": 19810,
@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CLS Application Deficiencies",
-      "CLS User Guides"
+      "CLS Application Deficiencies"
     ],
     "tags": [],
     "design_system_fields": {
@@ -88,22 +87,6 @@
         "cat_name": "CLS Application Deficiencies",
         "category_nicename": "cls-application-deficiencies",
         "category_parent": 935
-      },
-      {
-        "term_id": 935,
-        "name": "CLS User Guides",
-        "slug": "cls-user-guides",
-        "term_group": 0,
-        "term_taxonomy_id": 935,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 911,
-        "filter": "raw",
-        "cat_ID": 935,
-        "category_description": "",
-        "cat_name": "CLS User Guides",
-        "category_nicename": "cls-user-guides",
-        "category_parent": 911
       }
     ],
     "headless_tags": [],
