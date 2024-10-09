@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:10:00",
-    "updated_date": "2024-09-23T22:49:40",
+    "updated_date": "2024-10-09T18:26:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:10:00",
     "date_gmt": "2024-09-03T22:10:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=19754",
-    "modified": "2024-09-23T15:49:40",
-    "modified_gmt": "2024-09-23T22:49:40",
+    "modified": "2024-10-09T11:26:57",
+    "modified_gmt": "2024-10-09T18:26:57",
     "slug": "clear-renewal-labs-distro-retail",
     "status": "publish",
     "type": "page",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "CLEAR System Guides",
-      "Licensing system guides"
+      "Licensing system guides",
+      "Renewal"
     ],
     "tags": [],
     "design_system_fields": {
@@ -103,6 +104,22 @@
         "category_description": "",
         "cat_name": "Licensing system guides",
         "category_nicename": "licensing-system-guides",
+        "category_parent": 0
+      },
+      {
+        "term_id": 875,
+        "name": "Renewal",
+        "slug": "renewal",
+        "term_group": 0,
+        "term_taxonomy_id": 875,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 875,
+        "category_description": "",
+        "cat_name": "Renewal",
+        "category_nicename": "renewal",
         "category_parent": 0
       }
     ],
