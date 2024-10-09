@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:34:47",
-    "updated_date": "2024-09-24T21:41:05",
+    "updated_date": "2024-10-09T16:18:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:34:47",
     "date_gmt": "2024-09-03T22:34:47",
     "guid": "https://api.cannabis.ca.gov/?page_id=19774",
-    "modified": "2024-09-24T14:41:05",
-    "modified_gmt": "2024-09-24T21:41:05",
+    "modified": "2024-10-09T09:18:24",
+    "modified_gmt": "2024-10-09T16:18:24",
     "slug": "paying-application-fees",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
