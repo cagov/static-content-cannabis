@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-11T22:22:43",
-    "updated_date": "2024-10-09T18:12:25",
+    "updated_date": "2024-10-09T18:12:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-11T14:22:43",
     "date_gmt": "2023-12-11T22:22:43",
     "guid": "https://api.cannabis.ca.gov/?p=16337",
-    "modified": "2024-10-09T11:12:25",
-    "modified_gmt": "2024-10-09T18:12:25",
+    "modified": "2024-10-09T11:12:31",
+    "modified_gmt": "2024-10-09T18:12:31",
     "slug": "checklist-closed-loop-extraction-systems",
     "status": "publish",
     "type": "post",
