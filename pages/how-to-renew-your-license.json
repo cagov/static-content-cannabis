@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T21:09:04",
-    "updated_date": "2024-10-02T16:41:37",
+    "updated_date": "2024-10-09T18:23:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-10-30T14:09:04",
     "date_gmt": "2023-10-30T21:09:04",
     "guid": "https://api.cannabis.ca.gov/?page_id=15678",
-    "modified": "2024-10-02T09:41:37",
-    "modified_gmt": "2024-10-02T16:41:37",
+    "modified": "2024-10-09T11:23:40",
+    "modified_gmt": "2024-10-09T18:23:40",
     "slug": "how-to-renew-your-license",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/",
     "title": "How to renew your license",
-    "excerpt": "<p>Licensing system renewal user guides CLS renewal user guide CLEaR renewal: Labs, distribution, retail, events CLEaR renewal: Manufacturing Related content How to apply for a license Follow these steps and access resources needed to apply for a license. Cultivation license change options On March 11, 2024, the Department of Cannabis Control (DCC)&nbsp;adopted emergency regulations&nbsp;to implement [&hellip;]</p>\n",
+    "excerpt": "<p>FAQs Related resources CLS renewal user guide CLEaR renewal: Labs, distribution, retail, events CLEaR renewal: Manufacturing</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 758,
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "FAQs",
+      "Guidance",
       "Renewal"
     ],
     "tags": [],
@@ -74,19 +74,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 6,
-        "name": "FAQs",
-        "slug": "faqs",
+        "term_id": 859,
+        "name": "Guidance",
+        "slug": "guidance",
         "term_group": 0,
-        "term_taxonomy_id": 6,
+        "term_taxonomy_id": 859,
         "taxonomy": "category",
         "description": "",
         "parent": 809,
         "filter": "raw",
-        "cat_ID": 6,
+        "cat_ID": 859,
         "category_description": "",
-        "cat_name": "FAQs",
-        "category_nicename": "faqs",
+        "cat_name": "Guidance",
+        "category_nicename": "guidance",
         "category_parent": 809
       },
       {
