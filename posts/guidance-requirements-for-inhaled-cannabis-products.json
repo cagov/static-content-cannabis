@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-29T19:17:57",
-    "updated_date": "2024-09-13T17:47:27",
+    "updated_date": "2024-10-09T18:35:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2023-11-29T11:17:57",
     "date_gmt": "2023-11-29T19:17:57",
     "guid": "https://api.cannabis.ca.gov/?p=16236",
-    "modified": "2024-09-13T10:47:27",
-    "modified_gmt": "2024-09-13T17:47:27",
+    "modified": "2024-10-09T11:35:18",
+    "modified_gmt": "2024-10-09T18:35:18",
     "slug": "guidance-requirements-for-inhaled-cannabis-products",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/11/guidance-requirements-for-inhaled-cannabis-products/",
-    "title": "Guidance: Requirements for inhaled cannabis products",
+    "title": "Requirements for inhaled cannabis products",
     "excerpt": "<p>The Department of Cannabis Control (DCC) has adopted new regulations that clarify what can be included in inhaled cannabis products. These regulatory provisions became effective on November 7, 2022. This guidance is a tool to assist licensees with understanding the new regulations, but it does not impose additional requirements or change the regulations. This guidance [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Compliance"
+      "Compliance",
+      "Guidance"
     ],
     "tags": [],
     "design_system_fields": {
@@ -57,18 +58,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/11/guidance-requirements-for-inhaled-cannabis-products/",
-      "page_title": "Guidance: Requirements for inhaled cannabis products",
+      "page_title": "Requirements for inhaled cannabis products",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Guidance: Requirements for inhaled cannabis products",
+      "meta_title": "Requirements for inhaled cannabis products",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/11/guidance-requirements-for-inhaled-cannabis-products/",
-      "open_graph_title": "Guidance: Requirements for inhaled cannabis products",
+      "open_graph_title": "Requirements for inhaled cannabis products",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Guidance: Requirements for inhaled cannabis products",
+      "twitter_title": "Requirements for inhaled cannabis products",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -87,6 +88,22 @@
         "cat_name": "Compliance",
         "category_nicename": "compliance",
         "category_parent": 0
+      },
+      {
+        "term_id": 859,
+        "name": "Guidance",
+        "slug": "guidance",
+        "term_group": 0,
+        "term_taxonomy_id": 859,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 859,
+        "category_description": "",
+        "cat_name": "Guidance",
+        "category_nicename": "guidance",
+        "category_parent": 809
       }
     ],
     "headless_tags": [],
