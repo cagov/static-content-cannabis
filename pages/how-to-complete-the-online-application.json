@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-25T17:55:24",
-    "updated_date": "2024-10-02T20:16:47",
+    "updated_date": "2024-10-09T18:27:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-25T09:55:24",
     "date_gmt": "2024-01-25T17:55:24",
     "guid": "https://api.cannabis.ca.gov/?page_id=16902",
-    "modified": "2024-10-02T13:16:47",
-    "modified_gmt": "2024-10-02T20:16:47",
+    "modified": "2024-10-09T11:27:47",
+    "modified_gmt": "2024-10-09T18:27:47",
     "slug": "how-to-complete-the-online-application",
     "status": "publish",
     "type": "page",
@@ -40,6 +40,7 @@
     },
     "categories": [
       "CLEAR System Guides",
+      "Licensing system guides",
       "Manufacturing Licensing System"
     ],
     "tags": [],
@@ -88,6 +89,22 @@
         "cat_name": "CLEAR System Guides",
         "category_nicename": "clear-system-guides",
         "category_parent": 911
+      },
+      {
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 911,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 911,
+        "category_description": "",
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
       },
       {
         "term_id": 908,
