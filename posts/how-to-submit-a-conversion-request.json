@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-18T20:42:03",
-    "updated_date": "2024-10-09T18:44:13",
+    "updated_date": "2024-10-09T18:44:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-18T13:42:03",
     "date_gmt": "2023-10-18T20:42:03",
     "guid": "https://api.cannabis.ca.gov/?p=15324",
-    "modified": "2024-10-09T11:44:13",
-    "modified_gmt": "2024-10-09T18:44:13",
+    "modified": "2024-10-09T11:44:19",
+    "modified_gmt": "2024-10-09T18:44:19",
     "slug": "how-to-submit-a-conversion-request",
     "status": "publish",
     "type": "post",
