@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-26T19:13:30",
-    "updated_date": "2024-08-12T16:41:00",
+    "updated_date": "2024-10-09T18:10:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-26T11:13:30",
     "date_gmt": "2023-12-26T19:13:30",
     "guid": "https://api.cannabis.ca.gov/?p=16433",
-    "modified": "2024-08-12T09:41:00",
-    "modified_gmt": "2024-08-12T16:41:00",
+    "modified": "2024-10-09T11:10:44",
+    "modified_gmt": "2024-10-09T18:10:44",
     "slug": "faqs-trade-samples",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "CCTT",
-      "Guidance",
+      "FAQs",
       "Resources"
     ],
     "tags": [],
@@ -91,19 +91,19 @@
         "category_parent": 0
       },
       {
-        "term_id": 859,
-        "name": "Guidance",
-        "slug": "guidance",
+        "term_id": 6,
+        "name": "FAQs",
+        "slug": "faqs",
         "term_group": 0,
-        "term_taxonomy_id": 859,
+        "term_taxonomy_id": 6,
         "taxonomy": "category",
         "description": "",
         "parent": 809,
         "filter": "raw",
-        "cat_ID": 859,
+        "cat_ID": 6,
         "category_description": "",
-        "cat_name": "Guidance",
-        "category_nicename": "guidance",
+        "cat_name": "FAQs",
+        "category_nicename": "faqs",
         "category_parent": 809
       },
       {
