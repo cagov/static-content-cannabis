@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-14T19:53:29",
-    "updated_date": "2024-10-02T19:21:25",
+    "updated_date": "2024-10-09T18:11:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-14T11:53:29",
     "date_gmt": "2023-11-14T19:53:29",
     "guid": "https://api.cannabis.ca.gov/?p=15989",
-    "modified": "2024-10-02T12:21:25",
-    "modified_gmt": "2024-10-02T19:21:25",
+    "modified": "2024-10-09T11:11:31",
+    "modified_gmt": "2024-10-09T18:11:31",
     "slug": "guidance-for-new-accela-clear-users",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "CLEAR System Guides",
-      "Guidance",
+      "Licensing system guides",
       "Manufacturing Licensing System",
       "User guides"
     ],
@@ -92,20 +92,20 @@
         "category_parent": 911
       },
       {
-        "term_id": 859,
-        "name": "Guidance",
-        "slug": "guidance",
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
         "term_group": 0,
-        "term_taxonomy_id": 859,
+        "term_taxonomy_id": 911,
         "taxonomy": "category",
         "description": "",
-        "parent": 809,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 859,
+        "cat_ID": 911,
         "category_description": "",
-        "cat_name": "Guidance",
-        "category_nicename": "guidance",
-        "category_parent": 809
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
       },
       {
         "term_id": 908,
