@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T17:21:56",
-    "updated_date": "2024-10-07T21:47:11",
+    "updated_date": "2024-10-09T18:24:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T10:21:56",
     "date_gmt": "2024-09-04T17:21:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=19453",
-    "modified": "2024-10-07T14:47:11",
-    "modified_gmt": "2024-10-07T21:47:11",
+    "modified": "2024-10-09T11:24:18",
+    "modified_gmt": "2024-10-09T18:24:18",
     "slug": "designated-responsible-party",
     "status": "publish",
     "type": "page",
@@ -40,8 +40,7 @@
     },
     "categories": [
       "CLS Application Deficiencies",
-      "CLS User Guides",
-      "Licensing system guides"
+      "CLS User Guides"
     ],
     "tags": [],
     "design_system_fields": {
@@ -105,22 +104,6 @@
         "cat_name": "CLS User Guides",
         "category_nicename": "cls-user-guides",
         "category_parent": 911
-      },
-      {
-        "term_id": 911,
-        "name": "Licensing system guides",
-        "slug": "licensing-system-guides",
-        "term_group": 0,
-        "term_taxonomy_id": 911,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 911,
-        "category_description": "",
-        "cat_name": "Licensing system guides",
-        "category_nicename": "licensing-system-guides",
-        "category_parent": 0
       }
     ],
     "headless_tags": [],
