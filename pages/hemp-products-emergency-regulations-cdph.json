@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-15T16:14:14",
-    "updated_date": "2024-10-15T16:21:00",
+    "updated_date": "2024-10-15T16:30:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-10-15T09:14:14",
     "date_gmt": "2024-10-15T16:14:14",
     "guid": "https://api.cannabis.ca.gov/?page_id=20781",
-    "modified": "2024-10-15T09:21:00",
-    "modified_gmt": "2024-10-15T16:21:00",
-    "slug": "hemp-products-emergency-regulations-california-department-of-public-health",
+    "modified": "2024-10-15T09:30:50",
+    "modified_gmt": "2024-10-15T16:30:50",
+    "slug": "hemp-products-emergency-regulations-cdph",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/hemp-products-emergency-regulations-california-department-of-public-health/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/hemp-products-emergency-regulations-cdph/",
     "title": "Hemp products: Emergency regulations (California Department of Public Health)",
     "excerpt": "<p>The California Department of Public Health (CDPH) has implemented emergency regulations that explicitly prohibit the manufacture, warehousing, distribution, offer, advertising, marketing, or sale of industrial hemp final form food products intended for human consumption (including food, beverages, and dietary supplements) that contain any detectable levels of total THC or other intoxicating cannabinoids. Type: Emergency rulemaking [&hellip;]</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/hemp-products-emergency-regulations-california-department-of-public-health/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/hemp-products-emergency-regulations-cdph/",
       "page_title": "Hemp products: Emergency regulations (California Department of Public Health)",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Hemp products: Emergency regulations (California Department of Public Health)",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/hemp-products-emergency-regulations-california-department-of-public-health/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/hemp-products-emergency-regulations-cdph/",
       "open_graph_title": "Hemp products: Emergency regulations (California Department of Public Health)",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Hemp products: Emergency regulations (California Department of Public Health)",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/hemp-products-emergency-regulations-california-department-of-public-health/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/hemp-products-emergency-regulations-cdph/"
   }
 }
