@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-16T00:19:55",
-    "updated_date": "2024-10-16T00:20:01",
+    "updated_date": "2024-10-16T00:33:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-15T17:19:55",
     "date_gmt": "2024-10-16T00:19:55",
     "guid": "https://api.cannabis.ca.gov/?page_id=20815",
-    "modified": "2024-10-15T17:20:01",
-    "modified_gmt": "2024-10-16T00:20:01",
+    "modified": "2024-10-15T17:33:44",
+    "modified_gmt": "2024-10-16T00:33:44",
     "slug": "kush-collective-10-15-2024",
     "status": "publish",
     "type": "page",
