@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-16T16:38:45",
-    "updated_date": "2024-10-16T18:26:37",
+    "updated_date": "2024-10-16T18:28:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-10-16T09:38:45",
     "date_gmt": "2024-10-16T16:38:45",
     "guid": "https://api.cannabis.ca.gov/?page_id=20815",
-    "modified": "2024-10-16T11:26:37",
-    "modified_gmt": "2024-10-16T18:26:37",
+    "modified": "2024-10-16T11:28:14",
+    "modified_gmt": "2024-10-16T18:28:14",
     "slug": "kush-collective-integrated-vaporizers-and-vape-cartridges",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/kush-collective-integrated-vaporizers-and-vape-cartridges/",
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/kush-collective-integrated-vaporizers-and-vape-cartridges/",
     "title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
     "excerpt": "<p>Embargo overview The Department of Cannabis Control (DCC) is revoking the licenses of K.U.S.H. (Kinder Understanding Sensitive Healing) Collective and issuing this notice of embargo for all products manufactured by the licensee. The licensee failed to demonstrate that cannabis products attributed to being manufactured on the licensee’s premises were in fact cultivated, processed, manufactured, packed, [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/kush-collective-integrated-vaporizers-and-vape-cartridges/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/kush-collective-integrated-vaporizers-and-vape-cartridges/",
       "page_title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/kush-collective-integrated-vaporizers-and-vape-cartridges/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/kush-collective-integrated-vaporizers-and-vape-cartridges/",
       "open_graph_title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/kush-collective-integrated-vaporizers-and-vape-cartridges/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/kush-collective-integrated-vaporizers-and-vape-cartridges/"
   }
 }
