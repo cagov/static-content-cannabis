@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:41:03",
-    "updated_date": "2024-10-10T16:08:59",
+    "updated_date": "2024-10-18T17:02:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T12:41:03",
     "date_gmt": "2024-09-04T19:41:03",
     "guid": "https://api.cannabis.ca.gov/?page_id=19844",
-    "modified": "2024-10-10T09:08:59",
-    "modified_gmt": "2024-10-10T16:08:59",
+    "modified": "2024-10-18T10:02:46",
+    "modified_gmt": "2024-10-18T17:02:46",
     "slug": "how-to-submit-a-science-amendment",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "CLS User Guides"
+      "CLS User Guides",
+      "Notifications and requests"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "CLS User Guides",
         "category_nicename": "cls-user-guides",
         "category_parent": 911
+      },
+      {
+        "term_id": 846,
+        "name": "Notifications and requests",
+        "slug": "notifications-and-requests",
+        "term_group": 0,
+        "term_taxonomy_id": 846,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 846,
+        "category_description": "",
+        "cat_name": "Notifications and requests",
+        "category_nicename": "notifications-and-requests",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
