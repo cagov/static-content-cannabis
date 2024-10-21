@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-21T22:44:24",
-    "updated_date": "2024-10-21T22:45:03",
+    "updated_date": "2024-10-21T22:45:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-21T15:44:24",
     "date_gmt": "2024-10-21T22:44:24",
     "guid": "https://api.cannabis.ca.gov/?p=20911",
-    "modified": "2024-10-21T15:45:03",
-    "modified_gmt": "2024-10-21T22:45:03",
+    "modified": "2024-10-21T15:45:09",
+    "modified_gmt": "2024-10-21T22:45:09",
     "slug": "ucetf-q3",
     "status": "publish",
     "type": "post",
