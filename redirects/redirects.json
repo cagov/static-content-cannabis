@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 261,
+      "redirects": 265,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7157,6 +7157,110 @@
       "regex": false,
       "group_id": 1,
       "position": 260,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 513,
+      "url": "/hemp-products-emergency-regulations-california-department-of-public-health/",
+      "match_url": "/hemp-products-emergency-regulations-california-department-of-public-health",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/hemp-products-emergency-regulations-california-department-of-public-health/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 261,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 514,
+      "url": "/cannabis-laws/rulemaking/hemp-products-emergency-regulations-california-department-of-public-health/",
+      "match_url": "/cannabis-laws/rulemaking/hemp-products-emergency-regulations-california-department-of-public-health",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/hemp-products-emergency-regulations-cdph/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 262,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 515,
+      "url": "/kush-collective-10-15-2024/",
+      "match_url": "/kush-collective-10-15-2024",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/kush-collective-integrated-vaporizers-and-vape-cartridges/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 263,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 516,
+      "url": "/kush-collective-integrated-vaporizers-and-vape-cartridges/",
+      "match_url": "/kush-collective-integrated-vaporizers-and-vape-cartridges",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/kush-collective-integrated-vaporizers-and-vape-cartridges/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 264,
       "last_access": "-",
       "enabled": true
     }
