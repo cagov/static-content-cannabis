@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-23T18:42:46",
-    "updated_date": "2024-10-23T19:53:59",
+    "updated_date": "2024-10-23T19:54:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-23T11:42:46",
     "date_gmt": "2024-10-23T18:42:46",
     "guid": "https://api.cannabis.ca.gov/?page_id=20935",
-    "modified": "2024-10-23T12:53:59",
-    "modified_gmt": "2024-10-23T19:53:59",
+    "modified": "2024-10-23T12:54:50",
+    "modified_gmt": "2024-10-23T19:54:50",
     "slug": "recalls-overview",
     "status": "publish",
     "type": "page",
