@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2024-10-23T22:50:00",
+    "updated_date": "2024-10-25T22:54:48",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/20980",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 20980,
+    "date": "2024-10-23T15:50:00",
+    "date_gmt": "2024-10-23T22:50:00",
+    "guid": "https://api.cannabis.ca.gov/?p=20980",
+    "modified": "2024-10-25T15:54:48",
+    "modified_gmt": "2024-10-25T22:54:48",
+    "slug": "phire-premium-concentrate-vape-cartridge",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/10/phire-premium-concentrate-vape-cartridge/",
+    "title": "Phire Premium Concentrate vape cartridge",
+    "excerpt": "<p>Voluntary recall for multiple Phire Premium Concentrate vape cartridge product(s) due to potential pesticide category I contamination.</p>\n",
+    "author": 32,
+    "featured_media": 20952,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Recalls and safety notices",
+      "Voluntary recalls"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/10/phire-premium-concentrate-vape-cartridge/",
+      "page_title": "Phire Premium Concentrate vape cartridge",
+      "page_description": "Voluntary recall for multiple Phire Premium Concentrate vape cartridge product(s) due to potential pesticide category I contamination.",
+      "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2024/10/1A406030000CAC3000004268-Cranberry-Crush.jpg",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Phire Premium Concentrate vape cartridge",
+      "meta_description": "Voluntary recall for multiple Phire Premium Concentrate vape cartridge product(s) due to potential pesticide category I contamination.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/10/phire-premium-concentrate-vape-cartridge/",
+      "open_graph_title": "Phire Premium Concentrate vape cartridge",
+      "open_graph_description": "Voluntary recall for multiple Phire Premium Concentrate vape cartridge product(s) due to potential pesticide category I contamination.",
+      "twitter_title": "Phire Premium Concentrate vape cartridge",
+      "twitter_description": "Voluntary recall for multiple Phire Premium Concentrate vape cartridge product(s) due to potential pesticide category I contamination."
+    },
+    "headless_categories": [
+      {
+        "term_id": 812,
+        "name": "Recalls and safety notices",
+        "slug": "recalls-and-safety-notices",
+        "term_group": 0,
+        "term_taxonomy_id": 812,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 812,
+        "category_description": "",
+        "cat_name": "Recalls and safety notices",
+        "category_nicename": "recalls-and-safety-notices",
+        "category_parent": 0
+      },
+      {
+        "term_id": 814,
+        "name": "Voluntary recalls",
+        "slug": "voluntary-recalls",
+        "term_group": 0,
+        "term_taxonomy_id": 814,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 812,
+        "filter": "raw",
+        "cat_ID": 814,
+        "category_description": "",
+        "cat_name": "Voluntary recalls",
+        "category_nicename": "voluntary-recalls",
+        "category_parent": 812
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/10/phire-premium-concentrate-vape-cartridge/"
+  }
+}
