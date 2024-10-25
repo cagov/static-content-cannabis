@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-16T23:15:01",
-    "updated_date": "2024-10-25T23:42:05",
+    "updated_date": "2024-10-25T23:42:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-16T16:15:01",
     "date_gmt": "2024-10-16T23:15:01",
     "guid": "https://api.cannabis.ca.gov/?p=20866",
-    "modified": "2024-10-25T16:42:05",
-    "modified_gmt": "2024-10-25T23:42:05",
+    "modified": "2024-10-25T16:42:28",
+    "modified_gmt": "2024-10-25T23:42:28",
     "slug": "department-of-cannabis-control-revokes-license-of-k-u-s-h-collective",
     "status": "publish",
     "type": "post",
@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Announcements",
-      "Recalls and safety notices"
+      "Announcements"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,22 +86,6 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
-      },
-      {
-        "term_id": 812,
-        "name": "Recalls and safety notices",
-        "slug": "recalls-and-safety-notices",
-        "term_group": 0,
-        "term_taxonomy_id": 812,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 812,
-        "category_description": "",
-        "cat_name": "Recalls and safety notices",
-        "category_nicename": "recalls-and-safety-notices",
         "category_parent": 0
       }
     ],
