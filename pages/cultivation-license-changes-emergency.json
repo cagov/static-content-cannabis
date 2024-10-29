@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-23T22:07:15",
-    "updated_date": "2024-10-28T22:09:10",
+    "updated_date": "2024-10-29T18:21:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-23T14:07:15",
     "date_gmt": "2024-01-23T22:07:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=16840",
-    "modified": "2024-10-28T15:09:10",
-    "modified_gmt": "2024-10-28T22:09:10",
+    "modified": "2024-10-29T11:21:01",
+    "modified_gmt": "2024-10-29T18:21:01",
     "slug": "cultivation-license-changes-emergency",
     "status": "publish",
     "type": "page",
@@ -43,9 +43,7 @@
       "Recently Approved Actions",
       "Rulemaking"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -125,19 +123,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/"
