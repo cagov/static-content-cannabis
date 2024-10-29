@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T19:04:21",
-    "updated_date": "2024-09-09T23:37:13",
+    "updated_date": "2024-10-28T22:09:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-08-16T12:04:21",
     "date_gmt": "2024-08-16T19:04:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=19483",
-    "modified": "2024-09-09T16:37:13",
-    "modified_gmt": "2024-09-09T23:37:13",
-    "slug": "cultivation-license-changes-at-time-of-renewal",
+    "modified": "2024-10-28T15:09:15",
+    "modified_gmt": "2024-10-28T22:09:15",
+    "slug": "cultivation-license-changes-readopt",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/",
-    "title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-readopt/",
+    "title": "Cultivation License Changes: Emergency Readopt Rulemaking",
     "excerpt": "<p>The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) readoption of emergency regulations implementing Senate Bill 833, codified in Business and Professions Code section 26061.5, which requires the DCC to allow cultivation licensees to make certain changes. These changes can include: Type:  Emergency rulemaking Status: Approved and filed with Secretary of [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -56,19 +56,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/",
-      "page_title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-readopt/",
+      "page_title": "Cultivation License Changes: Emergency Readopt Rulemaking",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+      "meta_title": "Cultivation License Changes: Emergency Readopt Rulemaking",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/",
-      "open_graph_title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-readopt/",
+      "open_graph_title": "Cultivation License Changes: Emergency Readopt Rulemaking",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+      "twitter_title": "Cultivation License Changes: Emergency Readopt Rulemaking",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-readopt/"
   }
 }

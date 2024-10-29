@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-23T22:07:15",
-    "updated_date": "2024-08-26T22:01:04",
+    "updated_date": "2024-10-28T22:09:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-01-23T14:07:15",
     "date_gmt": "2024-01-23T22:07:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=16840",
-    "modified": "2024-08-26T15:01:04",
-    "modified_gmt": "2024-08-26T22:01:04",
-    "slug": "cultivation-license-changes",
+    "modified": "2024-10-28T15:09:10",
+    "modified_gmt": "2024-10-28T22:09:10",
+    "slug": "cultivation-license-changes-emergency",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes/",
-    "title": "Cultivation License Changes Pursuant to Business and Professions Code section 26061.5",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/",
+    "title": "Cultivation License Changes: Emergency Rulemaking",
     "excerpt": "<p>The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) emergency regulations implementing Senate Bill 833, codified in Business and Professions Code section 26061.5, which requires the DCC to allow cultivation licensees to make certain changes, including: change the type of size of a cultivation license; place a cultivation license in [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -60,19 +60,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes/",
-      "page_title": "Cultivation License Changes Pursuant to Business and Professions Code section 26061.5",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/",
+      "page_title": "Cultivation License Changes: Emergency Rulemaking",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cultivation License Changes Pursuant to Business and Professions Code section 26061.5",
+      "meta_title": "Cultivation License Changes: Emergency Rulemaking",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes/",
-      "open_graph_title": "Cultivation License Changes Pursuant to Business and Professions Code section 26061.5",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/",
+      "open_graph_title": "Cultivation License Changes: Emergency Rulemaking",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cultivation License Changes Pursuant to Business and Professions Code section 26061.5",
+      "twitter_title": "Cultivation License Changes: Emergency Rulemaking",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -140,6 +140,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/"
   }
 }
