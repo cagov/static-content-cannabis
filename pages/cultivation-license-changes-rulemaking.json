@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-28T22:14:30",
-    "updated_date": "2024-10-29T17:42:58",
+    "updated_date": "2024-10-29T21:16:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-10-28T15:14:30",
     "date_gmt": "2024-10-28T22:14:30",
     "guid": "https://api.cannabis.ca.gov/?page_id=21001",
-    "modified": "2024-10-29T10:42:58",
-    "modified_gmt": "2024-10-29T17:42:58",
-    "slug": "cultivation-license-changes-pursuant-rulemaking",
+    "modified": "2024-10-29T14:16:58",
+    "modified_gmt": "2024-10-29T21:16:58",
+    "slug": "cultivation-license-changes-rulemaking",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-rulemaking/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-rulemaking/",
     "title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
     "excerpt": "",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-rulemaking/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-rulemaking/",
       "page_title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-rulemaking/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-rulemaking/",
       "open_graph_title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-rulemaking/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-rulemaking/"
   }
 }
