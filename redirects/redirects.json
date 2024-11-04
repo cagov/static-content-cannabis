@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 265,
+      "redirects": 269,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7261,6 +7261,110 @@
       "regex": false,
       "group_id": 1,
       "position": 264,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 517,
+      "url": "/cannabis-laws/rulemaking/cultivation-license-changes/",
+      "match_url": "/cannabis-laws/rulemaking/cultivation-license-changes",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/cultivation-license-changes-emergency/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 265,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 518,
+      "url": "/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/",
+      "match_url": "/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/cultivation-license-changes-readopt/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 266,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 519,
+      "url": "/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-to-bpc-section-26061-5/",
+      "match_url": "/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-to-bpc-section-26061-5",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-rulemaking/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 267,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 520,
+      "url": "/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-rulemaking/",
+      "match_url": "/cannabis-laws/rulemaking/cultivation-license-changes-pursuant-rulemaking",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/cultivation-license-changes-rulemaking/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 268,
       "last_access": "-",
       "enabled": true
     }
