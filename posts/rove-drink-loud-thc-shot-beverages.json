@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-01T21:46:23",
-    "updated_date": "2024-11-04T17:14:49",
+    "updated_date": "2024-11-04T18:18:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-01T14:46:23",
     "date_gmt": "2024-11-01T21:46:23",
     "guid": "https://api.cannabis.ca.gov/?p=21038",
-    "modified": "2024-11-04T09:14:49",
-    "modified_gmt": "2024-11-04T17:14:49",
+    "modified": "2024-11-04T10:18:13",
+    "modified_gmt": "2024-11-04T18:18:13",
     "slug": "rove-drink-loud-thc-shot-beverages",
     "status": "publish",
     "type": "post",
