@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-05T20:16:05",
-    "updated_date": "2024-11-06T00:16:57",
+    "updated_date": "2024-11-06T00:33:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-11-05T12:16:05",
     "date_gmt": "2024-11-05T20:16:05",
     "guid": "https://api.cannabis.ca.gov/?p=21081",
-    "modified": "2024-11-05T16:16:57",
-    "modified_gmt": "2024-11-06T00:16:57",
-    "slug": "rove-drink-loud-thc-shot-beverages-locations-sold",
+    "modified": "2024-11-05T16:33:51",
+    "modified_gmt": "2024-11-06T00:33:51",
+    "slug": "rove-drink-loud-locations",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/11/rove-drink-loud-thc-shot-beverages-locations-sold/",
-    "title": "Rove Drink Loud THC Shot Beverages Locations sold",
+    "link": "https://api.cannabis.ca.gov/2024/11/rove-drink-loud-locations/",
+    "title": "Rove Drink Loud THC Shot Beverages locations sold",
     "excerpt": "<p>This location data is related to the following recall: Rove Drink Loud THC Shot Beverages County Legal Business Name&nbsp; License Number LOS ANGELES ECCWH LLC C10-0000031-LIC RIVERSIDE PALM DESERT HWY 111 E RETAIL LLC C10-0000045-LIC SAN BERNARDINO JET ROOM, INC. C10-0000057-LIC STANISLAUS CENTRAL VALLEY &#8211; SIERRA ASSOCIATES C10-0000058-LIC LOS ANGELES MAYWOOD GREEN SOLUTIONS LLC C10-0000082-LIC [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "Recalls and safety notices"
     ],
     "tags": [],
     "design_system_fields": {
@@ -56,36 +56,36 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/11/rove-drink-loud-thc-shot-beverages-locations-sold/",
-      "page_title": "Rove Drink Loud THC Shot Beverages Locations sold",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/11/rove-drink-loud-locations/",
+      "page_title": "Rove Drink Loud THC Shot Beverages locations sold",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Rove Drink Loud THC Shot Beverages Locations sold",
+      "meta_title": "Rove Drink Loud THC Shot Beverages locations sold",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/11/rove-drink-loud-thc-shot-beverages-locations-sold/",
-      "open_graph_title": "Rove Drink Loud THC Shot Beverages Locations sold",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/11/rove-drink-loud-locations/",
+      "open_graph_title": "Rove Drink Loud THC Shot Beverages locations sold",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Rove Drink Loud THC Shot Beverages Locations sold",
+      "twitter_title": "Rove Drink Loud THC Shot Beverages locations sold",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 812,
+        "name": "Recalls and safety notices",
+        "slug": "recalls-and-safety-notices",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 812,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Recalls and safety notices",
+        "category_nicename": "recalls-and-safety-notices",
         "category_parent": 0
       }
     ],
@@ -100,6 +100,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/11/rove-drink-loud-thc-shot-beverages-locations-sold/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/11/rove-drink-loud-locations/"
   }
 }
