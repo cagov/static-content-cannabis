@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-06T21:09:29",
-    "updated_date": "2024-11-06T21:09:35",
+    "updated_date": "2024-11-06T21:19:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-06T13:09:29",
     "date_gmt": "2024-11-06T21:09:29",
     "guid": "https://api.cannabis.ca.gov/?p=21096",
-    "modified": "2024-11-06T13:09:35",
-    "modified_gmt": "2024-11-06T21:09:35",
+    "modified": "2024-11-06T13:19:14",
+    "modified_gmt": "2024-11-06T21:19:14",
     "slug": "cannabis-advisory-committee-11-21-2024",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -106,7 +106,7 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "event": [],
+    "event": null,
     "custom_post_date": "",
     "meta_": {
       "0": "",
