@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-06T21:09:29",
-    "updated_date": "2024-11-06T21:59:09",
+    "updated_date": "2024-11-07T19:10:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-06T13:09:29",
     "date_gmt": "2024-11-06T21:09:29",
     "guid": "https://api.cannabis.ca.gov/?p=21096",
-    "modified": "2024-11-06T13:59:09",
-    "modified_gmt": "2024-11-06T21:59:09",
+    "modified": "2024-11-07T11:10:44",
+    "modified_gmt": "2024-11-07T19:10:44",
     "slug": "cannabis-advisory-committee-11-21-2024",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "2024 Meetings",
+      "Cannabis Advisory Committee"
     ],
     "tags": [
       "staging"
@@ -75,19 +76,35 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 916,
+        "name": "2024 Meetings",
+        "slug": "2024-meetings",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 916,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 916,
+        "category_description": "",
+        "cat_name": "2024 Meetings",
+        "category_nicename": "2024-meetings",
+        "category_parent": 833
+      },
+      {
+        "term_id": 831,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
+        "term_group": 0,
+        "term_taxonomy_id": 831,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 831,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
         "category_parent": 0
       }
     ],
