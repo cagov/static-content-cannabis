@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 269,
+      "redirects": 270,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7365,6 +7365,32 @@
       "regex": false,
       "group_id": 1,
       "position": 268,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 521,
+      "url": "/2024/11/rove-drink-loud-thc-shot-beverages-locations-sold/",
+      "match_url": "/2024/11/rove-drink-loud-thc-shot-beverages-locations-sold",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/11/rove-drink-loud-locations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 269,
       "last_access": "-",
       "enabled": true
     }
