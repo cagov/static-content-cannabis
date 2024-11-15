@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-05T20:16:05",
-    "updated_date": "2024-11-06T00:33:51",
+    "updated_date": "2024-11-15T23:11:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-05T12:16:05",
     "date_gmt": "2024-11-05T20:16:05",
     "guid": "https://api.cannabis.ca.gov/?p=21081",
-    "modified": "2024-11-05T16:33:51",
-    "modified_gmt": "2024-11-06T00:33:51",
+    "modified": "2024-11-15T15:11:06",
+    "modified_gmt": "2024-11-15T23:11:06",
     "slug": "rove-drink-loud-locations",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Recalls and safety notices"
+      "All"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,19 +73,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 812,
-        "name": "Recalls and safety notices",
-        "slug": "recalls-and-safety-notices",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 812,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 812,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Recalls and safety notices",
-        "category_nicename": "recalls-and-safety-notices",
+        "cat_name": "All",
+        "category_nicename": "all",
         "category_parent": 0
       }
     ],
