@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-23T22:07:55",
-    "updated_date": "2024-07-23T22:08:00",
+    "updated_date": "2024-11-25T16:15:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-23T15:07:55",
     "date_gmt": "2024-07-23T22:07:55",
     "guid": "https://api.cannabis.ca.gov/?page_id=18968",
-    "modified": "2024-07-23T15:08:00",
-    "modified_gmt": "2024-07-23T22:08:00",
+    "modified": "2024-11-25T08:15:35",
+    "modified_gmt": "2024-11-25T16:15:35",
     "slug": "bakeshop-recall",
     "status": "publish",
     "type": "page",
