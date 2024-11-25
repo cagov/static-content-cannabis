@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 270,
+      "redirects": 271,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7391,6 +7391,32 @@
       "regex": false,
       "group_id": 1,
       "position": 269,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 522,
+      "url": "/about-us/legislative-reports/",
+      "match_url": "/about-us/legislative-reports",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/reports-and-policies/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 270,
       "last_access": "-",
       "enabled": true
     }
