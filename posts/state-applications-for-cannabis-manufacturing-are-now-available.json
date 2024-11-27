@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-12-09T00:00:00",
-    "updated_date": "2023-10-24T23:22:38",
+    "updated_date": "2024-11-27T23:15:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-12-08T16:00:00",
     "date_gmt": "2017-12-09T00:00:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/state-applications-for-cannabis-manufacturing-are-now-available/",
-    "modified": "2023-10-24T16:22:38",
-    "modified_gmt": "2023-10-24T23:22:38",
+    "modified": "2024-11-27T15:15:04",
+    "modified_gmt": "2024-11-27T23:15:04",
     "slug": "state-applications-for-cannabis-manufacturing-are-now-available",
     "status": "publish",
     "type": "post",

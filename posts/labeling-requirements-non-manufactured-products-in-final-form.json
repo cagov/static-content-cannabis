@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-30T17:23:21",
-    "updated_date": "2024-11-19T18:53:05",
+    "updated_date": "2024-11-27T22:31:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-30T10:23:21",
     "date_gmt": "2023-06-30T17:23:21",
     "guid": "https://api.cannabis.ca.gov/?p=13963",
-    "modified": "2024-11-19T10:53:05",
-    "modified_gmt": "2024-11-19T18:53:05",
+    "modified": "2024-11-27T14:31:29",
+    "modified_gmt": "2024-11-27T22:31:29",
     "slug": "labeling-requirements-non-manufactured-products-in-final-form",
     "status": "publish",
     "type": "post",

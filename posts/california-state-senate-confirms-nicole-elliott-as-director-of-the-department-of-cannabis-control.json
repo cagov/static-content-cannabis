@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-04-08T00:40:05",
-    "updated_date": "2023-10-25T23:43:56",
+    "updated_date": "2024-11-27T23:49:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-04-07T17:40:05",
     "date_gmt": "2022-04-08T00:40:05",
     "guid": "https://cannabis.ca.gov/?p=9646",
-    "modified": "2023-10-25T16:43:56",
-    "modified_gmt": "2023-10-25T23:43:56",
+    "modified": "2024-11-27T15:49:28",
+    "modified_gmt": "2024-11-27T23:49:28",
     "slug": "california-state-senate-confirms-nicole-elliott-as-director-of-the-department-of-cannabis-control",
     "status": "publish",
     "type": "post",

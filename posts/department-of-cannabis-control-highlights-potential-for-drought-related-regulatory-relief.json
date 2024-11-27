@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-06-02T16:56:51",
-    "updated_date": "2023-10-25T23:41:24",
+    "updated_date": "2024-11-27T23:48:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-06-02T09:56:51",
     "date_gmt": "2022-06-02T16:56:51",
     "guid": "https://cannabis.ca.gov/?p=9831",
-    "modified": "2023-10-25T16:41:24",
-    "modified_gmt": "2023-10-25T23:41:24",
+    "modified": "2024-11-27T15:48:10",
+    "modified_gmt": "2024-11-27T23:48:10",
     "slug": "department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief",
     "status": "publish",
     "type": "post",

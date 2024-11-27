@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-06-30T06:43:00",
-    "updated_date": "2023-08-11T18:40:59",
+    "updated_date": "2024-11-27T23:29:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-06-29T23:43:00",
     "date_gmt": "2018-06-30T06:43:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/new-packaging-and-labeling-resources-available/",
-    "modified": "2023-08-11T11:40:59",
-    "modified_gmt": "2023-08-11T18:40:59",
+    "modified": "2024-11-27T15:29:11",
+    "modified_gmt": "2024-11-27T23:29:11",
     "slug": "new-packaging-and-labeling-resources-available",
     "status": "publish",
     "type": "post",

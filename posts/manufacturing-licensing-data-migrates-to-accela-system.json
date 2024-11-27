@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-19T17:06:12",
-    "updated_date": "2023-11-14T20:16:39",
+    "updated_date": "2024-11-27T23:52:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-19T10:06:12",
     "date_gmt": "2023-10-19T17:06:12",
     "guid": "https://api.cannabis.ca.gov/?p=15365",
-    "modified": "2023-11-14T12:16:39",
-    "modified_gmt": "2023-11-14T20:16:39",
+    "modified": "2024-11-27T15:52:01",
+    "modified_gmt": "2024-11-27T23:52:01",
     "slug": "manufacturing-licensing-data-migrates-to-accela-system",
     "status": "publish",
     "type": "post",

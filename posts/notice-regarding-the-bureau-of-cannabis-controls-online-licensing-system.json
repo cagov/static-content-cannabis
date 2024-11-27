@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-06-12T05:21:00",
-    "updated_date": "2023-08-11T18:40:48",
+    "updated_date": "2024-11-27T23:29:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-06-11T22:21:00",
     "date_gmt": "2018-06-12T05:21:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/notice-regarding-the-bureau-of-cannabis-controls-online-licensing-system/",
-    "modified": "2023-08-11T11:40:48",
-    "modified_gmt": "2023-08-11T18:40:48",
+    "modified": "2024-11-27T15:29:36",
+    "modified_gmt": "2024-11-27T23:29:36",
     "slug": "notice-regarding-the-bureau-of-cannabis-controls-online-licensing-system",
     "status": "publish",
     "type": "post",

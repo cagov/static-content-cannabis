@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-07-10T01:39:00",
-    "updated_date": "2023-08-11T18:41:03",
+    "updated_date": "2024-11-27T23:28:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-07-09T18:39:00",
     "date_gmt": "2018-07-10T01:39:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/ca-department-of-public-health-request-for-live-scan-form-is-now-available/",
-    "modified": "2023-08-11T11:41:03",
-    "modified_gmt": "2023-08-11T18:41:03",
+    "modified": "2024-11-27T15:28:09",
+    "modified_gmt": "2024-11-27T23:28:09",
     "slug": "ca-department-of-public-health-request-for-live-scan-form-is-now-available",
     "status": "publish",
     "type": "post",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-10-20T03:38:00",
-    "updated_date": "2023-08-11T18:41:46",
+    "updated_date": "2024-11-27T23:26:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-10-19T20:38:00",
     "date_gmt": "2018-10-20T03:38:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/cannabis-control-appeals-panel-15-day-notice-of-modification-to-text-of-proposed-regulations/",
-    "modified": "2023-08-11T11:41:46",
-    "modified_gmt": "2023-08-11T18:41:46",
+    "modified": "2024-11-27T15:26:51",
+    "modified_gmt": "2024-11-27T23:26:51",
     "slug": "cannabis-control-appeals-panel-15-day-notice-of-modification-to-text-of-proposed-regulations",
     "status": "publish",
     "type": "post",

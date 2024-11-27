@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-16T19:17:04",
-    "updated_date": "2024-02-06T00:19:11",
+    "updated_date": "2024-11-27T23:44:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-16T11:17:04",
     "date_gmt": "2022-12-16T19:17:04",
     "guid": "https://api.cannabis.ca.gov/?p=12686",
-    "modified": "2024-02-05T16:19:11",
-    "modified_gmt": "2024-02-06T00:19:11",
+    "modified": "2024-11-27T15:44:02",
+    "modified_gmt": "2024-11-27T23:44:02",
     "slug": "dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery",
     "status": "publish",
     "type": "post",

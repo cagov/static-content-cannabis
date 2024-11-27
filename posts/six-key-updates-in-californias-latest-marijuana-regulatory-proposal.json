@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-06-17T04:37:00",
-    "updated_date": "2023-08-11T18:37:36",
+    "updated_date": "2024-11-27T23:23:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-06-16T21:37:00",
     "date_gmt": "2017-06-17T04:37:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/six-key-updates-in-californias-latest-marijuana-regulatory-proposal/",
-    "modified": "2023-08-11T11:37:36",
-    "modified_gmt": "2023-08-11T18:37:36",
+    "modified": "2024-11-27T15:23:52",
+    "modified_gmt": "2024-11-27T23:23:52",
     "slug": "six-key-updates-in-californias-latest-marijuana-regulatory-proposal",
     "status": "publish",
     "type": "post",

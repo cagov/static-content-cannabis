@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-01-05T07:17:00",
-    "updated_date": "2023-08-11T18:39:13",
+    "updated_date": "2024-11-27T23:33:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-01-04T23:17:00",
     "date_gmt": "2018-01-05T07:17:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/statement-from-bcc-chief-lori-ajax-regarding-federal-government-plans-to-rescind-the-cole-memo/",
-    "modified": "2023-08-11T11:39:13",
-    "modified_gmt": "2023-08-11T18:39:13",
+    "modified": "2024-11-27T15:33:00",
+    "modified_gmt": "2024-11-27T23:33:00",
     "slug": "statement-from-bcc-chief-lori-ajax-regarding-federal-government-plans-to-rescind-the-cole-memo",
     "status": "publish",
     "type": "post",

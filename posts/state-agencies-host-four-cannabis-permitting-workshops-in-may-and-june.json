@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2019-04-13T05:24:00",
-    "updated_date": "2023-11-03T23:36:09",
+    "updated_date": "2024-11-27T23:37:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2019-04-12T22:24:00",
     "date_gmt": "2019-04-13T05:24:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/state-agencies-host-four-cannabis-permitting-workshops-in-may-and-june/",
-    "modified": "2023-11-03T16:36:09",
-    "modified_gmt": "2023-11-03T23:36:09",
+    "modified": "2024-11-27T15:37:44",
+    "modified_gmt": "2024-11-27T23:37:44",
     "slug": "state-agencies-host-four-cannabis-permitting-workshops-in-may-and-june",
     "status": "publish",
     "type": "post",

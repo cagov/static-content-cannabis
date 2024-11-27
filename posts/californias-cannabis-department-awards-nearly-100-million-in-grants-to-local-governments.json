@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-06T00:30:57",
-    "updated_date": "2023-10-25T23:48:10",
+    "updated_date": "2024-11-27T23:50:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-01-05T16:30:57",
     "date_gmt": "2022-01-06T00:30:57",
     "guid": "https://cannabis.ca.gov/?p=9326",
-    "modified": "2023-10-25T16:48:10",
-    "modified_gmt": "2023-10-25T23:48:10",
+    "modified": "2024-11-27T15:50:47",
+    "modified_gmt": "2024-11-27T23:50:47",
     "slug": "californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments",
     "status": "publish",
     "type": "post",

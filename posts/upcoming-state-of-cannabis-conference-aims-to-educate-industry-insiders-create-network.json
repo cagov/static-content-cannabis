@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-09-25T23:18:00",
-    "updated_date": "2023-08-11T18:38:18",
+    "updated_date": "2024-11-27T23:21:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-09-25T16:18:00",
     "date_gmt": "2017-09-25T23:18:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/upcoming-state-of-cannabis-conference-aims-to-educate-industry-insiders-create-network/",
-    "modified": "2023-08-11T11:38:18",
-    "modified_gmt": "2023-08-11T18:38:18",
+    "modified": "2024-11-27T15:21:51",
+    "modified_gmt": "2024-11-27T23:21:51",
     "slug": "upcoming-state-of-cannabis-conference-aims-to-educate-industry-insiders-create-network",
     "status": "publish",
     "type": "post",
