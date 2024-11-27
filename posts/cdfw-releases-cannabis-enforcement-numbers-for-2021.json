@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-02-03T18:52:00",
-    "updated_date": "2023-10-25T23:46:59",
+    "updated_date": "2024-11-27T23:50:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-02-03T10:52:00",
     "date_gmt": "2022-02-03T18:52:00",
     "guid": "https://cannabis.ca.gov/?p=9401",
-    "modified": "2023-10-25T16:46:59",
-    "modified_gmt": "2023-10-25T23:46:59",
+    "modified": "2024-11-27T15:50:14",
+    "modified_gmt": "2024-11-27T23:50:14",
     "slug": "cdfw-releases-cannabis-enforcement-numbers-for-2021",
     "status": "publish",
     "type": "post",

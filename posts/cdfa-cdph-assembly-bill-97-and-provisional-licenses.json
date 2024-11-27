@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2019-08-07T06:14:00",
-    "updated_date": "2024-06-05T16:32:57",
+    "updated_date": "2024-11-27T23:35:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2019-08-06T23:14:00",
     "date_gmt": "2019-08-07T06:14:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/cdfa-cdph-assembly-bill-97-and-provisional-licenses/",
-    "modified": "2024-06-05T09:32:57",
-    "modified_gmt": "2024-06-05T16:32:57",
+    "modified": "2024-11-27T15:35:27",
+    "modified_gmt": "2024-11-27T23:35:27",
     "slug": "cdfa-cdph-assembly-bill-97-and-provisional-licenses",
     "status": "publish",
     "type": "post",

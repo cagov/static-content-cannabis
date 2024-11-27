@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-07T18:12:03",
-    "updated_date": "2023-08-11T18:14:32",
+    "updated_date": "2024-11-27T23:44:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-07T10:12:03",
     "date_gmt": "2022-12-07T18:12:03",
     "guid": "https://api.cannabis.ca.gov/?p=12567",
-    "modified": "2023-08-11T11:14:32",
-    "modified_gmt": "2023-08-11T18:14:32",
+    "modified": "2024-11-27T15:44:13",
+    "modified_gmt": "2024-11-27T23:44:13",
     "slug": "dcc-tracks-promising-equity-practices-on-new-webpage",
     "status": "publish",
     "type": "post",

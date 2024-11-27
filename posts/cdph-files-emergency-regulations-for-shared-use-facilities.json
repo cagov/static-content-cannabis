@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-04-04T04:51:00",
-    "updated_date": "2023-08-11T18:39:38",
+    "updated_date": "2024-11-27T23:31:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-04-03T21:51:00",
     "date_gmt": "2018-04-04T04:51:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/cdph-files-emergency-regulations-for-shared-use-facilities/",
-    "modified": "2023-08-11T11:39:38",
-    "modified_gmt": "2023-08-11T18:39:38",
+    "modified": "2024-11-27T15:31:40",
+    "modified_gmt": "2024-11-27T23:31:40",
     "slug": "cdph-files-emergency-regulations-for-shared-use-facilities",
     "status": "publish",
     "type": "post",

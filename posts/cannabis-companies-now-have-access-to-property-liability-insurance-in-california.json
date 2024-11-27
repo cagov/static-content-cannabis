@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2018-06-06T02:23:00",
-    "updated_date": "2023-12-13T19:21:11",
+    "updated_date": "2024-11-27T23:30:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2018-06-05T19:23:00",
     "date_gmt": "2018-06-06T02:23:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/cannabis-companies-now-have-access-to-property-liability-insurance-in-california/",
-    "modified": "2023-12-13T11:21:11",
-    "modified_gmt": "2023-12-13T19:21:11",
+    "modified": "2024-11-27T15:30:16",
+    "modified_gmt": "2024-11-27T23:30:16",
     "slug": "cannabis-companies-now-have-access-to-property-liability-insurance-in-california",
     "status": "publish",
     "type": "post",

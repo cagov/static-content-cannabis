@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2019-12-19T09:06:00",
-    "updated_date": "2023-08-11T18:46:24",
+    "updated_date": "2024-11-27T23:34:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2019-12-19T01:06:00",
     "date_gmt": "2019-12-19T09:06:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/california-cannabis-experience-survey/",
-    "modified": "2023-08-11T11:46:24",
-    "modified_gmt": "2023-08-11T18:46:24",
+    "modified": "2024-11-27T15:34:19",
+    "modified_gmt": "2024-11-27T23:34:19",
     "slug": "california-cannabis-experience-survey",
     "status": "publish",
     "type": "post",

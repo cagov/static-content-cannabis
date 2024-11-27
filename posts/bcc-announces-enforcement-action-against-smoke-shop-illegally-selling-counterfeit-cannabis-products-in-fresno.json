@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2019-09-27T07:13:00",
-    "updated_date": "2024-07-03T17:23:56",
+    "updated_date": "2024-11-27T23:35:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2019-09-27T00:13:00",
     "date_gmt": "2019-09-27T07:13:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/",
-    "modified": "2024-07-03T10:23:56",
-    "modified_gmt": "2024-07-03T17:23:56",
+    "modified": "2024-11-27T15:35:10",
+    "modified_gmt": "2024-11-27T23:35:10",
     "slug": "bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno",
     "status": "publish",
     "type": "post",

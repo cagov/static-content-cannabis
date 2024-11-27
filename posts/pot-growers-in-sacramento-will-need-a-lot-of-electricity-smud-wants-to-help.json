@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-10-24T01:34:00",
-    "updated_date": "2023-10-25T18:16:37",
+    "updated_date": "2024-11-27T23:17:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2017-10-23T18:34:00",
     "date_gmt": "2017-10-24T01:34:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/pot-growers-in-sacramento-will-need-a-lot-of-electricity-smud-wants-to-help/",
-    "modified": "2023-10-25T11:16:37",
-    "modified_gmt": "2023-10-25T18:16:37",
+    "modified": "2024-11-27T15:17:22",
+    "modified_gmt": "2024-11-27T23:17:22",
     "slug": "pot-growers-in-sacramento-will-need-a-lot-of-electricity-smud-wants-to-help",
     "status": "publish",
     "type": "post",
