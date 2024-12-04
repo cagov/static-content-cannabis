@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-11T18:45:27",
-    "updated_date": "2024-12-03T22:32:32",
+    "updated_date": "2024-12-04T18:07:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-11T11:45:27",
     "date_gmt": "2023-09-11T18:45:27",
     "guid": "https://api.cannabis.ca.gov/?p=14818",
-    "modified": "2024-12-03T14:32:32",
-    "modified_gmt": "2024-12-03T22:32:32",
+    "modified": "2024-12-04T10:07:37",
+    "modified_gmt": "2024-12-04T18:07:37",
     "slug": "key-dates-for-provisional-licenses",
     "status": "publish",
     "type": "post",
