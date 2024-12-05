@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-05T16:52:57",
-    "updated_date": "2024-12-05T16:53:03",
+    "updated_date": "2024-12-05T17:03:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-05T08:52:57",
     "date_gmt": "2024-12-05T16:52:57",
     "guid": "https://api.cannabis.ca.gov/?p=21306",
-    "modified": "2024-12-05T08:53:03",
-    "modified_gmt": "2024-12-05T16:53:03",
+    "modified": "2024-12-05T09:03:17",
+    "modified_gmt": "2024-12-05T17:03:17",
     "slug": "cru-integrated-vaporizers",
     "status": "publish",
     "type": "post",
