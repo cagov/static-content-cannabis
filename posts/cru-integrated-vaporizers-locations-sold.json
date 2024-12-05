@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2024-12-05T16:53:11",
+    "updated_date": "2024-12-05T16:53:11",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/21305",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 21305,
+    "date": "2024-12-05T08:53:11",
+    "date_gmt": "2024-12-05T16:53:11",
+    "guid": "https://api.cannabis.ca.gov/?p=21305",
+    "modified": "2024-12-05T08:53:11",
+    "modified_gmt": "2024-12-05T16:53:11",
+    "slug": "cru-integrated-vaporizers-locations-sold",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/12/cru-integrated-vaporizers-locations-sold/",
+    "title": "CRU integrated vaporizers locations sold",
+    "excerpt": "<p>This location data is related to the following recall: CRU integrated vaporizers County Legal Business Name&nbsp; License Number SANTA CRUZ CREEKSIDE WELLNESS, INC. C10-0000008-LIC STANISLAUS CALI KOSHER, INC C10-0000022-LIC RIVERSIDE PALM DESERT HWY 111 E RETAIL LLC C10-0000045-LIC SAN DIEGO VALLEY GREENS RETAIL OUTLET, INC. C10-0000076-LIC STANISLAUS VALIPLUG INC C10-0000106-LIC SAN DIEGO ECSD MANAGEMENT LLC [&hellip;]</p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "All"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/12/cru-integrated-vaporizers-locations-sold/",
+      "page_title": "CRU integrated vaporizers locations sold",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CRU integrated vaporizers locations sold",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/cru-integrated-vaporizers-locations-sold/",
+      "open_graph_title": "CRU integrated vaporizers locations sold",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "CRU integrated vaporizers locations sold",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/12/cru-integrated-vaporizers-locations-sold/"
+  }
+}
