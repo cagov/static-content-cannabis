@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-12-04T20:31:58",
-    "updated_date": "2024-12-05T22:48:43",
+    "created_date": "2024-12-05T23:01:14",
+    "updated_date": "2024-12-05T23:11:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/21293",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/21322",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,19 +14,19 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 21293,
-    "date": "2024-12-04T12:31:58",
-    "date_gmt": "2024-12-04T20:31:58",
-    "guid": "https://api.cannabis.ca.gov/?p=21293",
-    "modified": "2024-12-05T14:48:43",
-    "modified_gmt": "2024-12-05T22:48:43",
-    "slug": "kind-republic-vape-cartridges",
+    "id": 21322,
+    "date": "2024-12-05T15:01:14",
+    "date_gmt": "2024-12-05T23:01:14",
+    "guid": "https://api.cannabis.ca.gov/?p=21322",
+    "modified": "2024-12-05T15:11:11",
+    "modified_gmt": "2024-12-05T23:11:11",
+    "slug": "cru-integrated-vaporizers",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/12/kind-republic-vape-cartridges/",
-    "title": "Kind Republic vape cartridges",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple Kind Republic vape cartridge products due to potential pesticide category I and category II contamination. Recall Type Voluntary Product Type Vape Cartridge Product Description Kind Republic vape cartridges Manufactured By MBM Kosher Manufactured By License Number CDPH-10004912 Locations Sold View [&hellip;]</p>\n",
-    "author": 37,
+    "link": "https://api.cannabis.ca.gov/2024/12/cru-integrated-vaporizers/",
+    "title": "CRU integrated vaporizers",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple CRU integrated vaporizer products due to potential pesticide category I and category II contamination. Recall Type Voluntary Product Type Integrated Vaporizer Product Description CRU integrated vaporizers Manufactured By Industrial Court L11 LLC Manufactured By License Number CDPH-10002460 Locations Sold View [&hellip;]</p>\n",
+    "author": 36,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -42,9 +42,7 @@
       "Recalls and safety notices",
       "Voluntary recalls"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -59,19 +57,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/12/kind-republic-vape-cartridges/",
-      "page_title": "Kind Republic vape cartridges",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/12/cru-integrated-vaporizers/",
+      "page_title": "CRU integrated vaporizers",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Kind Republic vape cartridges",
+      "meta_title": "CRU integrated vaporizers",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/kind-republic-vape-cartridges/",
-      "open_graph_title": "Kind Republic vape cartridges",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/cru-integrated-vaporizers/",
+      "open_graph_title": "CRU integrated vaporizers",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Kind Republic vape cartridges",
+      "twitter_title": "CRU integrated vaporizers",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -108,19 +106,7 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -131,6 +117,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/12/kind-republic-vape-cartridges/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/12/cru-integrated-vaporizers/"
   }
 }
