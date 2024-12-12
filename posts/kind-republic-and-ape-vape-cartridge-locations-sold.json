@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-04T20:31:53",
-    "updated_date": "2024-12-04T20:31:53",
+    "updated_date": "2024-12-11T22:46:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-04T12:31:53",
     "date_gmt": "2024-12-04T20:31:53",
     "guid": "https://api.cannabis.ca.gov/?p=21294",
-    "modified": "2024-12-04T12:31:53",
-    "modified_gmt": "2024-12-04T20:31:53",
+    "modified": "2024-12-11T14:46:31",
+    "modified_gmt": "2024-12-11T22:46:31",
     "slug": "kind-republic-and-ape-vape-cartridge-locations-sold",
     "status": "publish",
     "type": "post",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-22T22:53:13",
-    "updated_date": "2024-11-22T23:06:15",
+    "updated_date": "2024-12-11T22:47:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-22T14:53:13",
     "date_gmt": "2024-11-22T22:53:13",
     "guid": "https://api.cannabis.ca.gov/?p=21197",
-    "modified": "2024-11-22T15:06:15",
-    "modified_gmt": "2024-11-22T23:06:15",
+    "modified": "2024-12-11T14:47:23",
+    "modified_gmt": "2024-12-11T22:47:23",
     "slug": "panda-pen-vape-cartridge-locations-sold",
     "status": "publish",
     "type": "post",

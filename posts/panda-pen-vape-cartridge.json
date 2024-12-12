@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-22T22:53:21",
-    "updated_date": "2024-11-22T23:06:19",
+    "updated_date": "2024-12-11T22:46:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-22T14:53:21",
     "date_gmt": "2024-11-22T22:53:21",
     "guid": "https://api.cannabis.ca.gov/?p=21196",
-    "modified": "2024-11-22T15:06:19",
-    "modified_gmt": "2024-11-22T23:06:19",
+    "modified": "2024-12-11T14:46:56",
+    "modified_gmt": "2024-12-11T22:46:56",
     "slug": "panda-pen-vape-cartridge",
     "status": "publish",
     "type": "post",
