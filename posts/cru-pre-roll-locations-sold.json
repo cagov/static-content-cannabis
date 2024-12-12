@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-05T22:42:47",
-    "updated_date": "2024-12-05T23:33:06",
+    "updated_date": "2024-12-11T22:43:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-05T14:42:47",
     "date_gmt": "2024-12-05T22:42:47",
     "guid": "https://api.cannabis.ca.gov/?p=21316",
-    "modified": "2024-12-05T15:33:06",
-    "modified_gmt": "2024-12-05T23:33:06",
+    "modified": "2024-12-11T14:43:37",
+    "modified_gmt": "2024-12-11T22:43:37",
     "slug": "cru-pre-roll-locations-sold",
     "status": "publish",
     "type": "post",
