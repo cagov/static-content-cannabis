@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-13T23:26:52",
-    "updated_date": "2024-12-13T23:28:07",
+    "updated_date": "2024-12-13T23:35:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-13T15:26:52",
     "date_gmt": "2024-12-13T23:26:52",
     "guid": "https://api.cannabis.ca.gov/?p=21388",
-    "modified": "2024-12-13T15:28:07",
-    "modified_gmt": "2024-12-13T23:28:07",
+    "modified": "2024-12-13T15:35:17",
+    "modified_gmt": "2024-12-13T23:35:17",
     "slug": "dixie-elixir-beverage-locations-sold",
     "status": "publish",
     "type": "post",
