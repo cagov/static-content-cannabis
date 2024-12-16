@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-16T22:20:37",
-    "updated_date": "2024-12-16T22:20:37",
+    "updated_date": "2024-12-16T22:20:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-16T14:20:37",
     "date_gmt": "2024-12-16T22:20:37",
     "guid": "https://api.cannabis.ca.gov/?p=21414",
-    "modified": "2024-12-16T14:20:37",
-    "modified_gmt": "2024-12-16T22:20:37",
+    "modified": "2024-12-16T14:20:43",
+    "modified_gmt": "2024-12-16T22:20:43",
     "slug": "connected-pre-roll-and-flower-locations-sold",
     "status": "publish",
     "type": "post",
