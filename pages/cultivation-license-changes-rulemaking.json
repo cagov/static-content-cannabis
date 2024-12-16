@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-28T22:14:30",
-    "updated_date": "2024-11-01T18:59:17",
+    "updated_date": "2024-12-16T20:35:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-28T15:14:30",
     "date_gmt": "2024-10-28T22:14:30",
     "guid": "https://api.cannabis.ca.gov/?page_id=21001",
-    "modified": "2024-11-01T11:59:17",
-    "modified_gmt": "2024-11-01T18:59:17",
+    "modified": "2024-12-16T12:35:58",
+    "modified_gmt": "2024-12-16T20:35:58",
     "slug": "cultivation-license-changes-rulemaking",
     "status": "publish",
     "type": "page",
@@ -41,7 +41,9 @@
     "categories": [
       "Rulemaking"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-rulemaking/"
