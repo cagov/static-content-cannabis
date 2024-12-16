@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "created_date": "2024-12-16T19:22:16",
+    "updated_date": "2024-12-16T19:22:22",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/21407",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 21407,
+    "date": "2024-12-16T11:22:16",
+    "date_gmt": "2024-12-16T19:22:16",
+    "guid": "https://api.cannabis.ca.gov/?p=21407",
+    "modified": "2024-12-16T11:22:22",
+    "modified_gmt": "2024-12-16T19:22:22",
+    "slug": "californias-cannabis-task-force-seizes-over-19-million-in-illegal-cannabis-and-products-in-recent-operations",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/12/californias-cannabis-task-force-seizes-over-19-million-in-illegal-cannabis-and-products-in-recent-operations/",
+    "title": "California’s cannabis task force seizes over $19 million in illegal cannabis and products in recent operations",
+    "excerpt": "<p>SACRAMENTO – Continuing the state’s efforts to address the illegal cannabis market, Governor Gavin Newsom today announced California’s Unified Cannabis Enforcement Taskforce (UCETF) recently seized a combined total of more than $19 million of illegally grown cannabis and illegally manufactured cannabis products during concurrent operations in Oakland and Hayward. Related announcements</p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Announcements",
+      "UCETF"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/12/californias-cannabis-task-force-seizes-over-19-million-in-illegal-cannabis-and-products-in-recent-operations/",
+      "page_title": "California’s cannabis task force seizes over $19 million in illegal cannabis and products in recent operations",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "California’s cannabis task force seizes over $19 million in illegal cannabis and products in recent operations",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/californias-cannabis-task-force-seizes-over-19-million-in-illegal-cannabis-and-products-in-recent-operations/",
+      "open_graph_title": "California’s cannabis task force seizes over $19 million in illegal cannabis and products in recent operations",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "California’s cannabis task force seizes over $19 million in illegal cannabis and products in recent operations",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 884,
+        "name": "UCETF",
+        "slug": "ucetf",
+        "term_group": 0,
+        "term_taxonomy_id": 884,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 884,
+        "category_description": "",
+        "cat_name": "UCETF",
+        "category_nicename": "ucetf",
+        "category_parent": 14
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/12/californias-cannabis-task-force-seizes-over-19-million-in-illegal-cannabis-and-products-in-recent-operations/"
+  }
+}
