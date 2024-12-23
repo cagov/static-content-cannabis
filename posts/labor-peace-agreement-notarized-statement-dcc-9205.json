@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-03T19:40:47",
-    "updated_date": "2024-06-19T21:48:09",
+    "updated_date": "2024-12-23T23:07:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-03T12:40:47",
     "date_gmt": "2023-11-03T19:40:47",
     "guid": "https://api.cannabis.ca.gov/?p=15843",
-    "modified": "2024-06-19T14:48:09",
-    "modified_gmt": "2024-06-19T21:48:09",
+    "modified": "2024-12-23T15:07:35",
+    "modified_gmt": "2024-12-23T23:07:35",
     "slug": "labor-peace-agreement-notarized-statement-dcc-9205",
     "status": "publish",
     "type": "post",
@@ -44,8 +44,7 @@
     ],
     "tags": [
       "form",
-      "labor peace",
-      "latest updates"
+      "labor peace"
     ],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -128,17 +127,6 @@
         "slug": "labor-peace",
         "term_group": 0,
         "term_taxonomy_id": 926,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 922,
-        "name": "latest updates",
-        "slug": "latest-updates",
-        "term_group": 0,
-        "term_taxonomy_id": 922,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
