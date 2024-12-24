@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2024-12-24T00:47:02",
+    "updated_date": "2024-12-24T00:55:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/responsible-cannabis-use/",
-    "modified": "2024-12-23T16:47:02",
-    "modified_gmt": "2024-12-24T00:47:02",
+    "modified": "2024-12-23T16:55:41",
+    "modified_gmt": "2024-12-24T00:55:41",
     "slug": "responsible-cannabis-use",
     "status": "publish",
     "type": "page",
@@ -42,7 +42,7 @@
       "Product safety"
     ],
     "tags": [
-      "staging"
+      "latest updates"
     ],
     "design_system_fields": {
       "template": "template-page"
@@ -93,11 +93,11 @@
     ],
     "headless_tags": [
       {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
+        "term_id": 922,
+        "name": "latest updates",
+        "slug": "latest-updates",
         "term_group": 0,
-        "term_taxonomy_id": 797,
+        "term_taxonomy_id": 922,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
