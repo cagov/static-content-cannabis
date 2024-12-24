@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2024-12-24T00:20:55",
+    "updated_date": "2024-12-24T00:47:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/responsible-cannabis-use/",
-    "modified": "2024-12-23T16:20:55",
-    "modified_gmt": "2024-12-24T00:20:55",
+    "modified": "2024-12-23T16:47:02",
+    "modified_gmt": "2024-12-24T00:47:02",
     "slug": "responsible-cannabis-use",
     "status": "publish",
     "type": "page",
