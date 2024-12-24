@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "created_date": "2024-12-24T21:31:48",
+    "updated_date": "2024-12-24T21:31:53",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/21531",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 21531,
+    "date": "2024-12-24T13:31:48",
+    "date_gmt": "2024-12-24T21:31:48",
+    "guid": "https://api.cannabis.ca.gov/?p=21531",
+    "modified": "2024-12-24T13:31:53",
+    "modified_gmt": "2024-12-24T21:31:53",
+    "slug": "sb-540-retailer-requirements",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/12/sb-540-retailer-requirements/",
+    "title": "SB 540 retailer requirements",
+    "excerpt": "<p>On and after March 1, 2025, a retailer, or microbusiness with listed retail activities, shall display this brochure, including printed copies, at the point of sale or final delivery in person and online at time of online purchases, and offer each new consumer a copy of the brochure.   SB 540 overview Senate Bill 540 (SB [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "All"
+    ],
+    "tags": [
+      "sb540",
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/12/sb-540-retailer-requirements/",
+      "page_title": "SB 540 retailer requirements",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "SB 540 retailer requirements",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/sb-540-retailer-requirements/",
+      "open_graph_title": "SB 540 retailer requirements",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "SB 540 retailer requirements",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 988,
+        "name": "sb540",
+        "slug": "sb540",
+        "term_group": 0,
+        "term_taxonomy_id": 988,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/12/sb-540-retailer-requirements/"
+  }
+}
