@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-24T21:31:48",
-    "updated_date": "2024-12-24T21:35:04",
+    "updated_date": "2024-12-24T21:40:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-24T13:31:48",
     "date_gmt": "2024-12-24T21:31:48",
     "guid": "https://api.cannabis.ca.gov/?p=21531",
-    "modified": "2024-12-24T13:35:04",
-    "modified_gmt": "2024-12-24T21:35:04",
+    "modified": "2024-12-24T13:40:42",
+    "modified_gmt": "2024-12-24T21:40:42",
     "slug": "sb-540-retailer-requirements",
     "status": "publish",
     "type": "post",
