@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-06T23:17:33",
-    "updated_date": "2024-11-06T23:40:14",
+    "updated_date": "2024-12-24T17:12:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-06T15:17:33",
     "date_gmt": "2024-11-06T23:17:33",
     "guid": "https://api.cannabis.ca.gov/?p=21106",
-    "modified": "2024-11-06T15:40:14",
-    "modified_gmt": "2024-11-06T23:40:14",
+    "modified": "2024-12-24T09:12:02",
+    "modified_gmt": "2024-12-24T17:12:02",
     "slug": "request-for-participation-market-research-questionnaire",
     "status": "publish",
     "type": "post",
