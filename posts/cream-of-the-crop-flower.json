@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-31T19:56:04",
-    "updated_date": "2024-12-31T22:58:38",
+    "updated_date": "2024-12-31T23:08:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-31T11:56:04",
     "date_gmt": "2024-12-31T19:56:04",
     "guid": "https://api.cannabis.ca.gov/?p=21630",
-    "modified": "2024-12-31T14:58:38",
-    "modified_gmt": "2024-12-31T22:58:38",
+    "modified": "2024-12-31T15:08:12",
+    "modified_gmt": "2024-12-31T23:08:12",
     "slug": "cream-of-the-crop-flower",
     "status": "publish",
     "type": "post",
