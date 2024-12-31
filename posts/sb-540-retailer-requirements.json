@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-24T21:31:48",
-    "updated_date": "2024-12-31T17:41:08",
+    "updated_date": "2024-12-31T17:51:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-12-24T13:31:48",
     "date_gmt": "2024-12-24T21:31:48",
     "guid": "https://api.cannabis.ca.gov/?p=21531",
-    "modified": "2024-12-31T09:41:08",
-    "modified_gmt": "2024-12-31T17:41:08",
+    "modified": "2024-12-31T09:51:07",
+    "modified_gmt": "2024-12-31T17:51:07",
     "slug": "sb-540-retailer-requirements",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2024/12/sb-540-retailer-requirements/",
     "title": "SB 540 retailer requirements",
-    "excerpt": "<p>On and after March 1, 2025, a retailer, or microbusiness with listed retail activities, shall display this brochure, including printed copies, at the point of sale or final delivery in person and online at time of online purchases, and offer each new consumer a copy of the brochure.&nbsp;&nbsp; SB 540 overview Senate Bill 540 (SB [&hellip;]</p>\n",
+    "excerpt": "<p>On and after March 1, 2025, a retailer, or microbusiness with listed retail activities, shall display this brochure, including printed copies, at the point of sale or final delivery in person and online at time of online purchases, and offer each new consumer a copy of the brochure.  </p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -42,6 +42,7 @@
       "Retail"
     ],
     "tags": [
+      "latest updates",
       "sb540"
     ],
     "design_system_fields": {
@@ -60,18 +61,18 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2024/12/sb-540-retailer-requirements/",
       "page_title": "SB 540 retailer requirements",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "On and after March 1, 2025, a retailer, or microbusiness with listed retail activities, shall display this brochure, including printed copies, at the point of sale or final delivery in person and online at time of online purchases, and offer each new consumer a copy of the brochure.  ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "SB 540 retailer requirements",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "On and after March 1, 2025, a retailer, or microbusiness with listed retail activities, shall display this brochure, including printed copies, at the point of sale or final delivery in person and online at time of online purchases, and offer each new consumer a copy of the brochure.  ",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/sb-540-retailer-requirements/",
       "open_graph_title": "SB 540 retailer requirements",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "On and after March 1, 2025, a retailer, or microbusiness with listed retail activities, shall display this brochure, including printed copies, at the point of sale or final delivery in person and online at time of online purchases, and offer each new consumer a copy of the brochure.  ",
       "twitter_title": "SB 540 retailer requirements",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "On and after March 1, 2025, a retailer, or microbusiness with listed retail activities, shall display this brochure, including printed copies, at the point of sale or final delivery in person and online at time of online purchases, and offer each new consumer a copy of the brochure.  "
     },
     "headless_categories": [
       {
@@ -92,6 +93,17 @@
       }
     ],
     "headless_tags": [
+      {
+        "term_id": 922,
+        "name": "latest updates",
+        "slug": "latest-updates",
+        "term_group": 0,
+        "term_taxonomy_id": 922,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
       {
         "term_id": 988,
         "name": "sb540",
