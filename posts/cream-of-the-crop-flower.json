@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-31T19:56:04",
-    "updated_date": "2024-12-31T19:56:09",
+    "updated_date": "2024-12-31T22:38:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-12-31T11:56:04",
     "date_gmt": "2024-12-31T19:56:04",
     "guid": "https://api.cannabis.ca.gov/?p=21630",
-    "modified": "2024-12-31T11:56:09",
-    "modified_gmt": "2024-12-31T19:56:09",
-    "slug": "moroccan-peaches-flower",
+    "modified": "2024-12-31T14:38:16",
+    "modified_gmt": "2024-12-31T22:38:16",
+    "slug": "cream-of-the-crop-flower",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/12/moroccan-peaches-flower/",
-    "title": "Moroccan Peaches flower",
+    "link": "https://api.cannabis.ca.gov/2024/12/cream-of-the-crop-flower/",
+    "title": "Cream of the Crop Flower",
     "excerpt": "<p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple Moroccan Peaches flower product(s) due to the presence of Aspergillus spp., and due to inaccurate labeling, that reports more cannabinoid content than the products contain.</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -58,19 +58,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/12/moroccan-peaches-flower/",
-      "page_title": "Moroccan Peaches flower",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/12/cream-of-the-crop-flower/",
+      "page_title": "Cream of the Crop Flower",
       "page_description": "The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple Moroccan Peaches flower product(s) due to the presence of Aspergillus spp., and due to inaccurate labeling, that reports more cannabinoid content than the products contain.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Moroccan Peaches flower",
+      "meta_title": "Cream of the Crop Flower",
       "meta_description": "The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple Moroccan Peaches flower product(s) due to the presence of Aspergillus spp., and due to inaccurate labeling, that reports more cannabinoid content than the products contain.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/moroccan-peaches-flower/",
-      "open_graph_title": "Moroccan Peaches flower",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/cream-of-the-crop-flower/",
+      "open_graph_title": "Cream of the Crop Flower",
       "open_graph_description": "The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple Moroccan Peaches flower product(s) due to the presence of Aspergillus spp., and due to inaccurate labeling, that reports more cannabinoid content than the products contain.",
-      "twitter_title": "Moroccan Peaches flower",
+      "twitter_title": "Cream of the Crop Flower",
       "twitter_description": "The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple Moroccan Peaches flower product(s) due to the presence of Aspergillus spp., and due to inaccurate labeling, that reports more cannabinoid content than the products contain."
     },
     "headless_categories": [
@@ -114,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/12/moroccan-peaches-flower/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/12/cream-of-the-crop-flower/"
   }
 }
