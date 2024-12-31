@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-24T21:31:48",
-    "updated_date": "2024-12-24T21:40:42",
+    "updated_date": "2024-12-31T16:57:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-24T13:31:48",
     "date_gmt": "2024-12-24T21:31:48",
     "guid": "https://api.cannabis.ca.gov/?p=21531",
-    "modified": "2024-12-24T13:40:42",
-    "modified_gmt": "2024-12-24T21:40:42",
+    "modified": "2024-12-31T08:57:32",
+    "modified_gmt": "2024-12-31T16:57:32",
     "slug": "sb-540-retailer-requirements",
     "status": "publish",
     "type": "post",
@@ -39,11 +39,10 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "Retail"
     ],
     "tags": [
-      "sb540",
-      "staging"
+      "sb540"
     ],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -76,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 895,
+        "name": "Retail",
+        "slug": "retail",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 895,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 890,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 895,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
+        "cat_name": "Retail",
+        "category_nicename": "retail",
+        "category_parent": 890
       }
     ],
     "headless_tags": [
@@ -99,17 +98,6 @@
         "slug": "sb540",
         "term_group": 0,
         "term_taxonomy_id": 988,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
