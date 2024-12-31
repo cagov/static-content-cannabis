@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-06T20:25:34",
-    "updated_date": "2024-05-07T16:32:52",
+    "updated_date": "2024-12-31T00:27:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-06T13:25:34",
     "date_gmt": "2024-05-06T20:25:34",
     "guid": "https://api.cannabis.ca.gov/?page_id=18154",
-    "modified": "2024-05-07T09:32:52",
-    "modified_gmt": "2024-05-07T16:32:52",
+    "modified": "2024-12-30T16:27:04",
+    "modified_gmt": "2024-12-31T00:27:04",
     "slug": "canndescent-california-100-whole-flower-pre-rolls",
     "status": "publish",
     "type": "page",

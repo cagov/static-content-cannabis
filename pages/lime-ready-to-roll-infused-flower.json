@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-11T22:03:42",
-    "updated_date": "2024-09-12T22:56:29",
+    "updated_date": "2024-12-31T00:16:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-11T15:03:42",
     "date_gmt": "2024-09-11T22:03:42",
     "guid": "https://api.cannabis.ca.gov/?page_id=20026",
-    "modified": "2024-09-12T15:56:29",
-    "modified_gmt": "2024-09-12T22:56:29",
+    "modified": "2024-12-30T16:16:56",
+    "modified_gmt": "2024-12-31T00:16:56",
     "slug": "lime-ready-to-roll-infused-flower",
     "status": "publish",
     "type": "page",
@@ -42,7 +42,9 @@
       "Mandatory recalls",
       "Recalls and safety notices"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -106,7 +108,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/lime-ready-to-roll-infused-flower/"

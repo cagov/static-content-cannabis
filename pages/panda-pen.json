@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-29T01:23:45",
-    "updated_date": "2024-03-04T22:10:41",
+    "updated_date": "2024-12-31T00:32:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-02-28T17:23:45",
     "date_gmt": "2024-02-29T01:23:45",
     "guid": "https://api.cannabis.ca.gov/?page_id=17436",
-    "modified": "2024-03-04T14:10:41",
-    "modified_gmt": "2024-03-04T22:10:41",
+    "modified": "2024-12-30T16:32:01",
+    "modified_gmt": "2024-12-31T00:32:01",
     "slug": "panda-pen",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/panda-pen/",
     "title": "Panda PEN: 1 ML Premium Disposable Cartridges",
-    "excerpt": "<p>Recall overview&nbsp; Modern Leaf Culture issued a voluntary recall due to obstruction of the informational label of its Panda PEN 1 ML Premium Disposable Cartridge products.&nbsp; Business Recall Date&nbsp; 2/15/2024&nbsp; DCC Recall Publication Date&nbsp; 3/4/2024  Recall type&nbsp; Voluntary&nbsp; Product Type&nbsp; Vape Cartridge&nbsp;&nbsp; Product Description&nbsp; Panda PEN 1 ML Premium Disposable Cartridge&nbsp; Packaged By&nbsp; DGU, LLC&nbsp; [&hellip;]</p>\n",
+    "excerpt": "<p>Recall overview&nbsp; Modern Leaf Culture issued a voluntary recall due to obstruction of the informational label of its Panda PEN 1 ML Premium Disposable Cartridge products.&nbsp; Business Recall Date&nbsp; 2/15/2024&nbsp; DCC Recall Publication Date&nbsp; 3/4/2024&nbsp; Recall type&nbsp; Voluntary&nbsp; Product Type&nbsp; Vape Cartridge&nbsp;&nbsp; Product Description&nbsp; Panda PEN 1 ML Premium Disposable Cartridge&nbsp; Packaged By&nbsp; DGU, LLC&nbsp; [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
     "parent": 9345,
@@ -41,7 +41,9 @@
     "categories": [
       "Voluntary recalls"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -89,7 +91,19 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/panda-pen/"

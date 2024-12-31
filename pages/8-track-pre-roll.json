@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-17T18:32:22",
-    "updated_date": "2024-04-19T20:59:42",
+    "updated_date": "2024-12-31T00:27:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-04-17T11:32:22",
     "date_gmt": "2024-04-17T18:32:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=17983",
-    "modified": "2024-04-19T13:59:42",
-    "modified_gmt": "2024-04-19T20:59:42",
+    "modified": "2024-12-30T16:27:43",
+    "modified_gmt": "2024-12-31T00:27:43",
     "slug": "8-track-pre-roll",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-track-pre-roll/",
     "title": "8 TRACK 1.0 gram Pre-Roll",
-    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall for a single 8 TRACK 1.0 Gram Pre-Roll product due to the presence of Aspergillus niger and Aspergillus flavus, and due to inaccurate labeling, that reports more THC than the product contains.  DCC Recall Publication Date April 19, 2024 Recall Type Mandatory Product [&hellip;]</p>\n",
+    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall for a single 8 TRACK 1.0 Gram Pre-Roll product&nbsp;due to the presence of Aspergillus niger and Aspergillus flavus, and due to inaccurate labeling, that reports more THC than the product contains.&nbsp; DCC Recall Publication Date April 19, 2024 Recall Type Mandatory Product [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 9345,
@@ -41,7 +41,9 @@
     "categories": [
       "Mandatory recalls"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -89,7 +91,19 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-track-pre-roll/"

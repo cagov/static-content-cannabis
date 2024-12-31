@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-27T19:03:47",
-    "updated_date": "2024-10-01T17:30:28",
+    "updated_date": "2024-12-30T23:50:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-27T12:03:47",
     "date_gmt": "2024-09-27T19:03:47",
     "guid": "https://api.cannabis.ca.gov/?page_id=20309",
-    "modified": "2024-10-01T10:30:28",
-    "modified_gmt": "2024-10-01T17:30:28",
+    "modified": "2024-12-30T15:50:21",
+    "modified_gmt": "2024-12-30T23:50:21",
     "slug": "flower-products-packaged-by-higher-ground-holdings-llc",
     "status": "publish",
     "type": "page",

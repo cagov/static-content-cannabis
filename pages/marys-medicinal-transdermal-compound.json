@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-29T20:14:32",
-    "updated_date": "2024-04-30T21:19:44",
+    "updated_date": "2024-12-31T00:27:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-04-29T13:14:32",
     "date_gmt": "2024-04-29T20:14:32",
     "guid": "https://api.cannabis.ca.gov/?page_id=18084",
-    "modified": "2024-04-30T14:19:44",
-    "modified_gmt": "2024-04-30T21:19:44",
+    "modified": "2024-12-30T16:27:18",
+    "modified_gmt": "2024-12-31T00:27:18",
     "slug": "marys-medicinal-transdermal-compound",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/marys-medicinal-transdermal-compound/",
     "title": "Mary’s Medicinal Transdermal Compound ",
-    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this voluntary recall for a single Mary’s Medicinal Transdermal Compound product due to inaccurate labeling that reports more cannabinoid content than the product contains.   Business Recall Date 4/30/2024 DCC Recall Publication Date 4/30/2024 Recall Type Voluntary Product Type Cannabis Topical Product Description Mary’s Medicinal Transdermal [&hellip;]</p>\n",
+    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this voluntary recall for a single Mary’s Medicinal Transdermal Compound product due to inaccurate labeling that reports more cannabinoid content than the product contains.&nbsp;&nbsp; Business Recall Date 4/30/2024 DCC Recall Publication Date 4/30/2024 Recall Type Voluntary Product Type Cannabis Topical Product Description Mary’s Medicinal Transdermal [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 9345,
@@ -42,7 +42,9 @@
       "Recalls and safety notices",
       "Voluntary recalls"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -106,7 +108,19 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/marys-medicinal-transdermal-compound/"
