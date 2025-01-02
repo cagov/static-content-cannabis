@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-16T19:36:45",
-    "updated_date": "2025-01-02T18:37:47",
+    "updated_date": "2025-01-02T19:21:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-16T11:36:45",
     "date_gmt": "2023-11-16T19:36:45",
     "guid": "https://api.cannabis.ca.gov/?page_id=16046",
-    "modified": "2025-01-02T10:37:47",
-    "modified_gmt": "2025-01-02T18:37:47",
+    "modified": "2025-01-02T11:21:00",
+    "modified_gmt": "2025-01-02T19:21:00",
     "slug": "left-coast-llc-lil-leftys",
     "status": "publish",
     "type": "page",
