@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-16T22:57:30",
-    "updated_date": "2024-10-29T20:41:53",
+    "updated_date": "2025-01-02T18:15:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-16T15:57:30",
     "date_gmt": "2024-10-16T22:57:30",
     "guid": "https://api.cannabis.ca.gov/?p=20984",
-    "modified": "2024-10-29T13:41:53",
-    "modified_gmt": "2024-10-29T20:41:53",
+    "modified": "2025-01-02T10:15:43",
+    "modified_gmt": "2025-01-02T18:15:43",
     "slug": "all-integrated-vaporizers-and-vape-cartridges-manufactured-by-k-u-s-h-collective",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
     "categories": [
       "Recalls and safety notices"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,

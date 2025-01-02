@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-02T16:49:00",
-    "updated_date": "2024-07-03T17:59:02",
+    "updated_date": "2025-01-02T18:16:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-02T09:49:00",
     "date_gmt": "2024-07-02T16:49:00",
     "guid": "https://api.cannabis.ca.gov/?p=18673",
-    "modified": "2024-07-03T10:59:02",
-    "modified_gmt": "2024-07-03T17:59:02",
+    "modified": "2025-01-02T10:16:00",
+    "modified_gmt": "2025-01-02T18:16:00",
     "slug": "wcc-curepen-premium-thc-oil-vape-cartridge",
     "status": "publish",
     "type": "post",
@@ -43,7 +43,6 @@
     ],
     "tags": [
       "cannabis flower",
-      "staging",
       "west coast cure"
     ],
     "design_system_fields": {
@@ -100,17 +99,6 @@
         "slug": "cannabis-flower",
         "term_group": 0,
         "term_taxonomy_id": 778,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,

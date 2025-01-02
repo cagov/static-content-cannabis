@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-12T16:51:00",
-    "updated_date": "2024-07-03T18:00:37",
+    "updated_date": "2025-01-02T18:18:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-12T09:51:00",
     "date_gmt": "2024-06-12T16:51:00",
     "guid": "https://api.cannabis.ca.gov/?p=18675",
-    "modified": "2024-07-03T11:00:37",
-    "modified_gmt": "2024-07-03T18:00:37",
+    "modified": "2025-01-02T10:18:07",
+    "modified_gmt": "2025-01-02T18:18:07",
     "slug": "west-coast-cure-premium-cure-flower",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,6 @@
       "Voluntary recalls"
     ],
     "tags": [
-      "staging",
       "west coast cure"
     ],
     "design_system_fields": {
@@ -93,17 +92,6 @@
       }
     ],
     "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
       {
         "term_id": 928,
         "name": "west coast cure",

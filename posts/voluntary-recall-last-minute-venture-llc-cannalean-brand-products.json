@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-24T19:19:04",
-    "updated_date": "2024-12-30T23:54:11",
+    "updated_date": "2025-01-02T18:18:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-24T12:19:04",
     "date_gmt": "2023-07-24T19:19:04",
     "guid": "https://api.cannabis.ca.gov/?p=14191",
-    "modified": "2024-12-30T15:54:11",
-    "modified_gmt": "2024-12-30T23:54:11",
+    "modified": "2025-01-02T10:18:16",
+    "modified_gmt": "2025-01-02T18:18:16",
     "slug": "voluntary-recall-last-minute-venture-llc-cannalean-brand-products",
     "status": "publish",
     "type": "post",
@@ -43,7 +43,6 @@
       "Voluntary recalls"
     ],
     "tags": [
-      "staging",
       "tinctures"
     ],
     "design_system_fields": {
@@ -110,17 +109,6 @@
       }
     ],
     "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
       {
         "term_id": 929,
         "name": "tinctures",
