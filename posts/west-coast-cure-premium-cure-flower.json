@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-12T16:51:00",
-    "updated_date": "2025-01-02T18:18:07",
+    "updated_date": "2025-01-02T19:12:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-06-12T09:51:00",
     "date_gmt": "2024-06-12T16:51:00",
     "guid": "https://api.cannabis.ca.gov/?p=18675",
-    "modified": "2025-01-02T10:18:07",
-    "modified_gmt": "2025-01-02T18:18:07",
+    "modified": "2025-01-02T11:12:49",
+    "modified_gmt": "2025-01-02T19:12:49",
     "slug": "west-coast-cure-premium-cure-flower",
     "status": "publish",
     "type": "post",

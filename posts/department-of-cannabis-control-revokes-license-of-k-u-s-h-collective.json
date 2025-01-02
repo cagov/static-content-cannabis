@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-16T23:15:01",
-    "updated_date": "2024-10-25T23:42:28",
+    "updated_date": "2025-01-02T19:09:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-16T16:15:01",
     "date_gmt": "2024-10-16T23:15:01",
     "guid": "https://api.cannabis.ca.gov/?p=20866",
-    "modified": "2024-10-25T16:42:28",
-    "modified_gmt": "2024-10-25T23:42:28",
+    "modified": "2025-01-02T11:09:54",
+    "modified_gmt": "2025-01-02T19:09:54",
     "slug": "department-of-cannabis-control-revokes-license-of-k-u-s-h-collective",
     "status": "publish",
     "type": "post",
