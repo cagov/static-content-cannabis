@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2025-01-02T18:32:52",
+    "updated_date": "2025-01-02T18:41:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/contact-us/",
-    "modified": "2025-01-02T10:32:52",
-    "modified_gmt": "2025-01-02T18:32:52",
+    "modified": "2025-01-02T10:41:35",
+    "modified_gmt": "2025-01-02T18:41:35",
     "slug": "contact-us",
     "status": "publish",
     "type": "page",

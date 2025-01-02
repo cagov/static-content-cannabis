@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-07T19:33:21",
-    "updated_date": "2024-10-18T17:22:02",
+    "updated_date": "2025-01-02T18:39:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-07T12:33:21",
     "date_gmt": "2024-10-07T19:33:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=20538",
-    "modified": "2024-10-18T10:22:02",
-    "modified_gmt": "2024-10-18T17:22:02",
+    "modified": "2025-01-02T10:39:19",
+    "modified_gmt": "2025-01-02T18:39:19",
     "slug": "west-coast-cure-pre-roll-integrated-vaporizer-and-vape-cartridge-products",
     "status": "publish",
     "type": "page",

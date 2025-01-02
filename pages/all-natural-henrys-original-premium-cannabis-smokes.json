@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-18T19:24:32",
-    "updated_date": "2024-09-19T20:57:32",
+    "updated_date": "2025-01-02T18:34:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-18T12:24:32",
     "date_gmt": "2024-09-18T19:24:32",
     "guid": "https://api.cannabis.ca.gov/?page_id=20145",
-    "modified": "2024-09-19T13:57:32",
-    "modified_gmt": "2024-09-19T20:57:32",
+    "modified": "2025-01-02T10:34:20",
+    "modified_gmt": "2025-01-02T18:34:20",
     "slug": "all-natural-henrys-original-premium-cannabis-smokes",
     "status": "publish",
     "type": "page",

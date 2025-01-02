@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-08T23:13:43",
-    "updated_date": "2024-05-10T02:51:12",
+    "updated_date": "2025-01-02T18:35:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-08T16:13:43",
     "date_gmt": "2024-05-08T23:13:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=18176",
-    "modified": "2024-05-09T19:51:12",
-    "modified_gmt": "2024-05-10T02:51:12",
+    "modified": "2025-01-02T10:35:01",
+    "modified_gmt": "2025-01-02T18:35:01",
     "slug": "cali-kosher-flower",
     "status": "publish",
     "type": "page",

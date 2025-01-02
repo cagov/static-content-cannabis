@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-17T15:33:26",
-    "updated_date": "2024-10-23T19:57:47",
+    "updated_date": "2025-01-02T18:37:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-17T08:33:26",
     "date_gmt": "2024-10-17T15:33:26",
     "guid": "https://api.cannabis.ca.gov/?page_id=20864",
-    "modified": "2024-10-23T12:57:47",
-    "modified_gmt": "2024-10-23T19:57:47",
+    "modified": "2025-01-02T10:37:33",
+    "modified_gmt": "2025-01-02T18:37:33",
     "slug": "josh-wax-pre-roll-multipack-pre-roll",
     "status": "publish",
     "type": "page",

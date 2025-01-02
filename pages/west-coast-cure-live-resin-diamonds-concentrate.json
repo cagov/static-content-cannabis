@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-29T18:53:56",
-    "updated_date": "2024-08-29T22:53:02",
+    "updated_date": "2025-01-02T18:39:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-29T11:53:56",
     "date_gmt": "2024-08-29T18:53:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=19658",
-    "modified": "2024-08-29T15:53:02",
-    "modified_gmt": "2024-08-29T22:53:02",
+    "modified": "2025-01-02T10:39:12",
+    "modified_gmt": "2025-01-02T18:39:12",
     "slug": "west-coast-cure-live-resin-diamonds-concentrate",
     "status": "publish",
     "type": "page",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-08T22:24:36",
-    "updated_date": "2024-10-16T17:08:47",
+    "updated_date": "2025-01-02T18:34:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-08T15:24:36",
     "date_gmt": "2024-10-08T22:24:36",
     "guid": "https://api.cannabis.ca.gov/?page_id=20647",
-    "modified": "2024-10-16T10:08:47",
-    "modified_gmt": "2024-10-16T17:08:47",
+    "modified": "2025-01-02T10:34:58",
+    "modified_gmt": "2025-01-02T18:34:58",
     "slug": "cali-heights-integrated-vaporizer-and-vape-cartridge",
     "status": "publish",
     "type": "page",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-29T20:31:02",
-    "updated_date": "2024-08-29T22:47:55",
+    "updated_date": "2025-01-02T18:36:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-29T13:31:02",
     "date_gmt": "2024-08-29T20:31:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=19656",
-    "modified": "2024-08-29T15:47:55",
-    "modified_gmt": "2024-08-29T22:47:55",
+    "modified": "2025-01-02T10:36:50",
+    "modified_gmt": "2025-01-02T18:36:50",
     "slug": "8-29-24-curepen-premium-thc-oil-vape-cartridge",
     "status": "publish",
     "type": "page",

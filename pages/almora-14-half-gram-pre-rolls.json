@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-20T17:29:25",
-    "updated_date": "2024-03-21T21:55:11",
+    "updated_date": "2025-01-02T18:34:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-20T10:29:25",
     "date_gmt": "2024-03-20T17:29:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=17738",
-    "modified": "2024-03-21T14:55:11",
-    "modified_gmt": "2024-03-21T21:55:11",
+    "modified": "2025-01-02T10:34:25",
+    "modified_gmt": "2025-01-02T18:34:25",
     "slug": "almora-14-half-gram-pre-rolls",
     "status": "publish",
     "type": "page",

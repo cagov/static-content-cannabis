@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-08T15:21:54",
-    "updated_date": "2024-08-08T19:46:27",
+    "updated_date": "2025-01-02T18:34:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-08T08:21:54",
     "date_gmt": "2024-08-08T15:21:54",
     "guid": "https://api.cannabis.ca.gov/?page_id=19317",
-    "modified": "2024-08-08T12:46:27",
-    "modified_gmt": "2024-08-08T19:46:27",
+    "modified": "2025-01-02T10:34:34",
+    "modified_gmt": "2025-01-02T18:34:34",
     "slug": "almora-naturally-better-single-origin-cannabis-flower",
     "status": "publish",
     "type": "page",
