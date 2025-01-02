@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-23T22:07:55",
-    "updated_date": "2024-11-25T16:15:35",
+    "updated_date": "2025-01-02T18:39:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-23T15:07:55",
     "date_gmt": "2024-07-23T22:07:55",
     "guid": "https://api.cannabis.ca.gov/?page_id=18968",
-    "modified": "2024-11-25T08:15:35",
-    "modified_gmt": "2024-11-25T16:15:35",
+    "modified": "2025-01-02T10:39:44",
+    "modified_gmt": "2025-01-02T18:39:44",
     "slug": "bakeshop-recall",
     "status": "publish",
     "type": "page",
@@ -39,9 +39,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -72,19 +70,7 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/bakeshop-recall/"

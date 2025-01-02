@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-17T15:33:26",
-    "updated_date": "2024-12-30T23:51:52",
+    "updated_date": "2025-01-02T18:37:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-17T08:33:26",
     "date_gmt": "2024-10-17T15:33:26",
     "guid": "https://api.cannabis.ca.gov/?page_id=20864",
-    "modified": "2024-12-30T15:51:52",
-    "modified_gmt": "2024-12-30T23:51:52",
+    "modified": "2025-01-02T10:37:33",
+    "modified_gmt": "2025-01-02T18:37:33",
     "slug": "josh-wax-pre-roll-multipack-pre-roll",
     "status": "publish",
     "type": "page",
@@ -42,9 +42,7 @@
       "Recalls and safety notices",
       "Voluntary recalls"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -108,19 +106,7 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/josh-wax-pre-roll-multipack-pre-roll/"
