@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-12-05T22:48:39",
-    "updated_date": "2025-01-02T18:14:00",
+    "created_date": "2024-10-10T22:59:21",
+    "updated_date": "2025-01-02T18:15:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/21318",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/20986",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,20 +14,20 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 21318,
-    "date": "2024-12-05T14:48:39",
-    "date_gmt": "2024-12-05T22:48:39",
-    "guid": "https://api.cannabis.ca.gov/?p=21318",
-    "modified": "2025-01-02T10:14:00",
-    "modified_gmt": "2025-01-02T18:14:00",
-    "slug": "cru-pre-roll",
+    "id": 20986,
+    "date": "2024-10-10T15:59:21",
+    "date_gmt": "2024-10-10T22:59:21",
+    "guid": "https://api.cannabis.ca.gov/?p=20986",
+    "modified": "2025-01-02T10:15:52",
+    "modified_gmt": "2025-01-02T18:15:52",
+    "slug": "project-moonwalk-cannabis-infused-thc-sorbet-edible",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/12/cru-pre-roll/",
-    "title": "CRU pre-roll",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for a single CRU pre-roll product due to potential pesticide category II contamination. Recall Type Voluntary Product Type Pre-Roll Product Description CRU pre-roll Manufactured By Industrial Court L11 LLC Manufactured By License Number CDPH-10002460 Locations Sold View locations Product details This recall [&hellip;]</p>\n",
-    "author": 36,
-    "featured_media": 0,
+    "link": "https://api.cannabis.ca.gov/2024/10/project-moonwalk-cannabis-infused-thc-sorbet-edible/",
+    "title": "Project Moonwalk Cannabis Infused THC Sorbet edible",
+    "excerpt": "<p>Voluntary recall for multiple Project Moonwalk Cannabis Infused THC Sorbet edible product(s). These products are potentially prohibited, adulterated, and misbranded.</p>\n",
+    "author": 32,
+    "featured_media": 20745,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
@@ -57,20 +57,20 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/12/cru-pre-roll/",
-      "page_title": "CRU pre-roll",
-      "page_description": "Learn about California cannabis laws and licenses",
-      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/10/project-moonwalk-cannabis-infused-thc-sorbet-edible/",
+      "page_title": "Project Moonwalk Cannabis Infused THC Sorbet edible",
+      "page_description": "Voluntary recall for multiple Project Moonwalk Cannabis Infused THC Sorbet edible product(s). These products are potentially prohibited, adulterated, and misbranded.",
+      "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2024/10/Tropic-Thunder-20mg.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CRU pre-roll",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/12/cru-pre-roll/",
-      "open_graph_title": "CRU pre-roll",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CRU pre-roll",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "meta_title": "Project Moonwalk Cannabis Infused THC Sorbet edible",
+      "meta_description": "Voluntary recall for multiple Project Moonwalk Cannabis Infused THC Sorbet edible product(s). These products are potentially prohibited, adulterated, and misbranded.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/10/project-moonwalk-cannabis-infused-thc-sorbet-edible/",
+      "open_graph_title": "Project Moonwalk Cannabis Infused THC Sorbet edible",
+      "open_graph_description": "Voluntary recall for multiple Project Moonwalk Cannabis Infused THC Sorbet edible product(s). These products are potentially prohibited, adulterated, and misbranded.",
+      "twitter_title": "Project Moonwalk Cannabis Infused THC Sorbet edible",
+      "twitter_description": "Voluntary recall for multiple Project Moonwalk Cannabis Infused THC Sorbet edible product(s). These products are potentially prohibited, adulterated, and misbranded."
     },
     "headless_categories": [
       {
@@ -117,6 +117,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/12/cru-pre-roll/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/10/project-moonwalk-cannabis-infused-thc-sorbet-edible/"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-21T20:04:10",
-    "updated_date": "2024-12-11T22:12:16",
+    "updated_date": "2025-01-02T18:14:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-21T12:04:10",
     "date_gmt": "2024-11-21T20:04:10",
     "guid": "https://api.cannabis.ca.gov/?p=21177",
-    "modified": "2024-12-11T14:12:16",
-    "modified_gmt": "2024-12-11T22:12:16",
+    "modified": "2025-01-02T10:14:36",
+    "modified_gmt": "2025-01-02T18:14:36",
     "slug": "flav-vape-cartridge-and-integrated-vaporizer",
     "status": "publish",
     "type": "post",
