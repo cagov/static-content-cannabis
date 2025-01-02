@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-16T22:20:24",
-    "updated_date": "2025-01-02T18:59:07",
+    "updated_date": "2025-01-02T18:59:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-16T14:20:24",
     "date_gmt": "2024-12-16T22:20:24",
     "guid": "https://api.cannabis.ca.gov/?p=21415",
-    "modified": "2025-01-02T10:59:07",
-    "modified_gmt": "2025-01-02T18:59:07",
+    "modified": "2025-01-02T10:59:12",
+    "modified_gmt": "2025-01-02T18:59:12",
     "slug": "connected-pre-roll-and-flower",
     "status": "publish",
     "type": "post",
