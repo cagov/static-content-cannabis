@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 271,
+      "redirects": 272,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7417,6 +7417,32 @@
       "regex": false,
       "group_id": 1,
       "position": 270,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 523,
+      "url": "/2024/12/moroccan-peaches-flower/",
+      "match_url": "/2024/12/moroccan-peaches-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/cream-of-the-crop-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 271,
       "last_access": "-",
       "enabled": true
     }
