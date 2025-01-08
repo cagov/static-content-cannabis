@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-11-30T21:43:27",
-    "updated_date": "2024-12-18T16:48:16",
+    "updated_date": "2025-01-08T19:58:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-11-30T13:43:27",
     "date_gmt": "2022-11-30T21:43:27",
     "guid": "https://api.cannabis.ca.gov/?page_id=12421",
-    "modified": "2024-12-18T08:48:16",
-    "modified_gmt": "2024-12-18T16:48:16",
+    "modified": "2025-01-08T11:58:18",
+    "modified_gmt": "2025-01-08T19:58:18",
     "slug": "make-a-payment",
     "status": "publish",
     "type": "page",
