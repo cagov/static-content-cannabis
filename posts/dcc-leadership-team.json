@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-09-18T16:48:45",
-    "updated_date": "2025-01-06T23:46:27",
+    "created_date": "2025-01-08T00:11:10",
+    "updated_date": "2025-01-08T00:11:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/20126",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/21679",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,19 +14,19 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 20126,
-    "date": "2024-09-18T09:48:45",
-    "date_gmt": "2024-09-18T16:48:45",
-    "guid": "https://api.cannabis.ca.gov/?p=20126",
-    "modified": "2025-01-06T15:46:27",
-    "modified_gmt": "2025-01-06T23:46:27",
-    "slug": "cannabis-advisory-committee-members",
+    "id": 21679,
+    "date": "2025-01-07T16:11:10",
+    "date_gmt": "2025-01-08T00:11:10",
+    "guid": "https://api.cannabis.ca.gov/?p=21679",
+    "modified": "2025-01-07T16:11:11",
+    "modified_gmt": "2025-01-08T00:11:11",
+    "slug": "dcc-leadership-team",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/09/cannabis-advisory-committee-members/",
-    "title": "Cannabis Advisory Committee members",
-    "excerpt": "<p>The CAC provides valuable insights to DCC’s development of regulations and standards through diverse member perspectives on consumer, community, and market issues. It serves as a platform for public discussions, fostering an innovative regulatory framework that promotes a safe, sustainable, and equitable cannabis market for all Californians. Learn about upcoming meetings and CAC updates on [&hellip;]</p>\n",
-    "author": 32,
+    "link": "https://api.cannabis.ca.gov/2025/01/dcc-leadership-team/",
+    "title": "DCC leadership team",
+    "excerpt": "<p>The director and chief deputy director lead DCC and oversee its 10 deputy directors. Each deputy director is responsible for a different area of DCC’s work.</p>\n",
+    "author": 37,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,9 +39,11 @@
       "footnotes": ""
     },
     "categories": [
-      "Cannabis Advisory Committee"
+      "About DCC"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -56,40 +58,52 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/09/cannabis-advisory-committee-members/",
-      "page_title": "Cannabis Advisory Committee members",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/01/dcc-leadership-team/",
+      "page_title": "DCC leadership team",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cannabis Advisory Committee members",
-      "meta_description": "The CAC provides valuable insights to DCC’s development of regulations and standards through diverse member perspectives on consumer, community, and market issues. It serves as a platform for public discussions, fostering an innovative regulatory framework that promotes a safe, sustainable, and equitable cannabis market for all Californians.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/09/cannabis-advisory-committee-members/",
-      "open_graph_title": "Cannabis Advisory Committee members",
+      "meta_title": "DCC leadership team",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/01/dcc-leadership-team/",
+      "open_graph_title": "DCC leadership team",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cannabis Advisory Committee members",
+      "twitter_title": "DCC leadership team",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 831,
-        "name": "Cannabis Advisory Committee",
-        "slug": "cac",
+        "term_id": 819,
+        "name": "About DCC",
+        "slug": "about-dcc",
         "term_group": 0,
-        "term_taxonomy_id": 831,
+        "term_taxonomy_id": 819,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 831,
+        "cat_ID": 819,
         "category_description": "",
-        "cat_name": "Cannabis Advisory Committee",
-        "category_nicename": "cac",
+        "cat_name": "About DCC",
+        "category_nicename": "about-dcc",
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -100,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/09/cannabis-advisory-committee-members/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/01/dcc-leadership-team/"
   }
 }
