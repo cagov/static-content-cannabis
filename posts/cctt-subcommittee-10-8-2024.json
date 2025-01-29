@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-27T19:37:16",
-    "updated_date": "2024-10-08T17:19:59",
+    "updated_date": "2025-01-29T00:26:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-27T12:37:16",
     "date_gmt": "2024-09-27T19:37:16",
     "guid": "https://api.cannabis.ca.gov/?p=20320",
-    "modified": "2024-10-08T10:19:59",
-    "modified_gmt": "2024-10-08T17:19:59",
+    "modified": "2025-01-28T16:26:16",
+    "modified_gmt": "2025-01-29T00:26:16",
     "slug": "cctt-subcommittee-10-8-2024",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CAC Subcommittee"
+      "2024 Meetings"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,20 +73,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 832,
-        "name": "CAC Subcommittee",
-        "slug": "cac-subcommittee",
+        "term_id": 916,
+        "name": "2024 Meetings",
+        "slug": "2024-meetings",
         "term_group": 0,
-        "term_taxonomy_id": 832,
+        "term_taxonomy_id": 916,
         "taxonomy": "category",
         "description": "",
-        "parent": 831,
+        "parent": 833,
         "filter": "raw",
-        "cat_ID": 832,
+        "cat_ID": 916,
         "category_description": "",
-        "cat_name": "CAC Subcommittee",
-        "category_nicename": "cac-subcommittee",
-        "category_parent": 831
+        "cat_name": "2024 Meetings",
+        "category_nicename": "2024-meetings",
+        "category_parent": 833
       }
     ],
     "headless_tags": [],
