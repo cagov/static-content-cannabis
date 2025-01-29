@@ -99,13 +99,13 @@
         "term_taxonomy_id": 838,
         "taxonomy": "category",
         "description": "",
-        "parent": 831,
+        "parent": 832,
         "filter": "raw",
         "cat_ID": 838,
         "category_description": "",
         "cat_name": "Cultivation subcommittee",
         "category_nicename": "cultivation-subcommittee",
-        "category_parent": 831
+        "category_parent": 832
       },
       {
         "term_id": 4,
