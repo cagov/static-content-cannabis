@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-01-14T22:25:41",
-    "updated_date": "2025-01-29T23:04:44",
+    "updated_date": "2025-01-30T17:47:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2025-01-14T14:25:41",
     "date_gmt": "2025-01-14T22:25:41",
     "guid": "https://api.cannabis.ca.gov/?p=21698",
-    "modified": "2025-01-29T15:04:44",
-    "modified_gmt": "2025-01-29T23:04:44",
+    "modified": "2025-01-30T09:47:03",
+    "modified_gmt": "2025-01-30T17:47:03",
     "slug": "faq-appealing-a-compliance-or-licensing-action",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2025/01/faq-appealing-a-compliance-or-licensing-action/",
     "title": "FAQ: Appealing a compliance or licensing action ",
-    "excerpt": "<p>If you have applied for or been issued an annual commercial cannabis license through the Department of Cannabis Control (DCC), you are eligible to appeal certain compliance and licensing actions taken by DCC, pursuant to the Medicinal and Adult Use Cannabis Regulation and Safety Act (MAUCRSA) and title 4 of the California Code of Regulations.&nbsp;&nbsp;&nbsp; [&hellip;]</p>\n",
+    "excerpt": "<p>If you have applied for or been issued an annual commercial cannabis license through the Department of Cannabis Control (DCC), you are eligible to appeal certain compliance and licensing actions taken by DCC, pursuant to the Medicinal and Adult Use Cannabis Regulation and Safety Act (MAUCRSA) and title 4 of the California Code of Regulations.    [&hellip;]</p>\n",
     "author": 37,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,11 +39,9 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "Laws and Regulations"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "post"
     },
@@ -75,35 +73,23 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 983,
+        "name": "Laws and Regulations",
+        "slug": "laws-and-regulations",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 983,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 983,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Laws and Regulations",
+        "category_nicename": "laws-and-regulations",
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
