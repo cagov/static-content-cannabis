@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2025-01-14T22:25:41",
+    "updated_date": "2025-01-30T17:47:03",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/21698",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 21698,
+    "date": "2025-01-14T14:25:41",
+    "date_gmt": "2025-01-14T22:25:41",
+    "guid": "https://api.cannabis.ca.gov/?p=21698",
+    "modified": "2025-01-30T09:47:03",
+    "modified_gmt": "2025-01-30T17:47:03",
+    "slug": "faq-appealing-a-compliance-or-licensing-action",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/01/faq-appealing-a-compliance-or-licensing-action/",
+    "title": "FAQ: Appealing a compliance or licensing action ",
+    "excerpt": "<p>If you have applied for or been issued an annual commercial cannabis license through the Department of Cannabis Control (DCC), you are eligible to appeal certain compliance and licensing actions taken by DCC, pursuant to the Medicinal and Adult Use Cannabis Regulation and Safety Act (MAUCRSA) and title 4 of the California Code of Regulations.    [&hellip;]</p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Laws and Regulations"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/01/faq-appealing-a-compliance-or-licensing-action/",
+      "page_title": "FAQ: Appealing a compliance or licensing action ",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "FAQ: Appealing a compliance or licensing action ",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/01/faq-appealing-a-compliance-or-licensing-action/",
+      "open_graph_title": "FAQ: Appealing a compliance or licensing action ",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "FAQ: Appealing a compliance or licensing action ",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 983,
+        "name": "Laws and Regulations",
+        "slug": "laws-and-regulations",
+        "term_group": 0,
+        "term_taxonomy_id": 983,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 983,
+        "category_description": "",
+        "cat_name": "Laws and Regulations",
+        "category_nicename": "laws-and-regulations",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/01/faq-appealing-a-compliance-or-licensing-action/"
+  }
+}
