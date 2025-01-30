@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:39:45",
-    "updated_date": "2024-10-16T17:28:51",
+    "updated_date": "2025-01-30T19:29:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T12:39:45",
     "date_gmt": "2024-09-04T19:39:45",
     "guid": "https://api.cannabis.ca.gov/?page_id=19842",
-    "modified": "2024-10-16T10:28:51",
-    "modified_gmt": "2024-10-16T17:28:51",
+    "modified": "2025-01-30T11:29:51",
+    "modified_gmt": "2025-01-30T19:29:51",
     "slug": "science-amendment-process",
     "status": "publish",
     "type": "page",
