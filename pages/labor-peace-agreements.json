@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-09T19:42:22",
-    "updated_date": "2024-09-20T21:41:12",
+    "updated_date": "2025-01-30T19:56:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-09T12:42:22",
     "date_gmt": "2024-08-09T19:42:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=19413",
-    "modified": "2024-09-20T14:41:12",
-    "modified_gmt": "2024-09-20T21:41:12",
+    "modified": "2025-01-30T11:56:12",
+    "modified_gmt": "2025-01-30T19:56:12",
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "page",
