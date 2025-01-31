@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2025-01-06T23:39:44",
+    "updated_date": "2025-01-31T23:27:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/index/",
-    "modified": "2025-01-06T15:39:44",
-    "modified_gmt": "2025-01-06T23:39:44",
+    "modified": "2025-01-31T15:27:06",
+    "modified_gmt": "2025-01-31T23:27:06",
     "slug": "about-dcc",
     "status": "publish",
     "type": "page",
