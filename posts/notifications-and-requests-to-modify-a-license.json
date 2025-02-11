@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-03T17:54:00",
-    "updated_date": "2024-05-17T22:19:32",
+    "updated_date": "2025-02-11T20:04:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-03T09:54:00",
     "date_gmt": "2024-01-03T17:54:00",
     "guid": "https://api.cannabis.ca.gov/?p=14723",
-    "modified": "2024-05-17T15:19:32",
-    "modified_gmt": "2024-05-17T22:19:32",
+    "modified": "2025-02-11T12:04:31",
+    "modified_gmt": "2025-02-11T20:04:31",
     "slug": "notifications-and-requests-to-modify-a-license",
     "status": "publish",
     "type": "post",
