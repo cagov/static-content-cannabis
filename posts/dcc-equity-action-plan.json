@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-01-31T17:06:38",
-    "updated_date": "2025-02-11T20:04:34",
+    "updated_date": "2025-02-20T17:26:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-01-31T09:06:38",
     "date_gmt": "2025-01-31T17:06:38",
     "guid": "https://api.cannabis.ca.gov/?p=21939",
-    "modified": "2025-02-11T12:04:34",
-    "modified_gmt": "2025-02-11T20:04:34",
+    "modified": "2025-02-20T09:26:54",
+    "modified_gmt": "2025-02-20T17:26:54",
     "slug": "dcc-equity-action-plan",
     "status": "publish",
     "type": "post",
