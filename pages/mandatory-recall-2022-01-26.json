@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-26T16:55:22",
-    "updated_date": "2025-01-02T19:44:46",
+    "updated_date": "2025-02-26T19:56:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-01-26T08:55:22",
     "date_gmt": "2022-01-26T16:55:22",
     "guid": "https://cannabis.ca.gov/?page_id=9347",
-    "modified": "2025-01-02T11:44:46",
-    "modified_gmt": "2025-01-02T19:44:46",
+    "modified": "2025-02-26T11:56:16",
+    "modified_gmt": "2025-02-26T19:56:16",
     "slug": "mandatory-recall-2022-01-26",
     "status": "publish",
     "type": "page",
