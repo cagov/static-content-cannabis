@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2024-07-05T17:11:13",
+    "updated_date": "2025-02-28T23:04:34",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/18763",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 18763,
+    "date": "2024-07-05T10:11:13",
+    "date_gmt": "2024-07-05T17:11:13",
+    "guid": "https://api.cannabis.ca.gov/?p=18763",
+    "modified": "2025-02-28T15:04:34",
+    "modified_gmt": "2025-02-28T23:04:34",
+    "slug": "how-california-supports-equity-businesses",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/07/how-california-supports-equity-businesses/",
+    "title": "How California supports equity businesses",
+    "excerpt": "<p>California supports cannabis equity through efforts at both the state and local levels. Find out about state and local support options. </p>\n",
+    "author": 32,
+    "featured_media": 14284,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Equity"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/07/how-california-supports-equity-businesses/",
+      "page_title": "How California supports equity businesses",
+      "page_description": "California supports cannabis equity through efforts at both the state and local levels. Find out about state and local support options. ",
+      "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/08/20.01_CalCannabis_Tilth_Photo_0261_Edit.jpg",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "How California supports equity businesses",
+      "meta_description": "California supports cannabis equity through efforts at both the state and local levels. Find out about state and local support options. ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/07/how-california-supports-equity-businesses/",
+      "open_graph_title": "How California supports equity businesses",
+      "open_graph_description": "California supports cannabis equity through efforts at both the state and local levels. Find out about state and local support options. ",
+      "twitter_title": "How California supports equity businesses",
+      "twitter_description": "California supports cannabis equity through efforts at both the state and local levels. Find out about state and local support options. "
+    },
+    "headless_categories": [
+      {
+        "term_id": 874,
+        "name": "Equity",
+        "slug": "equity",
+        "term_group": 0,
+        "term_taxonomy_id": 874,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 874,
+        "category_description": "",
+        "cat_name": "Equity",
+        "category_nicename": "equity",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/07/how-california-supports-equity-businesses/"
+  }
+}

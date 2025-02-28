@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2024-07-05T17:12:31",
+    "updated_date": "2025-02-28T23:04:35",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/18765",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 18765,
+    "date": "2024-07-05T10:12:31",
+    "date_gmt": "2024-07-05T17:12:31",
+    "guid": "https://api.cannabis.ca.gov/?p=18765",
+    "modified": "2025-02-28T15:04:35",
+    "modified_gmt": "2025-02-28T23:04:35",
+    "slug": "local-equity-promising-practices",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/07/local-equity-promising-practices/",
+    "title": "Local equity promising practices",
+    "excerpt": "<p>The Department of Cannabis Control is committed to providing equity to communities harmed by cannabis criminalization. We support local communities who share these values by lifting up practices that are making a difference. </p>\n",
+    "author": 32,
+    "featured_media": 16127,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Equity"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/07/local-equity-promising-practices/",
+      "page_title": "Local equity promising practices",
+      "page_description": "The Department of Cannabis Control is committed to providing equity to communities harmed by cannabis criminalization. We support local communities who share these values by lifting up practices that are making a difference. ",
+      "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/11/LP-Hero-1.jpg",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Local equity promising practices",
+      "meta_description": "The Department of Cannabis Control is committed to providing equity to communities harmed by cannabis criminalization. We support local communities who share these values by lifting up practices that are making a difference.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/07/local-equity-promising-practices/",
+      "open_graph_title": "Local equity promising practices",
+      "open_graph_description": "The Department of Cannabis Control is committed to providing equity to communities harmed by cannabis criminalization. We support local communities who share these values by lifting up practices that are making a difference. ",
+      "twitter_title": "Local equity promising practices",
+      "twitter_description": "The Department of Cannabis Control is committed to providing equity to communities harmed by cannabis criminalization. We support local communities who share these values by lifting up practices that are making a difference. "
+    },
+    "headless_categories": [
+      {
+        "term_id": 874,
+        "name": "Equity",
+        "slug": "equity",
+        "term_group": 0,
+        "term_taxonomy_id": 874,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 874,
+        "category_description": "",
+        "cat_name": "Equity",
+        "category_nicename": "equity",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/07/local-equity-promising-practices/"
+  }
+}
