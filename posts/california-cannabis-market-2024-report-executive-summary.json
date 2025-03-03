@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-03T19:18:32",
-    "updated_date": "2025-03-03T22:44:53",
+    "updated_date": "2025-03-03T22:57:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2025-03-03T11:18:32",
     "date_gmt": "2025-03-03T19:18:32",
     "guid": "https://api.cannabis.ca.gov/?p=22063",
-    "modified": "2025-03-03T14:44:53",
-    "modified_gmt": "2025-03-03T22:44:53",
+    "modified": "2025-03-03T14:57:16",
+    "modified_gmt": "2025-03-03T22:57:16",
     "slug": "california-cannabis-market-2024-report-executive-summary",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-2024-report-executive-summary/",
     "title": "California Cannabis Market 2024 Report Executive summary",
-    "excerpt": "<p>The Department of Cannabis Control (DCC or “Department”) engaged ERA Economics (ERA) to prepare a report summarizing current market conditions and outlook for the California cannabis industry. The report provides a snapshot of current industry conditions (i.e., economics of the cannabis market) and recent trends. It is structured to provide an overview of factors affecting [&hellip;]</p>\n",
+    "excerpt": "<p>The Department of Cannabis Control (DCC or “Department”) engaged ERA Economics (ERA) to prepare a report summarizing current market conditions and outlook for the California cannabis industry. The report provides a snapshot of current industry conditions (i.e., economics of the cannabis market) and recent trends. It is structured to provide an overview of factors affecting the supply of cannabis, consumer demand for cannabis, and how these factors are changing over time in California and other markets. </p>\n",
     "author": 37,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "post"
     },
     "og_meta": {
       "editor": {
@@ -58,18 +58,18 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-2024-report-executive-summary/",
       "page_title": "California Cannabis Market 2024 Report Executive summary",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "The Department of Cannabis Control (DCC or “Department”) engaged ERA Economics (ERA) to prepare a report summarizing current market conditions and outlook for the California cannabis industry. The report provides a snapshot of current industry conditions (i.e., economics of the cannabis market) and recent trends. It is structured to provide an overview of factors affecting the supply of cannabis, consumer demand for cannabis, and how these factors are changing over time in California and other markets. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "California Cannabis Market 2024 Report Executive summary",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "The Department of Cannabis Control (DCC or “Department”) engaged ERA Economics (ERA) to prepare a report summarizing current market conditions and outlook for the California cannabis industry. The report provides a snapshot of current industry conditions (i.e., economics of the cannabis market) and recent trends. It is structured to provide an overview of factors affecting the supply of cannabis, consumer demand for cannabis, and how these factors are changing over time in California and other markets. ",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-2024-report-executive-summary/",
       "open_graph_title": "California Cannabis Market 2024 Report Executive summary",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "The Department of Cannabis Control (DCC or “Department”) engaged ERA Economics (ERA) to prepare a report summarizing current market conditions and outlook for the California cannabis industry. The report provides a snapshot of current industry conditions (i.e., economics of the cannabis market) and recent trends. It is structured to provide an overview of factors affecting the supply of cannabis, consumer demand for cannabis, and how these factors are changing over time in California and other markets. ",
       "twitter_title": "California Cannabis Market 2024 Report Executive summary",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "The Department of Cannabis Control (DCC or “Department”) engaged ERA Economics (ERA) to prepare a report summarizing current market conditions and outlook for the California cannabis industry. The report provides a snapshot of current industry conditions (i.e., economics of the cannabis market) and recent trends. It is structured to provide an overview of factors affecting the supply of cannabis, consumer demand for cannabis, and how these factors are changing over time in California and other markets. "
     },
     "headless_categories": [
       {
