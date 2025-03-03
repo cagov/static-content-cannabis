@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-03T18:46:43",
-    "updated_date": "2025-03-03T18:46:45",
+    "updated_date": "2025-03-03T20:54:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2025-03-03T10:46:43",
     "date_gmt": "2025-03-03T18:46:43",
     "guid": "https://api.cannabis.ca.gov/?p=22058",
-    "modified": "2025-03-03T10:46:45",
-    "modified_gmt": "2025-03-03T18:46:45",
+    "modified": "2025-03-03T12:54:03",
+    "modified_gmt": "2025-03-03T20:54:03",
     "slug": "military-equipment-usage-policies-ab-481",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2025/03/military-equipment-usage-policies-ab-481/",
     "title": "Military equipment usage policies (AB 481)",
-    "excerpt": "<p>In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division</p>\n",
+    "excerpt": "<p>In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -60,18 +60,18 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2025/03/military-equipment-usage-policies-ab-481/",
       "page_title": "Military equipment usage policies (AB 481)",
-      "page_description": "In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division",
+      "page_description": "In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Military equipment usage policies (AB 481)",
-      "meta_description": "In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division",
+      "meta_description": "In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/military-equipment-usage-policies-ab-481/",
       "open_graph_title": "Military equipment usage policies (AB 481)",
-      "open_graph_description": "In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division",
+      "open_graph_description": "In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division.",
       "twitter_title": "Military equipment usage policies (AB 481)",
-      "twitter_description": "In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division"
+      "twitter_description": "In the performance of their duties of public safety, officers of the Department of Cannabis Control, Law Enforcement Division (LED), often face critical incidents that require the use of specialized equipment to help protect lives or save property. The purpose of this policy is to adhere to the mandates outlined in Assembly Bill 481 (September 2021) and, provide members of the public a more transparent view of such specialized equipment utilized by the Law Enforcement Division."
     },
     "headless_categories": [
       {
