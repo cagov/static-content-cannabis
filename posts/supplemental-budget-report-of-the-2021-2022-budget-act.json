@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2024-02-02T18:48:00",
+    "updated_date": "2025-03-03T18:50:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22060",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 22060,
+    "date": "2024-02-02T10:48:00",
+    "date_gmt": "2024-02-02T18:48:00",
+    "guid": "https://api.cannabis.ca.gov/?p=22060",
+    "modified": "2025-03-03T10:50:20",
+    "modified_gmt": "2025-03-03T18:50:20",
+    "slug": "supplemental-budget-report-of-the-2021-2022-budget-act",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2024/02/supplemental-budget-report-of-the-2021-2022-budget-act/",
+    "title": "Supplemental Budget Report of the 2021-2022 Budget Act",
+    "excerpt": "<p>As required by the 2021-22 Budget Act, under the Business, Consumer Services and Housing Item 1115-001-3288, on or before March 1, 2023, and annually thereafter through 2025, the Department of Cannabis Control (Department) shall submit a report to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Reports - Legislative"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/02/supplemental-budget-report-of-the-2021-2022-budget-act/",
+      "page_title": "Supplemental Budget Report of the 2021-2022 Budget Act",
+      "page_description": "As required by the 2021-22 Budget Act, under the Business, Consumer Services and Housing Item 1115-001-3288, on or before March 1, 2023, and annually thereafter through 2025, the Department of Cannabis Control (Department) shall submit a report to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Supplemental Budget Report of the 2021-2022 Budget Act",
+      "meta_description": "As required by the 2021-22 Budget Act, under the Business, Consumer Services and Housing Item 1115-001-3288, on or before March 1, 2023, and annually thereafter through 2025, the Department of Cannabis Control (Department) shall submit a report to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/02/supplemental-budget-report-of-the-2021-2022-budget-act/",
+      "open_graph_title": "Supplemental Budget Report of the 2021-2022 Budget Act",
+      "open_graph_description": "As required by the 2021-22 Budget Act, under the Business, Consumer Services and Housing Item 1115-001-3288, on or before March 1, 2023, and annually thereafter through 2025, the Department of Cannabis Control (Department) shall submit a report to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.",
+      "twitter_title": "Supplemental Budget Report of the 2021-2022 Budget Act",
+      "twitter_description": "As required by the 2021-22 Budget Act, under the Business, Consumer Services and Housing Item 1115-001-3288, on or before March 1, 2023, and annually thereafter through 2025, the Department of Cannabis Control (Department) shall submit a report to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website."
+    },
+    "headless_categories": [
+      {
+        "term_id": 992,
+        "name": "Reports - Legislative",
+        "slug": "reports-legislative",
+        "term_group": 0,
+        "term_taxonomy_id": 992,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 992,
+        "category_description": "",
+        "cat_name": "Reports - Legislative",
+        "category_nicename": "reports-legislative",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/02/supplemental-budget-report-of-the-2021-2022-budget-act/"
+  }
+}

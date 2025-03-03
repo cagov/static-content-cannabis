@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2025-03-03T19:18:32",
+    "updated_date": "2025-03-03T19:18:38",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22063",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 22063,
+    "date": "2025-03-03T11:18:32",
+    "date_gmt": "2025-03-03T19:18:32",
+    "guid": "https://api.cannabis.ca.gov/?p=22063",
+    "modified": "2025-03-03T11:18:38",
+    "modified_gmt": "2025-03-03T19:18:38",
+    "slug": "california-cannabis-market-2024-report-executive-summary",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-2024-report-executive-summary/",
+    "title": "California Cannabis Market 2024 Report Executive summary",
+    "excerpt": "<p>The Department of Cannabis Control (DCC or “Department”) engaged ERA Economics (ERA) to prepare a report summarizing current market conditions and outlook for the California cannabis industry. The report provides a snapshot of current industry conditions (i.e., economics of the cannabis market) and recent trends. It is structured to provide an overview of factors affecting [&hellip;]</p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "All",
+      "Reports - Economic"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-2024-report-executive-summary/",
+      "page_title": "California Cannabis Market 2024 Report Executive summary",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "California Cannabis Market 2024 Report Executive summary",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-2024-report-executive-summary/",
+      "open_graph_title": "California Cannabis Market 2024 Report Executive summary",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "California Cannabis Market 2024 Report Executive summary",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
+      },
+      {
+        "term_id": 993,
+        "name": "Reports - Economic",
+        "slug": "reports-economic",
+        "term_group": 0,
+        "term_taxonomy_id": 993,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 993,
+        "category_description": "",
+        "cat_name": "Reports - Economic",
+        "category_nicename": "reports-economic",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-2024-report-executive-summary/"
+  }
+}
