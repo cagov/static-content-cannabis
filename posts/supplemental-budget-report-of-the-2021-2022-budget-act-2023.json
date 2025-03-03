@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2025-03-03T19:15:58",
-    "updated_date": "2025-03-03T19:15:59",
+    "created_date": "2023-03-01T19:15:00",
+    "updated_date": "2025-03-03T20:04:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,16 +15,16 @@
   },
   "data": {
     "id": 22069,
-    "date": "2025-03-03T11:15:58",
-    "date_gmt": "2025-03-03T19:15:58",
+    "date": "2023-03-01T11:15:00",
+    "date_gmt": "2023-03-01T19:15:00",
     "guid": "https://api.cannabis.ca.gov/?p=22069",
-    "modified": "2025-03-03T11:15:59",
-    "modified_gmt": "2025-03-03T19:15:59",
+    "modified": "2025-03-03T12:04:20",
+    "modified_gmt": "2025-03-03T20:04:20",
     "slug": "supplemental-budget-report-of-the-2021-2022-budget-act-2023",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2025/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/",
-    "title": "Supplemental Budget Report of the 2021-2022 Budget Act 2023",
+    "link": "https://api.cannabis.ca.gov/2023/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/",
+    "title": "DCC Supplemental Budget Report: Fiscal Year 2021-22",
     "excerpt": "<p>As required by the 2021-22 Budget Act, under the Business, Consumer Services, and Housing Item 1115-001-3288, on or before March 1, 2023, and annually thereafter through 2025, the Department of Cannabis Control (Department) shall submit a report to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -58,19 +58,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2025/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/",
-      "page_title": "Supplemental Budget Report of the 2021-2022 Budget Act 2023",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/",
+      "page_title": "DCC Supplemental Budget Report: Fiscal Year 2021-22",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Supplemental Budget Report of the 2021-2022 Budget Act 2023",
+      "meta_title": "DCC Supplemental Budget Report: Fiscal Year 2021-22",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/",
-      "open_graph_title": "Supplemental Budget Report of the 2021-2022 Budget Act 2023",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/",
+      "open_graph_title": "DCC Supplemental Budget Report: Fiscal Year 2021-22",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Supplemental Budget Report of the 2021-2022 Budget Act 2023",
+      "twitter_title": "DCC Supplemental Budget Report: Fiscal Year 2021-22",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -114,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2025/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/"
   }
 }

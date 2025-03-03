@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-01T18:58:00",
-    "updated_date": "2025-03-03T19:04:10",
+    "updated_date": "2025-03-03T20:03:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-01T10:58:00",
     "date_gmt": "2023-01-01T18:58:00",
     "guid": "https://api.cannabis.ca.gov/?p=22065",
-    "modified": "2025-03-03T11:04:10",
-    "modified_gmt": "2025-03-03T19:04:10",
+    "modified": "2025-03-03T12:03:38",
+    "modified_gmt": "2025-03-03T20:03:38",
     "slug": "the-hemp-report",
     "status": "publish",
     "type": "post",
