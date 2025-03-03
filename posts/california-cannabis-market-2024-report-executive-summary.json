@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-03T19:18:32",
-    "updated_date": "2025-03-03T19:18:38",
+    "updated_date": "2025-03-03T19:36:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-03T11:18:32",
     "date_gmt": "2025-03-03T19:18:32",
     "guid": "https://api.cannabis.ca.gov/?p=22063",
-    "modified": "2025-03-03T11:18:38",
-    "modified_gmt": "2025-03-03T19:18:38",
+    "modified": "2025-03-03T11:36:39",
+    "modified_gmt": "2025-03-03T19:36:39",
     "slug": "california-cannabis-market-2024-report-executive-summary",
     "status": "publish",
     "type": "post",
