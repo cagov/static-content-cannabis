@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-03T19:45:36",
-    "updated_date": "2025-03-03T22:46:05",
+    "updated_date": "2025-03-03T22:53:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2025-03-03T11:45:36",
     "date_gmt": "2025-03-03T19:45:36",
     "guid": "https://api.cannabis.ca.gov/?p=22075",
-    "modified": "2025-03-03T14:46:05",
-    "modified_gmt": "2025-03-03T22:46:05",
+    "modified": "2025-03-03T14:53:13",
+    "modified_gmt": "2025-03-03T22:53:13",
     "slug": "california-cannabis-market-outlook",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-outlook/",
     "title": "California Cannabis Market Outlook",
-    "excerpt": "<p>This report summarizes a data-driven economic analysis of the 2024 California cannabis market and outlook. It also includes an initial overview of the hemp market. The size of the licensed and unlicensed market is quantified and market conditions are evaluated in terms of factors affecting cannabis demand (consumption) and supply (production) in California and other [&hellip;]</p>\n",
+    "excerpt": "<p>This report summarizes a data-driven economic analysis of the 2024 California cannabis market and outlook. It also includes an initial overview of the hemp market. The size of the licensed and unlicensed market is quantified and market conditions are evaluated in terms of factors affecting cannabis demand (consumption) and supply (production) in California and other states.</p>\n",
     "author": 37,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "post"
     },
     "og_meta": {
       "editor": {
@@ -58,18 +58,18 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-outlook/",
       "page_title": "California Cannabis Market Outlook",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "This report summarizes a data-driven economic analysis of the 2024 California cannabis market and outlook. It also includes an initial overview of the hemp market. The size of the licensed and unlicensed market is quantified and market conditions are evaluated in terms of factors affecting cannabis demand (consumption) and supply (production) in California and other states.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "California Cannabis Market Outlook",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "This report summarizes a data-driven economic analysis of the 2024 California cannabis market and outlook. It also includes an initial overview of the hemp market. The size of the licensed and unlicensed market is quantified and market conditions are evaluated in terms of factors affecting cannabis demand (consumption) and supply (production) in California and other states.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/california-cannabis-market-outlook/",
       "open_graph_title": "California Cannabis Market Outlook",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "This report summarizes a data-driven economic analysis of the 2024 California cannabis market and outlook. It also includes an initial overview of the hemp market. The size of the licensed and unlicensed market is quantified and market conditions are evaluated in terms of factors affecting cannabis demand (consumption) and supply (production) in California and other states.",
       "twitter_title": "California Cannabis Market Outlook",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "This report summarizes a data-driven economic analysis of the 2024 California cannabis market and outlook. It also includes an initial overview of the hemp market. The size of the licensed and unlicensed market is quantified and market conditions are evaluated in terms of factors affecting cannabis demand (consumption) and supply (production) in California and other states."
     },
     "headless_categories": [
       {
