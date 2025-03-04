@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-03-01T19:15:00",
-    "updated_date": "2025-03-04T03:04:07",
+    "updated_date": "2025-03-04T03:04:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-03-01T11:15:00",
     "date_gmt": "2023-03-01T19:15:00",
     "guid": "https://api.cannabis.ca.gov/?p=22069",
-    "modified": "2025-03-03T19:04:07",
-    "modified_gmt": "2025-03-04T03:04:07",
+    "modified": "2025-03-03T19:04:14",
+    "modified_gmt": "2025-03-04T03:04:14",
     "slug": "supplemental-budget-report-of-the-2021-2022-budget-act-2023",
     "status": "publish",
     "type": "post",
