@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-03T19:45:36",
-    "updated_date": "2025-03-04T03:02:31",
+    "updated_date": "2025-03-04T03:02:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-03T11:45:36",
     "date_gmt": "2025-03-03T19:45:36",
     "guid": "https://api.cannabis.ca.gov/?p=22075",
-    "modified": "2025-03-03T19:02:31",
-    "modified_gmt": "2025-03-04T03:02:31",
+    "modified": "2025-03-03T19:02:36",
+    "modified_gmt": "2025-03-04T03:02:36",
     "slug": "california-cannabis-market-outlook",
     "status": "publish",
     "type": "post",
