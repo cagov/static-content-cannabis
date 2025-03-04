@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2025-03-03T17:14:00",
-    "updated_date": "2025-03-04T01:09:27",
+    "created_date": "2025-03-03T16:14:00",
+    "updated_date": "2025-03-04T01:39:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,11 +15,11 @@
   },
   "data": {
     "id": 22098,
-    "date": "2025-03-03T09:14:00",
-    "date_gmt": "2025-03-03T17:14:00",
+    "date": "2025-03-03T08:14:00",
+    "date_gmt": "2025-03-03T16:14:00",
     "guid": "https://api.cannabis.ca.gov/?p=22098",
-    "modified": "2025-03-03T17:09:27",
-    "modified_gmt": "2025-03-04T01:09:27",
+    "modified": "2025-03-03T17:39:19",
+    "modified_gmt": "2025-03-04T01:39:19",
     "slug": "dcc-supplemental-budget-report-fiscal-year-2023-24",
     "status": "publish",
     "type": "post",
