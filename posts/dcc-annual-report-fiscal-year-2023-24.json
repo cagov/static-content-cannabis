@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2025-03-03T16:14:00",
-    "updated_date": "2025-03-04T02:56:09",
+    "created_date": "2025-03-03T20:22:50",
+    "updated_date": "2025-03-04T02:54:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22098",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22100",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,17 +14,17 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 22098,
-    "date": "2025-03-03T08:14:00",
-    "date_gmt": "2025-03-03T16:14:00",
-    "guid": "https://api.cannabis.ca.gov/?p=22098",
-    "modified": "2025-03-03T18:56:09",
-    "modified_gmt": "2025-03-04T02:56:09",
-    "slug": "dcc-supplemental-budget-report-fiscal-year-2023-24",
+    "id": 22100,
+    "date": "2025-03-03T12:22:50",
+    "date_gmt": "2025-03-03T20:22:50",
+    "guid": "https://api.cannabis.ca.gov/?p=22100",
+    "modified": "2025-03-03T18:54:53",
+    "modified_gmt": "2025-03-04T02:54:53",
+    "slug": "dcc-annual-report-fiscal-year-2023-24",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2025/03/dcc-supplemental-budget-report-fiscal-year-2023-24/",
-    "title": "DCC Supplemental Budget Report: Fiscal Year 2023-24",
+    "link": "https://api.cannabis.ca.gov/2025/03/dcc-annual-report-fiscal-year-2023-24/",
+    "title": "DCC Annual Report: Fiscal Year 2023-24",
     "excerpt": "",
     "author": 32,
     "featured_media": 0,
@@ -56,19 +56,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2025/03/dcc-supplemental-budget-report-fiscal-year-2023-24/",
-      "page_title": "DCC Supplemental Budget Report: Fiscal Year 2023-24",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/03/dcc-annual-report-fiscal-year-2023-24/",
+      "page_title": "DCC Annual Report: Fiscal Year 2023-24",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "DCC Supplemental Budget Report: Fiscal Year 2023-24",
+      "meta_title": "DCC Annual Report: Fiscal Year 2023-24",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/dcc-supplemental-budget-report-fiscal-year-2023-24/",
-      "open_graph_title": "DCC Supplemental Budget Report: Fiscal Year 2023-24",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/dcc-annual-report-fiscal-year-2023-24/",
+      "open_graph_title": "DCC Annual Report: Fiscal Year 2023-24",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "DCC Supplemental Budget Report: Fiscal Year 2023-24",
+      "twitter_title": "DCC Annual Report: Fiscal Year 2023-24",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -100,6 +100,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2025/03/dcc-supplemental-budget-report-fiscal-year-2023-24/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/03/dcc-annual-report-fiscal-year-2023-24/"
   }
 }
