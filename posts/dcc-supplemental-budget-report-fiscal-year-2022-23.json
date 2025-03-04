@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-01T19:42:00",
-    "updated_date": "2025-03-03T19:45:29",
+    "updated_date": "2025-03-04T02:19:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-01T11:42:00",
     "date_gmt": "2024-02-01T19:42:00",
     "guid": "https://api.cannabis.ca.gov/?p=22080",
-    "modified": "2025-03-03T11:45:29",
-    "modified_gmt": "2025-03-03T19:45:29",
+    "modified": "2025-03-03T18:19:03",
+    "modified_gmt": "2025-03-04T02:19:03",
     "slug": "dcc-supplemental-budget-report-fiscal-year-2022-23",
     "status": "publish",
     "type": "post",

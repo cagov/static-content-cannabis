@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-03-01T19:15:00",
-    "updated_date": "2025-03-03T20:04:20",
+    "updated_date": "2025-03-04T02:17:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-03-01T11:15:00",
     "date_gmt": "2023-03-01T19:15:00",
     "guid": "https://api.cannabis.ca.gov/?p=22069",
-    "modified": "2025-03-03T12:04:20",
-    "modified_gmt": "2025-03-03T20:04:20",
+    "modified": "2025-03-03T18:17:54",
+    "modified_gmt": "2025-03-04T02:17:54",
     "slug": "supplemental-budget-report-of-the-2021-2022-budget-act-2023",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/03/supplemental-budget-report-of-the-2021-2022-budget-act-2023/",
     "title": "DCC Supplemental Budget Report: Fiscal Year 2021-22",
-    "excerpt": "<p>As required by the 2021-22 Budget Act, under the Business, Consumer Services, and Housing Item 1115-001-3288, on or before March 1, 2023, and annually thereafter through 2025, the Department of Cannabis Control (Department) shall submit a report to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post [&hellip;]</p>\n",
+    "excerpt": "",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -41,9 +41,7 @@
     "categories": [
       "Reports - Legislative"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
