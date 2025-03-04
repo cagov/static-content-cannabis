@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-03T17:14:00",
-    "updated_date": "2025-03-03T22:51:31",
+    "updated_date": "2025-03-04T01:09:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-03T09:14:00",
     "date_gmt": "2025-03-03T17:14:00",
     "guid": "https://api.cannabis.ca.gov/?p=22098",
-    "modified": "2025-03-03T14:51:31",
-    "modified_gmt": "2025-03-03T22:51:31",
+    "modified": "2025-03-03T17:09:27",
+    "modified_gmt": "2025-03-04T01:09:27",
     "slug": "dcc-supplemental-budget-report-fiscal-year-2023-24",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -41,11 +41,9 @@
     "categories": [
       "Reports - Legislative"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "post"
     },
     "og_meta": {
       "editor": {
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
