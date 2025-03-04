@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2025-03-03T22:49:54",
-    "updated_date": "2025-03-04T03:26:00",
+    "created_date": "2025-03-03T14:49:00",
+    "updated_date": "2025-03-04T03:47:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -15,11 +15,11 @@
   },
   "data": {
     "id": 22116,
-    "date": "2025-03-03T14:49:54",
-    "date_gmt": "2025-03-03T22:49:54",
+    "date": "2025-03-03T06:49:00",
+    "date_gmt": "2025-03-03T14:49:00",
     "guid": "https://api.cannabis.ca.gov/?p=22116",
-    "modified": "2025-03-03T19:26:00",
-    "modified_gmt": "2025-03-04T03:26:00",
+    "modified": "2025-03-03T19:47:24",
+    "modified_gmt": "2025-03-04T03:47:24",
     "slug": "report-on-the-condition-and-health-of-the-cannabis-industry",
     "status": "publish",
     "type": "post",
