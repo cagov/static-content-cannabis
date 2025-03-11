@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "created_date": "2025-03-11T19:32:14",
+    "updated_date": "2025-03-11T19:32:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22209",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 22209,
+    "date": "2025-03-11T12:32:14",
+    "date_gmt": "2025-03-11T19:32:14",
+    "guid": "https://api.cannabis.ca.gov/?p=22209",
+    "modified": "2025-03-11T12:32:20",
+    "modified_gmt": "2025-03-11T19:32:20",
+    "slug": "joint-efforts-by-california-highway-patrol-and-department-of-cannabis-control-result-in-seizure-of-over-20m-in-illicit-cannabis",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/03/joint-efforts-by-california-highway-patrol-and-department-of-cannabis-control-result-in-seizure-of-over-20m-in-illicit-cannabis/",
+    "title": "Joint efforts by California Highway Patrol and Department of Cannabis Control result in seizure of over $20M In illicit cannabis",
+    "excerpt": "<p>Departmental cooperation strengthens the state’s aggressive stance on unlicensed cannabis operations SACRAMENTO – Continuing efforts to reinforce public safety, public health and the legal and regulated cannabis market, the California Highway Patrol (CHP) and the Department of Cannabis Control (DCC) combined efforts led to the seizure of $20,852,700 worth of illicit cannabis plants in Oakland. Last week [&hellip;]</p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "2025 announcements",
+      "Announcements"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/03/joint-efforts-by-california-highway-patrol-and-department-of-cannabis-control-result-in-seizure-of-over-20m-in-illicit-cannabis/",
+      "page_title": "Joint efforts by California Highway Patrol and Department of Cannabis Control result in seizure of over $20M In illicit cannabis",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Joint efforts by California Highway Patrol and Department of Cannabis Control result in seizure of over $20M In illicit cannabis",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/joint-efforts-by-california-highway-patrol-and-department-of-cannabis-control-result-in-seizure-of-over-20m-in-illicit-cannabis/",
+      "open_graph_title": "Joint efforts by California Highway Patrol and Department of Cannabis Control result in seizure of over $20M In illicit cannabis",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Joint efforts by California Highway Patrol and Department of Cannabis Control result in seizure of over $20M In illicit cannabis",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 991,
+        "name": "2025 announcements",
+        "slug": "2025-announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 991,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 991,
+        "category_description": "",
+        "cat_name": "2025 announcements",
+        "category_nicename": "2025-announcements",
+        "category_parent": 14
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/03/joint-efforts-by-california-highway-patrol-and-department-of-cannabis-control-result-in-seizure-of-over-20m-in-illicit-cannabis/"
+  }
+}
