@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-14T14:00:00",
-    "updated_date": "2025-03-14T18:10:15",
+    "updated_date": "2025-03-14T18:11:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2025-03-14T07:00:00",
     "date_gmt": "2025-03-14T14:00:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=22225",
-    "modified": "2025-03-14T11:10:15",
-    "modified_gmt": "2025-03-14T18:10:15",
+    "modified": "2025-03-14T11:11:25",
+    "modified_gmt": "2025-03-14T18:11:25",
     "slug": "cultivation-updates-sanitation-standards",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cultivation-updates-sanitation-standards/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-updates-sanitation-standards/",
     "title": "DCC-2025-01-R: Cultivation Updates; Sanitation Standards",
     "excerpt": "<p>Type:   Regular Rulemaking Status: Public notice provided March 14, 2025. Public comments currently being accepted through April 28, 2025. Summary:  The Department of Cannabis Control (DCC) is proposing a rulemaking action to revise existing regulations to remove redundant and duplicative provisions; streamline operational and administrative burdens for licensees and the Department; and establish minimum sanitation [&hellip;]</p>\n",
     "author": 37,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 710,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cultivation-updates-sanitation-standards/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-updates-sanitation-standards/",
       "page_title": "DCC-2025-01-R: Cultivation Updates; Sanitation Standards",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,8 +66,8 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "DCC-2025-01-R: Cultivation Updates; Sanitation Standards",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-updates-sanitation-standards/",
+      "meta_description": "The Department of Cannabis Control (DCC) is proposing a rulemaking action to revise existing regulations to remove redundant and duplicative provisions; streamline operational and administrative burdens for licensees and the Department; and establish minimum sanitation standards.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-updates-sanitation-standards/",
       "open_graph_title": "DCC-2025-01-R: Cultivation Updates; Sanitation Standards",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "DCC-2025-01-R: Cultivation Updates; Sanitation Standards",
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-updates-sanitation-standards/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-updates-sanitation-standards/"
   }
 }
