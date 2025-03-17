@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-17T16:08:44",
-    "updated_date": "2025-03-17T21:46:31",
+    "updated_date": "2025-03-17T21:54:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-17T09:08:44",
     "date_gmt": "2025-03-17T16:08:44",
     "guid": "https://api.cannabis.ca.gov/?p=22257",
-    "modified": "2025-03-17T14:46:31",
-    "modified_gmt": "2025-03-17T21:46:31",
+    "modified": "2025-03-17T14:54:19",
+    "modified_gmt": "2025-03-17T21:54:19",
     "slug": "cannabis-advisory-committee-3-27-2025",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "2025 Meetings",
       "All",
       "Cannabis Advisory Committee"
     ],
@@ -76,22 +75,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 989,
-        "name": "2025 Meetings",
-        "slug": "2025-meetings",
-        "term_group": 0,
-        "term_taxonomy_id": 989,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 833,
-        "filter": "raw",
-        "cat_ID": 989,
-        "category_description": "",
-        "cat_name": "2025 Meetings",
-        "category_nicename": "2025-meetings",
-        "category_parent": 833
-      },
       {
         "term_id": 1,
         "name": "All",
