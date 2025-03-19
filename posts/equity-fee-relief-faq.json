@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-19T18:04:32",
-    "updated_date": "2025-03-19T21:34:26",
+    "updated_date": "2025-03-19T21:59:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-19T11:04:32",
     "date_gmt": "2025-03-19T18:04:32",
     "guid": "https://api.cannabis.ca.gov/?p=22295",
-    "modified": "2025-03-19T14:34:26",
-    "modified_gmt": "2025-03-19T21:34:26",
+    "modified": "2025-03-19T14:59:57",
+    "modified_gmt": "2025-03-19T21:59:57",
     "slug": "equity-fee-relief-faq",
     "status": "publish",
     "type": "post",
