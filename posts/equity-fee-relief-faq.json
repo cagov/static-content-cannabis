@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "created_date": "2025-03-19T18:04:32",
+    "updated_date": "2025-03-19T18:04:38",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22295",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 22295,
+    "date": "2025-03-19T11:04:32",
+    "date_gmt": "2025-03-19T18:04:32",
+    "guid": "https://api.cannabis.ca.gov/?p=22295",
+    "modified": "2025-03-19T11:04:38",
+    "modified_gmt": "2025-03-19T18:04:38",
+    "slug": "equity-fee-relief-faq",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/03/equity-fee-relief-faq/",
+    "title": "Equity fee relief: FAQ",
+    "excerpt": "<p>Frequently asked questions about Equity fee relief Q: What does the equity fee relief program provide?   A: DCC’s equity fee relief program provides fee waivers and deferrals to qualifying applicants and licensees. &nbsp;&nbsp; Approval for equity fee relief designates your business as an equity business, connecting you to customers searching for equity retailers via the Cannabis [&hellip;]</p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "All"
+    ],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/03/equity-fee-relief-faq/",
+      "page_title": "Equity fee relief: FAQ",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Equity fee relief: FAQ",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/03/equity-fee-relief-faq/",
+      "open_graph_title": "Equity fee relief: FAQ",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Equity fee relief: FAQ",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/03/equity-fee-relief-faq/"
+  }
+}
