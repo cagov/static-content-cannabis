@@ -23,7 +23,7 @@
     "slug": "cannabis-licensee-bond-form",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cannabis-licensee-bond-form/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/cannabis-licensee-bond-form/",
     "title": "Cannabis Licensee Bond Form ",
     "excerpt": "<p>The Department of Justice filed on behalf of the Department of Cannabis Control’s (DCC) an action to adopt a revised version of the cannabis licensee bond form. The revised form replaces the version used by the three legacy cannabis agencies. Revisions to the form replaced reference to any of the former three licensing authorities with [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cannabis-licensee-bond-form/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/cannabis-licensee-bond-form/",
       "page_title": "Cannabis Licensee Bond Form ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cannabis Licensee Bond Form ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cannabis-licensee-bond-form/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/cannabis-licensee-bond-form/",
       "open_graph_title": "Cannabis Licensee Bond Form ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Cannabis Licensee Bond Form ",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cannabis-licensee-bond-form/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/cannabis-licensee-bond-form/"
   }
 }

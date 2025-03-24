@@ -23,7 +23,7 @@
     "slug": "labor-peace-amendments",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/labor-peace-amendments/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/labor-peace-amendments/",
     "title": "Section 100 action for labor peace amendments",
     "excerpt": "<p>The Office of Administrative Law has approved the Department of Cannabis Control’s non-substantive amendments to align existing regulations regarding labor peace agreements with recently amended provisions of Business and Professions Code section 26051.5 that became operative on July 1, 2024.</p>\n",
     "author": 32,
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/labor-peace-amendments/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/labor-peace-amendments/",
       "page_title": "Section 100 action for labor peace amendments",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "Section 100 action for labor peace amendments",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/labor-peace-amendments/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/labor-peace-amendments/",
       "open_graph_title": "Section 100 action for labor peace amendments",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Section 100 action for labor peace amendments",
@@ -109,6 +109,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/labor-peace-amendments/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/labor-peace-amendments/"
   }
 }
