@@ -23,7 +23,7 @@
     "slug": "cultivation-license-changes-emergency",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/cultivation-license-changes-emergency/",
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/",
     "title": "Cultivation License Changes: Emergency Rulemaking",
     "excerpt": "<p>The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) emergency regulations implementing Senate Bill 833, codified in Business and Professions Code section 26061.5, which requires the DCC to allow cultivation licensees to make certain changes, including: change the type of size of a cultivation license; place a cultivation license in [&hellip;]</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/cultivation-license-changes-emergency/",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/",
       "page_title": "Cultivation License Changes: Emergency Rulemaking",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cultivation License Changes: Emergency Rulemaking",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/cultivation-license-changes-emergency/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/",
       "open_graph_title": "Cultivation License Changes: Emergency Rulemaking",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Cultivation License Changes: Emergency Rulemaking",
@@ -126,6 +126,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/cultivation-license-changes-emergency/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-license-changes-emergency/"
   }
 }
