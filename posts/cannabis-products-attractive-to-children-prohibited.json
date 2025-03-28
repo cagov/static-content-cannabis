@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-27T22:52:00",
-    "updated_date": "2025-03-28T21:36:03",
+    "updated_date": "2025-03-28T21:38:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-27T15:52:00",
     "date_gmt": "2024-08-27T22:52:00",
     "guid": "https://api.cannabis.ca.gov/?p=19630",
-    "modified": "2025-03-28T14:36:03",
-    "modified_gmt": "2025-03-28T21:36:03",
+    "modified": "2025-03-28T14:38:59",
+    "modified_gmt": "2025-03-28T21:38:59",
     "slug": "cannabis-products-attractive-to-children-prohibited",
     "status": "publish",
     "type": "post",
