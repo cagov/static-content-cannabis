@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-27T22:52:00",
-    "updated_date": "2025-04-02T17:38:44",
+    "updated_date": "2025-04-03T18:23:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-27T15:52:00",
     "date_gmt": "2024-08-27T22:52:00",
     "guid": "https://api.cannabis.ca.gov/?p=19630",
-    "modified": "2025-04-02T10:38:44",
-    "modified_gmt": "2025-04-02T17:38:44",
+    "modified": "2025-04-03T11:23:53",
+    "modified_gmt": "2025-04-03T18:23:53",
     "slug": "cannabis-products-attractive-to-children-prohibited",
     "status": "publish",
     "type": "post",
@@ -46,7 +46,8 @@
       "Product safety"
     ],
     "tags": [
-      "latest updates"
+      "latest updates",
+      "staging"
     ],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -166,6 +167,17 @@
         "slug": "latest-updates",
         "term_group": 0,
         "term_taxonomy_id": 922,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
