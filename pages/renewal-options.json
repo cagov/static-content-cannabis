@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T17:13:43",
-    "updated_date": "2025-04-04T19:46:40",
+    "updated_date": "2025-04-04T21:27:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-06T10:13:43",
     "date_gmt": "2024-08-06T17:13:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=19261",
-    "modified": "2025-04-04T12:46:40",
-    "modified_gmt": "2025-04-04T19:46:40",
+    "modified": "2025-04-04T14:27:54",
+    "modified_gmt": "2025-04-04T21:27:54",
     "slug": "renewal-options",
     "status": "publish",
     "type": "page",
@@ -41,9 +41,7 @@
     "categories": [
       "CLS Renewal"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -91,19 +89,7 @@
         "category_parent": 935
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-renewal-user-guide/renewal-options/"

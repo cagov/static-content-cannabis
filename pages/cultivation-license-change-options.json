@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-11T18:45:21",
-    "updated_date": "2025-04-04T19:45:18",
+    "updated_date": "2025-04-04T21:27:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-11T11:45:21",
     "date_gmt": "2024-03-11T18:45:21",
     "guid": "https://api.cannabis.ca.gov/?page_id=17570",
-    "modified": "2025-04-04T12:45:18",
-    "modified_gmt": "2025-04-04T19:45:18",
+    "modified": "2025-04-04T14:27:56",
+    "modified_gmt": "2025-04-04T21:27:56",
     "slug": "cultivation-license-change-options",
     "status": "publish",
     "type": "page",
@@ -42,8 +42,7 @@
       "Cultivation license changes"
     ],
     "tags": [
-      "latest updates",
-      "staging"
+      "latest updates"
     ],
     "design_system_fields": {
       "template": "template-page"
@@ -99,17 +98,6 @@
         "slug": "latest-updates",
         "term_group": 0,
         "term_taxonomy_id": 922,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
