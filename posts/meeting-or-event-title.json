@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-04-07T18:02:23",
-    "updated_date": "2025-04-07T18:03:05",
+    "updated_date": "2025-04-07T18:03:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-04-07T11:02:23",
     "date_gmt": "2025-04-07T18:02:23",
     "guid": "https://api.cannabis.ca.gov/?p=22405",
-    "modified": "2025-04-07T11:03:05",
-    "modified_gmt": "2025-04-07T18:03:05",
+    "modified": "2025-04-07T11:03:45",
+    "modified_gmt": "2025-04-07T18:03:45",
     "slug": "meeting-or-event-title",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      null
     ],
     "tags": [
       "staging"
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 975,
+        "name": "Events",
+        "slug": "events-content-types-2",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 975,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 973,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 975,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
+        "cat_name": "Events",
+        "category_nicename": "events-content-types-2",
+        "category_parent": 973
       }
     ],
     "headless_tags": [
