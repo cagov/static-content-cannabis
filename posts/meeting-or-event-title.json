@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-04-07T18:02:23",
-    "updated_date": "2025-04-07T18:03:50",
+    "updated_date": "2025-04-07T18:13:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-04-07T11:02:23",
     "date_gmt": "2025-04-07T18:02:23",
     "guid": "https://api.cannabis.ca.gov/?p=22405",
-    "modified": "2025-04-07T11:03:50",
-    "modified_gmt": "2025-04-07T18:03:50",
+    "modified": "2025-04-07T11:13:25",
+    "modified_gmt": "2025-04-07T18:13:25",
     "slug": "meeting-or-event-title",
     "status": "publish",
     "type": "post",
