@@ -17,7 +17,7 @@ concurrency:
 jobs:
   bump-version:  # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
     name: Bump Version on main branch
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: "Partially checkout source code"
