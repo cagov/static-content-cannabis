@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-20T19:21:34",
-    "updated_date": "2025-03-20T19:24:16",
+    "updated_date": "2025-04-21T23:43:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-20T12:21:34",
     "date_gmt": "2025-03-20T19:21:34",
     "guid": "https://api.cannabis.ca.gov/?p=22310",
-    "modified": "2025-03-20T12:24:16",
-    "modified_gmt": "2025-03-20T19:24:16",
+    "modified": "2025-04-21T16:43:46",
+    "modified_gmt": "2025-04-21T23:43:46",
     "slug": "california-supreme-court-action-preserves-californias-cannabis-laws",
     "status": "publish",
     "type": "post",
