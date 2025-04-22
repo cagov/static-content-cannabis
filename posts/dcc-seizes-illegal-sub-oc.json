@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-04-21T23:46:29",
-    "updated_date": "2025-04-21T23:46:35",
+    "updated_date": "2025-04-22T17:33:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-04-21T16:46:29",
     "date_gmt": "2025-04-21T23:46:29",
     "guid": "https://api.cannabis.ca.gov/?p=22458",
-    "modified": "2025-04-21T16:46:35",
-    "modified_gmt": "2025-04-21T23:46:35",
+    "modified": "2025-04-22T10:33:17",
+    "modified_gmt": "2025-04-22T17:33:17",
     "slug": "dcc-seizes-illegal-sub-oc",
     "status": "publish",
     "type": "post",
