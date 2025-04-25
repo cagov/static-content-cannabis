@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-26T14:01:48",
-    "updated_date": "2024-07-19T19:16:51",
+    "updated_date": "2025-04-25T16:10:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-05-26T07:01:48",
     "date_gmt": "2022-05-26T14:01:48",
     "guid": "https://cannabis.ca.gov/?page_id=9654",
-    "modified": "2024-07-19T12:16:51",
-    "modified_gmt": "2024-07-19T19:16:51",
+    "modified": "2025-04-25T09:10:47",
+    "modified_gmt": "2025-04-25T16:10:47",
     "slug": "where-cannabis-businesses-are-allowed",
     "status": "publish",
     "type": "page",
