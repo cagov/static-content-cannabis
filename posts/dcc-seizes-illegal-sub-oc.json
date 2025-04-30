@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-04-21T23:46:29",
-    "updated_date": "2025-04-22T19:11:47",
+    "updated_date": "2025-04-30T16:13:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2025-04-21T16:46:29",
     "date_gmt": "2025-04-21T23:46:29",
     "guid": "https://api.cannabis.ca.gov/?p=22458",
-    "modified": "2025-04-22T12:11:47",
-    "modified_gmt": "2025-04-22T19:11:47",
+    "modified": "2025-04-30T09:13:59",
+    "modified_gmt": "2025-04-30T16:13:59",
     "slug": "dcc-seizes-illegal-sub-oc",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2025/04/dcc-seizes-illegal-sub-oc/",
-    "title": "Department of Cannabis Control Seizes $2.7M in illegal cannabis plants",
-    "excerpt": "<p>Demonstrating its continuing commitment to disrupting the illegal cannabis supply chain, the Department of Cannabis Control (DCC) today announced that over $2.7M worth of illegal cannabis including 1,405 pounds of illegal cannabis was seized at an illegal indoor cultivation and manufacturing operation in Orange County.</p>\n",
+    "title": "Department of Cannabis Control Seizes Over $2.7M in illegal cannabis",
+    "excerpt": "<p>Illegal manufacturing/cultivation operation also contained 98 pounds of illegal cannabis concentrate Demonstrating its continuing commitment to disrupting the illegal cannabis supply chain, the Department of Cannabis Control (DCC) today announced that over $2.7M worth of illegal cannabis, including 1,788 pounds of illegal plants, was seized at an illegal indoor cultivation and manufacturing operation in Orange [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,11 +39,10 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "All",
+      "Press Releases"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "post"
     },
@@ -59,18 +58,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2025/04/dcc-seizes-illegal-sub-oc/",
-      "page_title": "Department of Cannabis Control Seizes $2.7M in illegal cannabis plants",
+      "page_title": "Department of Cannabis Control Seizes Over $2.7M in illegal cannabis",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Department of Cannabis Control Seizes $2.7M in illegal cannabis plants",
+      "meta_title": "Department of Cannabis Control Seizes Over $2.7M in illegal cannabis",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2025/04/dcc-seizes-illegal-sub-oc/",
-      "open_graph_title": "Department of Cannabis Control Seizes $2.7M in illegal cannabis plants",
+      "open_graph_title": "Department of Cannabis Control Seizes Over $2.7M in illegal cannabis",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Department of Cannabis Control Seizes $2.7M in illegal cannabis plants",
+      "twitter_title": "Department of Cannabis Control Seizes Over $2.7M in illegal cannabis",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -89,21 +88,25 @@
         "cat_name": "All",
         "category_nicename": "all",
         "category_parent": 0
-      }
-    ],
-    "headless_tags": [
+      },
       {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
         "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
         "description": "",
-        "parent": 0,
-        "filter": "raw"
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
+        "category_parent": 14
       }
     ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
