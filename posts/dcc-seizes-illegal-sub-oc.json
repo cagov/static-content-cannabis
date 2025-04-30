@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-04-21T23:46:29",
-    "updated_date": "2025-04-30T17:29:51",
+    "updated_date": "2025-04-30T17:39:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-04-21T16:46:29",
     "date_gmt": "2025-04-21T23:46:29",
     "guid": "https://api.cannabis.ca.gov/?p=22458",
-    "modified": "2025-04-30T10:29:51",
-    "modified_gmt": "2025-04-30T17:29:51",
+    "modified": "2025-04-30T10:39:26",
+    "modified_gmt": "2025-04-30T17:39:26",
     "slug": "dcc-seizes-illegal-sub-oc",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,6 @@
       "footnotes": ""
     },
     "categories": [
-      "All",
       "Press Releases"
     ],
     "tags": [],
@@ -73,22 +72,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
-        "term_group": 0,
-        "term_taxonomy_id": 1,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1,
-        "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
-      },
       {
         "term_id": 16,
         "name": "Press Releases",
