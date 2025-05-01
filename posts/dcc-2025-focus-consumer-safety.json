@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2025-04-22T19:39:24",
+    "updated_date": "2025-05-01T19:18:22",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22463",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 22463,
+    "date": "2025-04-22T12:39:24",
+    "date_gmt": "2025-04-22T19:39:24",
+    "guid": "https://api.cannabis.ca.gov/?p=22463",
+    "modified": "2025-05-01T12:18:22",
+    "modified_gmt": "2025-05-01T19:18:22",
+    "slug": "dcc-2025-focus-consumer-safety",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/04/dcc-2025-focus-consumer-safety/",
+    "title": "Department of Cannabis Control Announces Q1 2025 Efforts Focusing on Consumer Safety and Bolstering the Legal Cannabis Market",
+    "excerpt": "<p>SACRAMENTO – In the first quarter of 2025 (January 1 – March 31), the Department of Cannabis Control (DCC) continued advancing a safe, sustainable, and well-regulated cannabis market through actions that prioritize consumer safety, expand access to the legal market, and aggressively target unlicensed operations. The Department continued to focus its law enforcement efforts on [&hellip;]</p>\n",
+    "author": 40,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Press Releases"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/04/dcc-2025-focus-consumer-safety/",
+      "page_title": "Department of Cannabis Control Announces Q1 2025 Efforts Focusing on Consumer Safety and Bolstering the Legal Cannabis Market",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Department of Cannabis Control Announces Q1 2025 Efforts Focusing on Consumer Safety and Bolstering the Legal Cannabis Market",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/04/dcc-2025-focus-consumer-safety/",
+      "open_graph_title": "Department of Cannabis Control Announces Q1 2025 Efforts Focusing on Consumer Safety and Bolstering the Legal Cannabis Market",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Department of Cannabis Control Announces Q1 2025 Efforts Focusing on Consumer Safety and Bolstering the Legal Cannabis Market",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
+        "term_group": 0,
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
+        "category_parent": 14
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/04/dcc-2025-focus-consumer-safety/"
+  }
+}
