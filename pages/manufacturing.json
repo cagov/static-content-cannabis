@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2025-05-01T18:00:00",
+    "updated_date": "2025-05-05T18:39:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/manufacturing/",
-    "modified": "2025-05-01T11:00:00",
-    "modified_gmt": "2025-05-01T18:00:00",
+    "modified": "2025-05-05T11:39:27",
+    "modified_gmt": "2025-05-05T18:39:27",
     "slug": "manufacturing",
     "status": "publish",
     "type": "page",
