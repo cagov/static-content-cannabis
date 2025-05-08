@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-06T23:39:16",
-    "updated_date": "2025-05-08T17:16:24",
+    "updated_date": "2025-05-08T17:55:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-05-06T16:39:16",
     "date_gmt": "2025-05-06T23:39:16",
     "guid": "https://api.cannabis.ca.gov/?p=22530",
-    "modified": "2025-05-08T10:16:24",
-    "modified_gmt": "2025-05-08T17:16:24",
+    "modified": "2025-05-08T10:55:56",
+    "modified_gmt": "2025-05-08T17:55:56",
     "slug": "promising-practice-equity-exclusive-licensing",
     "status": "publish",
     "type": "post",
