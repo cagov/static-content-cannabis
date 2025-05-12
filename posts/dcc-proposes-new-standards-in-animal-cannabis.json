@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-09T23:13:36",
-    "updated_date": "2025-05-09T23:20:54",
+    "updated_date": "2025-05-12T15:26:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-05-09T16:13:36",
     "date_gmt": "2025-05-09T23:13:36",
     "guid": "https://api.cannabis.ca.gov/?p=22588",
-    "modified": "2025-05-09T16:20:54",
-    "modified_gmt": "2025-05-09T23:20:54",
+    "modified": "2025-05-12T08:26:48",
+    "modified_gmt": "2025-05-12T15:26:48",
     "slug": "dcc-proposes-new-standards-in-animal-cannabis",
     "status": "publish",
     "type": "post",
