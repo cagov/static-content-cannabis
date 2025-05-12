@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-12T15:30:00",
-    "updated_date": "2025-05-12T15:38:06",
+    "updated_date": "2025-05-12T16:17:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-05-12T08:30:00",
     "date_gmt": "2025-05-12T15:30:00",
     "guid": "https://api.cannabis.ca.gov/?p=22588",
-    "modified": "2025-05-12T08:38:06",
-    "modified_gmt": "2025-05-12T15:38:06",
+    "modified": "2025-05-12T09:17:46",
+    "modified_gmt": "2025-05-12T16:17:46",
     "slug": "dcc-proposes-new-standards-in-animal-cannabis",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "2025 announcements"
+      "2025 announcements",
+      "Announcements"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "2025 announcements",
         "category_nicename": "2025-announcements",
         "category_parent": 14
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
