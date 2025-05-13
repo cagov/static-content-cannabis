@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-06T23:39:16",
-    "updated_date": "2025-05-08T17:55:56",
+    "updated_date": "2025-05-13T18:59:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2025-05-06T16:39:16",
     "date_gmt": "2025-05-06T23:39:16",
     "guid": "https://api.cannabis.ca.gov/?p=22530",
-    "modified": "2025-05-08T10:55:56",
-    "modified_gmt": "2025-05-08T17:55:56",
+    "modified": "2025-05-13T11:59:03",
+    "modified_gmt": "2025-05-13T18:59:03",
     "slug": "promising-practice-equity-exclusive-licensing",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2025/05/promising-practice-equity-exclusive-licensing/",
     "title": "Promising Practice: Equity-Exclusive Licensing",
-    "excerpt": "<p>Owner Spotlight: Rabin Woods &amp; Chasom Brown Cannabis House Jurisdiction: Los Angeles “The equity program has given me this opportunity to participate in the legal cannabis industry and because of that I was blessed to find a partner in Chasom that wanted a real partnership. Once the opportunity came, it changed my life.”– Rabin Woods, [&hellip;]</p>\n",
+    "excerpt": "<p>Owner Spotlight: Rabin Woods &amp; Chasom Brown Cannabis House Jurisdiction: Los Angeles Rabin Woods and Chasom Brown are equity partners at Cannabis House, a retail storefront located in Los Angeles. Rabin was arrested for a cannabis-related offense in 1983 and owns 55% of the business and Chasom has years of experience both in the cannabis [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "All",
+      "Promising Practices"
     ],
     "tags": [
       "staging"
@@ -89,6 +90,22 @@
         "cat_name": "All",
         "category_nicename": "all",
         "category_parent": 0
+      },
+      {
+        "term_id": 931,
+        "name": "Promising Practices",
+        "slug": "promising-practices",
+        "term_group": 0,
+        "term_taxonomy_id": 931,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 874,
+        "filter": "raw",
+        "cat_ID": 931,
+        "category_description": "",
+        "cat_name": "Promising Practices",
+        "category_nicename": "promising-practices",
+        "category_parent": 874
       }
     ],
     "headless_tags": [
