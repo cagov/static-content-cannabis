@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 277,
+      "redirects": 278,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7573,6 +7573,32 @@
       "regex": false,
       "group_id": 1,
       "position": 276,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 529,
+      "url": "/dcc-2025-02-r-animal-cannabis-product-standards/",
+      "match_url": "/dcc-2025-02-r-animal-cannabis-product-standards",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/dcc-2025-02-r-animal-cannabis-product-standards/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 277,
       "last_access": "-",
       "enabled": true
     }
