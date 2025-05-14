@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2025-05-06T23:39:16",
+    "updated_date": "2025-05-14T21:47:47",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22530",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 22530,
+    "date": "2025-05-06T16:39:16",
+    "date_gmt": "2025-05-06T23:39:16",
+    "guid": "https://api.cannabis.ca.gov/?p=22530",
+    "modified": "2025-05-14T14:47:47",
+    "modified_gmt": "2025-05-14T21:47:47",
+    "slug": "promising-practice-equity-exclusive-licensing",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/05/promising-practice-equity-exclusive-licensing/",
+    "title": "Promising Practice: Equity-Exclusive Licensing",
+    "excerpt": "<p>Rabin Woods and Chasom Brown are partners at Cannabis House, a retail storefront in Los Angeles. They are using their unique backgrounds operations, finance, and civic engagement to create a space that supports their community and helps uplift other cannabis business entrepreneurs.</p>\n",
+    "author": 40,
+    "featured_media": 22598,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Promising Practices"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/05/promising-practice-equity-exclusive-licensing/",
+      "page_title": "Promising Practice: Equity-Exclusive Licensing",
+      "page_description": "Rabin Woods and Chasom Brown are partners at Cannabis House, a retail storefront in Los Angeles. They are using their unique backgrounds operations, finance, and civic engagement to create a space that supports their community and helps uplift other cannabis business entrepreneurs.",
+      "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2025/05/chasom-brown-and-rabin-woods.webp",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Promising Practice: Equity-Exclusive Licensing",
+      "meta_description": "Rabin Woods and Chasom Brown are partners at Cannabis House, a retail storefront in Los Angeles. They are using their unique backgrounds operations, finance, and civic engagement to create a space that supports their community and helps uplift other cannabis business entrepreneurs.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/05/promising-practice-equity-exclusive-licensing/",
+      "open_graph_title": "Promising Practice: Equity-Exclusive Licensing",
+      "open_graph_description": "Rabin Woods and Chasom Brown are partners at Cannabis House, a retail storefront in Los Angeles. They are using their unique backgrounds operations, finance, and civic engagement to create a space that supports their community and helps uplift other cannabis business entrepreneurs.",
+      "twitter_title": "Promising Practice: Equity-Exclusive Licensing",
+      "twitter_description": "Rabin Woods and Chasom Brown are partners at Cannabis House, a retail storefront in Los Angeles. They are using their unique backgrounds operations, finance, and civic engagement to create a space that supports their community and helps uplift other cannabis business entrepreneurs."
+    },
+    "headless_categories": [
+      {
+        "term_id": 931,
+        "name": "Promising Practices",
+        "slug": "promising-practices",
+        "term_group": 0,
+        "term_taxonomy_id": 931,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 874,
+        "filter": "raw",
+        "cat_ID": 931,
+        "category_description": "",
+        "cat_name": "Promising Practices",
+        "category_nicename": "promising-practices",
+        "category_parent": 874
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/05/promising-practice-equity-exclusive-licensing/"
+  }
+}
