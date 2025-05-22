@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-22T16:49:23",
-    "updated_date": "2025-05-22T16:49:29",
+    "updated_date": "2025-05-22T16:56:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2025-05-22T09:49:23",
     "date_gmt": "2025-05-22T16:49:23",
     "guid": "https://api.cannabis.ca.gov/?p=22658",
-    "modified": "2025-05-22T09:49:29",
-    "modified_gmt": "2025-05-22T16:49:29",
-    "slug": "5-5m-in-illegal-cannabis-seized-at-unlicensed-dispensary-in-los-angeles-county",
+    "modified": "2025-05-22T09:56:34",
+    "modified_gmt": "2025-05-22T16:56:34",
+    "slug": "5-5m-illegal-cannabis-seized-in-la-county",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2025/05/5-5m-in-illegal-cannabis-seized-at-unlicensed-dispensary-in-los-angeles-county/",
+    "link": "https://api.cannabis.ca.gov/2025/05/5-5m-illegal-cannabis-seized-in-la-county/",
     "title": "$5.5M in illegal cannabis seized at unlicensed dispensary in Los Angeles County",
     "excerpt": "<p>LOS ANGELES COUNTY — To continue the disruption of illicit cannabis sales in California while protecting cannabis consumers, the Department of Cannabis Control (DCC) shut down an unlicensed cannabis retailer in Monrovia that was preparing to ship over 2,900 pounds of illegal cannabis flower. The enforcement action, led by DCC’s Law Enforcement Division (LED) with [&hellip;]</p>\n",
     "author": 40,
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2025/05/5-5m-in-illegal-cannabis-seized-at-unlicensed-dispensary-in-los-angeles-county/",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/05/5-5m-illegal-cannabis-seized-in-la-county/",
       "page_title": "$5.5M in illegal cannabis seized at unlicensed dispensary in Los Angeles County",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "$5.5M in illegal cannabis seized at unlicensed dispensary in Los Angeles County",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/05/5-5m-in-illegal-cannabis-seized-at-unlicensed-dispensary-in-los-angeles-county/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/05/5-5m-illegal-cannabis-seized-in-la-county/",
       "open_graph_title": "$5.5M in illegal cannabis seized at unlicensed dispensary in Los Angeles County",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "$5.5M in illegal cannabis seized at unlicensed dispensary in Los Angeles County",
@@ -131,6 +131,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2025/05/5-5m-in-illegal-cannabis-seized-at-unlicensed-dispensary-in-los-angeles-county/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/05/5-5m-illegal-cannabis-seized-in-la-county/"
   }
 }
