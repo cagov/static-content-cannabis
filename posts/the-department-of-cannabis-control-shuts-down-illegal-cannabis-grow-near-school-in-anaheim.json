@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-06-05T17:30:59",
-    "updated_date": "2025-06-05T17:46:14",
+    "updated_date": "2025-06-05T18:10:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-06-05T10:30:59",
     "date_gmt": "2025-06-05T17:30:59",
     "guid": "https://api.cannabis.ca.gov/?p=22703",
-    "modified": "2025-06-05T10:46:14",
-    "modified_gmt": "2025-06-05T17:46:14",
+    "modified": "2025-06-05T11:10:30",
+    "modified_gmt": "2025-06-05T18:10:30",
     "slug": "the-department-of-cannabis-control-shuts-down-illegal-cannabis-grow-near-school-in-anaheim",
     "status": "publish",
     "type": "post",
