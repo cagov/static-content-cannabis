@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-20T19:38:54",
-    "updated_date": "2025-05-20T19:39:00",
+    "updated_date": "2025-06-11T19:06:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-05-20T12:38:54",
     "date_gmt": "2025-05-20T19:38:54",
     "guid": "https://api.cannabis.ca.gov/?p=22652",
-    "modified": "2025-05-20T12:39:00",
-    "modified_gmt": "2025-05-20T19:39:00",
+    "modified": "2025-06-11T12:06:28",
+    "modified_gmt": "2025-06-11T19:06:28",
     "slug": "multi-agency-operation-yields-record-123-5-million-seized-in-illicit-cannabis",
     "status": "publish",
     "type": "post",
