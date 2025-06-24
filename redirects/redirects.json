@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 280,
+      "redirects": 281,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7651,6 +7651,32 @@
       "regex": false,
       "group_id": 1,
       "position": 279,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 532,
+      "url": "/2024/05/form-2618-attachment-a-scope-of-work/",
+      "match_url": "/2024/05/form-2618-attachment-a-scope-of-work",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/05/form-2618/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 280,
       "last_access": "-",
       "enabled": true
     }
