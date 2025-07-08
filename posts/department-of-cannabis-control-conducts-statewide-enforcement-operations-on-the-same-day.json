@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-08T16:22:53",
-    "updated_date": "2025-07-08T16:22:59",
+    "updated_date": "2025-07-08T16:36:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-08T09:22:53",
     "date_gmt": "2025-07-08T16:22:53",
     "guid": "https://api.cannabis.ca.gov/?p=22864",
-    "modified": "2025-07-08T09:22:59",
-    "modified_gmt": "2025-07-08T16:22:59",
+    "modified": "2025-07-08T09:36:37",
+    "modified_gmt": "2025-07-08T16:36:37",
     "slug": "department-of-cannabis-control-conducts-statewide-enforcement-operations-on-the-same-day",
     "status": "publish",
     "type": "post",
@@ -43,7 +43,7 @@
       "Press Releases"
     ],
     "tags": [
-      "staging"
+      "Announcement"
     ],
     "design_system_fields": {
       "template": "post"
@@ -110,11 +110,11 @@
     ],
     "headless_tags": [
       {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
+        "term_id": 44,
+        "name": "Announcement",
+        "slug": "announcement",
         "term_group": 0,
-        "term_taxonomy_id": 797,
+        "term_taxonomy_id": 44,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
