@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2025-07-08T16:22:53",
+    "updated_date": "2025-07-08T16:36:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22864",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 22864,
+    "date": "2025-07-08T09:22:53",
+    "date_gmt": "2025-07-08T16:22:53",
+    "guid": "https://api.cannabis.ca.gov/?p=22864",
+    "modified": "2025-07-08T09:36:37",
+    "modified_gmt": "2025-07-08T16:36:37",
+    "slug": "department-of-cannabis-control-conducts-statewide-enforcement-operations-on-the-same-day",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/07/department-of-cannabis-control-conducts-statewide-enforcement-operations-on-the-same-day/",
+    "title": "Department of Cannabis Control conducts statewide enforcement operations on the same day",
+    "excerpt": "<p>What you need to know: Partnering with local law enforcement officials, the Department of Cannabis Control lead seven operations in three counties on the same day that resulted in $4.9M in illegal cannabis being seized. SACRAMENTO &#8211; The Department of Cannabis Control (DCC) announced today that seven successful enforcement actions were carried out against unlicensed [&hellip;]</p>\n",
+    "author": 41,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Announcements",
+      "Press Releases"
+    ],
+    "tags": [
+      "Announcement"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/07/department-of-cannabis-control-conducts-statewide-enforcement-operations-on-the-same-day/",
+      "page_title": "Department of Cannabis Control conducts statewide enforcement operations on the same day",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Department of Cannabis Control conducts statewide enforcement operations on the same day",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/07/department-of-cannabis-control-conducts-statewide-enforcement-operations-on-the-same-day/",
+      "open_graph_title": "Department of Cannabis Control conducts statewide enforcement operations on the same day",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Department of Cannabis Control conducts statewide enforcement operations on the same day",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
+        "term_group": 0,
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
+        "category_parent": 14
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 44,
+        "name": "Announcement",
+        "slug": "announcement",
+        "term_group": 0,
+        "term_taxonomy_id": 44,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/07/department-of-cannabis-control-conducts-statewide-enforcement-operations-on-the-same-day/"
+  }
+}
