@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-10T18:08:54",
-    "updated_date": "2025-07-10T18:54:45",
+    "updated_date": "2025-07-10T22:31:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-10T11:08:54",
     "date_gmt": "2025-07-10T18:08:54",
     "guid": "https://api.cannabis.ca.gov/?p=22911",
-    "modified": "2025-07-10T11:54:45",
-    "modified_gmt": "2025-07-10T18:54:45",
+    "modified": "2025-07-10T15:31:38",
+    "modified_gmt": "2025-07-10T22:31:38",
     "slug": "over-the-past-three-months-california-seized-476-million-worth-of-unlicensed-cannabis-products",
     "status": "publish",
     "type": "post",
@@ -43,7 +43,7 @@
       "Press Releases"
     ],
     "tags": [
-      "staging"
+      "Announcement"
     ],
     "design_system_fields": {
       "template": "template-single-press-release"
@@ -110,11 +110,11 @@
     ],
     "headless_tags": [
       {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
+        "term_id": 44,
+        "name": "Announcement",
+        "slug": "announcement",
         "term_group": 0,
-        "term_taxonomy_id": 797,
+        "term_taxonomy_id": 44,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
