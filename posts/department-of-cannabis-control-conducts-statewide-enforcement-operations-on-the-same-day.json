@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-08T16:22:53",
-    "updated_date": "2025-07-08T17:42:25",
+    "updated_date": "2025-07-14T18:46:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-08T09:22:53",
     "date_gmt": "2025-07-08T16:22:53",
     "guid": "https://api.cannabis.ca.gov/?p=22864",
-    "modified": "2025-07-08T10:42:25",
-    "modified_gmt": "2025-07-08T17:42:25",
+    "modified": "2025-07-14T11:46:06",
+    "modified_gmt": "2025-07-14T18:46:06",
     "slug": "department-of-cannabis-control-conducts-statewide-enforcement-operations-on-the-same-day",
     "status": "publish",
     "type": "post",
