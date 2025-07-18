@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-06-13T18:17:38",
-    "updated_date": "2025-07-18T21:04:21",
+    "updated_date": "2025-07-18T21:13:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-06-13T11:17:38",
     "date_gmt": "2025-06-13T18:17:38",
     "guid": "https://api.cannabis.ca.gov/?page_id=22733",
-    "modified": "2025-07-18T14:04:21",
-    "modified_gmt": "2025-07-18T21:04:21",
+    "modified": "2025-07-18T14:13:00",
+    "modified_gmt": "2025-07-18T21:13:00",
     "slug": "dcc-2025-03-r-pesticide-updates",
     "status": "publish",
     "type": "page",
