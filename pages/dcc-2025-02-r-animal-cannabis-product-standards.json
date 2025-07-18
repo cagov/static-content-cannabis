@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-09T21:55:44",
-    "updated_date": "2025-07-18T15:09:11",
+    "updated_date": "2025-07-18T20:39:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-05-09T14:55:44",
     "date_gmt": "2025-05-09T21:55:44",
     "guid": "https://api.cannabis.ca.gov/?page_id=22572",
-    "modified": "2025-07-18T08:09:11",
-    "modified_gmt": "2025-07-18T15:09:11",
+    "modified": "2025-07-18T13:39:21",
+    "modified_gmt": "2025-07-18T20:39:21",
     "slug": "dcc-2025-02-r-animal-cannabis-product-standards",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
