@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "created_date": "2024-04-29T18:30:23",
+    "updated_date": "2025-07-18T20:12:05",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/18082",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 18082,
+    "date": "2024-04-29T11:30:23",
+    "date_gmt": "2024-04-29T18:30:23",
+    "guid": "https://api.cannabis.ca.gov/?page_id=18082",
+    "modified": "2025-07-18T13:12:05",
+    "modified_gmt": "2025-07-18T20:12:05",
+    "slug": "academic-research",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/about-us/academic-research/",
+    "title": "Academic research",
+    "excerpt": "<p>Cannabis is a Schedule I drug, which means there are strict rules for studying it in the United States. As a result, we do not know as much as we would like about cannabis’s effects on the body. Some of the revenue collected from cannabis taxes funds grants. This helps expand our knowledge about cannabis. [&hellip;]</p>\n",
+    "author": 42,
+    "featured_media": 0,
+    "parent": 856,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/about-us/academic-research/",
+      "page_title": "Academic research",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Academic research",
+      "meta_description": "The Department of Cannabis Control (DCC) funds scientific research to study the effects of adult&#x2d;use cannabis legalization. This includes research about: public health, criminal justice and public safety, economic impacts, environmental impacts, and the cannabis industry",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/academic-research/",
+      "open_graph_title": "Academic research",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Academic research",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/about-us/academic-research/"
+  }
+}
