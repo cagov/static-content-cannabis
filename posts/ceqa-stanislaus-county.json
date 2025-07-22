@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-21T23:42:35",
-    "updated_date": "2025-07-21T23:59:08",
+    "updated_date": "2025-07-22T18:39:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2025-07-21T16:42:35",
     "date_gmt": "2025-07-21T23:42:35",
     "guid": "https://api.cannabis.ca.gov/?p=23000",
-    "modified": "2025-07-21T16:59:08",
-    "modified_gmt": "2025-07-21T23:59:08",
-    "slug": "ceqa-documentation-stanislaus-county",
+    "modified": "2025-07-22T11:39:55",
+    "modified_gmt": "2025-07-22T18:39:55",
+    "slug": "ceqa-stanislaus-county",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2025/07/ceqa-documentation-stanislaus-county/",
+    "link": "https://api.cannabis.ca.gov/2025/07/ceqa-stanislaus-county/",
     "title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
     "excerpt": "<p>Intro text section. Background&nbsp; The Department of Cannabis Control (DCC) currently issues commercial cannabis cultivation licenses under Division 10 of the Business and Professions Code and California Code of Regulations, title 4, division 19. All legal commercial cannabis activity must be conducted pursuant to state licensing requirements. DCC acts as Lead Agency for commercial cannabis [&hellip;]</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2025/07/ceqa-documentation-stanislaus-county/",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/07/ceqa-stanislaus-county/",
       "page_title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/07/ceqa-documentation-stanislaus-county/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/07/ceqa-stanislaus-county/",
       "open_graph_title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
@@ -114,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2025/07/ceqa-documentation-stanislaus-county/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/07/ceqa-stanislaus-county/"
   }
 }
