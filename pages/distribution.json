@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2024-01-05T22:27:06",
+    "updated_date": "2025-07-22T23:52:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/distribution/",
-    "modified": "2024-01-05T14:27:06",
-    "modified_gmt": "2024-01-05T22:27:06",
+    "modified": "2025-07-22T16:52:14",
+    "modified_gmt": "2025-07-22T23:52:14",
     "slug": "distribution",
     "status": "publish",
     "type": "page",
