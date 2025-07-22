@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-22T23:27:06",
-    "updated_date": "2025-07-22T23:38:35",
+    "updated_date": "2025-07-22T23:46:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-22T16:27:06",
     "date_gmt": "2025-07-22T23:27:06",
     "guid": "https://api.cannabis.ca.gov/?p=23022",
-    "modified": "2025-07-22T16:38:35",
-    "modified_gmt": "2025-07-22T23:38:35",
+    "modified": "2025-07-22T16:46:20",
+    "modified_gmt": "2025-07-22T23:46:20",
     "slug": "form-1203-language-access-complaint",
     "status": "publish",
     "type": "post",
