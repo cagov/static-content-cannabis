@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-21T23:42:35",
-    "updated_date": "2025-07-23T19:42:23",
+    "updated_date": "2025-07-23T22:49:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2025-07-21T16:42:35",
     "date_gmt": "2025-07-21T23:42:35",
     "guid": "https://api.cannabis.ca.gov/?p=23000",
-    "modified": "2025-07-23T12:42:23",
-    "modified_gmt": "2025-07-23T19:42:23",
+    "modified": "2025-07-23T15:49:06",
+    "modified_gmt": "2025-07-23T22:49:06",
     "slug": "ceqa-stanislaus-county",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2025/07/ceqa-stanislaus-county/",
     "title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) currently issues commercial cannabis cultivation licenses under Division 10 of the Business and Professions Code and California Code of Regulations, title 4, division 19. All legal commercial cannabis activity must be conducted pursuant to state licensing requirements. Comments received during this period will be reviewed and considered prior to [&hellip;]</p>\n",
+    "excerpt": "<p>Under the California Environmental Quality Act (CEQA), the Department of Cannabis Control (DCC) is serving as the lead agency for environmental review of commercial cannabis projects in Stanislaus County. Five project sites have been identified, and draft environmental documents for each are now available for public review and comment. We invite agencies, stakeholders, and community members to examine these documents and share feedback during the formal comment period.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -41,9 +41,7 @@
     "categories": [
       "All"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -60,18 +58,18 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2025/07/ceqa-stanislaus-county/",
       "page_title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "Under the California Environmental Quality Act (CEQA), the Department of Cannabis Control (DCC) is serving as the lead agency for environmental review of commercial cannabis projects in Stanislaus County. Five project sites have been identified, and draft environmental documents for each are now available for public review and comment. We invite agencies, stakeholders, and community members to examine these documents and share feedback during the formal comment period.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "Under the California Environmental Quality Act (CEQA), the Department of Cannabis Control (DCC) is serving as the lead agency for environmental review of commercial cannabis projects in Stanislaus County. Five project sites have been identified, and draft environmental documents for each are now available for public review and comment. We invite agencies, stakeholders, and community members to examine these documents and share feedback during the formal comment period.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2025/07/ceqa-stanislaus-county/",
       "open_graph_title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "Under the California Environmental Quality Act (CEQA), the Department of Cannabis Control (DCC) is serving as the lead agency for environmental review of commercial cannabis projects in Stanislaus County. Five project sites have been identified, and draft environmental documents for each are now available for public review and comment. We invite agencies, stakeholders, and community members to examine these documents and share feedback during the formal comment period.",
       "twitter_title": "Notice of Availability for CEQA documentation for Cannabis Activities in Stanislaus County  ",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "Under the California Environmental Quality Act (CEQA), the Department of Cannabis Control (DCC) is serving as the lead agency for environmental review of commercial cannabis projects in Stanislaus County. Five project sites have been identified, and draft environmental documents for each are now available for public review and comment. We invite agencies, stakeholders, and community members to examine these documents and share feedback during the formal comment period."
     },
     "headless_categories": [
       {
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
