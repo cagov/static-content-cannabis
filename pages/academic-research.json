@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-29T18:30:23",
-    "updated_date": "2025-07-18T20:12:05",
+    "updated_date": "2025-07-23T20:50:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-29T11:30:23",
     "date_gmt": "2024-04-29T18:30:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=18082",
-    "modified": "2025-07-18T13:12:05",
-    "modified_gmt": "2025-07-18T20:12:05",
+    "modified": "2025-07-23T13:50:58",
+    "modified_gmt": "2025-07-23T20:50:58",
     "slug": "academic-research",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      null
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 999,
+        "name": "academic-research",
+        "slug": "academic-research",
+        "term_group": 0,
+        "term_taxonomy_id": 999,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/about-us/academic-research/"
