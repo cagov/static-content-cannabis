@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-21T23:42:35",
-    "updated_date": "2025-07-25T16:28:09",
+    "updated_date": "2025-07-25T16:39:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-21T16:42:35",
     "date_gmt": "2025-07-21T23:42:35",
     "guid": "https://api.cannabis.ca.gov/?p=23000",
-    "modified": "2025-07-25T09:28:09",
-    "modified_gmt": "2025-07-25T16:28:09",
+    "modified": "2025-07-25T09:39:10",
+    "modified_gmt": "2025-07-25T16:39:10",
     "slug": "ceqa-stanislaus-county",
     "status": "publish",
     "type": "post",
