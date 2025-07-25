@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-03-20T17:29:25",
-    "updated_date": "2025-01-02T18:34:25",
+    "created_date": "2023-11-29T00:15:26",
+    "updated_date": "2025-02-20T17:56:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/17738",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/16210",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 17738,
-    "date": "2024-03-20T10:29:25",
-    "date_gmt": "2024-03-20T17:29:25",
-    "guid": "https://api.cannabis.ca.gov/?page_id=17738",
-    "modified": "2025-01-02T10:34:25",
-    "modified_gmt": "2025-01-02T18:34:25",
-    "slug": "almora-14-half-gram-pre-rolls",
+    "id": 16210,
+    "date": "2023-11-28T16:15:26",
+    "date_gmt": "2023-11-29T00:15:26",
+    "guid": "https://api.cannabis.ca.gov/?page_id=16210",
+    "modified": "2025-02-20T09:56:16",
+    "modified_gmt": "2025-02-20T17:56:16",
+    "slug": "track-and-trace-requirements-for-delivery-of-cannabis-goods",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/almora-14-half-gram-pre-rolls/",
-    "title": "Almora 14 Half Gram Pre-Rolls ",
-    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall due to the presence of Aspergillus niger in a single Almora 14 Half Gram Pre-Rolls product. DCC Recall Publication Date March 20, 2024 Recall Type Mandatory Product Type Cannabis Pre-Rolls &nbsp; Product Description Almora 14 Half Gram Pre-Rolls, GMO Pop &nbsp; Batch [&hellip;]</p>\n",
-    "author": 33,
+    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods/",
+    "title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
+    "excerpt": "<p>The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) regulatory action to permanently adopt the current emergency regulations, with changes, implementing Assembly Bill 195 which requires that information relating to cannabis goods leaving a licensed retail premises in a delivery vehicle be recorded in the statewide track and trace system. [&hellip;]</p>\n",
+    "author": 32,
     "featured_media": 0,
-    "parent": 9345,
+    "parent": 710,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Mandatory recalls"
+      "Recently Approved Actions"
     ],
     "tags": [],
     "design_system_fields": {
@@ -56,42 +56,42 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/almora-14-half-gram-pre-rolls/",
-      "page_title": "Almora 14 Half Gram Pre-Rolls ",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods/",
+      "page_title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Almora 14 Half Gram Pre-Rolls ",
+      "meta_title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/almora-14-half-gram-pre-rolls/",
-      "open_graph_title": "Almora 14 Half Gram Pre-Rolls ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods/",
+      "open_graph_title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Almora 14 Half Gram Pre-Rolls ",
+      "twitter_title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 813,
-        "name": "Mandatory recalls",
-        "slug": "mandatory-recalls",
+        "term_id": 804,
+        "name": "Recently Approved Actions",
+        "slug": "recently-approved",
         "term_group": 0,
-        "term_taxonomy_id": 813,
+        "term_taxonomy_id": 804,
         "taxonomy": "category",
         "description": "",
-        "parent": 812,
+        "parent": 802,
         "filter": "raw",
-        "cat_ID": 813,
+        "cat_ID": 804,
         "category_description": "",
-        "cat_name": "Mandatory recalls",
-        "category_nicename": "mandatory-recalls",
-        "category_parent": 812
+        "cat_name": "Recently Approved Actions",
+        "category_nicename": "recently-approved",
+        "category_parent": 802
       }
     ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/almora-14-half-gram-pre-rolls/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods/"
   }
 }
