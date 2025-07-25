@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-04-17T18:32:22",
-    "updated_date": "2025-01-02T18:34:08",
+    "created_date": "2023-10-30T21:09:04",
+    "updated_date": "2025-07-18T15:57:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/17983",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/15678",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 17983,
-    "date": "2024-04-17T11:32:22",
-    "date_gmt": "2024-04-17T18:32:22",
-    "guid": "https://api.cannabis.ca.gov/?page_id=17983",
-    "modified": "2025-01-02T10:34:08",
-    "modified_gmt": "2025-01-02T18:34:08",
-    "slug": "8-track-pre-roll",
+    "id": 15678,
+    "date": "2023-10-30T14:09:04",
+    "date_gmt": "2023-10-30T21:09:04",
+    "guid": "https://api.cannabis.ca.gov/?page_id=15678",
+    "modified": "2025-07-18T08:57:42",
+    "modified_gmt": "2025-07-18T15:57:42",
+    "slug": "how-to-renew-your-license",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-track-pre-roll/",
-    "title": "8 TRACK 1.0 gram Pre-Roll",
-    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall for a single 8 TRACK 1.0 Gram Pre-Roll product&nbsp;due to the presence of Aspergillus niger and Aspergillus flavus, and due to inaccurate labeling, that reports more THC than the product contains.&nbsp; DCC Recall Publication Date April 19, 2024 Recall Type Mandatory Product [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/",
+    "title": "How to renew your license",
+    "excerpt": "<p>FAQs Related resources</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 9345,
+    "parent": 758,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Mandatory recalls"
+      "Guidance",
+      "Renewal"
     ],
     "tags": [],
     "design_system_fields": {
@@ -56,42 +57,58 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-track-pre-roll/",
-      "page_title": "8 TRACK 1.0 gram Pre-Roll",
+      "canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/",
+      "page_title": "How to renew your license",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "8 TRACK 1.0 gram Pre-Roll",
+      "meta_title": "How to renew your license",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-track-pre-roll/",
-      "open_graph_title": "8 TRACK 1.0 gram Pre-Roll",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/",
+      "open_graph_title": "How to renew your license",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "8 TRACK 1.0 gram Pre-Roll",
+      "twitter_title": "How to renew your license",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 813,
-        "name": "Mandatory recalls",
-        "slug": "mandatory-recalls",
+        "term_id": 859,
+        "name": "Guidance",
+        "slug": "guidance",
         "term_group": 0,
-        "term_taxonomy_id": 813,
+        "term_taxonomy_id": 859,
         "taxonomy": "category",
         "description": "",
-        "parent": 812,
+        "parent": 809,
         "filter": "raw",
-        "cat_ID": 813,
+        "cat_ID": 859,
         "category_description": "",
-        "cat_name": "Mandatory recalls",
-        "category_nicename": "mandatory-recalls",
-        "category_parent": 812
+        "cat_name": "Guidance",
+        "category_nicename": "guidance",
+        "category_parent": 809
+      },
+      {
+        "term_id": 875,
+        "name": "Renewal",
+        "slug": "renewal",
+        "term_group": 0,
+        "term_taxonomy_id": 875,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 875,
+        "category_description": "",
+        "cat_name": "Renewal",
+        "category_nicename": "renewal",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/8-track-pre-roll/"
+    "wordpress_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/"
   }
 }
