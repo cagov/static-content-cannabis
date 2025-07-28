@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Complaints"
+      "All"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,20 +73,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 888,
-        "name": "Complaints",
-        "slug": "complaints",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 888,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
-        "parent": 886,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 888,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Complaints",
-        "category_nicename": "complaints",
-        "category_parent": 886
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

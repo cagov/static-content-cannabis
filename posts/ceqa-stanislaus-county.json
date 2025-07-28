@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-21T23:42:35",
-    "updated_date": "2025-07-25T21:54:07",
+    "updated_date": "2025-07-28T16:19:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-21T16:42:35",
     "date_gmt": "2025-07-21T23:42:35",
     "guid": "https://api.cannabis.ca.gov/?p=23000",
-    "modified": "2025-07-25T14:54:07",
-    "modified_gmt": "2025-07-25T21:54:07",
+    "modified": "2025-07-28T09:19:20",
+    "modified_gmt": "2025-07-28T16:19:20",
     "slug": "ceqa-stanislaus-county",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "2025 announcements",
+      "Announcements"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,19 +74,35 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 991,
+        "name": "2025 announcements",
+        "slug": "2025-announcements",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 991,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 991,
+        "category_description": "",
+        "cat_name": "2025 announcements",
+        "category_nicename": "2025-announcements",
+        "category_parent": 14
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 14,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
         "category_parent": 0
       }
     ],
