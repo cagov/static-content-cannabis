@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-10T17:03:51",
-    "updated_date": "2025-07-28T16:27:01",
+    "updated_date": "2025-07-28T16:30:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-10T09:03:51",
     "date_gmt": "2022-03-10T17:03:51",
     "guid": "https://cannabis.ca.gov/?page_id=9509",
-    "modified": "2025-07-28T09:27:01",
-    "modified_gmt": "2025-07-28T16:27:01",
+    "modified": "2025-07-28T09:30:03",
+    "modified_gmt": "2025-07-28T16:30:03",
     "slug": "ceqa-review-for-cannabis-businesses",
     "status": "publish",
     "type": "page",
