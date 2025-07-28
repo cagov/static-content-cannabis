@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-07-28T19:42:05",
-    "updated_date": "2025-07-28T19:42:11",
+    "updated_date": "2025-07-28T19:55:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-07-28T12:42:05",
     "date_gmt": "2025-07-28T19:42:05",
     "guid": "https://api.cannabis.ca.gov/?p=23113",
-    "modified": "2025-07-28T12:42:11",
-    "modified_gmt": "2025-07-28T19:42:11",
+    "modified": "2025-07-28T12:55:10",
+    "modified_gmt": "2025-07-28T19:55:10",
     "slug": "webex-and-public-comments-template",
     "status": "publish",
     "type": "post",
