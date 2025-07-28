@@ -148,13 +148,13 @@
         "term_taxonomy_id": 839,
         "taxonomy": "category",
         "description": "",
-        "parent": 832,
+        "parent": 831,
         "filter": "raw",
         "cat_ID": 839,
         "category_description": "",
         "cat_name": "Public Health &amp; Community Impact subcommittee",
         "category_nicename": "public-health-community-impact-subcommittee",
-        "category_parent": 832
+        "category_parent": 831
       }
     ],
     "headless_tags": [],
