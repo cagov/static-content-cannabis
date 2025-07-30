@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-29T18:30:23",
-    "updated_date": "2025-07-23T20:51:04",
+    "updated_date": "2025-07-30T22:46:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-29T11:30:23",
     "date_gmt": "2024-04-29T18:30:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=18082",
-    "modified": "2025-07-23T13:51:04",
-    "modified_gmt": "2025-07-23T20:51:04",
+    "modified": "2025-07-30T15:46:07",
+    "modified_gmt": "2025-07-30T22:46:07",
     "slug": "academic-research",
     "status": "publish",
     "type": "page",
