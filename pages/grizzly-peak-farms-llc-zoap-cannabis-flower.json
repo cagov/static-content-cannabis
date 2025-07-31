@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-11-13T22:36:39",
-    "updated_date": "2025-07-31T18:16:23",
+    "created_date": "2023-12-07T23:09:25",
+    "updated_date": "2025-07-31T18:14:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/15957",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/16309",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15957,
-    "date": "2023-11-13T14:36:39",
-    "date_gmt": "2023-11-13T22:36:39",
-    "guid": "https://api.cannabis.ca.gov/?page_id=15957",
-    "modified": "2025-07-31T11:16:23",
-    "modified_gmt": "2025-07-31T18:16:23",
-    "slug": "final-decisions",
+    "id": 16309,
+    "date": "2023-12-07T15:09:25",
+    "date_gmt": "2023-12-07T23:09:25",
+    "guid": "https://api.cannabis.ca.gov/?page_id=16309",
+    "modified": "2025-07-31T11:14:55",
+    "modified_gmt": "2025-07-31T18:14:55",
+    "slug": "grizzly-peak-farms-llc-zoap-cannabis-flower",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/",
-    "title": "Final decisions",
-    "excerpt": "<p>Decisions adopted pursuant to the Administrative Procedure Act&nbsp; In certain circumstances, a license denial, citation or disciplinary action will result in DCC issuing a final Order of Decision pursuant to the Administrative Procedure Act. The following table provides information related to those decisions and allows you to view the Order of Decision by clicking in [&hellip;]</p>\n",
-    "author": 33,
+    "link": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/",
+    "title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
+    "excerpt": "",
+    "author": 32,
     "featured_media": 0,
-    "parent": 9438,
+    "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,11 +39,9 @@
       "footnotes": ""
     },
     "categories": [
-      "Licensing Actions"
+      "Voluntary recalls"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -58,54 +56,42 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/",
-      "page_title": "Final decisions",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/",
+      "page_title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Final decisions",
+      "meta_title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/",
-      "open_graph_title": "Final decisions",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/",
+      "open_graph_title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Final decisions",
+      "twitter_title": "Grizzly Peak Farms, LLC (Zoap Cannabis Flower)",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 984,
-        "name": "Licensing Actions",
-        "slug": "licensing-actions",
+        "term_id": 814,
+        "name": "Voluntary recalls",
+        "slug": "voluntary-recalls",
         "term_group": 0,
-        "term_taxonomy_id": 984,
+        "term_taxonomy_id": 814,
         "taxonomy": "category",
         "description": "",
-        "parent": 983,
+        "parent": 812,
         "filter": "raw",
-        "cat_ID": 984,
+        "cat_ID": 814,
         "category_description": "",
-        "cat_name": "Licensing Actions",
-        "category_nicename": "licensing-actions",
-        "category_parent": 983
+        "cat_name": "Voluntary recalls",
+        "category_nicename": "voluntary-recalls",
+        "category_parent": 812
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/"
   }
 }
