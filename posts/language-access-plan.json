@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-05-17T22:29:54",
-    "updated_date": "2025-08-04T16:26:37",
+    "created_date": "2025-08-05T20:02:06",
+    "updated_date": "2025-08-05T20:16:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/18287",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/23169",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,24 +14,24 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 18287,
-    "date": "2024-05-17T15:29:54",
-    "date_gmt": "2024-05-17T22:29:54",
-    "guid": "https://api.cannabis.ca.gov/?p=18287",
-    "modified": "2025-08-04T09:26:37",
-    "modified_gmt": "2025-08-04T16:26:37",
-    "slug": "form-2618",
+    "id": 23169,
+    "date": "2025-08-05T13:02:06",
+    "date_gmt": "2025-08-05T20:02:06",
+    "guid": "https://api.cannabis.ca.gov/?p=23169",
+    "modified": "2025-08-05T13:16:57",
+    "modified_gmt": "2025-08-05T20:16:57",
+    "slug": "language-access-plan",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/05/form-2618/",
-    "title": "Form 2618: Academic Research Grant Application",
-    "excerpt": "",
-    "author": 42,
+    "link": "https://api.cannabis.ca.gov/2025/08/language-access-plan/",
+    "title": "Language Access Plan",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) is committed to removing language barriers and ensuring all Californians can access its services. The agency offers free language assistance, including interpreters and translated materials. Key resources are available in multiple languages, included Spanish, Mandarin, Cantonese, Hmong, Vietnamese, and others, with help accessible by phone, email, or online. DCC [&hellip;]</p>\n",
+    "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,11 +39,13 @@
       "footnotes": ""
     },
     "categories": [
-      "Grant forms"
+      "All"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -56,40 +58,52 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/05/form-2618/",
-      "page_title": "Form 2618: Academic Research Grant Application",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/08/language-access-plan/",
+      "page_title": "Language Access Plan",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Form 2618: Academic Research Grant Application",
+      "meta_title": "Language Access Plan",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/05/form-2618/",
-      "open_graph_title": "Form 2618: Academic Research Grant Application",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/08/language-access-plan/",
+      "open_graph_title": "Language Access Plan",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Form 2618: Academic Research Grant Application",
+      "twitter_title": "Language Access Plan",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 923,
-        "name": "Grant forms",
-        "slug": "grant-forms",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 923,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
-        "parent": 845,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 923,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Grant forms",
-        "category_nicename": "grant-forms",
-        "category_parent": 845
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -100,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/05/form-2618/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/08/language-access-plan/"
   }
 }
