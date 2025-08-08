@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-02T00:00:09",
-    "updated_date": "2024-11-27T23:41:53",
+    "updated_date": "2025-08-08T21:26:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-11-01T17:00:09",
     "date_gmt": "2021-11-02T00:00:09",
     "guid": "https://cannabis.ca.gov/?p=8942",
-    "modified": "2024-11-27T15:41:53",
-    "modified_gmt": "2024-11-27T23:41:53",
+    "modified": "2025-08-08T14:26:56",
+    "modified_gmt": "2025-08-08T21:26:56",
     "slug": "abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages",
     "status": "publish",
     "type": "post",
@@ -39,8 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "2021 announcements",
-      "Announcements"
+      "Announcements",
+      "Press Archive"
     ],
     "tags": [
       "ABC",
@@ -78,22 +78,6 @@
     },
     "headless_categories": [
       {
-        "term_id": 824,
-        "name": "2021 announcements",
-        "slug": "2021",
-        "term_group": 0,
-        "term_taxonomy_id": 824,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 14,
-        "filter": "raw",
-        "cat_ID": 824,
-        "category_description": "",
-        "cat_name": "2021 announcements",
-        "category_nicename": "2021",
-        "category_parent": 14
-      },
-      {
         "term_id": 14,
         "name": "Announcements",
         "slug": "announcements",
@@ -107,6 +91,22 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 1002,
+        "name": "Press Archive",
+        "slug": "press-archive",
+        "term_group": 0,
+        "term_taxonomy_id": 1002,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1002,
+        "category_description": "",
+        "cat_name": "Press Archive",
+        "category_nicename": "press-archive",
         "category_parent": 0
       }
     ],
