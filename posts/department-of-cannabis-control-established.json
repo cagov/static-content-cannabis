@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-07-14T01:13:00",
-    "updated_date": "2023-08-11T18:48:17",
+    "updated_date": "2025-08-08T21:26:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-07-13T18:13:00",
     "date_gmt": "2021-07-14T01:13:00",
     "guid": "https://cannabis.ca.gov/?p=8593",
-    "modified": "2023-08-11T11:48:17",
-    "modified_gmt": "2023-08-11T18:48:17",
+    "modified": "2025-08-08T14:26:56",
+    "modified_gmt": "2025-08-08T21:26:56",
     "slug": "department-of-cannabis-control-established",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "2021 announcements",
-      "Announcements"
+      "Announcements",
+      "Press Archive"
     ],
     "tags": [
       "Bureau of Cannabis Control",
@@ -111,6 +112,22 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 1002,
+        "name": "Press Archive",
+        "slug": "press-archive",
+        "term_group": 0,
+        "term_taxonomy_id": 1002,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1002,
+        "category_description": "",
+        "cat_name": "Press Archive",
+        "category_nicename": "press-archive",
         "category_parent": 0
       }
     ],
