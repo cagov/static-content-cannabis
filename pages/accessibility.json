@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-08T23:11:23",
-    "updated_date": "2025-08-08T23:11:28",
+    "updated_date": "2025-08-08T23:25:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,21 +18,21 @@
     "date": "2025-08-08T16:11:23",
     "date_gmt": "2025-08-08T23:11:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=23218",
-    "modified": "2025-08-08T16:11:28",
-    "modified_gmt": "2025-08-08T23:11:28",
+    "modified": "2025-08-08T16:25:23",
+    "modified_gmt": "2025-08-08T23:25:23",
     "slug": "accessibility",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/accessibility/",
     "title": "Accessibility",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) is committed to digital accessibility and ensuring all Californians can access its services. We continually look for ways to improve the accessibility of our website. Please direct complaints regarding language access to: info@cannabis.ca.gov Website accessibility certification The Department of Cannabis Control (DCC) publishes its Website Accessibility Certification on this [&hellip;]</p>\n",
+    "excerpt": "<p>Accessibility at DCC The Department of Cannabis Control (DCC) is committed to making our website usable and accessible for all Californians. Our goal is to ensure everyone—regardless of ability—can find, understand, and use the information and services we provide online. We regularly review our site and make updates to improve accessibility. Your feedback helps us [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -43,7 +43,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
