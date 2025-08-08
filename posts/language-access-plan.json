@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-05T20:02:06",
-    "updated_date": "2025-08-08T17:50:57",
+    "updated_date": "2025-08-08T18:11:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-05T13:02:06",
     "date_gmt": "2025-08-05T20:02:06",
     "guid": "https://api.cannabis.ca.gov/?p=23169",
-    "modified": "2025-08-08T10:50:57",
-    "modified_gmt": "2025-08-08T17:50:57",
+    "modified": "2025-08-08T11:11:06",
+    "modified_gmt": "2025-08-08T18:11:06",
     "slug": "language-access-plan",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "All",
+      "language-access"
     ],
     "tags": [],
     "design_system_fields": {
@@ -86,6 +87,22 @@
         "category_description": "",
         "cat_name": "All",
         "category_nicename": "all",
+        "category_parent": 0
+      },
+      {
+        "term_id": 1001,
+        "name": "language-access",
+        "slug": "language-access",
+        "term_group": 0,
+        "term_taxonomy_id": 1001,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1001,
+        "category_description": "",
+        "cat_name": "language-access",
+        "category_nicename": "language-access",
         "category_parent": 0
       }
     ],
