@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2021-07-20T22:24:00",
+    "updated_date": "2024-11-27T23:42:24",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/8602",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 8602,
+    "date": "2021-07-20T15:24:00",
+    "date_gmt": "2021-07-20T22:24:00",
+    "guid": "https://cannabis.ca.gov/?p=8602",
+    "modified": "2024-11-27T15:42:24",
+    "modified_gmt": "2024-11-27T23:42:24",
+    "slug": "department-of-cannabis-control-names-leadership-team",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2021/07/department-of-cannabis-control-names-leadership-team/",
+    "title": "Department of Cannabis Control Names Leadership Team",
+    "excerpt": "<p>The Department of Cannabis Control announced permanent and acting members of its leadership team.</p>\n",
+    "author": 2,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "2021 announcements",
+      "Announcements"
+    ],
+    "tags": [
+      "Nicole Elliott"
+    ],
+    "design_system_fields": {
+      "template": "template-single"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2021/07/department-of-cannabis-control-names-leadership-team/",
+      "page_title": "Department of Cannabis Control Names Leadership Team",
+      "page_description": "The Department of Cannabis Control announced permanent and acting members of its leadership team.",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Department of Cannabis Control Names Leadership Team",
+      "meta_description": "The Department of Cannabis Control announced permanent and acting members of its leadership team.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2021/07/department-of-cannabis-control-names-leadership-team/",
+      "open_graph_title": "Department of Cannabis Control Names Leadership Team",
+      "open_graph_description": "The Department of Cannabis Control announced permanent and acting members of its leadership team.",
+      "twitter_title": "Department of Cannabis Control Names Leadership Team",
+      "twitter_description": "The Department of Cannabis Control announced permanent and acting members of its leadership team."
+    },
+    "headless_categories": [
+      {
+        "term_id": 824,
+        "name": "2021 announcements",
+        "slug": "2021",
+        "term_group": 0,
+        "term_taxonomy_id": 824,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 824,
+        "category_description": "",
+        "cat_name": "2021 announcements",
+        "category_nicename": "2021",
+        "category_parent": 14
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 473,
+        "name": "Nicole Elliott",
+        "slug": "nicole-elliott",
+        "term_group": 0,
+        "term_taxonomy_id": 473,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2021/07/department-of-cannabis-control-names-leadership-team/"
+  }
+}
