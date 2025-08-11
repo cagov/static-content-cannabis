@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "created_date": "2025-08-11T17:59:06",
+    "updated_date": "2025-08-11T19:00:47",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/23226",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 23226,
+    "date": "2025-08-11T10:59:06",
+    "date_gmt": "2025-08-11T17:59:06",
+    "guid": "https://api.cannabis.ca.gov/?p=23226",
+    "modified": "2025-08-11T12:00:47",
+    "modified_gmt": "2025-08-11T19:00:47",
+    "slug": "the-department-of-cannabis-controls-recent-efforts-continue-toprioritize-consumer-and-public-safety-and-support-the-legal-cannabismarket",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/08/the-department-of-cannabis-controls-recent-efforts-continue-toprioritize-consumer-and-public-safety-and-support-the-legal-cannabismarket/",
+    "title": "The Department of Cannabis Control’s recent efforts continue to prioritize consumer and public safety and support the legal cannabis market",
+    "excerpt": "<p>What you need to know: During the second quarter of 2025, the Department of Cannabis Control has seized over $62M in illegal cannabis, recalled 444 unsafe or noncompliant products, issued 256 new licenses, and transitioned 748 businesses from provisional licensure to annual licensure. Sacramento, California – In it’s ongoing efforts to protect consumer safety, expand [&hellip;]</p>\n",
+    "author": 41,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "2025 announcements",
+      "All",
+      "Announcements"
+    ],
+    "tags": [
+      "Announcement",
+      "Announcements"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/08/the-department-of-cannabis-controls-recent-efforts-continue-toprioritize-consumer-and-public-safety-and-support-the-legal-cannabismarket/",
+      "page_title": "The Department of Cannabis Control’s recent efforts continue to prioritize consumer and public safety and support the legal cannabis market",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "The Department of Cannabis Control’s recent efforts continue to prioritize consumer and public safety and support the legal cannabis market",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/08/the-department-of-cannabis-controls-recent-efforts-continue-toprioritize-consumer-and-public-safety-and-support-the-legal-cannabismarket/",
+      "open_graph_title": "The Department of Cannabis Control’s recent efforts continue to prioritize consumer and public safety and support the legal cannabis market",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "The Department of Cannabis Control’s recent efforts continue to prioritize consumer and public safety and support the legal cannabis market",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 991,
+        "name": "2025 announcements",
+        "slug": "2025-announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 991,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 991,
+        "category_description": "",
+        "cat_name": "2025 announcements",
+        "category_nicename": "2025-announcements",
+        "category_parent": 14
+      },
+      {
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1,
+        "category_description": "",
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 44,
+        "name": "Announcement",
+        "slug": "announcement",
+        "term_group": 0,
+        "term_taxonomy_id": 44,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 997,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 997,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/08/the-department-of-cannabis-controls-recent-efforts-continue-toprioritize-consumer-and-public-safety-and-support-the-legal-cannabismarket/"
+  }
+}
