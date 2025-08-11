@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-14T14:00:00",
-    "updated_date": "2025-08-11T23:04:30",
+    "updated_date": "2025-08-11T23:56:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-14T07:00:00",
     "date_gmt": "2025-03-14T14:00:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=22225",
-    "modified": "2025-08-11T16:04:30",
-    "modified_gmt": "2025-08-11T23:04:30",
+    "modified": "2025-08-11T16:56:03",
+    "modified_gmt": "2025-08-11T23:56:03",
     "slug": "cultivation-updates-sanitation-standards",
     "status": "publish",
     "type": "page",
