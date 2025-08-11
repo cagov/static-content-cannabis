@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-11T17:59:06",
-    "updated_date": "2025-08-11T18:41:47",
+    "updated_date": "2025-08-11T19:00:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-11T10:59:06",
     "date_gmt": "2025-08-11T17:59:06",
     "guid": "https://api.cannabis.ca.gov/?p=23226",
-    "modified": "2025-08-11T11:41:47",
-    "modified_gmt": "2025-08-11T18:41:47",
+    "modified": "2025-08-11T12:00:47",
+    "modified_gmt": "2025-08-11T19:00:47",
     "slug": "the-department-of-cannabis-controls-recent-efforts-continue-toprioritize-consumer-and-public-safety-and-support-the-legal-cannabismarket",
     "status": "publish",
     "type": "post",
@@ -44,7 +44,8 @@
       "Announcements"
     ],
     "tags": [
-      "staging"
+      "Announcement",
+      "Announcements"
     ],
     "design_system_fields": {
       "template": "post"
@@ -127,11 +128,22 @@
     ],
     "headless_tags": [
       {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
+        "term_id": 44,
+        "name": "Announcement",
+        "slug": "announcement",
         "term_group": 0,
-        "term_taxonomy_id": 797,
+        "term_taxonomy_id": 44,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 997,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 997,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
