@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:32:26",
-    "updated_date": "2025-08-12T17:31:50",
+    "updated_date": "2025-08-12T17:41:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:32:26",
     "date_gmt": "2024-09-03T22:32:26",
     "guid": "https://api.cannabis.ca.gov/?page_id=19770",
-    "modified": "2025-08-12T10:31:50",
-    "modified_gmt": "2025-08-12T17:31:50",
+    "modified": "2025-08-12T10:41:48",
+    "modified_gmt": "2025-08-12T17:41:48",
     "slug": "applying-license-clear-system",
     "status": "publish",
     "type": "page",
