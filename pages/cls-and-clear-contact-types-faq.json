@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-12T22:52:24",
-    "updated_date": "2025-08-12T22:52:31",
+    "updated_date": "2025-08-12T22:59:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-12T15:52:24",
     "date_gmt": "2025-08-12T22:52:24",
     "guid": "https://api.cannabis.ca.gov/?page_id=23293",
-    "modified": "2025-08-12T15:52:31",
-    "modified_gmt": "2025-08-12T22:52:31",
+    "modified": "2025-08-12T15:59:29",
+    "modified_gmt": "2025-08-12T22:59:29",
     "slug": "cls-and-clear-contact-types-faq",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,9 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [],
+    "categories": [
+      "System Contacts"
+    ],
     "tags": [
       "staging"
     ],
@@ -71,7 +73,24 @@
       "twitter_title": "CLS and CLEaR Contact Types: FAQ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 1003,
+        "name": "System Contacts",
+        "slug": "system-contacts",
+        "term_group": 0,
+        "term_taxonomy_id": 1003,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1003,
+        "category_description": "",
+        "cat_name": "System Contacts",
+        "category_nicename": "system-contacts",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [
       {
         "term_id": 797,
