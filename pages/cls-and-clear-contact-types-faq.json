@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2025-08-12T19:55:20",
-    "updated_date": "2025-08-12T21:43:28",
+    "created_date": "2025-08-12T22:52:24",
+    "updated_date": "2025-08-12T22:52:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23288",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23293",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 23288,
-    "date": "2025-08-12T12:55:20",
-    "date_gmt": "2025-08-12T19:55:20",
-    "guid": "https://api.cannabis.ca.gov/?page_id=23288",
-    "modified": "2025-08-12T14:43:28",
-    "modified_gmt": "2025-08-12T21:43:28",
-    "slug": "cls-and-clear-licensing-system-contacts",
+    "id": 23293,
+    "date": "2025-08-12T15:52:24",
+    "date_gmt": "2025-08-12T22:52:24",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23293",
+    "modified": "2025-08-12T15:52:31",
+    "modified_gmt": "2025-08-12T22:52:31",
+    "slug": "cls-and-clear-contact-types-faq",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/",
-    "title": "CLS and CLEaR licensing system contacts",
-    "excerpt": "<p>The California Department of Cannabis Control (DCC) has updated the contact types in the Cultivation Licensing System (CLS) and the Cannabis Licensing Enforcement and Reporting (CLEaR) system. These updates align with the California Code of Regulations (CCR), Title 4, sections 15000–17905, and make the contact options the same in both systems. The five contact types [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/cls-and-clear-contact-types-faq/",
+    "title": "CLS and CLEaR Contact Types: FAQ",
+    "excerpt": "<p>These FAQs explain the rules and procedures for managing contact types in the Cultivation Licensing System (CLS) and the Cannabis Licensing Enforcement and Reporting (CLEaR) system. Learn how to update contacts, what different contact roles mean, and what to do in special situations like DRP incapacity or business receivership. For a full description of all [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 23288,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "System Contacts"
-    ],
+    "categories": [],
     "tags": [
       "staging"
     ],
@@ -58,39 +56,22 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/",
-      "page_title": "CLS and CLEaR licensing system contacts",
+      "canonical_url": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/cls-and-clear-contact-types-faq/",
+      "page_title": "CLS and CLEaR Contact Types: FAQ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLS and CLEaR licensing system contacts",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/",
-      "open_graph_title": "CLS and CLEaR licensing system contacts",
+      "meta_title": "CLS &#038; CLEaR Contact Types – Cannabis Licensing FAQs",
+      "meta_description": "Find answers about CLS and CLEaR contact types, roles, and permissions. Learn how to update contacts and handle DRP changes or receivership.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/cls-and-clear-contact-types-faq/",
+      "open_graph_title": "CLS and CLEaR Contact Types: FAQ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLS and CLEaR licensing system contacts",
+      "twitter_title": "CLS and CLEaR Contact Types: FAQ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 1003,
-        "name": "System Contacts",
-        "slug": "system-contacts",
-        "term_group": 0,
-        "term_taxonomy_id": 1003,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1003,
-        "category_description": "",
-        "cat_name": "System Contacts",
-        "category_nicename": "system-contacts",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [
       {
         "term_id": 797,
@@ -106,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/cls-and-clear-contact-types-faq/"
   }
 }
