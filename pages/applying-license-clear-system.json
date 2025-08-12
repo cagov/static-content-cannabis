@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:32:26",
-    "updated_date": "2024-09-27T18:19:16",
+    "updated_date": "2025-08-12T17:31:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2024-09-03T15:32:26",
     "date_gmt": "2024-09-03T22:32:26",
     "guid": "https://api.cannabis.ca.gov/?page_id=19770",
-    "modified": "2024-09-27T11:19:16",
-    "modified_gmt": "2024-09-27T18:19:16",
+    "modified": "2025-08-12T10:31:50",
+    "modified_gmt": "2025-08-12T17:31:50",
     "slug": "applying-license-clear-system",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/applying-license-clear-system/",
     "title": "Applying for a license in the CLEaR system",
     "excerpt": "<p>To apply for a license using the CLEaR system, follow the steps outlined below. Start by selecting the type of license that best suits your needs from the available options. The CLEaR system supports a total of nine license types, including Retailer, Distributor, Microbusiness, and more. You’ll be required to submit specific information, complete necessary [&hellip;]</p>\n",
-    "author": 32,
+    "author": 44,
     "featured_media": 0,
     "parent": 16902,
     "menu_order": 0,
@@ -41,7 +41,9 @@
     "categories": [
       "CLEAR: How to apply"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -89,7 +91,19 @@
         "category_parent": 934
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/clear-system-user-guides/how-to-complete-the-online-application/applying-license-clear-system/"
