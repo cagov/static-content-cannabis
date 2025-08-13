@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-21T19:58:48",
-    "updated_date": "2025-03-04T04:12:01",
+    "updated_date": "2025-08-13T18:26:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-09-21T12:58:48",
     "date_gmt": "2022-09-21T19:58:48",
     "guid": "https://cannabis.ca.gov/?page_id=11542",
-    "modified": "2025-03-03T20:12:01",
-    "modified_gmt": "2025-03-04T04:12:01",
+    "modified": "2025-08-13T11:26:05",
+    "modified_gmt": "2025-08-13T18:26:05",
     "slug": "reports-and-policies",
     "status": "publish",
     "type": "page",
