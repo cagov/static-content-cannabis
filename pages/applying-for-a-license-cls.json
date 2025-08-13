@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T23:35:25",
-    "updated_date": "2025-08-12T17:33:56",
+    "updated_date": "2025-08-13T17:40:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T16:35:25",
     "date_gmt": "2024-09-03T23:35:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=19797",
-    "modified": "2025-08-12T10:33:56",
-    "modified_gmt": "2025-08-12T17:33:56",
+    "modified": "2025-08-13T10:40:27",
+    "modified_gmt": "2025-08-13T17:40:27",
     "slug": "applying-for-a-license-cls",
     "status": "publish",
     "type": "page",
