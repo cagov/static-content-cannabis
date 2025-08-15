@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-18T20:42:03",
-    "updated_date": "2024-11-27T22:42:30",
+    "updated_date": "2025-08-15T21:57:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-18T13:42:03",
     "date_gmt": "2023-10-18T20:42:03",
     "guid": "https://api.cannabis.ca.gov/?p=15324",
-    "modified": "2024-11-27T14:42:30",
-    "modified_gmt": "2024-11-27T22:42:30",
+    "modified": "2025-08-15T14:57:53",
+    "modified_gmt": "2025-08-15T21:57:53",
     "slug": "how-to-submit-a-conversion-request",
     "status": "publish",
     "type": "post",
@@ -41,7 +41,6 @@
     "categories": [
       "CLS User Guides",
       "Conversion",
-      "Guidance",
       "User guides"
     ],
     "tags": [],
@@ -106,22 +105,6 @@
         "cat_name": "Conversion",
         "category_nicename": "conversion",
         "category_parent": 0
-      },
-      {
-        "term_id": 859,
-        "name": "Guidance",
-        "slug": "guidance",
-        "term_group": 0,
-        "term_taxonomy_id": 859,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 809,
-        "filter": "raw",
-        "cat_ID": 859,
-        "category_description": "",
-        "cat_name": "Guidance",
-        "category_nicename": "guidance",
-        "category_parent": 809
       },
       {
         "term_id": 851,
