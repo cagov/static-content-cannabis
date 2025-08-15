@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2025-08-15T22:29:44",
+    "updated_date": "2025-08-15T22:46:06",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/23325",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 23325,
+    "date": "2025-08-15T15:29:44",
+    "date_gmt": "2025-08-15T22:29:44",
+    "guid": "https://api.cannabis.ca.gov/?p=23325",
+    "modified": "2025-08-15T15:46:06",
+    "modified_gmt": "2025-08-15T22:46:06",
+    "slug": "cannabis-advisory-committee-08-28-2025",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/08/cannabis-advisory-committee-08-28-2025/",
+    "title": "Cannabis Advisory Committee: 08/28/2025",
+    "excerpt": "<p>The Cannabis Advisory Committee (CAC) will hold a virtual meeting on August 28, 2025, at 10:00 a.m. CAC meetings are live-streamed and open to the public. No registration is required. Pursuant to Government Code section 11133, this meeting will be held by teleconference. Members of the public may make comment via teleconference or in person.&nbsp; [&hellip;]</p>\n",
+    "author": 42,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "2025 Meetings"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/08/cannabis-advisory-committee-08-28-2025/",
+      "page_title": "Cannabis Advisory Committee: 08/28/2025",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis Advisory Committee: 08/28/2025",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/08/cannabis-advisory-committee-08-28-2025/",
+      "open_graph_title": "Cannabis Advisory Committee: 08/28/2025",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cannabis Advisory Committee: 08/28/2025",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 989,
+        "name": "2025 Meetings",
+        "slug": "2025-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 989,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 989,
+        "category_description": "",
+        "cat_name": "2025 Meetings",
+        "category_nicename": "2025-meetings",
+        "category_parent": 833
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/08/cannabis-advisory-committee-08-28-2025/"
+  }
+}
