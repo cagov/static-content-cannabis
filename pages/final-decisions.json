@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Licensing Actions"
+      "All"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,20 +73,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 984,
-        "name": "Licensing Actions",
-        "slug": "licensing-actions",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 984,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
-        "parent": 983,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 984,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Licensing Actions",
-        "category_nicename": "licensing-actions",
-        "category_parent": 983
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
