@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-27T21:25:39",
-    "updated_date": "2025-08-18T17:11:46",
+    "updated_date": "2025-08-18T18:41:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-27T14:25:39",
     "date_gmt": "2023-10-27T21:25:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=15622",
-    "modified": "2025-08-18T10:11:46",
-    "modified_gmt": "2025-08-18T17:11:46",
+    "modified": "2025-08-18T11:41:22",
+    "modified_gmt": "2025-08-18T18:41:22",
     "slug": "compliance-action-records",
     "status": "publish",
     "type": "page",
@@ -39,12 +39,9 @@
       "footnotes": ""
     },
     "categories": [
-      "Compliance",
-      "Licensing Actions"
+      "Compliance"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
     },
@@ -90,37 +87,9 @@
         "cat_name": "Compliance",
         "category_nicename": "compliance",
         "category_parent": 0
-      },
-      {
-        "term_id": 984,
-        "name": "Licensing Actions",
-        "slug": "licensing-actions",
-        "term_group": 0,
-        "term_taxonomy_id": 984,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 983,
-        "filter": "raw",
-        "cat_ID": 984,
-        "category_description": "",
-        "cat_name": "Licensing Actions",
-        "category_nicename": "licensing-actions",
-        "category_parent": 983
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/compliance-action-records/"
