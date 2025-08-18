@@ -42,7 +42,6 @@
       "CLEAR System Guides",
       "Guidance",
       "Manufacturing Licensing System",
-      "Online system-Cultivation",
       "System Contacts"
     ],
     "tags": [
@@ -118,29 +117,13 @@
         "term_taxonomy_id": 908,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 908,
         "category_description": "",
         "cat_name": "Manufacturing Licensing System",
         "category_nicename": "manufacturing-licensing-system",
-        "category_parent": 911
-      },
-      {
-        "term_id": 899,
-        "name": "Online system-Cultivation",
-        "slug": "online-system-cultivation",
-        "term_group": 0,
-        "term_taxonomy_id": 899,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 911,
-        "filter": "raw",
-        "cat_ID": 899,
-        "category_description": "",
-        "cat_name": "Online system-Cultivation",
-        "category_nicename": "online-system-cultivation",
-        "category_parent": 911
+        "category_parent": 0
       },
       {
         "term_id": 1003,
