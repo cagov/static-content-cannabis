@@ -39,9 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "CLS User Guides",
       "Conversion",
-      "User guides"
+      "Licensing system guides"
     ],
     "tags": [],
     "design_system_fields": {
@@ -75,22 +74,6 @@
     },
     "headless_categories": [
       {
-        "term_id": 935,
-        "name": "CLS User Guides",
-        "slug": "cls-user-guides",
-        "term_group": 0,
-        "term_taxonomy_id": 935,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 911,
-        "filter": "raw",
-        "cat_ID": 935,
-        "category_description": "",
-        "cat_name": "CLS User Guides",
-        "category_nicename": "cls-user-guides",
-        "category_parent": 911
-      },
-      {
         "term_id": 871,
         "name": "Conversion",
         "slug": "conversion",
@@ -107,20 +90,20 @@
         "category_parent": 0
       },
       {
-        "term_id": 851,
-        "name": "User guides",
-        "slug": "user-guides",
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
         "term_group": 0,
-        "term_taxonomy_id": 851,
+        "term_taxonomy_id": 911,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 851,
+        "cat_ID": 911,
         "category_description": "",
-        "cat_name": "User guides",
-        "category_nicename": "user-guides",
-        "category_parent": 911
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

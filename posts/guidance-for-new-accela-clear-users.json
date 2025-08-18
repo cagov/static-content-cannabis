@@ -41,8 +41,7 @@
     "categories": [
       "CLEAR System Guides",
       "Licensing system guides",
-      "Manufacturing Licensing System",
-      "User guides"
+      "Manufacturing Licensing System"
     ],
     "tags": [],
     "design_system_fields": {
@@ -115,29 +114,13 @@
         "term_taxonomy_id": 908,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 908,
         "category_description": "",
         "cat_name": "Manufacturing Licensing System",
         "category_nicename": "manufacturing-licensing-system",
-        "category_parent": 911
-      },
-      {
-        "term_id": 851,
-        "name": "User guides",
-        "slug": "user-guides",
-        "term_group": 0,
-        "term_taxonomy_id": 851,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 911,
-        "filter": "raw",
-        "cat_ID": 851,
-        "category_description": "",
-        "cat_name": "User guides",
-        "category_nicename": "user-guides",
-        "category_parent": 911
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
