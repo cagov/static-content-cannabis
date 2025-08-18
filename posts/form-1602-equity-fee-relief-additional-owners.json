@@ -82,13 +82,13 @@
         "term_taxonomy_id": 855,
         "taxonomy": "category",
         "description": "",
-        "parent": 874,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 855,
         "category_description": "",
         "cat_name": "Equity fee relief",
         "category_nicename": "equity-fee-relief",
-        "category_parent": 874
+        "category_parent": 0
       },
       {
         "term_id": 924,

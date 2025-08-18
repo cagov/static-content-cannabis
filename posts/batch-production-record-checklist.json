@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Checklist",
-      "Manufacturing documentation"
+      "Checklist"
     ],
     "tags": [],
     "design_system_fields": {
@@ -88,22 +87,6 @@
         "cat_name": "Checklist",
         "category_nicename": "checklist",
         "category_parent": 809
-      },
-      {
-        "term_id": 865,
-        "name": "Manufacturing documentation",
-        "slug": "manufacturing-documentation",
-        "term_group": 0,
-        "term_taxonomy_id": 865,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 800,
-        "filter": "raw",
-        "cat_ID": 865,
-        "category_description": "",
-        "cat_name": "Manufacturing documentation",
-        "category_nicename": "manufacturing-documentation",
-        "category_parent": 800
       }
     ],
     "headless_tags": [],
