@@ -82,13 +82,13 @@
         "term_taxonomy_id": 866,
         "taxonomy": "category",
         "description": "",
-        "parent": 938,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 866,
         "category_description": "",
         "cat_name": "Allergens",
         "category_nicename": "allergens",
-        "category_parent": 938
+        "category_parent": 0
       },
       {
         "term_id": 807,
@@ -114,13 +114,13 @@
         "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
-        "parent": 886,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 938,
         "category_description": "",
         "cat_name": "Product safety",
         "category_nicename": "product-safety",
-        "category_parent": 886
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

@@ -97,13 +97,13 @@
         "term_taxonomy_id": 850,
         "taxonomy": "category",
         "description": "",
-        "parent": 890,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 850,
         "category_description": "",
         "cat_name": "Provisional licenses",
         "category_nicename": "provisional-licenses",
-        "category_parent": 890
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

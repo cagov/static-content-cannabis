@@ -97,13 +97,13 @@
         "term_taxonomy_id": 801,
         "taxonomy": "category",
         "description": "",
-        "parent": 890,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 801,
         "category_description": "",
         "cat_name": "Cultivation",
         "category_nicename": "cultivation",
-        "category_parent": 890
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

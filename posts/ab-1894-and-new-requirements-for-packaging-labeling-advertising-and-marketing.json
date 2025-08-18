@@ -85,13 +85,13 @@
         "term_taxonomy_id": 951,
         "taxonomy": "category",
         "description": "",
-        "parent": 886,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 951,
         "category_description": "",
         "cat_name": "Advertising",
         "category_nicename": "advertising",
-        "category_parent": 886
+        "category_parent": 0
       },
       {
         "term_id": 863,
@@ -101,13 +101,13 @@
         "term_taxonomy_id": 863,
         "taxonomy": "category",
         "description": "",
-        "parent": 886,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 863,
         "category_description": "",
         "cat_name": "Labeling",
         "category_nicename": "labeling",
-        "category_parent": 886
+        "category_parent": 0
       },
       {
         "term_id": 952,
@@ -133,13 +133,13 @@
         "term_taxonomy_id": 864,
         "taxonomy": "category",
         "description": "",
-        "parent": 886,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 864,
         "category_description": "",
         "cat_name": "Packaging",
         "category_nicename": "packaging",
-        "category_parent": 886
+        "category_parent": 0
       }
     ],
     "headless_tags": [
