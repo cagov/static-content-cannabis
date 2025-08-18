@@ -40,8 +40,8 @@
     },
     "categories": [
       "CLEAR System Guides",
-      "Manufacturing Licensing System",
-      "User guides"
+      "Licensing system guides",
+      "Manufacturing Licensing System"
     ],
     "tags": [],
     "design_system_fields": {
@@ -91,6 +91,22 @@
         "category_parent": 911
       },
       {
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 911,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 911,
+        "category_description": "",
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
+      },
+      {
         "term_id": 908,
         "name": "Manufacturing Licensing System",
         "slug": "manufacturing-licensing-system",
@@ -98,29 +114,13 @@
         "term_taxonomy_id": 908,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 908,
         "category_description": "",
         "cat_name": "Manufacturing Licensing System",
         "category_nicename": "manufacturing-licensing-system",
-        "category_parent": 911
-      },
-      {
-        "term_id": 851,
-        "name": "User guides",
-        "slug": "user-guides",
-        "term_group": 0,
-        "term_taxonomy_id": 851,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 911,
-        "filter": "raw",
-        "cat_ID": 851,
-        "category_description": "",
-        "cat_name": "User guides",
-        "category_nicename": "user-guides",
-        "category_parent": 911
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

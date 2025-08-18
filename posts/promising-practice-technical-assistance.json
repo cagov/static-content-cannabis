@@ -80,13 +80,13 @@
         "term_taxonomy_id": 931,
         "taxonomy": "category",
         "description": "",
-        "parent": 874,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 931,
         "category_description": "",
         "cat_name": "Promising Practices",
         "category_nicename": "promising-practices",
-        "category_parent": 874
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
