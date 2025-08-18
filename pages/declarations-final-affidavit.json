@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CLS Main User Guide"
+      "All"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,20 +73,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 949,
-        "name": "CLS Main User Guide",
-        "slug": "cls-main-user-guide",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 949,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
-        "parent": 935,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 949,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "CLS Main User Guide",
-        "category_nicename": "cls-main-user-guide",
-        "category_parent": 935
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

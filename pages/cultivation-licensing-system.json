@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Online system-Cultivation"
+      "All"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,20 +73,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 899,
-        "name": "Online system-Cultivation",
-        "slug": "online-system-cultivation",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 899,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
-        "parent": 911,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 899,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Online system-Cultivation",
-        "category_nicename": "online-system-cultivation",
-        "category_parent": 911
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

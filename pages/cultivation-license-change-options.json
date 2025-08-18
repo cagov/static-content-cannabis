@@ -82,13 +82,13 @@
         "term_taxonomy_id": 918,
         "taxonomy": "category",
         "description": "",
-        "parent": 801,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 918,
         "category_description": "",
         "cat_name": "Cultivation license changes",
         "category_nicename": "cultivation-license-changes",
-        "category_parent": 801
+        "category_parent": 0
       }
     ],
     "headless_tags": [

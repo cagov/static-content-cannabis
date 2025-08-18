@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "CLS Renewal"
+      "All"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,20 +73,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 937,
-        "name": "CLS Renewal",
-        "slug": "cls-renewal",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 937,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
-        "parent": 935,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 937,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "CLS Renewal",
-        "category_nicename": "cls-renewal",
-        "category_parent": 935
+        "cat_name": "All",
+        "category_nicename": "all",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
