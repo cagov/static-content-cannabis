@@ -97,13 +97,13 @@
         "term_taxonomy_id": 873,
         "taxonomy": "category",
         "description": "",
-        "parent": 4,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 873,
         "category_description": "",
         "cat_name": "Temporary events",
         "category_nicename": "temporary-events",
-        "category_parent": 4
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
