@@ -117,13 +117,13 @@
         "term_taxonomy_id": 952,
         "taxonomy": "category",
         "description": "",
-        "parent": 886,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 952,
         "category_description": "",
         "cat_name": "Marketing",
         "category_nicename": "marketing",
-        "category_parent": 886
+        "category_parent": 0
       },
       {
         "term_id": 864,

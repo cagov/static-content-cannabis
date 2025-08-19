@@ -41,7 +41,6 @@
     "categories": [
       "2023 meetings",
       "Cultivation subcommittee",
-      "Event Resources",
       "Past meetings"
     ],
     "tags": [],
@@ -106,22 +105,6 @@
         "cat_name": "Cultivation subcommittee",
         "category_nicename": "cultivation-subcommittee",
         "category_parent": 831
-      },
-      {
-        "term_id": 4,
-        "name": "Event Resources",
-        "slug": "event-resources",
-        "term_group": 0,
-        "term_taxonomy_id": 4,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 4,
-        "category_description": "",
-        "cat_name": "Event Resources",
-        "category_nicename": "event-resources",
-        "category_parent": 0
       },
       {
         "term_id": 833,
