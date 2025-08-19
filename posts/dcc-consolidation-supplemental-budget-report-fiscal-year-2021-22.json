@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "created_date": "2022-09-01T18:35:00",
+    "updated_date": "2025-08-19T19:09:13",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/22077",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 22077,
+    "date": "2022-09-01T11:35:00",
+    "date_gmt": "2022-09-01T18:35:00",
+    "guid": "https://api.cannabis.ca.gov/?p=22077",
+    "modified": "2025-08-19T12:09:13",
+    "modified_gmt": "2025-08-19T19:09:13",
+    "slug": "dcc-consolidation-supplemental-budget-report-fiscal-year-2021-22",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2022/09/dcc-consolidation-supplemental-budget-report-fiscal-year-2021-22/",
+    "title": "DCC Consolidation Supplemental Budget Report: Fiscal Year 2021-22",
+    "excerpt": "<p>Pursuant to the 2021-22 Budget Act, under the Business, Consumer Services, and Housing Item 1115-001-3288, on or after October 1, 2022, the Department of Cannabis Control (DCC) shall submit to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Reports - Legislative"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2022/09/dcc-consolidation-supplemental-budget-report-fiscal-year-2021-22/",
+      "page_title": "DCC Consolidation Supplemental Budget Report: Fiscal Year 2021-22",
+      "page_description": "Pursuant to the 2021-22 Budget Act, under the Business, Consumer Services, and Housing Item 1115-001-3288, on or after October 1, 2022, the Department of Cannabis Control (DCC) shall submit to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.\n",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "DCC Consolidation Supplemental Budget Report: Fiscal Year 2021-22",
+      "meta_description": "Pursuant to the 2021-22 Budget Act, under the Business, Consumer Services, and Housing Item 1115-001-3288, on or after October 1, 2022, the Department of Cannabis Control (DCC) shall submit to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.\n",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/09/dcc-consolidation-supplemental-budget-report-fiscal-year-2021-22/",
+      "open_graph_title": "DCC Consolidation Supplemental Budget Report: Fiscal Year 2021-22",
+      "open_graph_description": "Pursuant to the 2021-22 Budget Act, under the Business, Consumer Services, and Housing Item 1115-001-3288, on or after October 1, 2022, the Department of Cannabis Control (DCC) shall submit to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.\n",
+      "twitter_title": "DCC Consolidation Supplemental Budget Report: Fiscal Year 2021-22",
+      "twitter_description": "Pursuant to the 2021-22 Budget Act, under the Business, Consumer Services, and Housing Item 1115-001-3288, on or after October 1, 2022, the Department of Cannabis Control (DCC) shall submit to the fiscal, budget, and relevant policy committees of the Legislature and the Legislative Analyst’s Office and post the report on its website.\n"
+    },
+    "headless_categories": [
+      {
+        "term_id": 992,
+        "name": "Reports - Legislative",
+        "slug": "reports-legislative",
+        "term_group": 0,
+        "term_taxonomy_id": 992,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 992,
+        "category_description": "",
+        "cat_name": "Reports - Legislative",
+        "category_nicename": "reports-legislative",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2022/09/dcc-consolidation-supplemental-budget-report-fiscal-year-2021-22/"
+  }
+}
