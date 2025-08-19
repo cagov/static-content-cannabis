@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-15T22:29:44",
-    "updated_date": "2025-08-15T22:58:16",
+    "updated_date": "2025-08-19T23:44:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-15T15:29:44",
     "date_gmt": "2025-08-15T22:29:44",
     "guid": "https://api.cannabis.ca.gov/?p=23325",
-    "modified": "2025-08-15T15:58:16",
-    "modified_gmt": "2025-08-15T22:58:16",
+    "modified": "2025-08-19T16:44:42",
+    "modified_gmt": "2025-08-19T23:44:42",
     "slug": "cannabis-advisory-committee-08-28-2025",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "2025 Meetings"
+      "2025 Meetings",
+      "Cannabis Advisory Committee"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,6 +88,22 @@
         "cat_name": "2025 Meetings",
         "category_nicename": "2025-meetings",
         "category_parent": 833
+      },
+      {
+        "term_id": 831,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
+        "term_group": 0,
+        "term_taxonomy_id": 831,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 831,
+        "category_description": "",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
