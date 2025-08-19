@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-01T18:35:00",
-    "updated_date": "2025-03-04T02:14:54",
+    "updated_date": "2025-08-19T19:09:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-09-01T11:35:00",
     "date_gmt": "2022-09-01T18:35:00",
     "guid": "https://api.cannabis.ca.gov/?p=22077",
-    "modified": "2025-03-03T18:14:54",
-    "modified_gmt": "2025-03-04T02:14:54",
+    "modified": "2025-08-19T12:09:13",
+    "modified_gmt": "2025-08-19T19:09:13",
     "slug": "dcc-consolidation-supplemental-budget-report-fiscal-year-2021-22",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
     "categories": [
       "Reports - Legislative"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
