@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:48:50",
-    "updated_date": "2024-05-17T22:09:51",
+    "updated_date": "2025-08-20T18:49:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-21T16:48:50",
     "date_gmt": "2023-09-21T23:48:50",
     "guid": "https://api.cannabis.ca.gov/?p=14988",
-    "modified": "2024-05-17T15:09:51",
-    "modified_gmt": "2024-05-17T22:09:51",
+    "modified": "2025-08-20T11:49:46",
+    "modified_gmt": "2025-08-20T18:49:46",
     "slug": "sample-preparation-standard-operating-procedures-dcc-lic-022",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms"
+      "Forms",
+      "Forms - Testing Labs"
     ],
     "tags": [],
     "design_system_fields": {
@@ -86,6 +87,22 @@
         "category_description": "View all forms for DCC.",
         "cat_name": "Forms",
         "category_nicename": "forms",
+        "category_parent": 0
+      },
+      {
+        "term_id": 1005,
+        "name": "Forms - Testing Labs",
+        "slug": "forms-testing-labs",
+        "term_group": 0,
+        "term_taxonomy_id": 1005,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1005,
+        "category_description": "",
+        "cat_name": "Forms - Testing Labs",
+        "category_nicename": "forms-testing-labs",
         "category_parent": 0
       }
     ],

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:12:08",
-    "updated_date": "2024-05-17T22:12:49",
+    "updated_date": "2025-08-20T18:57:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-03T11:12:08",
     "date_gmt": "2023-10-03T18:12:08",
     "guid": "https://api.cannabis.ca.gov/?p=15048",
-    "modified": "2024-05-17T15:12:49",
-    "modified_gmt": "2024-05-17T22:12:49",
+    "modified": "2025-08-20T11:57:43",
+    "modified_gmt": "2025-08-20T18:57:43",
     "slug": "form-24-data-package-cover-page-and-checklist",
     "status": "publish",
     "type": "post",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "Forms",
-      "Testing and labs"
+      "Forms - Testing Labs"
     ],
     "tags": [],
     "design_system_fields": {
@@ -90,19 +90,19 @@
         "category_parent": 0
       },
       {
-        "term_id": 894,
-        "name": "Testing and labs",
-        "slug": "testing-and-labs",
+        "term_id": 1005,
+        "name": "Forms - Testing Labs",
+        "slug": "forms-testing-labs",
         "term_group": 0,
-        "term_taxonomy_id": 894,
+        "term_taxonomy_id": 1005,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 894,
+        "cat_ID": 1005,
         "category_description": "",
-        "cat_name": "Testing and labs",
-        "category_nicename": "testing-and-labs",
+        "cat_name": "Forms - Testing Labs",
+        "category_nicename": "forms-testing-labs",
         "category_parent": 0
       }
     ],

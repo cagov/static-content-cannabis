@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T17:05:02",
-    "updated_date": "2025-08-20T18:47:13",
+    "updated_date": "2025-08-20T18:50:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T10:05:02",
     "date_gmt": "2023-10-30T17:05:02",
     "guid": "https://api.cannabis.ca.gov/?p=15647",
-    "modified": "2025-08-20T11:47:13",
-    "modified_gmt": "2025-08-20T18:47:13",
+    "modified": "2025-08-20T11:50:05",
+    "modified_gmt": "2025-08-20T18:50:05",
     "slug": "testing-laboratory-license-fees",
     "status": "publish",
     "type": "post",
@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Fees and payments",
-      "Testing and labs"
+      "Fees and payments"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,22 +86,6 @@
         "category_description": "",
         "cat_name": "Fees and payments",
         "category_nicename": "fees-and-payments",
-        "category_parent": 0
-      },
-      {
-        "term_id": 894,
-        "name": "Testing and labs",
-        "slug": "testing-and-labs",
-        "term_group": 0,
-        "term_taxonomy_id": 894,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 894,
-        "category_description": "",
-        "cat_name": "Testing and labs",
-        "category_nicename": "testing-and-labs",
         "category_parent": 0
       }
     ],
