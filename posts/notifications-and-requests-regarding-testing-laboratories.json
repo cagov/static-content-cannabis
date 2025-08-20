@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-01T18:00:43",
-    "updated_date": "2025-08-20T19:06:17",
+    "updated_date": "2025-08-20T19:22:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-01T10:00:43",
     "date_gmt": "2024-01-01T18:00:43",
     "guid": "https://api.cannabis.ca.gov/?p=14725",
-    "modified": "2025-08-20T12:06:17",
-    "modified_gmt": "2025-08-20T19:06:17",
+    "modified": "2025-08-20T12:22:48",
+    "modified_gmt": "2025-08-20T19:22:48",
     "slug": "notifications-and-requests-regarding-testing-laboratories",
     "status": "publish",
     "type": "post",
@@ -40,10 +40,11 @@
     },
     "categories": [
       "Forms",
-      "Forms - Testing Labs",
       "Notifications and requests"
     ],
-    "tags": [],
+    "tags": [
+      "forms-labs"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,22 +92,6 @@
         "category_parent": 0
       },
       {
-        "term_id": 1005,
-        "name": "Forms - Testing Labs",
-        "slug": "forms-testing-labs",
-        "term_group": 0,
-        "term_taxonomy_id": 1005,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1005,
-        "category_description": "",
-        "cat_name": "Forms - Testing Labs",
-        "category_nicename": "forms-testing-labs",
-        "category_parent": 0
-      },
-      {
         "term_id": 846,
         "name": "Notifications and requests",
         "slug": "notifications-and-requests",
@@ -123,7 +108,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1007,
+        "name": "forms-labs",
+        "slug": "forms-labs",
+        "term_group": 0,
+        "term_taxonomy_id": 1007,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
