@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-21T23:50:42",
-    "updated_date": "2024-05-17T22:07:34",
+    "updated_date": "2025-08-20T18:40:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-21T16:50:42",
     "date_gmt": "2023-09-21T23:50:42",
     "guid": "https://api.cannabis.ca.gov/?p=14990",
-    "modified": "2024-05-17T15:07:34",
-    "modified_gmt": "2024-05-17T22:07:34",
+    "modified": "2025-08-20T11:40:07",
+    "modified_gmt": "2025-08-20T18:40:07",
     "slug": "sampling-standard-operating-procedures-dcc-lic-021",
     "status": "publish",
     "type": "post",
