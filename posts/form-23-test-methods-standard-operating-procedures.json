@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-03T18:17:27",
-    "updated_date": "2025-08-20T18:49:29",
+    "updated_date": "2025-08-20T19:23:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-03T11:17:27",
     "date_gmt": "2023-10-03T18:17:27",
     "guid": "https://api.cannabis.ca.gov/?p=15050",
-    "modified": "2025-08-20T11:49:29",
-    "modified_gmt": "2025-08-20T18:49:29",
+    "modified": "2025-08-20T12:23:24",
+    "modified_gmt": "2025-08-20T19:23:24",
     "slug": "form-23-test-methods-standard-operating-procedures",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,9 @@
       "Forms",
       "Forms - Testing Labs"
     ],
-    "tags": [],
+    "tags": [
+      "forms-labs"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -106,7 +108,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1007,
+        "name": "forms-labs",
+        "slug": "forms-labs",
+        "term_group": 0,
+        "term_taxonomy_id": 1007,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
