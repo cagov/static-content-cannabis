@@ -39,8 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Forms",
-      "Forms - Testing Labs"
+      "Forms"
     ],
     "tags": [
       "forms-labs"
@@ -89,22 +88,6 @@
         "category_description": "View all forms for DCC.",
         "cat_name": "Forms",
         "category_nicename": "forms",
-        "category_parent": 0
-      },
-      {
-        "term_id": 1005,
-        "name": "Forms - Testing Labs",
-        "slug": "forms-testing-labs",
-        "term_group": 0,
-        "term_taxonomy_id": 1005,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 1005,
-        "category_description": "",
-        "cat_name": "Forms - Testing Labs",
-        "category_nicename": "forms-testing-labs",
         "category_parent": 0
       }
     ],
