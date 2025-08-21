@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-06-19T17:51:48",
-    "updated_date": "2025-07-02T21:51:22",
+    "updated_date": "2025-08-21T23:51:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-06-19T10:51:48",
     "date_gmt": "2025-06-19T17:51:48",
     "guid": "https://api.cannabis.ca.gov/?p=22785",
-    "modified": "2025-07-02T14:51:22",
-    "modified_gmt": "2025-07-02T21:51:22",
+    "modified": "2025-08-21T16:51:45",
+    "modified_gmt": "2025-08-21T23:51:45",
     "slug": "california-department-of-cannabis-control-announces-30m-in-grant-funding-to-advance-cannabis-research",
     "status": "publish",
     "type": "post",
