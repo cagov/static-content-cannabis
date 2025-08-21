@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-01-31T21:17:02",
-    "updated_date": "2025-08-20T19:17:18",
+    "updated_date": "2025-08-21T17:49:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-01-31T13:17:02",
     "date_gmt": "2024-01-31T21:17:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=16996",
-    "modified": "2025-08-20T12:17:18",
-    "modified_gmt": "2025-08-20T19:17:18",
+    "modified": "2025-08-21T10:49:16",
+    "modified_gmt": "2025-08-21T17:49:16",
     "slug": "faq-standard-cannabinoid-test-method",
     "status": "publish",
     "type": "page",
@@ -40,7 +40,7 @@
     },
     "categories": [
       "FAQs",
-      "Testing and labs"
+      "Testing"
     ],
     "tags": [],
     "design_system_fields": {
@@ -90,19 +90,19 @@
         "category_parent": 809
       },
       {
-        "term_id": 894,
-        "name": "Testing and labs",
-        "slug": "testing-and-labs",
+        "term_id": 1011,
+        "name": "Testing",
+        "slug": "testing",
         "term_group": 0,
-        "term_taxonomy_id": 894,
+        "term_taxonomy_id": 1011,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 894,
+        "cat_ID": 1011,
         "category_description": "",
-        "cat_name": "Testing and labs",
-        "category_nicename": "testing-and-labs",
+        "cat_name": "Testing",
+        "category_nicename": "testing",
         "category_parent": 0
       }
     ],
