@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 282,
+      "redirects": 284,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7703,6 +7703,58 @@
       "regex": false,
       "group_id": 1,
       "position": 281,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 534,
+      "url": "/press/",
+      "match_url": "/press",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/press-releases/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 282,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 535,
+      "url": "/2025/08/sampling-checklist-for-distributors/",
+      "match_url": "/2025/08/sampling-checklist-for-distributors",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2025/08/sampling-checklist/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 283,
       "last_access": "-",
       "enabled": true
     }
