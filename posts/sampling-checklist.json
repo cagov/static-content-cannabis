@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "created_date": "2025-08-20T22:01:01",
+    "updated_date": "2025-08-22T20:52:27",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/23381",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 23381,
+    "date": "2025-08-20T15:01:01",
+    "date_gmt": "2025-08-20T22:01:01",
+    "guid": "https://api.cannabis.ca.gov/?p=23381",
+    "modified": "2025-08-22T13:52:27",
+    "modified_gmt": "2025-08-22T20:52:27",
+    "slug": "sampling-checklist",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/08/sampling-checklist/",
+    "title": "Representative sampling checklist for distributors",
+    "excerpt": "<p>Licensed cannabis distributors in California must follow specific rules for regulatory compliance testing and representative sampling before products can be sold at retail. This step-by-step checklist explains distributor responsibilities, including batch possession, representative sampling, chain of custody, certificates of analysis, and what to do if a batch passes or fails compliance testing. </p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Representative Sampling",
+      "Testing"
+    ],
+    "tags": [
+      "latest updates"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/08/sampling-checklist/",
+      "page_title": "Representative sampling checklist for distributors",
+      "page_description": "Licensed cannabis distributors in California must follow specific rules for regulatory compliance testing and representative sampling before products can be sold at retail. This step-by-step checklist explains distributor responsibilities, including batch possession, representative sampling, chain of custody, certificates of analysis, and what to do if a batch passes or fails compliance testing. ",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Representative sampling checklist for distributors",
+      "meta_description": "Licensed cannabis distributors in California must follow specific rules for regulatory compliance testing and representative sampling before products can be sold at retail. This step-by-step checklist explains distributor responsibilities, including batch possession, representative sampling, chain of custody, certificates of analysis, and what to do if a batch passes or fails compliance testing. ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/08/sampling-checklist/",
+      "open_graph_title": "Representative sampling checklist for distributors",
+      "open_graph_description": "Licensed cannabis distributors in California must follow specific rules for regulatory compliance testing and representative sampling before products can be sold at retail. This step-by-step checklist explains distributor responsibilities, including batch possession, representative sampling, chain of custody, certificates of analysis, and what to do if a batch passes or fails compliance testing. ",
+      "twitter_title": "Representative sampling checklist for distributors",
+      "twitter_description": "Licensed cannabis distributors in California must follow specific rules for regulatory compliance testing and representative sampling before products can be sold at retail. This step-by-step checklist explains distributor responsibilities, including batch possession, representative sampling, chain of custody, certificates of analysis, and what to do if a batch passes or fails compliance testing. "
+    },
+    "headless_categories": [
+      {
+        "term_id": 1004,
+        "name": "Representative Sampling",
+        "slug": "representative-sampling",
+        "term_group": 0,
+        "term_taxonomy_id": 1004,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1004,
+        "category_description": "",
+        "cat_name": "Representative Sampling",
+        "category_nicename": "representative-sampling",
+        "category_parent": 0
+      },
+      {
+        "term_id": 1011,
+        "name": "Testing",
+        "slug": "testing",
+        "term_group": 0,
+        "term_taxonomy_id": 1011,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 1011,
+        "category_description": "",
+        "cat_name": "Testing",
+        "category_nicename": "testing",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 922,
+        "name": "latest updates",
+        "slug": "latest-updates",
+        "term_group": 0,
+        "term_taxonomy_id": 922,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/08/sampling-checklist/"
+  }
+}
