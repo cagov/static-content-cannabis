@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-08T21:00:21",
-    "updated_date": "2024-12-31T18:00:49",
+    "updated_date": "2025-08-22T21:03:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2022-03-08T13:00:21",
     "date_gmt": "2022-03-08T21:00:21",
     "guid": "https://cannabis.ca.gov/?page_id=9492",
-    "modified": "2024-12-31T10:00:49",
-    "modified_gmt": "2024-12-31T18:00:49",
+    "modified": "2025-08-22T14:03:17",
+    "modified_gmt": "2025-08-22T21:03:17",
     "slug": "cannaconnect-compliance-hub",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/",
     "title": "CannaConnect Licensee Resources",
-    "excerpt": "<p>CannaConnect is the Department of Cannabis Control’s (DCC) resource hub, here to help license holders get the tools &amp; support they need to maintain compliance and thrive.&nbsp; Latest updates Quick actions Getting started Being a cannabis license holder makes you a pioneer in a budding industry. You are in the right place to begin or [&hellip;]</p>\n",
+    "excerpt": "<p>CannaConnect is the Department of Cannabis Control’s (DCC) resource hub, here to help license holders get the tools &amp; support they need to maintain compliance and thrive.&nbsp; Latest updates Quick actions Advertising, marketing, packaging, and labeling For provisional licensees Provisional licenses help cannabis operators, particularly small, equity, and legacy cannabis businesses, transition into the legal [&hellip;]</p>\n",
     "author": 2,
     "featured_media": 0,
     "parent": 758,
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Laws and Regulations"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -71,24 +69,7 @@
       "twitter_title": "CannaConnect Licensee Resources",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 983,
-        "name": "Laws and Regulations",
-        "slug": "laws-and-regulations",
-        "term_group": 0,
-        "term_taxonomy_id": 983,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 983,
-        "category_description": "",
-        "cat_name": "Laws and Regulations",
-        "category_nicename": "laws-and-regulations",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
