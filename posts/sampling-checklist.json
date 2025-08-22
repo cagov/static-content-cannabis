@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-20T22:01:01",
-    "updated_date": "2025-08-22T17:17:14",
+    "updated_date": "2025-08-22T17:31:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-20T15:01:01",
     "date_gmt": "2025-08-20T22:01:01",
     "guid": "https://api.cannabis.ca.gov/?p=23381",
-    "modified": "2025-08-22T10:17:14",
-    "modified_gmt": "2025-08-22T17:17:14",
+    "modified": "2025-08-22T10:31:04",
+    "modified_gmt": "2025-08-22T17:31:04",
     "slug": "sampling-checklist",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -48,7 +48,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
