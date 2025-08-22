@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-03T18:46:43",
-    "updated_date": "2025-05-13T22:39:03",
+    "updated_date": "2025-08-22T00:06:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-03T10:46:43",
     "date_gmt": "2025-03-03T18:46:43",
     "guid": "https://api.cannabis.ca.gov/?p=22058",
-    "modified": "2025-05-13T15:39:03",
-    "modified_gmt": "2025-05-13T22:39:03",
+    "modified": "2025-08-21T17:06:25",
+    "modified_gmt": "2025-08-22T00:06:25",
     "slug": "military-equipment-usage-policies-ab-481",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
     "categories": [
       "Policies"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
