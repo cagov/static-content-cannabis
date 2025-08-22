@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-08T21:00:21",
-    "updated_date": "2025-08-21T00:01:27",
+    "updated_date": "2025-08-22T21:03:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-08T13:00:21",
     "date_gmt": "2022-03-08T21:00:21",
     "guid": "https://cannabis.ca.gov/?page_id=9492",
-    "modified": "2025-08-20T17:01:27",
-    "modified_gmt": "2025-08-21T00:01:27",
+    "modified": "2025-08-22T14:03:17",
+    "modified_gmt": "2025-08-22T21:03:17",
     "slug": "cannaconnect-compliance-hub",
     "status": "publish",
     "type": "page",
@@ -38,12 +38,8 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Laws and Regulations"
-    ],
-    "tags": [
-      "staging"
-    ],
+    "categories": [],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -73,37 +69,8 @@
       "twitter_title": "CannaConnect Licensee Resources",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 983,
-        "name": "Laws and Regulations",
-        "slug": "laws-and-regulations",
-        "term_group": 0,
-        "term_taxonomy_id": 983,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 983,
-        "category_description": "",
-        "cat_name": "Laws and Regulations",
-        "category_nicename": "laws-and-regulations",
-        "category_parent": 0
-      }
-    ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_categories": [],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/"
