@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-11-30T21:43:27",
-    "updated_date": "2025-08-25T23:47:59",
+    "created_date": "2025-08-08T23:11:23",
+    "updated_date": "2025-08-26T16:07:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/12421",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23218",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,22 +14,22 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 12421,
-    "date": "2022-11-30T13:43:27",
-    "date_gmt": "2022-11-30T21:43:27",
-    "guid": "https://api.cannabis.ca.gov/?page_id=12421",
-    "modified": "2025-08-25T16:47:59",
-    "modified_gmt": "2025-08-25T23:47:59",
-    "slug": "make-a-payment",
+    "id": 23218,
+    "date": "2025-08-08T16:11:23",
+    "date_gmt": "2025-08-08T23:11:23",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23218",
+    "modified": "2025-08-26T09:07:24",
+    "modified_gmt": "2025-08-26T16:07:24",
+    "slug": "accessibility",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/make-a-payment/",
-    "title": "Payments and office locations",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) operates offices in Northern, Central, and Southern California. At these locations, you can make cash or check payments, submit license and renewal fees, or check the status of a payment. Appointments are strongly recommended to ensure timely assistance. General office hours Visit a DCC office Contact the Rancho Cordova [&hellip;]</p>\n",
-    "author": 44,
+    "link": "https://api.cannabis.ca.gov/accessibility/",
+    "title": "Accessibility",
+    "excerpt": "<p>Accessibility at DCC The Department of Cannabis Control (DCC) is committed to making our website usable and accessible for all Californians. Our goal is to ensure everyone—regardless of ability—can find, understand, and use the information and services we provide online. We regularly review our site and make updates to improve accessibility. Your feedback helps us [&hellip;]</p>\n",
+    "author": 32,
     "featured_media": 0,
-    "parent": 759,
-    "menu_order": 4,
+    "parent": 0,
+    "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
@@ -38,9 +38,7 @@
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Fees and payments"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -56,42 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/make-a-payment/",
-      "page_title": "Payments and office locations",
+      "canonical_url": "https://api.cannabis.ca.gov/accessibility/",
+      "page_title": "Accessibility",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Payments and office locations",
+      "meta_title": "Accessibility",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/make-a-payment/",
-      "open_graph_title": "Payments and office locations",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/accessibility/",
+      "open_graph_title": "Accessibility",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Payments and office locations",
+      "twitter_title": "Accessibility",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 893,
-        "name": "Fees and payments",
-        "slug": "fees-and-payments",
-        "term_group": 0,
-        "term_taxonomy_id": 893,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 893,
-        "category_description": "",
-        "cat_name": "Fees and payments",
-        "category_nicename": "fees-and-payments",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/make-a-payment/"
+    "wordpress_url": "https://api.cannabis.ca.gov/accessibility/"
   }
 }
