@@ -24,12 +24,15 @@
 
 <p>If you require an ADA compliant version of any of the reports, please send a request to&nbsp;<a href="mailto:outreach@cannabis.ca.gov?subject=ADA%20report%20request">outreach@cannabis.ca.gov</a>.<br></p>
 
-<script></script>
-<script></script>
-<script></script>
-<script></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+<script src="https://cdn.datatables.net/colreorder/1.5.4/js/dataTables.colReorder.min.js"></script>
 <div id="breakpoint"></div>
 <table id="research_table" class="display compact" width="100%">
+<div id="breakpoint"></div>
     <thead>
         <tr>
         <tr>
@@ -41,8 +44,9 @@
             <th class="none">Summary:</th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
+<tbody>
+  
+<tr>
             <td>2023</td>
             <td>In progress</td>
             <td>Cal Poly, Humboldt</td>
@@ -753,7 +757,7 @@
                     cognitive performance.</p>
             </td>
         </tr>
-    </tbody>
+ </tbody>
 </table>
 <script>
     $(document).ready(function () {
@@ -773,24 +777,11 @@
             colReorder: true,
             order: [[0, 'des']]
         });
-        const newColumnOrder = [0, 1, 2, 3, 4, 5]
         vol_table.colReorder.order(newColumnOrder).draw();
-if (vol_table.page.info().recordsTotal &lt;= 10) {
-  $(&#039;.dataTables_paginate&#039;).hide();
-  $(&#039;.dataTables_info&#039;).hide();
-  $(&#039;.dataTables_length&#039;).hide();
-}
     });
 </script>
 
-<style>
-.post-date{
-display:none;
-}
-.pdf-link-icon{
-display:none;
-}
-</style>
+
 <p><!-- /wp:post-content --></p>
 <p><!-- wp:html --></p>
 <style>
@@ -802,3 +793,7 @@ display:none;<br />
 }<br />
 </style>
 <p><!-- /wp:html --></p>
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
