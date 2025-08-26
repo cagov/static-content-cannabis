@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-08T23:11:23",
-    "updated_date": "2025-08-08T23:37:25",
+    "updated_date": "2025-08-26T16:07:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-08T16:11:23",
     "date_gmt": "2025-08-08T23:11:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=23218",
-    "modified": "2025-08-08T16:37:25",
-    "modified_gmt": "2025-08-08T23:37:25",
+    "modified": "2025-08-26T09:07:24",
+    "modified_gmt": "2025-08-26T16:07:24",
     "slug": "accessibility",
     "status": "publish",
     "type": "page",
@@ -39,9 +39,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -72,19 +70,7 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/accessibility/"
