@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-29T18:30:23",
-    "updated_date": "2025-08-25T20:39:43",
+    "updated_date": "2025-08-26T18:53:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-29T11:30:23",
     "date_gmt": "2024-04-29T18:30:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=18082",
-    "modified": "2025-08-25T13:39:43",
-    "modified_gmt": "2025-08-25T20:39:43",
+    "modified": "2025-08-26T11:53:54",
+    "modified_gmt": "2025-08-26T18:53:54",
     "slug": "academic-research",
     "status": "publish",
     "type": "page",
@@ -40,8 +40,7 @@
     },
     "categories": [],
     "tags": [
-      "academic-research",
-      "staging"
+      "academic-research"
     ],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -80,17 +79,6 @@
         "slug": "academic-research",
         "term_group": 0,
         "term_taxonomy_id": 999,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
