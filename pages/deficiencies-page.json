@@ -26,7 +26,7 @@
     "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/cls-deficiencies/deficiencies-page/",
     "title": "Deficiencies: The deficiencies page",
     "excerpt": "<p>In this example, we’ve issued deficiencies in three areas of the main application and another deficiency for one of the Owner applications. We’ll begin by selecting the deficiency – Surety Bond was not payable to State of California, and then click Edit Selected. A pop-up window opens for you to respond to the deficiency. Enter [&hellip;]</p>\n",
-    "author": 36,
+    "author": 32,
     "featured_media": 0,
     "parent": 19810,
     "menu_order": 0,
