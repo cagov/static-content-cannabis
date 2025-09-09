@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-15T21:40:15",
-    "updated_date": "2025-09-09T20:59:12",
+    "updated_date": "2025-09-09T21:10:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-15T14:40:15",
     "date_gmt": "2025-08-15T21:40:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=23319",
-    "modified": "2025-09-09T13:59:12",
-    "modified_gmt": "2025-09-09T20:59:12",
+    "modified": "2025-09-09T14:10:43",
+    "modified_gmt": "2025-09-09T21:10:43",
     "slug": "guidance-and-how-to-resources-for-licensees",
     "status": "publish",
     "type": "page",
