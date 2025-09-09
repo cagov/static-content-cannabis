@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2021-06-30T18:36:56",
-    "updated_date": "2022-10-02T23:54:18",
+    "created_date": "2025-09-05T15:55:37",
+    "updated_date": "2025-09-05T15:55:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/8336",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23569",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 8336,
-    "date": "2021-06-30T11:36:56",
-    "date_gmt": "2021-06-30T18:36:56",
-    "guid": "https://staginginye.prod3.sites.ca.gov/?page_id=8336",
-    "modified": "2022-10-02T16:54:18",
-    "modified_gmt": "2022-10-02T23:54:18",
-    "slug": "browser-firefox",
+    "id": 23569,
+    "date": "2025-09-05T08:55:37",
+    "date_gmt": "2025-09-05T15:55:37",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23569",
+    "modified": "2025-09-05T08:55:38",
+    "modified_gmt": "2025-09-05T15:55:38",
+    "slug": "cannabis-event-license-fees",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/browser-firefox/",
-    "title": "Keyboard Shortcuts for Firefox",
-    "excerpt": "<p>Keyboard Shortcuts for Firefox Windows Navigation To do this Press this Back Alt + ← BackspaceAlt + ← Ctrl + [ Forward Alt + → Shift + BackspaceAlt + → Ctrl + ] Home Alt + Home Open File Ctrl + O Reload F5 Ctrl + R Reload (override cache) Ctrl + F5 Ctrl + [&hellip;]</p>\n",
-    "author": 2,
+    "link": "https://api.cannabis.ca.gov/cannabis-event-license-fees/",
+    "title": "Cannabis event license fees",
+    "excerpt": "<p>Cannabis event annual license fees are based on the number of events you plan to hold during the year. Number of planned cannabis events Application fee License fee 5 or fewer $1,000 $3,000 6 to 10 $1,000 $5,000 11 to 20 $1,000 $9,000 More than 20 $1,000 $20,000 License and application fees by event numbers. [&hellip;]</p>\n",
+    "author": 32,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -41,7 +41,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -54,25 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/browser-firefox/",
-      "page_title": "Keyboard Shortcuts for Firefox",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-event-license-fees/",
+      "page_title": "Cannabis event license fees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Keyboard Shortcuts for Firefox",
+      "meta_title": "Cannabis event license fees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/browser-firefox/",
-      "open_graph_title": "Keyboard Shortcuts for Firefox",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-event-license-fees/",
+      "open_graph_title": "Cannabis event license fees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Keyboard Shortcuts for Firefox",
+      "twitter_title": "Cannabis event license fees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/browser-firefox/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-event-license-fees/"
   }
 }

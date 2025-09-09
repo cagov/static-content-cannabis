@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-01T20:17:02",
-    "updated_date": "2025-08-21T17:37:58",
+    "updated_date": "2025-09-05T20:58:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-01T13:17:02",
     "date_gmt": "2023-11-01T20:17:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=15813",
-    "modified": "2025-08-21T10:37:58",
-    "modified_gmt": "2025-08-21T17:37:58",
+    "modified": "2025-09-05T13:58:02",
+    "modified_gmt": "2025-09-05T20:58:02",
     "slug": "cultivation-licensing-system",
     "status": "publish",
     "type": "page",

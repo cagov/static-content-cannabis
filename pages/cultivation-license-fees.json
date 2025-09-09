@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-10-13T21:28:37",
-    "updated_date": "2023-10-23T23:38:30",
+    "created_date": "2025-09-05T15:56:22",
+    "updated_date": "2025-09-05T15:56:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/15201",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23571",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15201,
-    "date": "2023-10-13T14:28:37",
-    "date_gmt": "2023-10-13T21:28:37",
-    "guid": "https://api.cannabis.ca.gov/?page_id=15201",
-    "modified": "2023-10-23T16:38:30",
-    "modified_gmt": "2023-10-23T23:38:30",
-    "slug": "electricity-usage-reporting",
+    "id": 23571,
+    "date": "2025-09-05T08:56:22",
+    "date_gmt": "2025-09-05T15:56:22",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23571",
+    "modified": "2025-09-05T08:56:23",
+    "modified_gmt": "2025-09-05T15:56:23",
+    "slug": "cultivation-license-fees",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/electricity-usage-reporting/",
-    "title": "Electricity usage reporting requirements",
-    "excerpt": "<p>All cultivation and microbusiness licensees authorized to engage in cannabis cultivation are required to report total electricity use for each power source used to the DCC upon license renewal. Renewable energy requirements Beginning January 1, 2023, DCC cultivation and microbusiness licensees authorized to engage in indoor, tier 2 mixed-light cultivation, or nursery using indoor or [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/",
+    "title": "Cultivation license fees",
+    "excerpt": "<p>Cultivation licenses fees are based on your size and type of production or lighting. General cultivation license fees Cultivation license type Application fee License fee Specialty cottage outdoor $135 $1,205 Specialty cottage indoor $205 $1,830 Specialty cottage mixed-light tier 1 $340 $3,035 Specialty cottage mixed-light tier 2 $580 $5,200 Specialty outdoor $270 $2,410 Specialty indoor [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 721,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -41,7 +41,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -54,25 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/electricity-usage-reporting/",
-      "page_title": "Electricity usage reporting requirements",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/",
+      "page_title": "Cultivation license fees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Electricity usage reporting requirements",
+      "meta_title": "Cultivation license fees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/electricity-usage-reporting/",
-      "open_graph_title": "Electricity usage reporting requirements",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/",
+      "open_graph_title": "Cultivation license fees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Electricity usage reporting requirements",
+      "twitter_title": "Cultivation license fees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/electricity-usage-reporting/"
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/"
   }
 }

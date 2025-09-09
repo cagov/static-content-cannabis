@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-09-04T19:44:48",
-    "updated_date": "2025-01-30T19:36:58",
+    "created_date": "2025-09-05T16:07:44",
+    "updated_date": "2025-09-05T16:07:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/19848",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23579",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19848,
-    "date": "2024-09-04T12:44:48",
-    "date_gmt": "2024-09-04T19:44:48",
-    "guid": "https://api.cannabis.ca.gov/?page_id=19848",
-    "modified": "2025-01-30T11:36:58",
-    "modified_gmt": "2025-01-30T19:36:58",
-    "slug": "documents-and-declarations",
+    "id": 23579,
+    "date": "2025-09-05T09:07:44",
+    "date_gmt": "2025-09-05T16:07:44",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23579",
+    "modified": "2025-09-05T09:07:45",
+    "modified_gmt": "2025-09-05T16:07:45",
+    "slug": "distribution-license-fees",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/documents-and-declarations/",
-    "title": "Science amendments: Documents and declarations",
-    "excerpt": "<p>This webpage provides a comprehensive guide on submitting documents as part of the science amendment process. It covers essential aspects of document submission, including how to properly attach documents, make necessary declarations, and access related resources for a smooth and compliant submission process. Document submission This step displays a detailed List of Documents. There are [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/applicants/application-license-fees/distribution-license-fees/",
+    "title": "Distribution license fees",
+    "excerpt": "<p>View application and license fees for distribution licenses. Distribution license costs Gross annual revenue Application fee License fee Less than or equal to $1,000,000 $1,000 $1,500 $1,000,001 to $2,500,000 $1,000 $6,000 $2,500,001 to $5,000,000 $1,000 $11,250 $5,000,001 to $10,000,000 $1,000 $22,500 $10,000,001 to $20,000,000 $1,000 $45,000 $20,000,001 to $30,000,000 $1,000 $75,000 $30,000,001 to $50,000,000 $1,000 [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 19844,
+    "parent": 721,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -41,7 +41,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -54,25 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/documents-and-declarations/",
-      "page_title": "Science amendments: Documents and declarations",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/distribution-license-fees/",
+      "page_title": "Distribution license fees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Science amendments: Documents and declarations",
+      "meta_title": "Distribution license fees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/documents-and-declarations/",
-      "open_graph_title": "Science amendments: Documents and declarations",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/distribution-license-fees/",
+      "open_graph_title": "Distribution license fees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Science amendments: Documents and declarations",
+      "twitter_title": "Distribution license fees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/documents-and-declarations/"
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/distribution-license-fees/"
   }
 }
