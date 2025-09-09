@@ -23,7 +23,7 @@
     "slug": "power-water-electricity",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/power-water-electricity/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/power-water-electricity/",
     "title": "Science amendments: Power, water and electricity information",
     "excerpt": "<p>This guide provides detailed instructions on reporting and managing key resources for your science amendment request. It covers the identification and documentation of power sources, water supply sources, and electricity usage. Additionally, it includes information on calculating and understanding the Average Weighted Greenhouse Gas Emission Intensity (GGEI) related to your operations. Power source This section [&hellip;]</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/power-water-electricity/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/power-water-electricity/",
       "page_title": "Science amendments: Power, water and electricity information",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Science amendments: Power, water and electricity information",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/power-water-electricity/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/power-water-electricity/",
       "open_graph_title": "Science amendments: Power, water and electricity information",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Science amendments: Power, water and electricity information",
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/power-water-electricity/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/power-water-electricity/"
   }
 }

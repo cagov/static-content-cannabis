@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-10-02T17:18:46",
-    "updated_date": "2024-10-02T17:18:52",
+    "created_date": "2025-09-05T15:53:47",
+    "updated_date": "2025-09-05T16:35:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/20449",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23565",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 20449,
-    "date": "2024-10-02T10:18:46",
-    "date_gmt": "2024-10-02T17:18:46",
-    "guid": "https://api.cannabis.ca.gov/?page_id=20449",
-    "modified": "2024-10-02T10:18:52",
-    "modified_gmt": "2024-10-02T17:18:52",
-    "slug": "cac-bylaws",
+    "id": 23565,
+    "date": "2025-09-05T08:53:47",
+    "date_gmt": "2025-09-05T15:53:47",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23565",
+    "modified": "2025-09-05T09:35:35",
+    "modified_gmt": "2025-09-05T16:35:35",
+    "slug": "testing-lab-fees",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/about-us/cannabis-advisory-committee/cac-bylaws/",
-    "title": "CAC bylaws",
-    "excerpt": "<p>On September 8, 2022, the CAC adopted a set of bylaws which outline the organization and structure of the committee and its subcommittees, including guidelines for conducting both committee and subcommittee meetings. HTML CSS JAVA SASS</p>\n",
+    "link": "https://api.cannabis.ca.gov/applicants/application-license-fees/testing-lab-fees/",
+    "title": "Testing laboratory license fees",
+    "excerpt": "<p>The Type 8 license is for laboratories that test cannabis goods prior to sale at a retailer. View a breakdown of testing laboratory license fees by gross annual revenue. Gross annual revenue Application fee License fee Less than or equal to $160,000 $1,000 $3,000 $160,001 to $320,000 $1,000 $6,000 $320,001 to $480,000 $1,000 $8,000 $480,001 [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 701,
+    "parent": 721,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,9 +39,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -56,37 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/about-us/cannabis-advisory-committee/cac-bylaws/",
-      "page_title": "CAC bylaws",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/testing-lab-fees/",
+      "page_title": "Testing laboratory license fees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CAC bylaws",
+      "meta_title": "Testing laboratory license fees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/about-us/cannabis-advisory-committee/cac-bylaws/",
-      "open_graph_title": "CAC bylaws",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/testing-lab-fees/",
+      "open_graph_title": "Testing laboratory license fees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CAC bylaws",
+      "twitter_title": "Testing laboratory license fees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/about-us/cannabis-advisory-committee/cac-bylaws/"
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/testing-lab-fees/"
   }
 }

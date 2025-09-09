@@ -23,7 +23,7 @@
     "slug": "science-amendment-process",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/science-amendment-process/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/science-amendment-process/",
     "title": "The science amendment process",
     "excerpt": "<p>This guide offers comprehensive instructions for reporting and managing essential resources for your science amendment request. It includes options for creating a science amendment in the licensing portal and details on how to identify proposed changes and update the premises address. All active license records listed on your Licenses page now have an Action link [&hellip;]</p>\n",
     "author": 32,
@@ -54,7 +54,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/science-amendment-process/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/science-amendment-process/",
       "page_title": "The science amendment process",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "The science amendment process",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/science-amendment-process/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/science-amendment-process/",
       "open_graph_title": "The science amendment process",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "The science amendment process",
@@ -73,6 +73,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/science-amendment-process/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/science-amendment-process/"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:41:03",
-    "updated_date": "2024-10-18T17:02:46",
+    "updated_date": "2025-09-05T20:56:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-04T12:41:03",
     "date_gmt": "2024-09-04T19:41:03",
     "guid": "https://api.cannabis.ca.gov/?page_id=19844",
-    "modified": "2024-10-18T10:02:46",
-    "modified_gmt": "2024-10-18T17:02:46",
+    "modified": "2025-09-05T13:56:09",
+    "modified_gmt": "2025-09-05T20:56:09",
     "slug": "how-to-submit-a-science-amendment",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/",
     "title": "How to submit a science amendment",
     "excerpt": "<p>Why submit a science amendment? There are several reasons to notify the Department of Cannabis Control (DCC) via a Science Amendment. This includes transitioning a cultivation provisional license to an annual license, submitting documentation for a license renewal review, proposing physical modifications to the licensed premises, or modifying previously reported electricity usage. A Science Amendment [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 15813,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/",
       "page_title": "How to submit a science amendment",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "How to submit a science amendment",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/",
       "open_graph_title": "How to submit a science amendment",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "How to submit a science amendment",
@@ -92,6 +92,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/"
   }
 }

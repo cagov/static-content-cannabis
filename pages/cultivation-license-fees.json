@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-02-13T21:00:00",
-    "updated_date": "2024-02-13T21:09:13",
+    "created_date": "2025-09-05T15:56:22",
+    "updated_date": "2025-09-05T15:56:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/17221",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23571",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 17221,
-    "date": "2024-02-13T13:00:00",
-    "date_gmt": "2024-02-13T21:00:00",
-    "guid": "https://api.cannabis.ca.gov/?page_id=17221",
-    "modified": "2024-02-13T13:09:13",
-    "modified_gmt": "2024-02-13T21:09:13",
-    "slug": "reducing-the-canopy-size-of-the-license-type",
+    "id": 23571,
+    "date": "2025-09-05T08:56:22",
+    "date_gmt": "2025-09-05T15:56:22",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23571",
+    "modified": "2025-09-05T08:56:23",
+    "modified_gmt": "2025-09-05T15:56:23",
+    "slug": "cultivation-license-fees",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/reducing-the-canopy-size-of-the-license-type/",
-    "title": "Reducing the canopy size of the license type",
-    "excerpt": "<p>Selecting this option allows the cultivator to scale down their production by reducing their canopy size and corresponding license fees until the next renewal. Definitions</p>\n",
+    "link": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/",
+    "title": "Cultivation license fees",
+    "excerpt": "<p>Cultivation licenses fees are based on your size and type of production or lighting. General cultivation license fees Cultivation license type Application fee License fee Specialty cottage outdoor $135 $1,205 Specialty cottage indoor $205 $1,830 Specialty cottage mixed-light tier 1 $340 $3,035 Specialty cottage mixed-light tier 2 $580 $5,200 Specialty outdoor $270 $2,410 Specialty indoor [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 17210,
+    "parent": 721,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,9 +39,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -56,37 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/reducing-the-canopy-size-of-the-license-type/",
-      "page_title": "Reducing the canopy size of the license type",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/",
+      "page_title": "Cultivation license fees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Reducing the canopy size of the license type",
+      "meta_title": "Cultivation license fees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/reducing-the-canopy-size-of-the-license-type/",
-      "open_graph_title": "Reducing the canopy size of the license type",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/",
+      "open_graph_title": "Cultivation license fees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Reducing the canopy size of the license type",
+      "twitter_title": "Cultivation license fees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/renewal-options-for-cultivation-license-types/reducing-the-canopy-size-of-the-license-type/"
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/"
   }
 }

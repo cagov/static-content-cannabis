@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-10-09T18:28:26",
-    "updated_date": "2024-11-19T18:42:55",
+    "created_date": "2025-09-05T16:06:02",
+    "updated_date": "2025-09-05T16:16:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/20675",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23577",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,36 +14,34 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 20675,
-    "date": "2024-10-09T11:28:26",
-    "date_gmt": "2024-10-09T18:28:26",
-    "guid": "https://api.cannabis.ca.gov/?page_id=20675",
-    "modified": "2024-11-19T10:42:55",
-    "modified_gmt": "2024-11-19T18:42:55",
-    "slug": "guides-and-resources",
+    "id": 23577,
+    "date": "2025-09-05T09:06:02",
+    "date_gmt": "2025-09-05T16:06:02",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23577",
+    "modified": "2025-09-05T09:16:07",
+    "modified_gmt": "2025-09-05T16:16:07",
+    "slug": "event-fees",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/guides-and-resources/",
-    "title": "Guides and resources",
-    "excerpt": "<p>Access all of DCC&#8217;s guides and resources for future and current licensees. Checklists and guides FAQs Licensing system guides</p>\n",
+    "link": "https://api.cannabis.ca.gov/applicants/application-license-fees/event-fees/",
+    "title": "Cannabis event license fees",
+    "excerpt": "<p>Cannabis event annual license fees are based on the number of events you plan to hold during the year. Number of planned cannabis events Application fee License fee 5 or fewer $1,000 $3,000 6 to 10 $1,000 $5,000 11 to 20 $1,000 $9,000 More than 20 $1,000 $20,000 License and application fees by event numbers. [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 721,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -56,37 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/guides-and-resources/",
-      "page_title": "Guides and resources",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/event-fees/",
+      "page_title": "Cannabis event license fees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Guides and resources",
+      "meta_title": "Cannabis event license fees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/guides-and-resources/",
-      "open_graph_title": "Guides and resources",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/event-fees/",
+      "open_graph_title": "Cannabis event license fees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Guides and resources",
+      "twitter_title": "Cannabis event license fees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/guides-and-resources/"
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/event-fees/"
   }
 }

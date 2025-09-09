@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-10-13T21:28:37",
-    "updated_date": "2023-10-23T23:38:30",
+    "created_date": "2025-09-05T15:55:37",
+    "updated_date": "2025-09-05T15:55:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/15201",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23569",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15201,
-    "date": "2023-10-13T14:28:37",
-    "date_gmt": "2023-10-13T21:28:37",
-    "guid": "https://api.cannabis.ca.gov/?page_id=15201",
-    "modified": "2023-10-23T16:38:30",
-    "modified_gmt": "2023-10-23T23:38:30",
-    "slug": "electricity-usage-reporting",
+    "id": 23569,
+    "date": "2025-09-05T08:55:37",
+    "date_gmt": "2025-09-05T15:55:37",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23569",
+    "modified": "2025-09-05T08:55:38",
+    "modified_gmt": "2025-09-05T15:55:38",
+    "slug": "cannabis-event-license-fees",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/electricity-usage-reporting/",
-    "title": "Electricity usage reporting requirements",
-    "excerpt": "<p>All cultivation and microbusiness licensees authorized to engage in cannabis cultivation are required to report total electricity use for each power source used to the DCC upon license renewal. Renewable energy requirements Beginning January 1, 2023, DCC cultivation and microbusiness licensees authorized to engage in indoor, tier 2 mixed-light cultivation, or nursery using indoor or [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/cannabis-event-license-fees/",
+    "title": "Cannabis event license fees",
+    "excerpt": "<p>Cannabis event annual license fees are based on the number of events you plan to hold during the year. Number of planned cannabis events Application fee License fee 5 or fewer $1,000 $3,000 6 to 10 $1,000 $5,000 11 to 20 $1,000 $9,000 More than 20 $1,000 $20,000 License and application fees by event numbers. [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -41,7 +41,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -54,25 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/electricity-usage-reporting/",
-      "page_title": "Electricity usage reporting requirements",
+      "canonical_url": "https://api.cannabis.ca.gov/cannabis-event-license-fees/",
+      "page_title": "Cannabis event license fees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Electricity usage reporting requirements",
+      "meta_title": "Cannabis event license fees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/electricity-usage-reporting/",
-      "open_graph_title": "Electricity usage reporting requirements",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-event-license-fees/",
+      "open_graph_title": "Cannabis event license fees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Electricity usage reporting requirements",
+      "twitter_title": "Cannabis event license fees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/electricity-usage-reporting/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-event-license-fees/"
   }
 }

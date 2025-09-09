@@ -23,7 +23,7 @@
     "slug": "review-and-submission",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/review-and-submission/",
+    "link": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/review-and-submission/",
     "title": "Science amendments: Review and submission",
     "excerpt": "<p>This webpage serves as a comprehensive guide to navigating the review and submission process for your science amendment request. It details the final review opportunity and how to make necessary revisions to strengthen your submission. Additionally, it provides essential information on checking your science amendment status, ensuring you stay informed throughout the process. Review Next [&hellip;]</p>\n",
     "author": 32,
@@ -54,7 +54,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/review-and-submission/",
+      "canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/review-and-submission/",
       "page_title": "Science amendments: Review and submission",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -63,7 +63,7 @@
       "page_social_image_alt": "",
       "meta_title": "Science amendments: Review and submission",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/review-and-submission/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/review-and-submission/",
       "open_graph_title": "Science amendments: Review and submission",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Science amendments: Review and submission",
@@ -73,6 +73,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/how-to-submit-a-science-amendment/review-and-submission/"
+    "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/review-and-submission/"
   }
 }
