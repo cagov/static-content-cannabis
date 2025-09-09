@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-15T21:40:15",
-    "updated_date": "2025-08-15T22:10:28",
+    "updated_date": "2025-09-09T20:59:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2025-08-15T14:40:15",
     "date_gmt": "2025-08-15T21:40:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=23319",
-    "modified": "2025-08-15T15:10:28",
-    "modified_gmt": "2025-08-15T22:10:28",
+    "modified": "2025-09-09T13:59:12",
+    "modified_gmt": "2025-09-09T20:59:12",
     "slug": "guidance-and-how-to-resources-for-licensees",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/guidance-and-how-to-resources-for-licensees/",
+    "link": "https://api.cannabis.ca.gov/resources/guidance-and-how-to-resources-for-licensees/",
     "title": "Guidance and how-to resources for cannabis licensees",
     "excerpt": "<p>The Department of Cannabis Control (DCC) provides checklists, guides, and templates to help both potential and current California cannabis licensees. Whether you’re applying for a license or maintaining compliance, find resources for applications, inspections, packaging, labeling, energy reporting, and more. Checklists and guidance resources Licensing system guides</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 759,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/guidance-and-how-to-resources-for-licensees/",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/guidance-and-how-to-resources-for-licensees/",
       "page_title": "Guidance and how-to resources for cannabis licensees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Guidance and how-to resources for cannabis licensees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/guidance-and-how-to-resources-for-licensees/",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/guidance-and-how-to-resources-for-licensees/",
       "open_graph_title": "Guidance and how-to resources for cannabis licensees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Guidance and how-to resources for cannabis licensees",
@@ -87,6 +87,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/guidance-and-how-to-resources-for-licensees/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/guidance-and-how-to-resources-for-licensees/"
   }
 }
