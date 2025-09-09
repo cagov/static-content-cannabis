@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-09-05T15:56:22",
-    "updated_date": "2025-09-05T15:56:23",
+    "updated_date": "2025-09-09T20:36:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-09-05T08:56:22",
     "date_gmt": "2025-09-05T15:56:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=23571",
-    "modified": "2025-09-05T08:56:23",
-    "modified_gmt": "2025-09-05T15:56:23",
+    "modified": "2025-09-09T13:36:27",
+    "modified_gmt": "2025-09-09T20:36:27",
     "slug": "cultivation-license-fees",
     "status": "publish",
     "type": "page",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-09-05T16:06:02",
-    "updated_date": "2025-09-05T16:16:07",
+    "updated_date": "2025-09-09T20:36:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-09-05T09:06:02",
     "date_gmt": "2025-09-05T16:06:02",
     "guid": "https://api.cannabis.ca.gov/?page_id=23577",
-    "modified": "2025-09-05T09:16:07",
-    "modified_gmt": "2025-09-05T16:16:07",
+    "modified": "2025-09-09T13:36:03",
+    "modified_gmt": "2025-09-09T20:36:03",
     "slug": "event-fees",
     "status": "publish",
     "type": "page",
