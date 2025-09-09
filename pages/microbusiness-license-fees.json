@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-09-05T16:03:32",
-    "updated_date": "2025-09-05T16:03:33",
+    "updated_date": "2025-09-09T20:35:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-09-05T09:03:32",
     "date_gmt": "2025-09-05T16:03:32",
     "guid": "https://api.cannabis.ca.gov/?page_id=23574",
-    "modified": "2025-09-05T09:03:33",
-    "modified_gmt": "2025-09-05T16:03:33",
+    "modified": "2025-09-09T13:35:23",
+    "modified_gmt": "2025-09-09T20:35:23",
     "slug": "microbusiness-license-fees",
     "status": "publish",
     "type": "page",
