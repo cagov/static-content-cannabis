@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 284,
+      "redirects": 287,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7755,6 +7755,84 @@
       "regex": false,
       "group_id": 1,
       "position": 283,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 536,
+      "url": "/applicants/application-license-fees/cannabis-event-license-fees/",
+      "match_url": "/applicants/application-license-fees/cannabis-event-license-fees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/application-license-fees/event-fees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 284,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 537,
+      "url": "/applicants/application-license-fees/testing-laboratory-license-fees/",
+      "match_url": "/applicants/application-license-fees/testing-laboratory-license-fees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/application-license-fees/testing-lab-fees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 285,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 538,
+      "url": "/how-to-submit-a-science-amendment/",
+      "match_url": "/how-to-submit-a-science-amendment",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system/how-to-submit-a-science-amendment/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 286,
       "last_access": "-",
       "enabled": true
     }
