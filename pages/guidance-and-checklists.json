@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2021-12-30T23:22:53",
-    "updated_date": "2025-09-10T20:49:29",
+    "created_date": "2025-08-15T21:40:15",
+    "updated_date": "2025-09-09T23:46:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/9249",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23319",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,36 +14,34 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 9249,
-    "date": "2021-12-30T15:22:53",
-    "date_gmt": "2021-12-30T23:22:53",
-    "guid": "https://cannabis.ca.gov/?page_id=9249",
-    "modified": "2025-09-10T13:49:29",
-    "modified_gmt": "2025-09-10T20:49:29",
-    "slug": "equity-fee-relief",
+    "id": 23319,
+    "date": "2025-08-15T14:40:15",
+    "date_gmt": "2025-08-15T21:40:15",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23319",
+    "modified": "2025-09-09T16:46:55",
+    "modified_gmt": "2025-09-09T23:46:55",
+    "slug": "guidance-and-checklists",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/",
-    "title": "Equity fee relief",
-    "excerpt": "<p>If you were negatively affected by the criminalization of cannabis, you can apply to have your license fee waived and/or deferred.</p>\n",
-    "author": 44,
+    "link": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/",
+    "title": "Guidance and checklists for applicants and licensees",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) provides guidance, checklists, and worksheets for applicants and licensees. Checklists and guidance resources Licensing system guides</p>\n",
+    "author": 32,
     "featured_media": 0,
-    "parent": 756,
+    "parent": 759,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
       "footnotes": ""
     },
-    "categories": [
-      "Equity fee relief"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -56,42 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/",
-      "page_title": "Equity fee relief",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/",
+      "page_title": "Guidance and checklists for applicants and licensees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Equity fee relief",
+      "meta_title": "Guidance and checklists for applicants and licensees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/",
-      "open_graph_title": "Equity fee relief",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/",
+      "open_graph_title": "Guidance and checklists for applicants and licensees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Equity fee relief",
+      "twitter_title": "Guidance and checklists for applicants and licensees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 855,
-        "name": "Equity fee relief",
-        "slug": "equity-fee-relief",
-        "term_group": 0,
-        "term_taxonomy_id": 855,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 855,
-        "category_description": "",
-        "cat_name": "Equity fee relief",
-        "category_nicename": "equity-fee-relief",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/applicants/equity-fee-relief/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/"
   }
 }
