@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-15T21:40:15",
-    "updated_date": "2025-09-09T23:46:55",
+    "updated_date": "2025-09-11T23:16:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-15T14:40:15",
     "date_gmt": "2025-08-15T21:40:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=23319",
-    "modified": "2025-09-09T16:46:55",
-    "modified_gmt": "2025-09-09T23:46:55",
+    "modified": "2025-09-11T16:16:34",
+    "modified_gmt": "2025-09-11T23:16:34",
     "slug": "guidance-and-checklists",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "latest updates"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 922,
+        "name": "latest updates",
+        "slug": "latest-updates",
+        "term_group": 0,
+        "term_taxonomy_id": 922,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/"
