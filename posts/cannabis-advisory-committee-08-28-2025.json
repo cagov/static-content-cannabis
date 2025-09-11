@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-15T22:29:44",
-    "updated_date": "2025-09-11T23:31:34",
+    "updated_date": "2025-09-11T23:38:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2025-08-15T15:29:44",
     "date_gmt": "2025-08-15T22:29:44",
     "guid": "https://api.cannabis.ca.gov/?p=23325",
-    "modified": "2025-09-11T16:31:34",
-    "modified_gmt": "2025-09-11T23:31:34",
+    "modified": "2025-09-11T16:38:51",
+    "modified_gmt": "2025-09-11T23:38:51",
     "slug": "cannabis-advisory-committee-08-28-2025",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2025/08/cannabis-advisory-committee-08-28-2025/",
     "title": "Cannabis Advisory Committee: 08/28/2025",
-    "excerpt": "<p>The Cannabis Advisory Committee (CAC) will hold a virtual meeting on August 28, 2025, at 10:00 a.m. CAC meetings are live-streamed and open to the public. No registration is required. Pursuant to Government Code section 11133, this meeting will be held by teleconference. Members of the public may make comment via teleconference or in person.&nbsp; [&hellip;]</p>\n",
+    "excerpt": "<p>The Cannabis Advisory Committee (CAC) will hold a virtual meeting on August 28, 2025, at 10:00 a.m. CAC meetings are live-streamed and open to the public. No registration is required.</p>\n",
     "author": 37,
     "featured_media": 0,
     "comment_status": "closed",
@@ -42,7 +42,9 @@
       "2025 Meetings",
       "Cannabis Advisory Committee"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -59,18 +61,18 @@
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2025/08/cannabis-advisory-committee-08-28-2025/",
       "page_title": "Cannabis Advisory Committee: 08/28/2025",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "The Cannabis Advisory Committee (CAC) will hold a virtual meeting on August 28, 2025, at 10:00 a.m. CAC meetings are live-streamed and open to the public. No registration is required.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Cannabis Advisory Committee: 08/28/2025",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "The Cannabis Advisory Committee (CAC) will hold a virtual meeting on August 28, 2025, at 10:00 a.m. CAC meetings are live-streamed and open to the public. No registration is required.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2025/08/cannabis-advisory-committee-08-28-2025/",
       "open_graph_title": "Cannabis Advisory Committee: 08/28/2025",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "The Cannabis Advisory Committee (CAC) will hold a virtual meeting on August 28, 2025, at 10:00 a.m. CAC meetings are live-streamed and open to the public. No registration is required.",
       "twitter_title": "Cannabis Advisory Committee: 08/28/2025",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "The Cannabis Advisory Committee (CAC) will hold a virtual meeting on August 28, 2025, at 10:00 a.m. CAC meetings are live-streamed and open to the public. No registration is required."
     },
     "headless_categories": [
       {
@@ -106,7 +108,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
