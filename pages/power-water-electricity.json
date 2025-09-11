@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:43:43",
-    "updated_date": "2025-01-30T19:33:46",
+    "updated_date": "2025-09-11T21:58:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T12:43:43",
     "date_gmt": "2024-09-04T19:43:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=19846",
-    "modified": "2025-01-30T11:33:46",
-    "modified_gmt": "2025-01-30T19:33:46",
+    "modified": "2025-09-11T14:58:58",
+    "modified_gmt": "2025-09-11T21:58:58",
     "slug": "power-water-electricity",
     "status": "publish",
     "type": "page",
@@ -39,9 +39,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -72,19 +70,7 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cultivation-licensing-system/how-to-submit-a-science-amendment/power-water-electricity/"

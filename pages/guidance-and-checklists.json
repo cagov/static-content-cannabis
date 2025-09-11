@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-15T21:40:15",
-    "updated_date": "2025-09-09T21:10:43",
+    "updated_date": "2025-09-09T23:46:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2025-08-15T14:40:15",
     "date_gmt": "2025-08-15T21:40:15",
     "guid": "https://api.cannabis.ca.gov/?page_id=23319",
-    "modified": "2025-09-09T14:10:43",
-    "modified_gmt": "2025-09-09T21:10:43",
-    "slug": "guidance-and-how-to-resources-for-licensees",
+    "modified": "2025-09-09T16:46:55",
+    "modified_gmt": "2025-09-09T23:46:55",
+    "slug": "guidance-and-checklists",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/guidance-and-how-to-resources-for-licensees/",
-    "title": "Guidance and how-to resources for cannabis licensees",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) provides checklists, guides, and templates to help both potential and current California cannabis licensees. Whether you’re applying for a license or maintaining compliance, find resources for applications, inspections, packaging, labeling, energy reporting, and more. Checklists and guidance resources Licensing system guides</p>\n",
+    "link": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/",
+    "title": "Guidance and checklists for applicants and licensees",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) provides guidance, checklists, and worksheets for applicants and licensees. Checklists and guidance resources Licensing system guides</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 759,
@@ -39,9 +39,7 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -56,37 +54,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/guidance-and-how-to-resources-for-licensees/",
-      "page_title": "Guidance and how-to resources for cannabis licensees",
+      "canonical_url": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/",
+      "page_title": "Guidance and checklists for applicants and licensees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Guidance and how-to resources for cannabis licensees",
+      "meta_title": "Guidance and checklists for applicants and licensees",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/guidance-and-how-to-resources-for-licensees/",
-      "open_graph_title": "Guidance and how-to resources for cannabis licensees",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/",
+      "open_graph_title": "Guidance and checklists for applicants and licensees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Guidance and how-to resources for cannabis licensees",
+      "twitter_title": "Guidance and checklists for applicants and licensees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/guidance-and-how-to-resources-for-licensees/"
+    "wordpress_url": "https://api.cannabis.ca.gov/resources/guidance-and-checklists/"
   }
 }
