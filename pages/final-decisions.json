@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-13T22:36:39",
-    "updated_date": "2025-08-11T19:10:27",
+    "updated_date": "2025-09-12T22:17:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-13T14:36:39",
     "date_gmt": "2023-11-13T22:36:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=15957",
-    "modified": "2025-08-11T12:10:27",
-    "modified_gmt": "2025-08-11T19:10:27",
+    "modified": "2025-09-12T15:17:56",
+    "modified_gmt": "2025-09-12T22:17:56",
     "slug": "final-decisions",
     "status": "publish",
     "type": "page",
@@ -39,9 +39,11 @@
       "footnotes": ""
     },
     "categories": [
-      "All"
+      "Compliance"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -64,7 +66,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Final decisions",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "In certain circumstances, a license denial, citation or disciplinary action will result in DCC issuing a final Order of Decision pursuant to the Administrative Procedure Act. The following table provides information related to those decisions and allows you to view the Order of Decision by clicking in the case documents column.",
       "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/",
       "open_graph_title": "Final decisions",
       "open_graph_description": "Learn about California cannabis laws and licenses",
@@ -73,23 +75,35 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 886,
+        "name": "Compliance",
+        "slug": "compliance",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 886,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 886,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Compliance",
+        "category_nicename": "compliance",
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/"
