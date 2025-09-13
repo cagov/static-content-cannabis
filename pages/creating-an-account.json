@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T00:02:22",
-    "updated_date": "2025-02-04T23:29:37",
+    "updated_date": "2025-09-13T00:18:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-05T17:02:22",
     "date_gmt": "2024-08-06T00:02:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=19233",
-    "modified": "2025-02-04T15:29:37",
-    "modified_gmt": "2025-02-04T23:29:37",
+    "modified": "2025-09-12T17:18:08",
+    "modified_gmt": "2025-09-13T00:18:08",
     "slug": "creating-an-account",
     "status": "publish",
     "type": "page",
