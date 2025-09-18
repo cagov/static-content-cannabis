@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 287,
+      "redirects": 290,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7833,6 +7833,84 @@
       "regex": false,
       "group_id": 1,
       "position": 286,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 539,
+      "url": "/guidance-and-how-to-resources-for-licensees/",
+      "match_url": "/guidance-and-how-to-resources-for-licensees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/guidance-and-how-to-resources-for-licensees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 287,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 540,
+      "url": "/resources/guidance-and-how-to-resources-for-licensees/",
+      "match_url": "/resources/guidance-and-how-to-resources-for-licensees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/guidance-and-checklists/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 288,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 541,
+      "url": "/public-notices-for-ceqa/",
+      "match_url": "/public-notices-for-ceqa",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/public-notices-for-ceqa/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 289,
       "last_access": "-",
       "enabled": true
     }
