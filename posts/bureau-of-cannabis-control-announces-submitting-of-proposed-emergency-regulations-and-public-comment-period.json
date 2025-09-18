@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-11-28T19:31:00",
-    "updated_date": "2017-11-28T19:31:00",
+    "updated_date": "2025-09-18T18:17:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2017-11-28T19:31:00",
     "date_gmt": "2017-11-28T19:31:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/bureau-of-cannabis-control-announces-submitting-of-proposed-emergency-regulations-and-public-comment-period/",
-    "modified": "2017-11-28T19:31:00",
-    "modified_gmt": "2017-11-28T19:31:00",
+    "modified": "2025-09-18T11:17:07",
+    "modified_gmt": "2025-09-18T18:17:07",
     "slug": "bureau-of-cannabis-control-announces-submitting-of-proposed-emergency-regulations-and-public-comment-period",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2017/11/bureau-of-cannabis-control-announces-submitting-of-proposed-emergency-regulations-and-public-comment-period/",
     "title": "Bureau of Cannabis Control Announces Submitting of Proposed Emergency Regulations and Public Comment Period",
     "excerpt": "<p>SACRAMENTO – The Bureau of Cannabis Control (Bureau) announced today that it has submitted the proposed emergency regulations for commercial medicinal and adult-use cannabis to the Office of Administrative Law (OAL).</p>\n",
-    "author": 2,
+    "author": 41,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/www/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/includes/templates/template-single-press-release.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -50,7 +50,7 @@
       "Submit"
     ],
     "design_system_fields": {
-      "template": "template-single-press-release"
+      "template": "post"
     },
     "og_meta": {
       "editor": {

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-27T19:37:16",
-    "updated_date": "2025-09-10T22:54:24",
+    "updated_date": "2025-09-17T22:28:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-27T12:37:16",
     "date_gmt": "2024-09-27T19:37:16",
     "guid": "https://api.cannabis.ca.gov/?p=20320",
-    "modified": "2025-09-10T15:54:24",
-    "modified_gmt": "2025-09-10T22:54:24",
+    "modified": "2025-09-17T15:28:59",
+    "modified_gmt": "2025-09-17T22:28:59",
     "slug": "cctt-subcommittee-10-8-2024",
     "status": "publish",
     "type": "post",

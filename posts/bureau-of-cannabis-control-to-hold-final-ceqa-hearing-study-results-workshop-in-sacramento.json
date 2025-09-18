@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-09-20T17:54:00",
-    "updated_date": "2017-09-20T17:54:00",
+    "updated_date": "2025-09-18T18:15:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2017-09-20T17:54:00",
     "date_gmt": "2017-09-20T17:54:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/bureau-of-cannabis-control-to-hold-final-ceqa-hearing-study-results-workshop-in-sacramento/",
-    "modified": "2017-09-20T17:54:00",
-    "modified_gmt": "2017-09-20T17:54:00",
+    "modified": "2025-09-18T11:15:49",
+    "modified_gmt": "2025-09-18T18:15:49",
     "slug": "bureau-of-cannabis-control-to-hold-final-ceqa-hearing-study-results-workshop-in-sacramento",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2017/09/bureau-of-cannabis-control-to-hold-final-ceqa-hearing-study-results-workshop-in-sacramento/",
     "title": "Bureau of Cannabis Control to Hold Final CEQA Hearing Study Results Workshop in Sacramento",
     "excerpt": "<p>SACRAMENTO &#8212; The Bureau of Cannabis Control (Bureau) will hold a public workshop in Sacramento to receive comments regarding the recent release of its California Environmental Quality Act (CEQA) Initial Study and Proposed Negative Declaration (IS/ND) for its regulatory licensing and enforcement program (Proposed Program) for commercial cannabis distributors, retailers, testing laboratories and microbusinesses.</p>\n",
-    "author": 2,
+    "author": 41,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/www/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/includes/templates/template-single-press-release.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -49,7 +49,7 @@
       "Workshop"
     ],
     "design_system_fields": {
-      "template": "template-single-press-release"
+      "template": "post"
     },
     "og_meta": {
       "editor": {
