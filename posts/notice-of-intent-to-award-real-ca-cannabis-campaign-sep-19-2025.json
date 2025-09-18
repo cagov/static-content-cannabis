@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-07-01T22:04:00",
-    "updated_date": "2025-09-18T19:01:27",
+    "created_date": "2025-09-16T22:09:19",
+    "updated_date": "2025-09-18T17:48:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/9952",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/23705",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 9952,
-    "date": "2022-07-01T15:04:00",
-    "date_gmt": "2022-07-01T22:04:00",
-    "guid": "https://cannabis.ca.gov/?p=9952",
-    "modified": "2025-09-18T12:01:27",
-    "modified_gmt": "2025-09-18T19:01:27",
-    "slug": "good-news-for-cannabis-in-governors-budget",
+    "id": 23705,
+    "date": "2025-09-16T15:09:19",
+    "date_gmt": "2025-09-16T22:09:19",
+    "guid": "https://api.cannabis.ca.gov/?p=23705",
+    "modified": "2025-09-18T10:48:56",
+    "modified_gmt": "2025-09-18T17:48:56",
+    "slug": "notice-of-intent-to-award-real-ca-cannabis-campaign-sep-19-2025",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/07/good-news-for-cannabis-in-governors-budget/",
-    "title": "Good news for cannabis in Governor Newsom’s budget",
-    "excerpt": "<p>Good Afternoon, Yesterday, Governor Gavin Newsom signed legislation implementing the 2022-23 state budget, including a trailer bill focused on measures that will bring tax relief to the cannabis industry, support equity businesses, strengthen enforcement tools against illegal cannabis operators, and protect youth, environmental, and public safety programs funded by cannabis tax revenue.&nbsp; The cannabis tax [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/2025/09/notice-of-intent-to-award-real-ca-cannabis-campaign-sep-19-2025/",
+    "title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
+    "excerpt": "<p>The Department of Cannabis Control intends to award solicitation no. RFP 24-001 For: Real CA Cannabis Campaign To: Trailer Park Inc. Any bidder wishing to protest the proposed award must submit a written notice of intent to protest to the coordinator before the close of business (5:00 pm) on the last day of the protest [&hellip;]</p>\n",
     "author": 41,
     "featured_media": 0,
     "comment_status": "closed",
@@ -39,10 +39,11 @@
       "footnotes": ""
     },
     "categories": [
-      "2022 announcements",
-      "Announcements"
+      "All"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-single"
     },
@@ -57,56 +58,52 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/07/good-news-for-cannabis-in-governors-budget/",
-      "page_title": "Good news for cannabis in Governor Newsom’s budget",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/09/notice-of-intent-to-award-real-ca-cannabis-campaign-sep-19-2025/",
+      "page_title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Good news for cannabis in Governor Newsom’s budget",
+      "meta_title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/07/good-news-for-cannabis-in-governors-budget/",
-      "open_graph_title": "Good news for cannabis in Governor Newsom’s budget",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/09/notice-of-intent-to-award-real-ca-cannabis-campaign-sep-19-2025/",
+      "open_graph_title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Good news for cannabis in Governor Newsom’s budget",
+      "twitter_title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 823,
-        "name": "2022 announcements",
-        "slug": "2022",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 823,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 14,
-        "filter": "raw",
-        "cat_ID": 823,
-        "category_description": "",
-        "cat_name": "2022 announcements",
-        "category_nicename": "2022",
-        "category_parent": 14
-      },
-      {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "All",
+        "category_nicename": "all",
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -117,6 +114,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/07/good-news-for-cannabis-in-governors-budget/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/09/notice-of-intent-to-award-real-ca-cannabis-campaign-sep-19-2025/"
   }
 }

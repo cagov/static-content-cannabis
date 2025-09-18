@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-09-08T22:14:00",
-    "updated_date": "2017-09-08T22:14:00",
+    "updated_date": "2025-09-18T18:15:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2017-09-08T22:14:00",
     "date_gmt": "2017-09-08T22:14:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/cdph-launches-cannabis-public-education-campaign/",
-    "modified": "2017-09-08T22:14:00",
-    "modified_gmt": "2017-09-08T22:14:00",
+    "modified": "2025-09-18T11:15:57",
+    "modified_gmt": "2025-09-18T18:15:57",
     "slug": "cdph-launches-cannabis-public-education-campaign",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2017/09/cdph-launches-cannabis-public-education-campaign/",
     "title": "CDPH Launches Cannabis Public Education Campaign",
     "excerpt": "<p>SACRAMENTO –Today the California Department of Public Health (CDPH) launched a health information and education campaign about what’s legal in California and potential health impacts of cannabis use.</p>\n",
-    "author": 2,
+    "author": 41,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/www/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/includes/templates/template-single-press-release.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -51,7 +51,7 @@
       "Science"
     ],
     "design_system_fields": {
-      "template": "template-single-press-release"
+      "template": "post"
     },
     "og_meta": {
       "editor": {

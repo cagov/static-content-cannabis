@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-03T23:28:36",
-    "updated_date": "2025-09-10T22:52:15",
+    "updated_date": "2025-09-17T21:24:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-03T15:28:36",
     "date_gmt": "2023-02-03T23:28:36",
     "guid": "https://api.cannabis.ca.gov/?p=13094",
-    "modified": "2025-09-10T15:52:15",
-    "modified_gmt": "2025-09-10T22:52:15",
+    "modified": "2025-09-17T14:24:41",
+    "modified_gmt": "2025-09-17T21:24:41",
     "slug": "cannabis-advisory-committee-cultivation-subcommittee-2",
     "status": "publish",
     "type": "post",

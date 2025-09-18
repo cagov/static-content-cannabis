@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-09-06T19:55:00",
-    "updated_date": "2017-09-06T19:55:00",
+    "updated_date": "2025-09-18T18:16:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2017-09-06T19:55:00",
     "date_gmt": "2017-09-06T19:55:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/27257/",
-    "modified": "2017-09-06T19:55:00",
-    "modified_gmt": "2017-09-06T19:55:00",
+    "modified": "2025-09-18T11:16:03",
+    "modified_gmt": "2025-09-18T18:16:03",
     "slug": "27257-2",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2017/09/27257-2/",
     "title": "Bureau of Cannabis Control Announces CEQA Proposed Program Study Results and Public Workshop Meetings",
     "excerpt": "<p>The Bureau of Cannabis Control released its California Environmental Quality Act Proposed Program study to the public today.</p>\n",
-    "author": 2,
+    "author": 41,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/www/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/includes/templates/template-single-press-release.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -48,7 +48,7 @@
       "Initial Study"
     ],
     "design_system_fields": {
-      "template": "template-single-press-release"
+      "template": "post"
     },
     "og_meta": {
       "editor": {

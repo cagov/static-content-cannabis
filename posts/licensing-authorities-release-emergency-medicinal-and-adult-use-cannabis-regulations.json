@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2017-11-16T20:56:00",
-    "updated_date": "2017-11-16T20:56:00",
+    "updated_date": "2025-09-18T18:16:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2017-11-16T20:56:00",
     "date_gmt": "2017-11-16T20:56:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/licensing-authorities-release-emergency-medicinal-and-adult-use-cannabis-regulations/",
-    "modified": "2017-11-16T20:56:00",
-    "modified_gmt": "2017-11-16T20:56:00",
+    "modified": "2025-09-18T11:16:53",
+    "modified_gmt": "2025-09-18T18:16:53",
     "slug": "licensing-authorities-release-emergency-medicinal-and-adult-use-cannabis-regulations",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2017/11/licensing-authorities-release-emergency-medicinal-and-adult-use-cannabis-regulations/",
     "title": "Licensing Authorities Release Emergency Medicinal and Adult-Use Cannabis Regulations",
     "excerpt": "<p>SACRAMENTO – California’s three state cannabis licensing authorities announced today that proposed emergency licensing regulations for commercial medicinal and adult-use cannabis have been posted online and are available to the public for review.</p>\n",
-    "author": 2,
+    "author": 41,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/www/wp-content/plugins/ca-design-system-gutenberg-blocks-1.1.7/includes/templates/template-single-press-release.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -53,7 +53,7 @@
       "Release"
     ],
     "design_system_fields": {
-      "template": "template-single-press-release"
+      "template": "post"
     },
     "og_meta": {
       "editor": {
