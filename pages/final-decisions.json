@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-13T22:36:39",
-    "updated_date": "2025-09-12T22:28:14",
+    "updated_date": "2025-09-15T17:50:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-13T14:36:39",
     "date_gmt": "2023-11-13T22:36:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=15957",
-    "modified": "2025-09-12T15:28:14",
-    "modified_gmt": "2025-09-12T22:28:14",
+    "modified": "2025-09-15T10:50:26",
+    "modified_gmt": "2025-09-15T17:50:26",
     "slug": "final-decisions",
     "status": "publish",
     "type": "page",
@@ -41,9 +41,7 @@
     "categories": [
       "Compliance"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/"

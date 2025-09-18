@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "created_date": "2025-09-15T22:46:53",
+    "updated_date": "2025-09-18T22:03:31",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23694",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 23694,
+    "date": "2025-09-15T15:46:53",
+    "date_gmt": "2025-09-15T22:46:53",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23694",
+    "modified": "2025-09-18T15:03:31",
+    "modified_gmt": "2025-09-18T22:03:31",
+    "slug": "public-notices-for-ceqa",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/applicants/public-notices-for-ceqa/",
+    "title": "Public Notices for CEQA",
+    "excerpt": "<p>Under the California Environmental Quality Act (CEQA), the Department of Cannabis Control (DCC) may serve as the lead agency for environmental review related to DCC’s issuance of commercial cannabis licenses. As lead agency, CEQA-related documents will be prepared and posted for public notice. We invite agencies, stakeholders, and community members to review these documents and [&hellip;]</p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "parent": 756,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/public-notices-for-ceqa/",
+      "page_title": "Public Notices for CEQA",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Public Notices for CEQA",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/public-notices-for-ceqa/",
+      "open_graph_title": "Public Notices for CEQA",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Public Notices for CEQA",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/public-notices-for-ceqa/"
+  }
+}
