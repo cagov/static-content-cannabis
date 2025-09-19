@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-07-08T16:52:46",
-    "updated_date": "2025-09-18T19:01:27",
+    "updated_date": "2025-09-19T17:02:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-07-08T09:52:46",
     "date_gmt": "2022-07-08T16:52:46",
     "guid": "https://cannabis.ca.gov/?p=10018",
-    "modified": "2025-09-18T12:01:27",
-    "modified_gmt": "2025-09-18T19:01:27",
+    "modified": "2025-09-19T10:02:41",
+    "modified_gmt": "2025-09-19T17:02:41",
     "slug": "california-looks-to-standardize-cannabis-testing-statewide",
     "status": "publish",
     "type": "post",
