@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-25T17:38:36",
-    "updated_date": "2025-09-18T23:25:16",
+    "updated_date": "2025-09-19T22:44:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-25T10:38:36",
     "date_gmt": "2023-08-25T17:38:36",
     "guid": "https://api.cannabis.ca.gov/?page_id=14618",
-    "modified": "2025-09-18T16:25:16",
-    "modified_gmt": "2025-09-18T23:25:16",
+    "modified": "2025-09-19T15:44:35",
+    "modified_gmt": "2025-09-19T22:44:35",
     "slug": "cac-meeting-archives",
     "status": "publish",
     "type": "page",
