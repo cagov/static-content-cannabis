@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "created_date": "2025-09-19T22:02:21",
+    "updated_date": "2025-09-19T22:02:27",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/23705",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 23705,
+    "date": "2025-09-19T15:02:21",
+    "date_gmt": "2025-09-19T22:02:21",
+    "guid": "https://api.cannabis.ca.gov/?p=23705",
+    "modified": "2025-09-19T15:02:27",
+    "modified_gmt": "2025-09-19T22:02:27",
+    "slug": "intent-to-award-real-ca-cannabis",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2025/09/intent-to-award-real-ca-cannabis/",
+    "title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
+    "excerpt": "<p>The Department of Cannabis Control intends to award solicitation no. RFP 24-001</p>\n",
+    "author": 41,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "2025 announcements",
+      "Announcements"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2025/09/intent-to-award-real-ca-cannabis/",
+      "page_title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
+      "page_description": "The Department of Cannabis Control intends to award solicitation no. RFP 24-001",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
+      "meta_description": "The Department of Cannabis Control intends to award solicitation no. RFP 24-001",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2025/09/intent-to-award-real-ca-cannabis/",
+      "open_graph_title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
+      "open_graph_description": "The Department of Cannabis Control intends to award solicitation no. RFP 24-001",
+      "twitter_title": "Notice of Intent to Award: Real CA Cannabis Campaign Sep 19, 2025",
+      "twitter_description": "The Department of Cannabis Control intends to award solicitation no. RFP 24-001"
+    },
+    "headless_categories": [
+      {
+        "term_id": 991,
+        "name": "2025 announcements",
+        "slug": "2025-announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 991,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 991,
+        "category_description": "",
+        "cat_name": "2025 announcements",
+        "category_nicename": "2025-announcements",
+        "category_parent": 14
+      },
+      {
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
+        "term_group": 0,
+        "term_taxonomy_id": 14,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 14,
+        "category_description": "",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2025/09/intent-to-award-real-ca-cannabis/"
+  }
+}
