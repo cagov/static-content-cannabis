@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-06-13T16:28:15",
-    "updated_date": "2025-04-16T23:11:03",
+    "updated_date": "2025-09-24T20:50:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2024-06-13T09:28:15",
     "date_gmt": "2024-06-13T16:28:15",
     "guid": "https://api.cannabis.ca.gov/?p=18461",
-    "modified": "2025-04-16T16:11:03",
-    "modified_gmt": "2025-04-16T23:11:03",
-    "slug": "ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing",
+    "modified": "2025-09-24T13:50:19",
+    "modified_gmt": "2025-09-24T20:50:19",
+    "slug": "advertising-and-packaging-vape-products",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2024/06/ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing/",
-    "title": "AB 1894 requirements for packaging, labeling, advertising, and marketing cannabis cartridges and integrated vaporizers ",
-    "excerpt": "<p>In 2022, the California Legislature passed Assembly Bill 1894, the Integrated cannabis vaporizer: packaging, labeling, advertisement, and marketing bill. This bill added requirements for the packaging, labeling, advertising, or marketing of cannabis cartridges and integrated cannabis vaporizers. There are two parts to the requirements:  Advertising and marketing requirements&nbsp; Licensees must clearly display the following messages [&hellip;]</p>\n",
-    "author": 32,
+    "link": "https://api.cannabis.ca.gov/2024/06/advertising-and-packaging-vape-products/",
+    "title": "Advertising, marketing, packaging, and labeling requirements for vape cartridges and integrated vaporizers",
+    "excerpt": "<p>Business and Professions Code section 26120 (f) and section 26152.1 identify additional requirements for the advertising, marketing, packaging, and labeling of cannabis vape cartridges and integrated vaporizers. There are two parts to the requirements:&nbsp; Advertising and marketing requirements&nbsp; Licensees must clearly display the following messages in a clear and legible fashion when advertising and marketing [&hellip;]</p>\n",
+    "author": 41,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -45,7 +45,9 @@
       "Packaging"
     ],
     "tags": [
-      "latest updates"
+      "integrated vaporizers",
+      "latest updates",
+      "Vape cartridges"
     ],
     "design_system_fields": {
       "template": "template-page"
@@ -61,19 +63,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2024/06/ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing/",
-      "page_title": "AB 1894 requirements for packaging, labeling, advertising, and marketing cannabis cartridges and integrated vaporizers ",
+      "canonical_url": "https://api.cannabis.ca.gov/2024/06/advertising-and-packaging-vape-products/",
+      "page_title": "Advertising, marketing, packaging, and labeling requirements for vape cartridges and integrated vaporizers",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "AB 1894 requirements for packaging, labeling, advertising, and marketing cannabis cartridges and integrated vaporizers ",
+      "meta_title": "Advertising, marketing, packaging, and labeling requirements for vape cartridges and integrated vaporizers",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/06/ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing/",
-      "open_graph_title": "AB 1894 requirements for packaging, labeling, advertising, and marketing cannabis cartridges and integrated vaporizers ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2024/06/advertising-and-packaging-vape-products/",
+      "open_graph_title": "Advertising, marketing, packaging, and labeling requirements for vape cartridges and integrated vaporizers",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "AB 1894 requirements for packaging, labeling, advertising, and marketing cannabis cartridges and integrated vaporizers ",
+      "twitter_title": "Advertising, marketing, packaging, and labeling requirements for vape cartridges and integrated vaporizers",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -144,11 +146,33 @@
     ],
     "headless_tags": [
       {
+        "term_id": 1013,
+        "name": "integrated vaporizers",
+        "slug": "integrated-vaporizers",
+        "term_group": 0,
+        "term_taxonomy_id": 1013,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
         "term_id": 922,
         "name": "latest updates",
         "slug": "latest-updates",
         "term_group": 0,
         "term_taxonomy_id": 922,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 718,
+        "name": "Vape cartridges",
+        "slug": "vape-cartridges",
+        "term_group": 0,
+        "term_taxonomy_id": 718,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
@@ -165,6 +189,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2024/06/ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing/"
+    "wordpress_url": "https://api.cannabis.ca.gov/2024/06/advertising-and-packaging-vape-products/"
   }
 }
