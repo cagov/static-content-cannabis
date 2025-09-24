@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "created_date": "2023-02-03T23:27:15",
+    "updated_date": "2025-09-17T21:35:02",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13097",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13097,
+    "date": "2023-02-03T15:27:15",
+    "date_gmt": "2023-02-03T23:27:15",
+    "guid": "https://api.cannabis.ca.gov/?p=13097",
+    "modified": "2025-09-17T14:35:02",
+    "modified_gmt": "2025-09-17T21:35:02",
+    "slug": "cannabis-advisory-committee-laboratory-subcommittee",
+    "status": "publish",
+    "type": "post",
+    "link": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-laboratory-subcommittee/",
+    "title": "Cannabis Advisory Committee – Laboratory Subcommittee: 2/16/2023",
+    "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">February 16, 2023</div>\n<p></p>\n<div class=\"event-time\">9:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx Event</div>\n</div>\n",
+    "author": 37,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-event.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "2023 meetings",
+      "Past meetings"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-single-event"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-laboratory-subcommittee/",
+      "page_title": "Cannabis Advisory Committee – Laboratory Subcommittee: 2/16/2023",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis Advisory Committee – Laboratory Subcommittee: 2/16/2023",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-laboratory-subcommittee/",
+      "open_graph_title": "Cannabis Advisory Committee – Laboratory Subcommittee: 2/16/2023",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cannabis Advisory Committee – Laboratory Subcommittee: 2/16/2023",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 834,
+        "name": "2023 meetings",
+        "slug": "2023-cac",
+        "term_group": 0,
+        "term_taxonomy_id": 834,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 834,
+        "category_description": "",
+        "cat_name": "2023 meetings",
+        "category_nicename": "2023-cac",
+        "category_parent": 833
+      },
+      {
+        "term_id": 833,
+        "name": "Past meetings",
+        "slug": "past-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 833,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 833,
+        "category_description": "",
+        "cat_name": "Past meetings",
+        "category_nicename": "past-meetings",
+        "category_parent": 831
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": {
+      "startDateTimeUTC": "2023-02-16T17:00:00",
+      "endDateTimeUTC": "2023-02-16T17:00:00",
+      "startDate": "February 16, 2023",
+      "endDate": "February 16, 2023",
+      "startTime": "9:00 AM",
+      "endTime": "9:00 AM",
+      "localTimezone": "America/Los_Angeles",
+      "localTimezoneLabel": "PST",
+      "location": "WebEx Event",
+      "cost": "Free"
+    },
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://api.cannabis.ca.gov/2023/02/cannabis-advisory-committee-laboratory-subcommittee/"
+  }
+}
