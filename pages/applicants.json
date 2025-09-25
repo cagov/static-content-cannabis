@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2022-10-02T23:50:52",
+    "updated_date": "2025-09-25T19:19:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/index-2/",
-    "modified": "2022-10-02T16:50:52",
-    "modified_gmt": "2022-10-02T23:50:52",
+    "modified": "2025-09-25T12:19:45",
+    "modified_gmt": "2025-09-25T19:19:45",
     "slug": "applicants",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/applicants/",
     "title": "Applicants",
-    "excerpt": "",
+    "excerpt": "<p>Starting a legal cannabis business in California takes time, effort, organization and planning. To help, we created resources to help you apply for a license and technical guides for the licensing systems. The documents on this page were created prior to the creation of the Department of Cannabis Control (DCC). Some of them still have [&hellip;]</p>\n",
     "author": 2,
     "featured_media": 0,
     "parent": 0,
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/applicants/"
