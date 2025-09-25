@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-04-25T19:03:48",
-    "updated_date": "2025-09-18T19:00:36",
+    "updated_date": "2025-09-25T15:57:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-04-25T12:03:48",
     "date_gmt": "2022-04-25T19:03:48",
     "guid": "https://cannabis.ca.gov/?p=9709",
-    "modified": "2025-09-18T12:00:36",
-    "modified_gmt": "2025-09-18T19:00:36",
+    "modified": "2025-09-25T08:57:25",
+    "modified_gmt": "2025-09-25T15:57:25",
     "slug": "department-of-cannabis-control-requests-stakeholder-input-on-equity-fee-waiver-and-deferral-regulations",
     "status": "publish",
     "type": "post",
