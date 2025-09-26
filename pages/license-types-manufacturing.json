@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2025-09-26T20:56:12",
+    "created_date": "2025-09-26T20:14:32",
+    "updated_date": "2025-09-26T20:44:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/717",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23833",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 717,
-    "date": "2021-06-19T15:07:40",
-    "date_gmt": "2021-06-19T15:07:40",
-    "guid": "http://wordpress.test:8888/manufacturing/",
-    "modified": "2025-09-26T13:56:12",
-    "modified_gmt": "2025-09-26T20:56:12",
-    "slug": "manufacturing",
+    "id": 23833,
+    "date": "2025-09-26T13:14:32",
+    "date_gmt": "2025-09-26T20:14:32",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23833",
+    "modified": "2025-09-26T13:44:26",
+    "modified_gmt": "2025-09-26T20:44:26",
+    "slug": "license-types-manufacturing",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/manufacturing/",
-    "title": "Manufacturing",
-    "excerpt": "<p>Manufacturers extract cannabinoids from cannabis plants and make products out of the extract.</p>\n",
-    "author": 2,
+    "link": "https://api.cannabis.ca.gov/applicants/license-types/license-types-manufacturing/",
+    "title": "License types: Manufacturing",
+    "excerpt": "<p>You need a&nbsp;manufacturing license&nbsp;to make cannabis products in California. The type of manufacturing license you need depends on: You need a different license if you manufacture in a shared-use facility. How manufacturing license types are determined Manufacturing license types are based on: Type 7: Volatile solvent extraction Volatile solvents are chemicals that produce a flammable [&hellip;]</p>\n",
+    "author": 32,
     "featured_media": 0,
-    "parent": 758,
-    "menu_order": 3,
-    "comment_status": "open",
-    "ping_status": "open",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "parent": 719,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": "",
@@ -45,7 +45,7 @@
       "staging"
     ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -58,20 +58,20 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/manufacturing/",
-      "page_title": "Manufacturing",
-      "page_description": "Manufacturers extract cannabinoids from cannabis plants and make products out of the extract.",
+      "canonical_url": "https://api.cannabis.ca.gov/applicants/license-types/license-types-manufacturing/",
+      "page_title": "License types: Manufacturing",
+      "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Manufacturing",
-      "meta_description": "Manufacturers extract cannabinoids from cannabis plants and make products out of the extract.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/manufacturing/",
-      "open_graph_title": "Manufacturing",
-      "open_graph_description": "Manufacturers extract cannabinoids from cannabis plants and make products out of the extract.",
-      "twitter_title": "Manufacturing",
-      "twitter_description": "Manufacturers extract cannabinoids from cannabis plants and make products out of the extract."
+      "meta_title": "License types: Manufacturing",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/applicants/license-types/license-types-manufacturing/",
+      "open_graph_title": "License types: Manufacturing",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "License types: Manufacturing",
+      "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
@@ -106,6 +106,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/manufacturing/"
+    "wordpress_url": "https://api.cannabis.ca.gov/applicants/license-types/license-types-manufacturing/"
   }
 }
