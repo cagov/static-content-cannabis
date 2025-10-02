@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-11-29T00:15:26",
-    "updated_date": "2025-02-20T17:56:16",
+    "created_date": "2025-09-26T19:57:27",
+    "updated_date": "2025-10-01T23:32:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/16210",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23829",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 16210,
-    "date": "2023-11-28T16:15:26",
-    "date_gmt": "2023-11-29T00:15:26",
-    "guid": "https://api.cannabis.ca.gov/?page_id=16210",
-    "modified": "2025-02-20T09:56:16",
-    "modified_gmt": "2025-02-20T17:56:16",
-    "slug": "track-and-trace-requirements-for-delivery-of-cannabis-goods",
+    "id": 23829,
+    "date": "2025-09-26T12:57:27",
+    "date_gmt": "2025-09-26T19:57:27",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23829",
+    "modified": "2025-10-01T16:32:35",
+    "modified_gmt": "2025-10-01T23:32:35",
+    "slug": "packaging",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods/",
-    "title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
-    "excerpt": "<p>The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) regulatory action to permanently adopt the current emergency regulations, with changes, implementing Assembly Bill 195 which requires that information relating to cannabis goods leaving a licensed retail premises in a delivery vehicle be recorded in the statewide track and trace system. [&hellip;]</p>\n",
+    "link": "https://api.cannabis.ca.gov/packaging/",
+    "title": "Packaging",
+    "excerpt": "<p>Manufactured cannabis products must be packaged to prevent product contamination. There are additional requirements for packaging, including being child-resistant, tamper evident, and resealable. Use our guidance documents to ensure your packaging meets requirements. Related resources</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 710,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,7 +39,7 @@
       "footnotes": ""
     },
     "categories": [
-      "Recently Approved Actions"
+      "Product safety"
     ],
     "tags": [],
     "design_system_fields": {
@@ -56,42 +56,42 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods/",
-      "page_title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
+      "canonical_url": "https://api.cannabis.ca.gov/packaging/",
+      "page_title": "Packaging",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
+      "meta_title": "Packaging",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods/",
-      "open_graph_title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/packaging/",
+      "open_graph_title": "Packaging",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Track and Trace Requirements for Delivery of Cannabis Goods ",
+      "twitter_title": "Packaging",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 804,
-        "name": "Recently Approved Actions",
-        "slug": "recently-approved",
+        "term_id": 938,
+        "name": "Product safety",
+        "slug": "product-safety",
         "term_group": 0,
-        "term_taxonomy_id": 804,
+        "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
-        "parent": 802,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 804,
+        "cat_ID": 938,
         "category_description": "",
-        "cat_name": "Recently Approved Actions",
-        "category_nicename": "recently-approved",
-        "category_parent": 802
+        "cat_name": "Product safety",
+        "category_nicename": "product-safety",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods/"
+    "wordpress_url": "https://api.cannabis.ca.gov/packaging/"
   }
 }
