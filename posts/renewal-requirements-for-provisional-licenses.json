@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-11T19:25:39",
-    "updated_date": "2025-09-09T20:57:15",
+    "updated_date": "2025-10-02T22:12:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2023-09-11T12:25:39",
     "date_gmt": "2023-09-11T19:25:39",
     "guid": "https://api.cannabis.ca.gov/?p=14817",
-    "modified": "2025-09-09T13:57:15",
-    "modified_gmt": "2025-09-09T20:57:15",
+    "modified": "2025-10-02T15:12:01",
+    "modified_gmt": "2025-10-02T22:12:01",
     "slug": "renewal-requirements-for-provisional-licenses",
     "status": "publish",
     "type": "post",
     "link": "https://api.cannabis.ca.gov/2023/09/renewal-requirements-for-provisional-licenses/",
-    "title": "Renewal requirements for provisional licenses",
-    "excerpt": "<p>All licensees must adhere to the renewal requirements set forth within California Code of Regulations (CCR) section 15020. Additionally, provisional licensees must meet specific criteria to renew a provisional license to ensure progress is being made toward annual licensure. A summary of criteria and timelines related to provisional licenses is outlined below and available within [&hellip;]</p>\n",
-    "author": 32,
+    "title": "Renewal requirements for eligible provisional equity retailers",
+    "excerpt": "<p>All licensees must adhere to the renewal requirements set forth within California Code of Regulations (CCR), Title 4, section 15020. Locally verified equity retailers with valid provisional licenses may be eligible for provisional license renewal until DCC issues or denies the annual license, or until 5 years from when the provisional license was initially issued.  [&hellip;]</p>\n",
+    "author": 41,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -40,7 +40,8 @@
     },
     "categories": [
       "Provisional licenses",
-      "Renewal"
+      "Renewal",
+      "Retail"
     ],
     "tags": [],
     "design_system_fields": {
@@ -58,18 +59,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/2023/09/renewal-requirements-for-provisional-licenses/",
-      "page_title": "Renewal requirements for provisional licenses",
+      "page_title": "Renewal requirements for eligible provisional equity retailers",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Renewal requirements for provisional licenses",
+      "meta_title": "Renewal requirements for eligible provisional equity retailers",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/2023/09/renewal-requirements-for-provisional-licenses/",
-      "open_graph_title": "Renewal requirements for provisional licenses",
+      "open_graph_title": "Renewal requirements for eligible provisional equity retailers",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Renewal requirements for provisional licenses",
+      "twitter_title": "Renewal requirements for eligible provisional equity retailers",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -104,6 +105,22 @@
         "cat_name": "Renewal",
         "category_nicename": "renewal",
         "category_parent": 0
+      },
+      {
+        "term_id": 895,
+        "name": "Retail",
+        "slug": "retail",
+        "term_group": 0,
+        "term_taxonomy_id": 895,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 890,
+        "filter": "raw",
+        "cat_ID": 895,
+        "category_description": "",
+        "cat_name": "Retail",
+        "category_nicename": "retail",
+        "category_parent": 890
       }
     ],
     "headless_tags": [],

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-08T23:21:32",
-    "updated_date": "2024-05-08T23:28:27",
+    "updated_date": "2025-10-01T17:40:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-08T16:21:32",
     "date_gmt": "2024-05-08T23:21:32",
     "guid": "https://api.cannabis.ca.gov/?p=18179",
-    "modified": "2024-05-08T16:28:27",
-    "modified_gmt": "2024-05-08T23:28:27",
+    "modified": "2025-10-01T10:40:10",
+    "modified_gmt": "2025-10-01T17:40:10",
     "slug": "cac-public-health-and-community-impact-subcommittee-5-21-2024",
     "status": "publish",
     "type": "post",
@@ -41,9 +41,7 @@
     "categories": [
       "All"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-single-event"
     },
@@ -91,19 +89,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,

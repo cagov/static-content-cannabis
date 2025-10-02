@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-02-03T23:27:15",
-    "updated_date": "2025-09-17T21:35:02",
+    "updated_date": "2025-10-02T21:09:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-02-03T15:27:15",
     "date_gmt": "2023-02-03T23:27:15",
     "guid": "https://api.cannabis.ca.gov/?p=13097",
-    "modified": "2025-09-17T14:35:02",
-    "modified_gmt": "2025-09-17T21:35:02",
+    "modified": "2025-10-02T14:09:27",
+    "modified_gmt": "2025-10-02T21:09:27",
     "slug": "cannabis-advisory-committee-laboratory-subcommittee",
     "status": "publish",
     "type": "post",
