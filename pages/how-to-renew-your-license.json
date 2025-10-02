@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T21:09:04",
-    "updated_date": "2025-07-18T15:57:42",
+    "updated_date": "2025-10-02T23:44:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2023-10-30T14:09:04",
     "date_gmt": "2023-10-30T21:09:04",
     "guid": "https://api.cannabis.ca.gov/?page_id=15678",
-    "modified": "2025-07-18T08:57:42",
-    "modified_gmt": "2025-07-18T15:57:42",
+    "modified": "2025-10-02T16:44:29",
+    "modified_gmt": "2025-10-02T23:44:29",
     "slug": "how-to-renew-your-license",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/",
     "title": "How to renew your license",
-    "excerpt": "<p>FAQs Related resources</p>\n",
-    "author": 32,
+    "excerpt": "<p>Related resources What do I do if I miss my renewal window? Renewal requirements for eligible provisional equity retailers Provisional licenses: Timeline of key dates &#8211; Department of Cannabis Control CLEaR renewal: Labs, distribution, retail, events CLEaR renewal: Manufacturing CLS renewal user guide</p>\n",
+    "author": 41,
     "featured_media": 0,
     "parent": 758,
     "menu_order": 0,
@@ -40,6 +40,7 @@
     },
     "categories": [
       "Guidance",
+      "Provisional licenses",
       "Renewal"
     ],
     "tags": [],
@@ -88,6 +89,22 @@
         "cat_name": "Guidance",
         "category_nicename": "guidance",
         "category_parent": 809
+      },
+      {
+        "term_id": 850,
+        "name": "Provisional licenses",
+        "slug": "provisional-licenses",
+        "term_group": 0,
+        "term_taxonomy_id": 850,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 850,
+        "category_description": "",
+        "cat_name": "Provisional licenses",
+        "category_nicename": "provisional-licenses",
+        "category_parent": 0
       },
       {
         "term_id": 875,

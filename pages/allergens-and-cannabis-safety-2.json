@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-11-13T22:36:39",
-    "updated_date": "2025-10-01T15:52:38",
+    "created_date": "2025-10-01T23:16:41",
+    "updated_date": "2025-10-01T23:16:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/15957",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/23899",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://api.cannabis.ca.gov",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15957,
-    "date": "2023-11-13T14:36:39",
-    "date_gmt": "2023-11-13T22:36:39",
-    "guid": "https://api.cannabis.ca.gov/?page_id=15957",
-    "modified": "2025-10-01T08:52:38",
-    "modified_gmt": "2025-10-01T15:52:38",
-    "slug": "final-decisions",
+    "id": 23899,
+    "date": "2025-10-01T16:16:41",
+    "date_gmt": "2025-10-01T23:16:41",
+    "guid": "https://api.cannabis.ca.gov/?page_id=23899",
+    "modified": "2025-10-01T16:16:42",
+    "modified_gmt": "2025-10-01T23:16:42",
+    "slug": "allergens-and-cannabis-safety-2",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/",
-    "title": "Final decisions",
-    "excerpt": "<p>Decisions adopted pursuant to the Administrative Procedure Act&nbsp; In certain circumstances, a license denial, citation or disciplinary action will result in DCC issuing a final Order of Decision pursuant to the Administrative Procedure Act. The following table provides information related to those decisions and allows you to view the Order of Decision by clicking in [&hellip;]</p>\n",
-    "author": 37,
+    "link": "https://api.cannabis.ca.gov/allergens-and-cannabis-safety-2/",
+    "title": "Allergens and cannabis safety",
+    "excerpt": "<p>Cannabis products can contain—or come into contact with—common food allergens. Use these resources to build an allergen control program and keep products safe and compliant.</p>\n",
+    "author": 32,
     "featured_media": 0,
-    "parent": 9438,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,9 +39,11 @@
       "footnotes": ""
     },
     "categories": [
-      "Compliance"
+      "Product safety"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -56,42 +58,54 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/",
-      "page_title": "Final decisions",
+      "canonical_url": "https://api.cannabis.ca.gov/allergens-and-cannabis-safety-2/",
+      "page_title": "Allergens and cannabis safety",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Final decisions",
-      "meta_description": "In certain circumstances, a license denial, citation or disciplinary action will result in DCC issuing a final Order of Decision pursuant to the Administrative Procedure Act. The following table provides information related to those decisions and allows you to view the Order of Decision by clicking in the case documents column.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/",
-      "open_graph_title": "Final decisions",
+      "meta_title": "Allergens and cannabis safety",
+      "meta_description": "Cannabis products can contain—or come into contact with—common food allergens. Use these resources to build an allergen control program and keep products safe and compliant.",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/allergens-and-cannabis-safety-2/",
+      "open_graph_title": "Allergens and cannabis safety",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Final decisions",
+      "twitter_title": "Allergens and cannabis safety",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 886,
-        "name": "Compliance",
-        "slug": "compliance",
+        "term_id": 938,
+        "name": "Product safety",
+        "slug": "product-safety",
         "term_group": 0,
-        "term_taxonomy_id": 886,
+        "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 886,
+        "cat_ID": 938,
         "category_description": "",
-        "cat_name": "Compliance",
-        "category_nicename": "compliance",
+        "cat_name": "Product safety",
+        "category_nicename": "product-safety",
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/final-decisions/"
+    "wordpress_url": "https://api.cannabis.ca.gov/allergens-and-cannabis-safety-2/"
   }
 }
