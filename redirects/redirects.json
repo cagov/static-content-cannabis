@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 291,
+      "redirects": 295,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7937,6 +7937,110 @@
       "regex": false,
       "group_id": 1,
       "position": 290,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 543,
+      "url": "/license-types-manufacturing/",
+      "match_url": "/license-types-manufacturing",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/manufacturing/license-types-manufacturing/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 291,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 544,
+      "url": "/licensees/manufacturing/license-types-manufacturing/",
+      "match_url": "/licensees/manufacturing/license-types-manufacturing",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/license-types/license-types-manufacturing/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 292,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 545,
+      "url": "/applicants/public-notices-for-ceqa/",
+      "match_url": "/applicants/public-notices-for-ceqa",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/ceqa-review-for-cannabis-businesses/public-notices-for-ceqa/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 293,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 546,
+      "url": "/2025/09/ceqa-sonoma-county/",
+      "match_url": "/2025/09/ceqa-sonoma-county",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2025/09/ceqa-sonoma-county-wingo-ranch/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 294,
       "last_access": "-",
       "enabled": true
     }
