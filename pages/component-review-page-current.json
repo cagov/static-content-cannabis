@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-09-25T18:31:07",
-    "updated_date": "2025-09-25T18:31:13",
+    "updated_date": "2025-10-06T21:43:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-09-25T11:31:07",
     "date_gmt": "2025-09-25T18:31:07",
     "guid": "https://api.cannabis.ca.gov/?page_id=23812",
-    "modified": "2025-09-25T11:31:13",
-    "modified_gmt": "2025-09-25T18:31:13",
+    "modified": "2025-10-06T14:43:12",
+    "modified_gmt": "2025-10-06T21:43:12",
     "slug": "component-review-page-current",
     "status": "publish",
     "type": "page",
@@ -40,6 +40,7 @@
     },
     "categories": [],
     "tags": [
+      "internal",
       "staging"
     ],
     "design_system_fields": {
@@ -73,6 +74,17 @@
     },
     "headless_categories": [],
     "headless_tags": [
+      {
+        "term_id": 1014,
+        "name": "internal",
+        "slug": "internal",
+        "term_group": 0,
+        "term_taxonomy_id": 1014,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
       {
         "term_id": 797,
         "name": "staging",
