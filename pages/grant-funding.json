@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2025-08-22T00:02:44",
+    "updated_date": "2025-10-14T22:06:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/grants/",
-    "modified": "2025-08-21T17:02:44",
-    "modified_gmt": "2025-08-22T00:02:44",
+    "modified": "2025-10-14T15:06:32",
+    "modified_gmt": "2025-10-14T22:06:32",
     "slug": "grant-funding",
     "status": "publish",
     "type": "page",
@@ -30,8 +30,8 @@
     "featured_media": 0,
     "parent": 856,
     "menu_order": 6,
-    "comment_status": "open",
-    "ping_status": "open",
+    "comment_status": "closed",
+    "ping_status": "closed",
     "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "California offers cannabis-related grants to local governments to fund programs and universities to fund research."
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/about-us/grant-funding/"
