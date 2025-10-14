@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-05-09T21:55:44",
-    "updated_date": "2025-07-18T21:02:28",
+    "updated_date": "2025-10-14T22:11:26",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-05-09T14:55:44",
     "date_gmt": "2025-05-09T21:55:44",
     "guid": "https://api.cannabis.ca.gov/?page_id=22572",
-    "modified": "2025-07-18T14:02:28",
-    "modified_gmt": "2025-07-18T21:02:28",
+    "modified": "2025-10-14T15:11:26",
+    "modified_gmt": "2025-10-14T22:11:26",
     "slug": "dcc-2025-02-r-animal-cannabis-product-standards",
     "status": "publish",
     "type": "page",
@@ -41,7 +41,9 @@
     "categories": [
       "Rulemaking"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/dcc-2025-02-r-animal-cannabis-product-standards/"
