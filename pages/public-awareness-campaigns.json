@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2025-07-31T20:49:44",
+    "updated_date": "2025-10-14T22:09:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/public-outreach-campaigns/",
-    "modified": "2025-07-31T13:49:44",
-    "modified_gmt": "2025-07-31T20:49:44",
+    "modified": "2025-10-14T15:09:18",
+    "modified_gmt": "2025-10-14T22:09:18",
     "slug": "public-awareness-campaigns",
     "status": "publish",
     "type": "page",
@@ -30,8 +30,8 @@
     "featured_media": 0,
     "parent": 856,
     "menu_order": 5,
-    "comment_status": "open",
-    "ping_status": "open",
+    "comment_status": "closed",
+    "ping_status": "closed",
     "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "The Department of Cannabis Control's public awareness campaigns educate consumers, encourage businesses to get licensed and promote the legal cannabis market."
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/about-us/public-awareness-campaigns/"
