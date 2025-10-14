@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-12-07T23:09:25",
-    "updated_date": "2025-07-31T18:14:55",
+    "updated_date": "2025-10-14T22:09:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-12-07T15:09:25",
     "date_gmt": "2023-12-07T23:09:25",
     "guid": "https://api.cannabis.ca.gov/?page_id=16309",
-    "modified": "2025-07-31T11:14:55",
-    "modified_gmt": "2025-07-31T18:14:55",
+    "modified": "2025-10-14T15:09:42",
+    "modified_gmt": "2025-10-14T22:09:42",
     "slug": "grizzly-peak-farms-llc-zoap-cannabis-flower",
     "status": "publish",
     "type": "page",
@@ -41,7 +41,9 @@
     "categories": [
       "All"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/"
