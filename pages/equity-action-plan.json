@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-10-01T18:34:19",
-    "updated_date": "2025-10-01T18:34:20",
+    "updated_date": "2025-10-14T21:54:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-10-01T11:34:19",
     "date_gmt": "2025-10-01T18:34:19",
     "guid": "https://api.cannabis.ca.gov/?page_id=23893",
-    "modified": "2025-10-01T11:34:20",
-    "modified_gmt": "2025-10-01T18:34:20",
+    "modified": "2025-10-14T14:54:45",
+    "modified_gmt": "2025-10-14T21:54:45",
     "slug": "equity-action-plan",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/equity-action-plan/"

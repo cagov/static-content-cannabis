@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-09-05T15:56:22",
-    "updated_date": "2025-09-09T20:36:27",
+    "updated_date": "2025-10-14T21:54:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-09-05T08:56:22",
     "date_gmt": "2025-09-05T15:56:22",
     "guid": "https://api.cannabis.ca.gov/?page_id=23571",
-    "modified": "2025-09-09T13:36:27",
-    "modified_gmt": "2025-09-09T20:36:27",
+    "modified": "2025-10-14T14:54:47",
+    "modified_gmt": "2025-10-14T21:54:47",
     "slug": "cultivation-license-fees",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/applicants/application-license-fees/cultivation-license-fees/"
