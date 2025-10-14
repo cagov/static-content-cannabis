@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-03T10:00:22",
-    "updated_date": "2025-06-16T19:48:03",
+    "updated_date": "2025-10-14T22:12:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-03T02:00:22",
     "date_gmt": "2022-03-03T10:00:22",
     "guid": "https://cannabis.ca.gov/?page_id=9437",
-    "modified": "2025-06-16T12:48:03",
-    "modified_gmt": "2025-06-16T19:48:03",
+    "modified": "2025-10-14T15:12:12",
+    "modified_gmt": "2025-10-14T22:12:12",
     "slug": "dcc-regulations",
     "status": "publish",
     "type": "page",
@@ -41,7 +41,9 @@
     "categories": [
       "Laws and Regulations"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/dcc-regulations/"
