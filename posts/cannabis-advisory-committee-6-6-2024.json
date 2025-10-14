@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-02-02T23:13:46",
-    "updated_date": "2025-10-02T21:25:39",
+    "updated_date": "2025-10-14T22:16:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-02-02T15:13:46",
     "date_gmt": "2024-02-02T23:13:46",
     "guid": "https://api.cannabis.ca.gov/?p=17040",
-    "modified": "2025-10-02T14:25:39",
-    "modified_gmt": "2025-10-02T21:25:39",
+    "modified": "2025-10-14T15:16:10",
+    "modified_gmt": "2025-10-14T22:16:10",
     "slug": "cannabis-advisory-committee-6-6-2024",
     "status": "publish",
     "type": "post",
@@ -43,7 +43,8 @@
       "Cannabis Advisory Committee"
     ],
     "tags": [
-      "Event"
+      "Event",
+      "new"
     ],
     "design_system_fields": {
       "template": "template-single-event"
@@ -115,6 +116,17 @@
         "slug": "event",
         "term_group": 0,
         "term_taxonomy_id": 294,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-06T19:56:32",
-    "updated_date": "2025-10-02T21:23:12",
+    "updated_date": "2025-10-14T22:16:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-12-06T11:56:32",
     "date_gmt": "2024-12-06T19:56:32",
     "guid": "https://api.cannabis.ca.gov/?p=21331",
-    "modified": "2025-10-02T14:23:12",
-    "modified_gmt": "2025-10-02T21:23:12",
+    "modified": "2025-10-14T15:16:10",
+    "modified_gmt": "2025-10-14T22:16:10",
     "slug": "cannabis-advisory-committee-12-18-2024",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,9 @@
       "2024 Meetings",
       "Cannabis Advisory Committee"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -106,7 +108,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,

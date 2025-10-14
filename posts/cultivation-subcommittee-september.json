@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:58:24",
-    "updated_date": "2025-10-02T21:16:07",
+    "updated_date": "2025-10-14T22:16:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:58:24",
     "date_gmt": "2023-08-24T17:58:24",
     "guid": "https://api.cannabis.ca.gov/?p=14551",
-    "modified": "2025-10-02T14:16:07",
-    "modified_gmt": "2025-10-02T21:16:07",
+    "modified": "2025-10-14T15:16:11",
+    "modified_gmt": "2025-10-14T22:16:11",
     "slug": "cultivation-subcommittee-september",
     "status": "publish",
     "type": "post",
@@ -43,7 +43,9 @@
       "Cultivation subcommittee",
       "Past meetings"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-single-event"
     },
@@ -123,7 +125,19 @@
         "category_parent": 831
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": {
