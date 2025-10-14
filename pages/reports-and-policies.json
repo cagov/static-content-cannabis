@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-09-21T19:58:48",
-    "updated_date": "2025-08-13T18:26:05",
+    "updated_date": "2025-10-14T22:08:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-09-21T12:58:48",
     "date_gmt": "2022-09-21T19:58:48",
     "guid": "https://cannabis.ca.gov/?page_id=11542",
-    "modified": "2025-08-13T11:26:05",
-    "modified_gmt": "2025-08-13T18:26:05",
+    "modified": "2025-10-14T15:08:07",
+    "modified_gmt": "2025-10-14T22:08:07",
     "slug": "reports-and-policies",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "The Department of Cannabis Control is required to produce various reports to the Legislature as mandated by law. "
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/about-us/reports-and-policies/"
