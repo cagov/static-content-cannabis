@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-31T02:01:48",
-    "updated_date": "2025-10-14T23:38:58",
+    "updated_date": "2025-10-14T23:40:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-12-30T18:01:48",
     "date_gmt": "2022-12-31T02:01:48",
     "guid": "https://api.cannabis.ca.gov/?page_id=12804",
-    "modified": "2025-10-14T16:38:58",
-    "modified_gmt": "2025-10-14T23:38:58",
+    "modified": "2025-10-14T16:40:30",
+    "modified_gmt": "2025-10-14T23:40:30",
     "slug": "new-record-keeping-track-and-trace-requirements-for-deliveries",
     "status": "publish",
     "type": "page",
