@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:43:43",
-    "updated_date": "2025-10-14T21:54:46",
+    "updated_date": "2025-10-14T21:59:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T12:43:43",
     "date_gmt": "2024-09-04T19:43:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=19846",
-    "modified": "2025-10-14T14:54:46",
-    "modified_gmt": "2025-10-14T21:54:46",
+    "modified": "2025-10-14T14:59:20",
+    "modified_gmt": "2025-10-14T21:59:20",
     "slug": "power-water-electricity",
     "status": "publish",
     "type": "page",
