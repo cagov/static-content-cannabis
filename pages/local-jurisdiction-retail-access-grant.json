@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-01-30T20:57:51",
-    "updated_date": "2025-08-19T17:01:40",
+    "updated_date": "2025-10-14T22:07:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-01-30T12:57:51",
     "date_gmt": "2023-01-30T20:57:51",
     "guid": "https://api.cannabis.ca.gov/?page_id=13040",
-    "modified": "2025-08-19T10:01:40",
-    "modified_gmt": "2025-08-19T17:01:40",
+    "modified": "2025-10-14T15:07:29",
+    "modified_gmt": "2025-10-14T22:07:29",
     "slug": "local-jurisdiction-retail-access-grant",
     "status": "publish",
     "type": "page",
@@ -39,7 +39,9 @@
       "footnotes": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -70,7 +72,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/about-us/grant-funding/local-jurisdiction-retail-access-grant/"
