@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-03-14T14:00:00",
-    "updated_date": "2025-08-11T23:56:03",
+    "updated_date": "2025-10-14T22:08:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-03-14T07:00:00",
     "date_gmt": "2025-03-14T14:00:00",
     "guid": "https://api.cannabis.ca.gov/?page_id=22225",
-    "modified": "2025-08-11T16:56:03",
-    "modified_gmt": "2025-08-11T23:56:03",
+    "modified": "2025-10-14T15:08:43",
+    "modified_gmt": "2025-10-14T22:08:43",
     "slug": "cultivation-updates-sanitation-standards",
     "status": "publish",
     "type": "page",
@@ -41,7 +41,9 @@
     "categories": [
       "Rulemaking"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cannabis-laws/rulemaking/cultivation-updates-sanitation-standards/"
