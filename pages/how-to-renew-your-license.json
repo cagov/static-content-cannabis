@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-30T21:09:04",
-    "updated_date": "2025-10-07T23:54:17",
+    "updated_date": "2025-10-14T21:53:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-30T14:09:04",
     "date_gmt": "2023-10-30T21:09:04",
     "guid": "https://api.cannabis.ca.gov/?page_id=15678",
-    "modified": "2025-10-07T16:54:17",
-    "modified_gmt": "2025-10-07T23:54:17",
+    "modified": "2025-10-14T14:53:08",
+    "modified_gmt": "2025-10-14T21:53:08",
     "slug": "how-to-renew-your-license",
     "status": "publish",
     "type": "page",
@@ -43,7 +43,9 @@
       "Provisional licenses",
       "Renewal"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -123,7 +125,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensees/how-to-renew-your-license/"
