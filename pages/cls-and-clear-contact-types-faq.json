@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-08-12T22:52:24",
-    "updated_date": "2025-08-13T17:55:04",
+    "updated_date": "2025-10-14T22:08:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-08-12T15:52:24",
     "date_gmt": "2025-08-12T22:52:24",
     "guid": "https://api.cannabis.ca.gov/?page_id=23293",
-    "modified": "2025-08-13T10:55:04",
-    "modified_gmt": "2025-08-13T17:55:04",
+    "modified": "2025-10-14T15:08:19",
+    "modified_gmt": "2025-10-14T22:08:19",
     "slug": "cls-and-clear-contact-types-faq",
     "status": "publish",
     "type": "page",
@@ -41,7 +41,9 @@
     "categories": [
       "System Contacts"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/cls-and-clear-licensing-system-contacts/cls-and-clear-contact-types-faq/"
