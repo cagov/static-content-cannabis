@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-09-26T20:30:39",
-    "updated_date": "2025-09-26T20:30:40",
+    "updated_date": "2025-10-14T20:44:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-09-26T13:30:39",
     "date_gmt": "2025-09-26T20:30:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=23842",
-    "modified": "2025-09-26T13:30:40",
-    "modified_gmt": "2025-09-26T20:30:40",
+    "modified": "2025-10-14T13:44:45",
+    "modified_gmt": "2025-10-14T20:44:45",
     "slug": "product-safety",
     "status": "publish",
     "type": "page",
@@ -40,6 +40,7 @@
     },
     "categories": [],
     "tags": [
+      "internal",
       "staging"
     ],
     "design_system_fields": {
@@ -73,6 +74,17 @@
     },
     "headless_categories": [],
     "headless_tags": [
+      {
+        "term_id": 1014,
+        "name": "internal",
+        "slug": "internal",
+        "term_group": 0,
+        "term_taxonomy_id": 1014,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
       {
         "term_id": 797,
         "name": "staging",
