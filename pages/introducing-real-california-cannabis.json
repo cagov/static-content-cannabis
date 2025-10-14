@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-21T18:03:29",
-    "updated_date": "2025-10-14T21:54:46",
+    "updated_date": "2025-10-14T21:58:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-21T10:03:29",
     "date_gmt": "2023-11-21T18:03:29",
     "guid": "https://api.cannabis.ca.gov/?page_id=16124",
-    "modified": "2025-10-14T14:54:46",
-    "modified_gmt": "2025-10-14T21:54:46",
+    "modified": "2025-10-14T14:58:36",
+    "modified_gmt": "2025-10-14T21:58:36",
     "slug": "introducing-real-california-cannabis",
     "status": "publish",
     "type": "page",
