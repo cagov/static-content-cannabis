@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-31T00:29:35",
-    "updated_date": "2025-10-14T21:54:46",
+    "updated_date": "2025-10-14T22:00:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-12-30T16:29:35",
     "date_gmt": "2021-12-31T00:29:35",
     "guid": "https://cannabis.ca.gov/?page_id=9225",
-    "modified": "2025-10-14T14:54:46",
-    "modified_gmt": "2025-10-14T21:54:46",
+    "modified": "2025-10-14T15:00:01",
+    "modified_gmt": "2025-10-14T22:00:01",
     "slug": "apply-for-equity-fee-relief",
     "status": "publish",
     "type": "page",
