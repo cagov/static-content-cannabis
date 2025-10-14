@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2025-09-05T15:50:56",
-    "updated_date": "2025-10-14T21:54:47",
+    "updated_date": "2025-10-14T22:01:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2025-09-05T08:50:56",
     "date_gmt": "2025-09-05T15:50:56",
     "guid": "https://api.cannabis.ca.gov/?page_id=23561",
-    "modified": "2025-10-14T14:54:47",
-    "modified_gmt": "2025-10-14T21:54:47",
+    "modified": "2025-10-14T15:01:05",
+    "modified_gmt": "2025-10-14T22:01:05",
     "slug": "manufacturing-license-fees",
     "status": "publish",
     "type": "page",
