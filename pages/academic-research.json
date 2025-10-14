@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-29T18:30:23",
-    "updated_date": "2025-08-29T22:36:58",
+    "updated_date": "2025-10-14T22:04:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-29T11:30:23",
     "date_gmt": "2024-04-29T18:30:23",
     "guid": "https://api.cannabis.ca.gov/?page_id=18082",
-    "modified": "2025-08-29T15:36:58",
-    "modified_gmt": "2025-08-29T22:36:58",
+    "modified": "2025-10-14T15:04:47",
+    "modified_gmt": "2025-10-14T22:04:47",
     "slug": "academic-research",
     "status": "publish",
     "type": "page",
@@ -40,7 +40,8 @@
     },
     "categories": [],
     "tags": [
-      "academic-research"
+      "academic-research",
+      "new"
     ],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -79,6 +80,17 @@
         "slug": "academic-research",
         "term_group": 0,
         "term_taxonomy_id": 999,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-08-30T18:25:37",
-    "updated_date": "2025-08-22T23:21:09",
+    "updated_date": "2025-10-14T22:05:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-08-30T11:25:37",
     "date_gmt": "2022-08-30T18:25:37",
     "guid": "https://cannabis.ca.gov/?page_id=11368",
-    "modified": "2025-08-22T16:21:09",
-    "modified_gmt": "2025-08-22T23:21:09",
+    "modified": "2025-10-14T15:05:36",
+    "modified_gmt": "2025-10-14T22:05:36",
     "slug": "labor-peace-agreements-for-cannabis-businesses",
     "status": "publish",
     "type": "page",
@@ -41,7 +41,9 @@
     "categories": [
       "Labor peace"
     ],
-    "tags": [],
+    "tags": [
+      "new"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/labor-peace-agreements-for-cannabis-businesses/"
