@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-12-31T02:01:48",
-    "updated_date": "2025-10-14T23:40:30",
+    "updated_date": "2025-10-15T16:14:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2022-12-30T18:01:48",
     "date_gmt": "2022-12-31T02:01:48",
     "guid": "https://api.cannabis.ca.gov/?page_id=12804",
-    "modified": "2025-10-14T16:40:30",
-    "modified_gmt": "2025-10-14T23:40:30",
+    "modified": "2025-10-15T09:14:45",
+    "modified_gmt": "2025-10-15T16:14:45",
     "slug": "new-record-keeping-track-and-trace-requirements-for-deliveries",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/new-record-keeping-track-and-trace-requirements-for-deliveries/",
-    "title": "New record-keeping/track-and-trace requirements for deliveries",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) has adopted emergency regulations to implement track-and-trace requirements imposed by Assembly Bill 195. These regulations require retail sales made via delivery to be recorded in the California Cannabis Track and Trace system (CCTT). To allow for the development and implementation of technical changes to meet these requirements (for example, [&hellip;]</p>\n",
+    "title": "Record-keeping/track-and-trace requirements for deliveries",
+    "excerpt": "<p>This guidance is intended to assist licensees in understanding the regulatory requirements for delivery sales. The complete text of DCC’s regulations can be found on the DCC website. The requirements addressed in this guidance can be found in sections 15049.3 and 15418. Specifically, this guidance explains: Creating an inventory delivery ledger Retailers conducting deliveries must [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
     "parent": 9492,
@@ -41,7 +41,9 @@
     "categories": [
       "CCTT"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -57,18 +59,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://api.cannabis.ca.gov",
       "canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/new-record-keeping-track-and-trace-requirements-for-deliveries/",
-      "page_title": "New record-keeping/track-and-trace requirements for deliveries",
+      "page_title": "Record-keeping/track-and-trace requirements for deliveries",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "New record-keeping/track-and-trace requirements for deliveries",
+      "meta_title": "Record-keeping/track-and-trace requirements for deliveries",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/new-record-keeping-track-and-trace-requirements-for-deliveries/",
-      "open_graph_title": "New record-keeping/track-and-trace requirements for deliveries",
+      "open_graph_title": "Record-keeping/track-and-trace requirements for deliveries",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "New record-keeping/track-and-trace requirements for deliveries",
+      "twitter_title": "Record-keeping/track-and-trace requirements for deliveries",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -89,7 +91,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/new-record-keeping-track-and-trace-requirements-for-deliveries/"
