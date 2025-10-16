@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2025-10-15T19:14:45",
+    "updated_date": "2025-10-16T16:56:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/events/",
-    "modified": "2025-10-15T12:14:45",
-    "modified_gmt": "2025-10-15T19:14:45",
+    "modified": "2025-10-16T09:56:28",
+    "modified_gmt": "2025-10-16T16:56:28",
     "slug": "events",
     "status": "publish",
     "type": "page",
