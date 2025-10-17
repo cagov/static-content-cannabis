@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-27T21:25:39",
-    "updated_date": "2025-10-17T22:58:26",
+    "updated_date": "2025-10-17T23:11:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-27T14:25:39",
     "date_gmt": "2023-10-27T21:25:39",
     "guid": "https://api.cannabis.ca.gov/?page_id=15622",
-    "modified": "2025-10-17T15:58:26",
-    "modified_gmt": "2025-10-17T22:58:26",
+    "modified": "2025-10-17T16:11:10",
+    "modified_gmt": "2025-10-17T23:11:10",
     "slug": "compliance-action-records",
     "status": "publish",
     "type": "page",
@@ -42,8 +42,7 @@
       "Compliance"
     ],
     "tags": [
-      "new",
-      "staging"
+      "new"
     ],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
@@ -99,17 +98,6 @@
         "slug": "new",
         "term_group": 0,
         "term_taxonomy_id": 1017,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
