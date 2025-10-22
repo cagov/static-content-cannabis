@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 295,
+      "redirects": 296,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -8041,6 +8041,32 @@
       "regex": false,
       "group_id": 1,
       "position": 294,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 547,
+      "url": "/2025/10/californias-cannabis-task-force-seizes-and-eradicates-over-222-million-in-illegal-cannabis-in-q3-2025/",
+      "match_url": "/2025/10/californias-cannabis-task-force-seizes-and-eradicates-over-222-million-in-illegal-cannabis-in-q3-2025",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2025/10/ca-cannabis-task-force-seizes-over-222-million-in-q3-2025/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 295,
       "last_access": "-",
       "enabled": true
     }
