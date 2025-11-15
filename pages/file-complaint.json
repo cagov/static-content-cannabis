@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2023-08-25T16:20:39",
+    "updated_date": "2025-11-15T00:17:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/resources/file-complaint/",
-    "modified": "2023-08-25T09:20:39",
-    "modified_gmt": "2023-08-25T16:20:39",
+    "modified": "2025-11-14T16:17:07",
+    "modified_gmt": "2025-11-15T00:17:07",
     "slug": "file-complaint",
     "status": "publish",
     "type": "page",
@@ -40,6 +40,7 @@
     },
     "categories": [],
     "tags": [
+      "new",
       "staging"
     ],
     "design_system_fields": {
@@ -73,6 +74,17 @@
     },
     "headless_categories": [],
     "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
       {
         "term_id": 797,
         "name": "staging",

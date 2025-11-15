@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "created_date": "2025-11-15T00:16:53",
+    "updated_date": "2025-11-15T00:16:53",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/24151",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 24151,
+    "date": "2025-11-14T16:16:53",
+    "date_gmt": "2025-11-15T00:16:53",
+    "guid": "https://api.cannabis.ca.gov/?page_id=24151",
+    "modified": "2025-11-14T16:16:53",
+    "modified_gmt": "2025-11-15T00:16:53",
+    "slug": "complaints-non-dcc",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/complaints-non-dcc/",
+    "title": "Complaints that fall under other agencies ",
+    "excerpt": "<p>DCC handles complaints related to commercial cannabis activity. If you are looking to make a complaint related to another subject area for which another agency has primary jurisdiction you should work directly with that agency. Below is an overview of subject areas for which DCC does not have primary authority and the agency that you [&hellip;]</p>\n",
+    "author": 37,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [
+      "Resources"
+    ],
+    "tags": [
+      "new",
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/complaints-non-dcc/",
+      "page_title": "Complaints that fall under other agencies ",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Complaints that fall under other agencies ",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/complaints-non-dcc/",
+      "open_graph_title": "Complaints that fall under other agencies ",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Complaints that fall under other agencies ",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 809,
+        "name": "Resources",
+        "slug": "resources",
+        "term_group": 0,
+        "term_taxonomy_id": 809,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 809,
+        "category_description": "",
+        "cat_name": "Resources",
+        "category_nicename": "resources",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 1017,
+        "name": "new",
+        "slug": "new",
+        "term_group": 0,
+        "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/complaints-non-dcc/"
+  }
+}

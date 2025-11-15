@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-04T20:49:18",
-    "updated_date": "2025-10-14T22:07:18",
+    "updated_date": "2025-11-14T23:35:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-04-04T13:49:18",
     "date_gmt": "2024-04-04T20:49:18",
     "guid": "https://api.cannabis.ca.gov/?page_id=17856",
-    "modified": "2025-10-14T15:07:18",
-    "modified_gmt": "2025-10-14T22:07:18",
+    "modified": "2025-11-14T15:35:09",
+    "modified_gmt": "2025-11-14T23:35:09",
     "slug": "unified-cannabis-enforcement-taskforce-ucetf",
     "status": "publish",
     "type": "page",
     "link": "https://api.cannabis.ca.gov/about-us/about-dcc/unified-cannabis-enforcement-taskforce-ucetf/",
     "title": "Unified Cannabis Enforcement Taskforce (UCETF)",
-    "excerpt": "<p>Mission Created in 2022 by Governor Gavin Newsom, the Unified Cannabis Enforcement Taskforce has been charged by the Governor to better align state efforts and increase cannabis enforcement coordination between state, local and federal partners. UCETF&#8217;s enforcement actions protect consumer and public safety, safeguard the environment, and deprive illegal cannabis operators and transnational criminal organizations [&hellip;]</p>\n",
+    "excerpt": "<p>“The legal cannabis market brings billions of dollars to our state’s economy, helping to sustain California’s position as the fifth largest economy in the world. We will not tolerate illegal operations that threaten our economy and the health and well-being of California communities.” – Governor Gavin Newsom About UCETF The Unified Cannabis Enforcement Taskforce (UCETF) [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 707,
@@ -40,7 +40,8 @@
     },
     "categories": [],
     "tags": [
-      "new"
+      "new",
+      "staging"
     ],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -79,6 +80,17 @@
         "slug": "new",
         "term_group": 0,
         "term_taxonomy_id": 1017,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
