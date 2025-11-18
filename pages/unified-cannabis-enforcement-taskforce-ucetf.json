@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-04T20:49:18",
-    "updated_date": "2025-11-14T23:35:09",
+    "updated_date": "2025-11-17T20:25:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-04T13:49:18",
     "date_gmt": "2024-04-04T20:49:18",
     "guid": "https://api.cannabis.ca.gov/?page_id=17856",
-    "modified": "2025-11-14T15:35:09",
-    "modified_gmt": "2025-11-14T23:35:09",
+    "modified": "2025-11-17T12:25:47",
+    "modified_gmt": "2025-11-17T20:25:47",
     "slug": "unified-cannabis-enforcement-taskforce-ucetf",
     "status": "publish",
     "type": "page",

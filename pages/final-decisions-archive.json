@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "created_date": "2025-11-17T21:49:22",
+    "updated_date": "2025-11-17T21:49:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
+    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/24161",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://api.cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 24161,
+    "date": "2025-11-17T13:49:22",
+    "date_gmt": "2025-11-17T21:49:22",
+    "guid": "https://api.cannabis.ca.gov/?page_id=24161",
+    "modified": "2025-11-17T13:49:23",
+    "modified_gmt": "2025-11-17T21:49:23",
+    "slug": "final-decisions-archive",
+    "status": "publish",
+    "type": "page",
+    "link": "https://api.cannabis.ca.gov/final-decisions-archive/",
+    "title": "Final decisions archive",
+    "excerpt": "<p>Legal Business Name County License or App Number License Type Case Documents Effective Date HDO3 Holdings, LLC San Bernardino C11-0001341-LIC Distribution Order of Decision 6/10/2024 805 AG Holdings, LLC Santa Barbara CCL18-0001191, CCL18-0001196, CCL18-0001197, CCL18-0001222, CCL18-0001223, CCL18-0001228, CCL18-0001213, C13-0000085-LIC Cultivation, Distribution Order of Decision 7/11/2024 Humboldt Emerald Triangle, LLC Humboldt C11-0000271-LIC, CCL19-0001805, CCL19-0001807 Cultivation, Distribution [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": "",
+      "footnotes": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://api.cannabis.ca.gov"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://api.cannabis.ca.gov",
+      "canonical_url": "https://api.cannabis.ca.gov/final-decisions-archive/",
+      "page_title": "Final decisions archive",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Final decisions archive",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://api.cannabis.ca.gov/final-decisions-archive/",
+      "open_graph_title": "Final decisions archive",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Final decisions archive",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://api.cannabis.ca.gov/final-decisions-archive/"
+  }
+}
