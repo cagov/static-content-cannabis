@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-10-07T20:05:37",
-    "updated_date": "2025-10-14T22:11:00",
+    "updated_date": "2025-11-21T23:41:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-10-07T13:05:37",
     "date_gmt": "2022-10-07T20:05:37",
     "guid": "https://api.cannabis.ca.gov/?page_id=12100",
-    "modified": "2025-10-14T15:11:00",
-    "modified_gmt": "2025-10-14T22:11:00",
+    "modified": "2025-11-21T15:41:12",
+    "modified_gmt": "2025-11-21T23:41:12",
     "slug": "cannabis-academic-research-grants",
     "status": "publish",
     "type": "page",
